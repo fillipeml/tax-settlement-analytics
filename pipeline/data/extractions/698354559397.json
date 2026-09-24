@@ -1,0 +1,68 @@
+{
+ "taxpayer": "SERTTEL SOLUÇÕES EM MOBILIDADE E SEGURANÇA URBANA LTDA",
+ "approval_date": "2022-01-14",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação prévia à Fazenda Nacional",
+  "Apresentar demonstrações contábeis e patrimoniais (balanço patrimonial, demonstração de resultados acumulados, demonstração do resultado desde o último exercício, relatório gerencial de fluxo de caixa e projeção, descrição de sociedades do grupo)",
+  "Fornecer relação nominal completa dos credores",
+  "Fornecer relação de bens e direitos com laudo econômico-financeiro",
+  "Declarar não ter alienado ou onerado bens com propósito de frustrar recuperação de créditos",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo",
+  "Apresentar situação econômico-financeira anualmente via balanço contábil",
+  "Manter recolhimento das obrigações tributárias correntes e obrigações acessórias",
+  "Liquidar ou parcelar débitos de FGTS junto à Caixa Econômica Federal no prazo de 30 dias"
+ ],
+ "special_clauses": [
+  "Pagamento diferenciado por rubrica: 60 meses para dívida previdenciária e 84 meses para dívida não previdenciária, sem redução do montante principal",
+  "Compromisso de liquidar ou parcelar débitos de FGTS junto à Caixa Econômica Federal em 30 dias, sob pena de rescisão"
+ ],
+ "sector": "Mobilidade e segurança urbana",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "para pagamento no prazo 60 (sessenta meses), a dívida previdenciária, e 84 ( oitenta e quatro meses) a dívida não previdenciária"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "698354559397",
+ "title": "Termo de Transação Individual - Serttel Soluções em Mobilidade e Segurança Urbana LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualSerttelSoluesemMobilidadeeSeguranaUrbanaLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualSerttelSoluesemMobilidadeeSeguranaUrbanaLTDA.pdf",
+ "sha256": "7b30289c02a11efaa1527ace087a68eca4154b61c9265b928c7ec3ff34310c8b",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

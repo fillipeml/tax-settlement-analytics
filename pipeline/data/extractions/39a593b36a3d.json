@@ -1,0 +1,89 @@
+{
+ "taxpayer": "COMITÊ OLÍMPICO BRASILEIRO",
+ "approval_date": "2021-05-12",
+ "consolidated_amount": 240985113.39,
+ "modality": "Transação individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "50% do valor auferido anualmente pelo REQUERENTE a título de patrocínios e licenciamentos (item 4.1)",
+  "Depósitos judiciais convertidos em pagamento definitivo (item 3.6, ANEXO II)",
+  "Seguro-garantia (Anexo I - algumas inscrições)",
+  "Penhora (Anexo I - inscrição 70 3 03 000301-50)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Reconhecimento de corresponsabilidade pelo REQUERENTE em relação aos débitos (item 6.1.1)",
+  "Confissão irrevogável e irretratável dos débitos (item 6.1.2)",
+  "Renúncia a alegações de direito sobre créditos incluídos na transação (item 6.1.3)",
+  "Inclusão do CNPJ como codevedor no cadastro da dívida ativa (item 6.1.4)",
+  "Adimplemento do plano de pagamento mensal (item 6.1.5)",
+  "Compromisso de efetuar pagamentos via SISPAR (item 6.1.8)",
+  "Manter regularidade perante o FGTS (item 6.1.12)",
+  "Cumprimento das regras dos arts. 18, 18-A a 18-E da Lei 9.615/1998 (item 6.1.13)",
+  "Autorização de acesso à Fazenda Nacional às declarações e escritas fiscais (item 6.1.14)",
+  "Declarar que não aliena bens ou direitos, nos termos do art. 36, VI da Portaria PGFN 9.917/2020 (item 6.2.1)",
+  "Fornecer informações sobre bens, direitos, valores, transações quando solicitado (item 6.2.2)",
+  "Não utilizar a transação de forma abusiva (item 6.2.3)",
+  "Declarar que não utiliza pessoa interposta para ocultar bens (item 6.2.4)",
+  "Declarar que não aliena ou onera bens com propósito de frustrar recuperação de créditos (item 6.2.5)",
+  "Declarar veracidade das informações cadastrais e patrimoniais (item 6.2.6)",
+  "Peticionar nos processos judiciais para noticiar a celebração do acordo no prazo de 30 dias (item 5.2)",
+  "Requerer transformação em pagamento definitivo dos depósitos judiciais em até 30 dias (item 3.7)",
+  "Levar o termo a registro no prazo de 30 dias para formalização da garantia (item 4.2)",
+  "Notificar patrocinadores sobre oferecimento de recursos em garantia, no prazo de 30 dias (item 4.3)"
+ ],
+ "special_clauses": [
+  "Garantia constituída por 50% do valor auferido anualmente a título de patrocínios e licenciamentos, exigível de qualquer patrocinador indicado (item 4.1)",
+  "Possibilidade de substituição da garantia em caso de rescisão de contratos de patrocínio, mediante indicação de novos contratos em 30 dias (item 4.4)",
+  "Amortização do saldo remanescente mediante antecipação de parcelas, com redução proporcional da quantidade de parcelas vincendas (item 3.9)",
+  "Direcionamento de eventuais créditos de precatório ou depósito judicial para adimplemento dos saldos devedores (item 3.10)",
+  "Cláusula 5.2 não se aplica à inscrição nº 70 2 19 002785-29, por não ter sido ajuizado o crédito (item 5.3)",
+  "Compromisso de regularizar, no prazo de 90 dias, novos débitos inscritos em Dívida Ativa em nome dos titulares das dívidas tratadas, caso o REQUERENTE seja incluído como corresponsável (item 6.1.11)"
+ ],
+ "sector": "Futebol/entretenimento (esporte olímpico)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.3,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.2
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$ 240.985.113,39",
+  "total_discount_pct": "70%",
+  "installments": "o recolhimento de 145 parcelas mensais no valor de R$ 498.589,88"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "39a593b36a3d",
+ "title": "Termo de Transação Individual - COB - Comitê Olímpico Brasileiro",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualCOBComiteOlimpicoBrasileiro.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualCOBComiteOlimpicoBrasileiro.pdf",
+ "sha256": "488cd1a6b298476db39c531f7455898cf097c63186a50b7fd11d3a3587ce9448",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

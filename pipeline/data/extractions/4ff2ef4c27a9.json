@@ -1,0 +1,77 @@
+{
+ "taxpayer": "PRODESAN PROGRESSO E DESENVOLVIMENTO DE SANTOS S.A",
+ "approval_date": "2024-12-13",
+ "consolidated_amount": 45373904.09,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Matrículas 89.279, 12.271 e 12.272 do 1º RGI de Santos (Usina de Asfalto da Alemoa)",
+  "Matrícula 89.058 do 1º RGI de Santos (Av. Rangel Pestana 439)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais são verdadeiras",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias os débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Apresentar e formalizar penhora dos imóveis dados em garantia em até 60 dias",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da Transação, desistir de impugnações/recursos e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação dos imóveis dados em garantia mediante prévia anuência da Fazenda Nacional, com inclusão da Fazenda Nacional como interveniente anuente no contrato de compra e venda e destinação do valor arrecadado à quitação das parcelas vincendas",
+  "Eventuais créditos que a Requerente venha a dispor por precatório ou depósito judicial deverão ser direcionados ao adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total R$ 45.373.904,09",
+  "total_discount_pct": "Desconto efetivo MÉDIO 65,00%",
+  "installments": "Pagamento da Dívida Transacionada de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 60 (sessenta) prestações mensais"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "4ff2ef4c27a9",
+ "title": "Termo de Transação Individual - Prodesan Progresso e Desenvolvimento de Santos SA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualProdesanProgressoeDesenvolvimentodeSantosSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualProdesanProgressoeDesenvolvimentodeSantosSATarjado.pdf",
+ "sha256": "d96fd4461e0680da5e69d60ac567eb2245a763f0be57d4edd4991ddbb09e6514",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

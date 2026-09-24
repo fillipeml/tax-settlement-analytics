@@ -1,0 +1,80 @@
+{
+ "taxpayer": "OSX Brasil S/A, OSX Brasil - Porto do Açu S.A. e OSX Serviços Operacionais Ltda. (em recuperação judicial)",
+ "approval_date": "2025-06-09",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": 70.0,
+  "interest_pct": 70.0,
+  "charges_pct": 70.0
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Recebíveis de contrato de locação/direito de uso e futura concessão de direito real de superfície de área de 40.000m² no Porto do Açu (locatária GO Tratch Ambiental e Infraestrutura S.A.), R$600.000,00 mensais, contrato até 26.01.2052",
+  "Recebíveis de contrato de locação/direito de uso e futura concessão de direito real de superfície de área de 143.406m² no Porto do Açu (locatária DOME Serviços Integrados Porto do Açu Operações S.A.), R$2.315.887,40 mensais, contrato até 10.10.2036",
+  "Recebíveis de contrato de locação/direito de uso e futura concessão de direito real de superfície de área do Cais Norte, Lote A-12, de 90.000m² no Porto do Açu (locatária Alieseo Empreendimentos e Participações S.A., com Consórcio 3T Flexíveis como interveniente anuente), R$1.203.750,00 mensais, contrato até 01.01.2052"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável a Dívida Transacionada",
+  "Desistir de ações judiciais, impugnações e recursos relativos à Dívida Transacionada, em até 60 dias",
+  "Comprovar desistência/renúncia no processo 0100781-65.2017.4.02.5101 em 60 dias",
+  "Manter regularidade perante FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando débitos exigíveis em até 90 dias",
+  "Peticionar em até 60 dias nos processos judiciais relativos à Dívida Transacionada",
+  "Não distribuir lucros ou dividendos a sócios/acionistas até aprovação do plano de recuperação judicial",
+  "Peticionar em até 60 dias no processo de recuperação judicial noticiando a Transação",
+  "Não alienar bens/direitos que reduzam significativamente a capacidade de pagamento sem comunicação prévia",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regime de apuração pelo lucro real durante vigência da Transação (para quem usar PF/BCN)",
+  "Manter livros/documentos fiscais e contábeis comprobatórios de PF/BCN por 5 anos ou até liquidação integral",
+  "Requerer conversão em pagamento definitivo de valores depositados na execução fiscal 0100781-65.2017.4.02.5101 em 30 dias e comprovar em 60 dias",
+  "Peticionar em 30 dias nas Execuções Fiscais para noticiar a Transação e formalizar penhora dos recebíveis dados em garantia"
+ ],
+ "special_clauses": [
+  "Uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) para amortização de até 70% do saldo devedor, limitado a R$1.499.247.482,62",
+  "Compensação de restituição de R$978.998,17 oriunda do processo administrativo nº 12448.909979/2020-65 (PER/DCOMP nº 35693.73359.60819.1.2.03-5008)",
+  "Penhora sobre recebíveis será formalizada apenas em caso de eventual rescisão do acordo",
+  "Depósitos judiciais vinculados à Dívida Transacionada deverão ser convertidos em pagamento definitivo sem descontos",
+  "Possibilidade de alienação dos bens dados em garantia mediante anuência prévia da Fazenda Nacional, inclusive via Plataforma Comprei",
+  "Encerramento de conta de parcelamento/transação anterior (Sispar nº 7604107) para reconsolidação"
+ ],
+ "sector": "Naval/offshore e portuário (óleo e gás / infraestrutura portuária)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "discounts.fine_pct": 0.9,
+  "discounts.interest_pct": 0.9,
+  "discounts.charges_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "discount_multa_juros_encargos": "Concede-se o desconto máximo de 70% (setenta por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal.",
+  "installments": "O saldo devedor remanescente da Dívida Transacionada — Previdenciária e Demais Débitos — será adimplido em 60 (sessenta) prestações mensais sucessivas, escalonadas de acordo com os seguintes percentuais"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "sector"
+ ],
+ "id": "f1cd4a29844a",
+ "title": "Termo de Transação Individual - OSX Brasil SA, Osx Brasil Porto Do Açu, OSX Serviços Operacionais LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualOSXBrasilSAOsxBrasilPortoDoAuOSXServiosOperacionaisLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualOSXBrasilSAOsxBrasilPortoDoAuOSXServiosOperacionaisLTDA.pdf",
+ "sha256": "77375cc5ecaf5219b92f52a793c68e7b693c3d83ed4ae5c9ee1d6cb40dc1a71b",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

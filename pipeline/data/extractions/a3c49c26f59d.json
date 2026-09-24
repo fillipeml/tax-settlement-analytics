@@ -1,0 +1,63 @@
+{
+ "taxpayer": "MUNICÍPIO DE LIMOEIRO",
+ "approval_date": "2023-01-10",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 40.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados ou balanço contábil (Cláusula 10)",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias dependentes da obrigação principal (Cláusula 11)",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional (Cláusula 6, I)",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo (Cláusula 5)",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas à CDA objeto do acordo (Cláusula 4)"
+ ],
+ "special_clauses": [
+  "Vinculação de direitos creditórios supervenientes, incluindo precatórios, ao pagamento da transação (Cláusula 12)",
+  "Possibilidade de aditamento para inclusão de débitos com fatos geradores anteriores à assinatura, desde que inscritos em dívida ativa (Cláusula 11)"
+ ],
+ "sector": "Administração pública municipal",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "com aproveitamento do desconto de 40% (quarenta por cento), observada sua capacidade de pagamento (CAPAG)",
+  "installments": "para pagamento no prazo de 120 (cento e vinte) meses, a dívida não-previdenciária"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "sector",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "a3c49c26f59d",
+ "title": "Termo de Transação Individual - Município de Limoeiro",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMunicpiodeLimoeiro.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMunicpiodeLimoeiro.pdf",
+ "sha256": "9d7c3510654931692059144fb52382baa449f41cb2fc55b8dda7a525dea94b17",
+ "extracted_at": "2026-07-22T14:35:18+00:00",
+ "simulated": false
+}

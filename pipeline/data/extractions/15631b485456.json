@@ -1,0 +1,71 @@
+{
+ "taxpayer": "MONTE MOR INDUSTRIA E COMERCIO DE ELASTOMEROS LTDA EM RECUPERACAO JUDICIAL, nova denominação FRIEDBERG DO BRASIL INDUSTRIA E COMERCIO LIMITADA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2023-11-27",
+ "consolidated_amount": 68222587.2,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Permanecer no regime de apuração do Lucro Real enquanto perdurar a vigência da presente transação",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou destinação de bens",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação à Fazenda Nacional"
+ ],
+ "special_clauses": [
+  "Utilização de crédito no valor de R$ 29.686.131,81 a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, para amortização do saldo devedor após aplicação dos descontos",
+  "A cobrança do saldo liquidado com uso de créditos decorrentes de prejuízo fiscal e de base de cálculo negativa da CSLL ficará suspensa até a confirmação dos créditos utilizados pela autoridade competente, dentro do prazo legal de cinco anos",
+  "Eventuais créditos que as Requerentes venham a dispor, por precatório, levantamento de depósito judicial ou qualquer outro meio, poderão ser direcionados para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Industrial (elastômeros/borracha)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.9,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "guarantees": 0.5,
+  "judicial_recovery": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "DEMAIS R$ 47.044.204,37 ... PREV R$ 21.178.382,83 (Anexo II - Plano de Pagamento)",
+  "total_discount_pct": "2.1.1. Desconto máximo de 70% (setenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "2.1.2. Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais, escalonadas na forma discriminada no Anexo II; 2.1.3. Pagamento da Dívida Transacionada de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 60 (sessenta) prestações mensais, escalonadas na forma discriminada no Anexo II;"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "consolidated_amount"
+ ],
+ "id": "15631b485456",
+ "title": "Termo de Transação Individual - Monte Mor Indústria e Comércio de Elastomeros LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMonteMorIndstriaeComrciodeElastomerosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMonteMorIndstriaeComrciodeElastomerosLTDATarjado.pdf",
+ "sha256": "cf760e4a6e18152fd2f1e7fbbaf1a6996c0e157eaeabcd532e87b28fe3ed3112",
+ "extracted_at": "2026-07-22T14:22:48+00:00",
+ "simulated": false
+}

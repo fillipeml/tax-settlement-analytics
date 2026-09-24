@@ -1,0 +1,85 @@
+{
+ "taxpayer": "AUTO VIAÇÃO NOSSA SENHORA DO CARMO LTDA, AUTO VIAÇÃO SÃO JOSÉ DOS PINHAIS LTDA e ROYAL ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA",
+ "approval_date": "2024-06-04",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 5.0,
+ "guarantees": [
+  "Imóvel matrícula 85.057 (antiga 54.188), 5º CRI de Curitiba/PR, avaliado em R$ 51.436.000,00",
+  "Imóvel matrícula 73.551, 1º CRI de São José dos Pinhais/PR, avaliado em R$ 34.479.000,00",
+  "Imóvel matrícula 306, CRI da Comarca de Caracol-PI (a ser penhorado)",
+  "Fiança pessoal dos intervenientes garantes (HBF Participações e Holding Ltda, Neyd Torres Brunatto, João Carlos Torres Brunatto, Maria Helena Franceschi Pineroli e Dante Luiz Franceschi)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilização de interposição de pessoas para ocultar bens",
+  "Declarar não alienação/oneração de bens para frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação de ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos da RFB com prestações",
+  "Autorizar compensação de precatórios federais",
+  "Cumprir exigências da Portaria PGFN 6757/22",
+  "Declarar veracidade de informações cadastrais e patrimoniais",
+  "Renunciar a alegações de direito em ações judiciais relacionadas aos créditos",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após o acordo",
+  "Declarar inexistência de créditos/precatórios líquidos e certos contra a União",
+  "Manter-se como optante do lucro real durante a negociação",
+  "Não desistir do acordo sob pena de rescisão",
+  "Peticionar em processos judiciais no prazo de 60 dias noticiando a transação",
+  "Formalizar penhora dos imóveis em garantia no prazo de 90 dias",
+  "Apresentar situação econômico-financeira via balanço contábil quando solicitado pela PGFN"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para abatimento do saldo devedor",
+  "Manutenção de gravames decorrentes de arrolamento, medida cautelar fiscal, penhora ou garantias já existentes",
+  "Possibilidade de alienação dos imóveis em garantia mediante prévia oitiva e concordância da Fazenda Nacional, com destinação do produto ao plano de pagamento",
+  "Utilização de valores depositados no IDPJ nº 5025136-13.2020.404.7000 para amortização sem desconto",
+  "Fiança pessoal com renúncia ao benefício de ordem pelos intervenientes garantes"
+ ],
+ "sector": "Transporte (viação/ônibus)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.9,
+  "installments": 0.5,
+  "discounts": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "down_payment_pct": "os DEVEDORES pagarão uma entrada no montante de 5% do valor do devido sem descontos, em 12 prestações mensais",
+  "installments": "sendo o restante pago em 48 (quarenta e oito) amortizações mensais lineares... sendo que o restante será pago em 108 (cento e vinte) parcelas mensais lineares"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "discounts",
+  "judicial_recovery",
+  "special_clauses"
+ ],
+ "id": "d247601bf807",
+ "title": "Termo de Transação Individual - Auto Viação Nossa Senhora do Carmo LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAutoViaoNossaSenhoradoCarmoLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAutoViaoNossaSenhoradoCarmoLTDA.pdf",
+ "sha256": "ee5e85c7cac8715c8b3e5f1ad8510dc8e5cfa10765e8aa27dd20f6d55aae9402",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

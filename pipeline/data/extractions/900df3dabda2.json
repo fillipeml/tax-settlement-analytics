@@ -1,0 +1,79 @@
+{
+ "taxpayer": "Valpasa Indústria da Papel Ltda",
+ "approval_date": "2021-09-29",
+ "consolidated_amount": 157345822.38,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens móveis e imóvel matrícula 3.370, a serem indicados para penhora",
+  "Manutenção das garantias associadas aos débitos relacionadas no ANEXO II"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Renunciar a alegações de direito em ações/recursos sobre os créditos transacionados",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade nos programas de parcelamentos anteriores",
+  "Manter regularidade com tributos correntes",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos",
+  "Declarar não utilização de interposta pessoa",
+  "Declarar não ter alienado bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais e patrimoniais",
+  "Manter as garantias associadas aos débitos",
+  "Indicar bens móveis e imóvel matrícula 3.370 para penhora",
+  "Não alienar bens sem comunicação à Fazenda Nacional"
+ ],
+ "special_clauses": [
+  "Liberação de valores bloqueados via Sisbajud na Execução Fiscal 5011592-03.2021.4.04.7200 para pagamento das primeiras parcelas",
+  "Descontos podem não alcançar o percentual máximo indicado em algumas CDAs, pois não pode haver abatimento do valor principal, apenas de juros, encargos e multas",
+  "Indicação preferencial de bens para penhora nos processos com constrição via Sisbajud recente"
+ ],
+ "sector": "Indústria de papel",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.3,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "down_payment_pct": 0.1,
+  "installments": 0.85,
+  "judicial_recovery": 0.1,
+  "guarantees": 0.7,
+  "obligations": 0.9,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total da dívida ativa consolidada aberta (não parcelada) em 29/09/2021: R$157.345.822,38 (descontos máximos de aproximadamente 44% e 40%).*",
+  "installments": "Pagamentos em 84 parcelas mensais, iniciando em aproximadamente R$377.892,40, para os fazendários, e pagamento em 60 parcelas mensais, para os previdenciários, iniciando em aproximadamente R$143.090,93, tudo conforme tabela do anexo III."
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "900df3dabda2",
+ "title": "Termo de Transação Individual - Valpasa Indústria de Papel LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/termo-de-transacao-individual-valpasa-industria-de-papel-ltda_.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/termo-de-transacao-individual-valpasa-industria-de-papel-ltda_.pdf",
+ "sha256": "644bae74f375c7d2ba9fc2c4d2e258489131165675b87e012306c3b08d3913a2",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

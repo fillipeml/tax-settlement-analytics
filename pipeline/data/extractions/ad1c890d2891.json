@@ -1,0 +1,78 @@
+{
+ "taxpayer": "INDUSTRIA E COMERCIO DE BEBIDAS MDM LTDA",
+ "approval_date": "Not identified",
+ "consolidated_amount": 44476144.94,
+ "modality": "Transação Individual",
+ "total_discount_pct": 53.78,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de matrícula nº 55.852, do 1º Registro de Imóveis da Comarca de Porto Velho/RO",
+  "Imóvel de matrícula nº 22.650, do 2º Registro de Imóveis da Comarca de Porto Velho/RO"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou destinação de bens, direitos e valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir dividendos aos quotistas/acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Requerer a penhora dos bens dados em garantia no prazo de 30 dias, com anuência da MDM PET - RECICLAGEM E RESINAS LTDA",
+  "Comprovar, no prazo de 10 dias, o protocolo dos pedidos de penhora",
+  "Peticionar nos processos judiciais em até 60 dias após a assinatura, para noticiar a celebração da Transação e desistir de impugnações/recursos",
+  "Apresentar, em até 90 dias, cópia do requerimento de desistência das ações/impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação dos bens dados em garantia mediante prévia anuência da Fazenda Nacional (cláusula 4.1)",
+  "Requerimento de penhora pode se dar no formato de pedido de substituição de penhoras de outros imóveis (cláusula 3.3)",
+  "Direcionamento de eventuais créditos (precatórios, depósitos judiciais) para adimplemento dos saldos devedores da Transação (cláusula 2.4)"
+ ],
+ "sector": "Indústria e comércio de bebidas",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.1,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "discounts": 0.3,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total de R$ 29.881.732,34 (vinte e nove milhões, oitocentos e oitenta e um mil, setecentos e trinta e dois reais e trinta e quatro centavos)... Total de R$ 14.594.412,60 (quatorze milhões quinhentos e noventa e quatro mil quatrocentos e doze reais e sessenta centavos)",
+  "total_discount_pct": "Desconto máximo de 53,78% (cinquenta e três inteiros e setenta e oito centésimos por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza previdenciária (\"Dívida Transacionada – Previdenciária\") em 60 (sessenta) meses e da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "approval_date",
+  "down_payment_pct",
+  "installments",
+  "discounts",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "ad1c890d2891",
+ "title": "Termo de Transação Individual - Indústria e Comércio de Bebidas MDM LTDA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualIndstriaeComrciodeBebidasMDMLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualIndstriaeComrciodeBebidasMDMLTDAtarjado.pdf",
+ "sha256": "263811ab1dc951986e171c1fbf9604d3cccf75138660fa9e7d0b63af89187b38",
+ "extracted_at": "2026-07-22T14:22:23+00:00",
+ "simulated": false
+}

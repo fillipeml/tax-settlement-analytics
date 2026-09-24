@@ -1,0 +1,74 @@
+{
+ "taxpayer": "IBS INTEGRATED BUSINESS SOLUTIONS CONSULTORIA LTDA. e GLOBAL DIGITAL BUSINESSE SOLUTIONS EM TECNOLOGIA LTDA",
+ "approval_date": "2024-05-15",
+ "consolidated_amount": 20166499.23,
+ "modality": "Transação Individual",
+ "total_discount_pct": 64.93,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à Procuradoria-Geral da Fazenda Nacional conhecer sua situação econômica",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar de qualquer forma a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas à administração tributária são verdadeiras",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Reconhecimento expresso de grupo econômico de fato formado entre as requerentes, ocasionando a responsabilidade tributária solidária pelos débitos tributários umas das outras",
+  "Não haverá oferta de garantia vinculada à presente Transação, considerando a redução máxima do prazo total (pagamento em prestação única)",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 62,65% do saldo da dívida após a aplicação dos descontos",
+  "Isenção de honorários advocatícios e custas processuais quanto aos Embargos à Execução n. 0046440-54.2016.4.03.6182"
+ ],
+ "sector": "Consultoria/Tecnologia",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.1,
+  "discounts.interest_pct": 0.1,
+  "discounts.charges_pct": 0.1,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.3,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 20.166.499,23 (Vinte milhões, cento e sessenta e seis mil, quatrocentos e noventa e nove reais e vinte e três centavos) - (Valores atualizados para Abril de 2024)",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), ocasionando um desconto global médio de 64,93% (sessenta e quatro vírgula noventa e três por cento), na forma do Anexo II.",
+  "installments": "O prazo máximo previsto para pagamento será de 1 (um) mês para a Dívida Transacionada - Demais Débitos e Débitos Previdenciários"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "b5a4c637de10",
+ "title": "Termo de Transação Individual - IBS Integrated Business Solutions Consultoria LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIBSIntegratedBusinessSolutionsConsultoriaLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIBSIntegratedBusinessSolutionsConsultoriaLTDATarjado.pdf",
+ "sha256": "781ba89d58508fc0f7af17d1a062818520bd3ac5585b29e9c6da8dac670e9e57",
+ "extracted_at": "2026-07-22T14:22:44+00:00",
+ "simulated": false
+}

@@ -1,0 +1,72 @@
+{
+ "taxpayer": "CARRETEIRO ALIMENTOS LTDA",
+ "approval_date": "2025-04-29",
+ "consolidated_amount": 37205273.19,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel constituído de apartamento nº 401, Bloco 01, do Edifício Royal Country, integrante do empreendimento \"Barra Golden Green\", com 04 vagas de garagem, na Freguesia de Jacarepaguá, matrícula no 9º Ofício de Registro de Imóveis da Capital"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações administrativas ou judiciais relativas à Dívida Transacionada",
+  "Reconhecimento e confissão irrevogável e irretratável da dívida",
+  "Desistência dos Embargos à Execução nº 5114754-89.2023.4.02.5101 e do Agravo de Instrumento nº 5017348-45.2023.4.02.0000",
+  "Manutenção do regime de apuração de IRPJ pela modalidade de lucro real até a extinção da Dívida Transacionada",
+  "Manutenção de livros e documentos comprobatórios dos créditos de prejuízo fiscal e base de cálculo negativa da CSLL por até 5 anos",
+  "Não alienação de bens ou direitos próprios sem comunicação à Fazenda Nacional",
+  "Pagamento regular de tributos federais, estaduais e municipais incidentes sobre o imóvel dado em garantia",
+  "Apresentação de laudo de avaliação atualizado do imóvel em 90 dias",
+  "Manutenção da regularidade perante o FGTS",
+  "Manutenção da regularidade perante a Secretaria Especial da Receita Federal do Brasil"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação de até 70% do saldo remanescente",
+  "Possibilidade de alienação do imóvel dado em garantia mediante prévia anuência da Credora, com destinação do valor obtido à quitação das parcelas vincendas",
+  "Compensação de valores de restituições, ressarcimentos ou reembolsos e de precatórios federais com prestações do acordo"
+ ],
+ "sector": "Alimentos",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 0.95,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "installments": 1.0,
+  "down_payment_pct": 0.9,
+  "judicial_recovery": 0.3,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "discounts": 0.2
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizando R$ 37.205.273,19, atualizados em 04/2025",
+  "total_discount_pct": "Concessão do desconto máximo de 70% (setenta por cento) incidente sobre a Dívida Transacionada de natureza não-previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento do saldo remanescente a ser efetuado em 60 (sessenta) prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "judicial_recovery",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct"
+ ],
+ "id": "baa45f4775ef",
+ "title": "Termo de Transação Individual - Carreteiro Alimentos LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualCarreteiroAlimentosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualCarreteiroAlimentosLTDATarjado.pdf",
+ "sha256": "cacc1fe068ce2f564033406cd8d78bcf6edef26f51a6b9b79c643e09a7120d8c",
+ "extracted_at": "2026-07-22T14:22:29+00:00",
+ "simulated": false
+}

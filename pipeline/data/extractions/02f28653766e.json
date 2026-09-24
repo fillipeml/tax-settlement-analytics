@@ -1,0 +1,75 @@
+{
+ "taxpayer": "CONTEDA - DISTRIBUIDORA DE ALIMENTOS LTDA; COMTEDA COMERCIAL TEDA DE ALIMENTOS LTDA; ROMILDA MIGUEL OLIVEIRA GOMES; ANTÔNIO CÉSAR GOMES DA SILVA",
+ "approval_date": "2025-02-12",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 59.74,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel matriculado sob o nº 66.072 – Registro de Imóveis da 1ª Zona da Comarca de Fortaleza",
+  "Imóvel matriculado sob o nº 69.390 – Registro de Imóveis da 1ª Zona da Comarca de Fortaleza",
+  "Imóvel matriculado sob o nº 27.970 – Cartório de Registro de Imóveis da 4ª Zona da Comarca de Fortaleza (Cartório Miranda Bezerra)",
+  "Imóvel matriculado sob o n. 75.889 – Registro de Imóveis da 1ª Zona da Comarca de Fortaleza",
+  "Imóvel matriculado sob o n. 75.990 – Registro de Imóveis da 1ª Zona da Comarca de Fortaleza"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Não alienar, onerar ou ocultar bens com propósito de frustrar recuperação de créditos",
+  "Apresentar informações cadastrais, patrimoniais e econômico-fiscais verdadeiras",
+  "Recolher tributos correntes regularmente",
+  "Apresentar situação econômico-financeira anualmente por demonstração de resultados/balanço contábil",
+  "Peticionar em execuções ajuizadas informando a oferta de bens em garantia",
+  "Peticionar noticiando aos juízos a celebração do acordo de transação individual",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos"
+ ],
+ "special_clauses": [
+  "Reconhecimento de grupo econômico e corresponsabilidade solidária entre CONTEDA, COMTEDA, Romilda Miguel Oliveira Gomes e Antônio César Gomes da Silva pelos débitos transacionados",
+  "Penhora sobre aluguéis na Execução Fiscal 0005710-52.2012.05.8100 suspensa enquanto vigente a transação, com valores já depositados convertidos em pagamento definitivo",
+  "Condicionamento da venda de bens da PARTE DEVEDORA à aquiescência da Fazenda Nacional enquanto não liquidada a dívida",
+  "Possibilidade de alienação dos bens dados em garantia via sistema COMPREI em caso de inadimplência, com limite mínimo de 50% do valor de avaliação",
+  "Foro eleito: Seção Judiciária de Pernambuco"
+ ],
+ "sector": "Distribuição/comércio de alimentos",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.2,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.3,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de 59,74% em cada uma das inscrições, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa juros e encargo legal), conforme cálculo do sistema",
+  "installments": "Pagamento da dívida transacionada de natureza não previdenciária após descontos em 145 parcelas iguais"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "sector",
+  "judicial_recovery"
+ ],
+ "id": "02f28653766e",
+ "title": "Termo de Transação Individual - Conteda - Distribuidora Alimentos LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualContedaDistribuidoraAlimentosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualContedaDistribuidoraAlimentosLTDATarjado.pdf",
+ "sha256": "84c1553b72ab3d719bbee769932dbc7f1c88ea47a24b6466a22795ad021134e6",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

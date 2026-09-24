@@ -1,0 +1,77 @@
+{
+ "taxpayer": "Vinícola Perini Ltda",
+ "approval_date": "2022-02-24",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bem imóvel (registro em cartório de imóveis conforme Cláusula 16)",
+  "Garantias listadas no ANEXO II (não detalhadas no corpo do documento)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade nos programas de parcelamentos aderidos anteriormente",
+  "Manter regularidade com tributos correntes",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Declarar não utilização de pessoa interposta para ocultar bens",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais e econômico-fiscais",
+  "Não alienar bens do ativo não circulante sem comunicação à Fazenda Nacional durante 84 meses",
+  "Efetuar registro de imóvel dado em garantia no Cartório de Registro de Imóveis e manter tributos do imóvel em dia"
+ ],
+ "special_clauses": [
+  "Parágrafo único da Cláusula 4ª: dispensa de comunicação para alienação de bens do ativo não circulante relacionados à atividade operacional da empresa, desde que a negociação envolva valor máximo de R$500.000,00",
+  "Parágrafo primeiro (pág.5): liberação de valores bloqueados na Execução Fiscal 501401272-2021.4.04.7107 para pagamento da 4ª parcela",
+  "Parágrafo segundo (pág.5): caso não haja aprovação no mês corrente, fluxo de pagamentos inicia em março de 2022",
+  "Cláusula 16, §2º: possibilidade de indicação de bem garantidor para outro executivo fiscal não garantido, mediante pagamento de no mínimo 25% do valor do acordo e quitação total (valores nominais) da execução fiscal em que os bens estejam penhorados"
+ ],
+ "sector": "Agronegócio/Vinícola",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.4,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "installments": "Pagamento em 84 parcelas mensais, iniciando em aproximadamente [tarjado], conforme tabela do anexo III."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "sector",
+  "judicial_recovery"
+ ],
+ "id": "c02f2e0bf227",
+ "title": "Termo de Transação Individual - Vinícola Perini LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/termo-de-transacao-individual-vinicola-perini-ltda_.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/termo-de-transacao-individual-vinicola-perini-ltda_.pdf",
+ "sha256": "10bdeccf1a4e046a92faf41b7ca4c6682eca94c77ece4a966e4265c3b777cfcf",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

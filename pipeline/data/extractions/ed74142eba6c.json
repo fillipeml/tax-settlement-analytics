@@ -1,0 +1,76 @@
+{
+ "taxpayer": "GRUPO LORD (LORD INDUSTRIA E COMÉRCIO DE EMBALAGENS PLÁSTICAS LTDA - EPP e outras)",
+ "approval_date": "2022-11-25",
+ "consolidated_amount": 472660152.91,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis - Anexo IV (total R$ 54.478.528,27)",
+  "Bens móveis (veículos) - Anexo IV (total R$ 3.659.785,00)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Formalizar penhora dos imóveis e móveis dados em garantia em 30 dias",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da transação, desistir de impugnações/recursos/ações e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Valor de R$ 12.173.529,09 bloqueado em contas dos integrantes do GRUPO LORD, garantidores e anuente MOTECH, será transformado em pagamento definitivo, sem desconto",
+  "Possibilidade de alienação de bens imóveis e móveis dados em garantia mediante prévia anuência da União/Fazenda Nacional, com valor destinado à quitação das parcelas vincendas",
+  "Anuência ao uso do Sistema COMPREI da PGFN para eventual alienação de bens imóveis",
+  "Nomeação da União/Fazenda Nacional como procuradora dos proprietários em caso de desapropriação dos imóveis dados em garantia"
+ ],
+ "sector": "Indústria de embalagens plásticas",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.75,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.85,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.2,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal do GRUPO LORD é composto pelos créditos inscritos em Dívida Ativa da União (\"Dívida Ativa\") indicados no Anexo I, que somam R$ 472.660.152,91 (quatrocentos e setenta e dois milhões, seiscentos e sessenta mil, cento e cinquenta e dois reais e noventa e um centavos).",
+  "total_discount_pct": "É deferido desconto máximo de até 70% (setenta por cento) a cada uma das CDAs negociadas, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos).",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 145 (cento e quarenta e cinco) prestações mensais escalonadas, com valores menores nas 11 (onze) primeiras e 134 em valores lineares, corrigidos mensalmente, conforme Anexo III."
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "ed74142eba6c",
+ "title": "Termo de Transação Individual - Lord Industria e Comércio de Embalagens Plásticas",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualLordTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualLordTarjado.pdf",
+ "sha256": "fab33ecade4a6f23e5db9e154251b85a8b530f53dc4da521c2a77baf9fde33c4",
+ "extracted_at": "2026-07-22T14:22:47+00:00",
+ "simulated": false
+}

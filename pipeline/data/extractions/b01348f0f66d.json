@@ -1,0 +1,69 @@
+{
+ "taxpayer": "ESTADO DA PARAÍBA",
+ "approval_date": "2024-05-16",
+ "consolidated_amount": 3657417146.0,
+ "modality": "Transação Individual (Portaria PGFN nº 6.757/2022, com referência à Portaria PGFN nº 2.382/2020 para eventual recuperação judicial)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": 65.0,
+  "interest_pct": 65.0,
+  "charges_pct": 65.0
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa natural ou jurídica interposta para ocultar bens",
+  "Não alienar, onerar ou ocultar bens com propósito de frustrar recuperação dos créditos",
+  "Apresentar situação econômico-financeira anualmente por demonstrações de resultados/balanço contábil",
+  "Pagar regularmente os tributos correntes",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo de transação individual",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos"
+ ],
+ "special_clauses": [
+  "Corresponsabilidade solidária entre integrantes da PARTE DEVEDORA reconhecidos como grupo econômico (Cláusula 2ª, §2º)",
+  "Vedação de formalização de nova transação por 2 anos em caso de rescisão (Cláusula 8ª, final)",
+  "Aproveitamento de pagamentos extraordinários e precatórios federais para quitação preferencial das parcelas finais (Cláusula 4ª, §3º e Cláusula 12ª)",
+  "Tratando-se de ente público, não haverá cancelamento de precatório expedido previamente à assinatura, apenas suspensão das requisições (Cláusula 4ª, §3º)"
+ ],
+ "sector": "Administração pública estadual",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.85,
+  "installments": 0.8,
+  "down_payment_pct": 0.3,
+  "discounts": 0.8,
+  "guarantees": 0.4,
+  "judicial_recovery": 0.3,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Totais: 1.489.650.035,00",
+  "amount_consolidado_other": "Totais: 2.167.767,11",
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 65%",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 60"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "guarantees",
+  "judicial_recovery",
+  "consolidated_amount",
+  "total_discount_pct"
+ ],
+ "id": "b01348f0f66d",
+ "title": "Termo de Transação Individual - Município de Pedro Velho RN",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMunicpiodePedroVelhoRNtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMunicpiodePedroVelhoRNtarjado.pdf",
+ "sha256": "5ab6f63be1de5ce75a611f6cbacc1bb4c8a5370a0a280381bb46ec50fb7936f8",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

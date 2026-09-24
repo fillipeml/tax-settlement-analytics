@@ -1,0 +1,79 @@
+{
+ "taxpayer": "MAIS PRÓXIMA COMERCIAL E DISTRIBUIDORA LTDA. e COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO BIO-SCAN LTDA.",
+ "approval_date": "2023-12-07",
+ "consolidated_amount": 14385372.49,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantidas as garantias já existentes até a assinatura deste acordo. Não serão prestadas garantias adicionais."
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta",
+  "Declarar que não alienou ou onerou bens ou direitos para frustrar recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam reduzir a capacidade de pagamento sem comunicação à Fazenda",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Solicitar à RFB, em até 60 dias, inscrição em Dívida Ativa dos débitos constantes no Anexo II",
+  "Comunicar à Fazenda Nacional a efetivação do envio para inscrição em Dívida Ativa",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Recolher em 30 dias valores decorrentes da reconsolidação da conta",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e de Base de Cálculo Negativa da CSLL, limitado a 70% do saldo da dívida dos 'DEMAIS DÉBITOS' e 'DÉBITOS PREVIDENCIÁRIOS', após aplicação dos descontos",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal e base negativa da CSLL fica suspensa até confirmação dos créditos pela autoridade competente, em até 5 anos"
+ ],
+ "sector": "Comércio/distribuição",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.4,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.9,
+  "installments": 1.0,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.95,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Tributária Transacionada: R$ 14.385.372,49 (11/2023)",
+  "total_discount_pct": "2.1.2 Desconto máximo de 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "2.1.3 Pagamento da Dívida Transacionada Previdenciária e Não Previdenciária (demais débitos) em 36 prestações mensais, iguais e sucessivas, na forma discriminada no Anexo II;"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "7d1f4033279d",
+ "title": "Termo de Transação Individual - Mais Próxima Comercial e Distribuidora",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMaisPrximaComercialeDistribuidoraLTDAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMaisPrximaComercialeDistribuidoraLTDAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "c699f1334ccd7898cf4702abf5d3b804ed6d8b78adca39e67747832bc4c7d1aa",
+ "extracted_at": "2026-07-22T14:22:47+00:00",
+ "simulated": false
+}

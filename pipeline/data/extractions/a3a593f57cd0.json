@@ -1,0 +1,60 @@
+{
+ "taxpayer": "USINA CRUANGI S/A E OUTRAS (grupo econômico) - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-11-27",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Termo Aditivo)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Alienação de imóveis (Engenho Folguedo, Engenho Paraguassu Leste, Engenho Paraguaçu Oeste, Engenho Dois Rios Pedra de Fogo) ao INCRA, com destinação dos valores ao pagamento do acordo"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Autorização da imediata imissão na posse do Engenho Folguedo pelo INCRA, assim que efetivado o pagamento dos valores avençados no Termo de Transação, através de DARF"
+ ],
+ "special_clauses": [
+  "Prorrogação por 60 dias do prazo para aprovação e autorização pelo Juízo Recuperacional para alienação de imóveis ao INCRA (Cláusula 1ª)",
+  "Supressão da condição suspensiva de validade prevista na cláusula 15ª do Termo de Transação, diante da decisão judicial homologatória (Cláusula 2ª e 3ª)",
+  "Prejudicada a necessidade de homologação da transação e alienação particular nos autos da execução fiscal nº 0800063-21.2023.4.05.8306, uma vez que já suprida a exigência pela decisão do Juízo Recuperacional (Cláusula 4ª)",
+  "Autorização de imissão na posse do Engenho Folguedo pelo INCRA mesmo sem cumprimento do alvará de transferência, desde que efetivado o pagamento via DARF (Cláusula 5ª)"
+ ],
+ "sector": "Agronegócio (usina/agropecuária/imobiliário rural)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.7,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.7,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts",
+  "sector"
+ ],
+ "id": "a3a593f57cd0",
+ "title": "Termo de Transação Individual -  Usina Cruangi SA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualUsinaCruangiSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualUsinaCruangiSATarjado.pdf",
+ "sha256": "ab7ab99e1124532e35f615e599ab36b8d9adcd8760e04787fe49e2c027749538",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

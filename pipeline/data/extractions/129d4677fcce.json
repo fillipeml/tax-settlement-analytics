@@ -1,0 +1,81 @@
+{
+ "taxpayer": "FEBASP ASSOCIAÇÃO CIVIL LTDA (IES)",
+ "approval_date": "2023-12-21",
+ "consolidated_amount": 73336000.92,
+ "modality": "Transação Individual (inclusive modalidade excepcional para Instituições de Ensino Superior - IES, art. 15, §1º, VI da Portaria PGFN nº 6.757/2022)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Saldo apurado entre 2023 e 2033 oriundo da recompra e/ou resgate de Certificados Financeiros do Tesouro (CFT-E) custodiados pelo FNDE, no montante indicado no Anexo V, referente aos débitos transacionados",
+  "Bens imóveis descritos no Anexo VI, avaliados em R$ 164.185.900,00 (agosto/2023), já penhorados nas execuções fiscais nº 0036161-76.2013.403.6182, 0005051-46.2003.4.03.6182, 0054976-74.2004.4.03.6182 e 0021144-16.2005.4.03.6182, oferecidos para os débitos não transacionados (Anexo III)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens, direitos ou valores",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias os débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar ou reduzir a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter em dia o pagamento de impostos e taxas sobre os bens dados em garantia (depositária)",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação, desistir de impugnações/recursos/ações e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Desconto máximo de até 65% sobre acréscimos legais (multa, juros e encargos), vedada redução do principal, resultando em desconto efetivo de 49,54% para débitos previdenciários e 59,11% para os demais",
+  "Segunda parcela da conta DEMAIS com previsão de pagamento com saldo da recompra/resgate de títulos CFT-E (FIES)",
+  "Depósitos judiciais vinculados às execuções fiscais nº 0044354-33.2004.4.03.6182 e 0021144-16.2005.4.03.6182 imputados sem desconto",
+  "Renúncia expressa da FEBASP a alegações de impenhorabilidade e inalienabilidade dos créditos CFT-E oferecidos em garantia",
+  "Possibilidade de alienação dos bens imóveis em garantia, mediante substituição por bens de igual valor ou destinação do produto à quitação do plano de pagamento",
+  "Utilização do Sistema COMPREI da PGFN para alienação dos bens imóveis em garantia"
+ ],
+ "sector": "Educação (entidade beneficente de assistência social, sem fins lucrativos)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.7,
+  "modality": 0.75,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.6,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que somam R$ 73.336.000,92 (valor estimado em novembro de 2023)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária em 120 parcelas mensais",
+  "installments_social_security": "Pagamento da Dívida Transacionada de natureza previdenciária em 60 parcelas mensais lineares"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "129d4677fcce",
+ "title": "Termo de Transação Individual - Febasp Associação Civil (IES)",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualFebaspAssociaoCivilLTDAIESTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualFebaspAssociaoCivilLTDAIESTarjado.pdf",
+ "sha256": "f0cacf03b42ab5b38a29a1022ef90eca81ea536c24eceab1a5d18fa0cb3e5761",
+ "extracted_at": "2026-07-22T14:22:42+00:00",
+ "simulated": false
+}

@@ -1,0 +1,76 @@
+{
+ "taxpayer": "PLATINUM TRADING S/A e PETROIL DO BRASIL S/A",
+ "approval_date": "2025-02-24",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - modalidade DEMAIS",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas à administração tributária são verdadeiras",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos",
+  "Manter, durante 5 anos, os livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios dos montantes de prejuízo fiscal e de base de cálculo negativa da CSLL",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor (Platinum Trading: R$ 387.983.920,78; Petroil: R$ 7.527.435,28), limitado a 70% do saldo pós descontos",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL fica suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de cinco anos",
+  "Débitos suspensos em razão de liminar no MS 015243172012405830, objeto da Ação Rescisória 5971/DF, ficam excluídos da transação, com obrigação de regularização das CDAs 40 3 20 000131-02 e 80 3 14 000853-09 em 90 dias caso a decisão seja desconstituída",
+  "Pagamento à vista, sem garantias vinculadas à Transação"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.2,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.8,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Na modalidade DEMAIS, desconto máximo de até 65% (sessenta e cinco por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento à vista do saldo devedor na modalidade DEMAIS para ambas as requerentes"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "judicial_recovery",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "a4f05df26a06",
+ "title": "Termo de Transação Individual - Platium Trading SA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualPlatiumTradingSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualPlatiumTradingSATarjado.pdf",
+ "sha256": "f9079b6e905c95db1cf88a94a760f5fe96669ef450e0cf08ce676b167f14a30d",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

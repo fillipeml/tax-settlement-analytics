@@ -1,0 +1,72 @@
+{
+ "taxpayer": "COLEGIO SANTA MARIA LTDA",
+ "approval_date": "2021-08-19",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "O devedor mantém todas as garantias associadas ao débito com a finalidade de garantir a dívida contemplada na transação individual, ficando ressalvada a possibilidade de alienação de bens para a liquidação da presente transação, com direcionamento integral do preço à Fazenda Nacional."
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à Procuradoria-Geral da Fazenda Nacional conhecer sua situação econômica ou eventuais fatos que impliquem a rescisão do acordo",
+  "Não utilizar a transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar de qualquer forma a livre concorrência ou a livre iniciativa econômica",
+  "Renunciar a quaisquer alegações de direito, atuais ou futuras, sobre as quais se fundem ações judiciais, incluídas as coletivas, ou recursos que tenham por objeto os créditos incluídos na transação",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço e/ou obter suspensão de exigibilidade de inscrição eventualmente não transacionada",
+  "Regularizar, no prazo de 90 (noventa) dias, os débitos que vierem a ser inscritos em dívida ativa ou que se tornarem exigíveis após a formalização do acordo de transação",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, direitos e de valores ou os reais interesses ou a identidade dos beneficiários de seus atos, em prejuízo da Fazenda Pública Federal",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas à administração tributária são verdadeiras e que não omitiu informações quanto à propriedade de bens, direitos e valores",
+  "Fornecer, no prazo de 60 dias a contar da assinatura do presente termo de transação, demonstrações contábeis e demais documentos/informações relacionados na Cláusula 17ª",
+  "Apresentar sua situação econômico-financeira, anualmente, por meio de demonstrações de resultados e balanço contábil"
+ ],
+ "special_clauses": [
+  "CONSIDERANDO a natureza jurídica da devedora de instituições de ensino, que autoriza condições especiais de transação",
+  "Fica facultado ao devedor a posterior repactuação da transação, nas mesmas condições aqui ofertadas, para a inclusão de novos débitos, abrangidos pela discussão judicial na ação ordinária nº 0013805-87.2011.4.05.8300, aguardando julgamento do Recurso Especial interposto pela Fazenda Nacional",
+  "Sobrevindo parcelamento com regras ou descontos mais benéficos que os regulados na presente transação individual, fica assegurado ao DEVEDOR, a seu exclusivo critério, a faculdade de incluir os débitos transacionados no programa incentivado"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.8,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.3,
+  "installments": 0.5,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "installments_nao_social_security": "É concedida ao devedor a possibilidade de pagar em 145 parcelas os débitos não previdenciários e em 60 parcelas os débitos previdenciários.",
+  "discount_max": "Além do parcelamento, serão concedidos descontos que irão variar até 70% sobre o total devido, a depender das particularidades de cada inscrição.",
+  "payment_term": "para pagamento no prazo de 145 (cento e quarenta e cinco) meses, face a sua natureza jurídica de instituição de ensino, e no prazo de 60 (sessenta) meses, a dívida previdenciária, com aproveitamento do desconto máximo de até 70% (setenta por cento), conforme extração obtida nos Sistemas de Apoio à Transação da PGFN (DW PGFN), não implicando, a negociação, a redução do montante principal do crédito inscrito em dívida ativa da União."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "008edb4f455a",
+ "title": "Termo de Transação Individual - Colégio Santa Maria",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-colegio-santa-maria.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-colegio-santa-maria.pdf",
+ "sha256": "5440a8f2a49446c6011b0b2ae91e81feaea39836cc544d5c7654b929bd4fafd4",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

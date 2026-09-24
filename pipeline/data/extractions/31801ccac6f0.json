@@ -1,0 +1,66 @@
+{
+ "taxpayer": "COMITÊ OLÍMPICO BRASILEIRO",
+ "approval_date": "2022-09-16",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Termo Aditivo)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Apólice de seguro garantia nº 04669201610010775000540 (execução fiscal nº 0162396-90.2016.4.02.5101), não renovada"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Reconhecimento e confissão irrevogável e irretratável da inscrição nº 70.2.22.009747-09, renovada a cada pagamento periódico",
+  "Recolhimento, a título de antecipação, de duas parcelas devidas no termo de transação individual no mês da formalização do aditivo",
+  "Abstenção de discussão judicial presente ou futura sobre a inscrição confessada"
+ ],
+ "special_clauses": [
+  "Inclusão da inscrição nº 70.2.22.009747-09 no Anexo I da transação original firmada em 17/05/2021, com recálculo das parcelas vincendas",
+  "Concordância da Fazenda Nacional com a não renovação da apólice de seguro garantia, condicionada ao recolhimento antecipado de duas parcelas",
+  "Levantamento da garantia somente após vencimento atual da apólice",
+  "Descumprimento da obrigação de antecipação implica rescisão do acordo original com exigibilidade imediata da totalidade dos créditos confessados"
+ ],
+ "sector": "Esporte/entretenimento",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.8,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.8,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "approval_date": "Rio de Janeiro, 16 de setembro de 2022.",
+  "clausula_inclusao": "A inscrição nº 70.2.22.009747-09 passa a fazer parte do Anexo I da transação tributária individual original, firmada entre as partes em 17/05/2021."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "31801ccac6f0",
+ "title": "I Termo Aditivo de Transação Individual - Comitê Olímpico Brasileiro",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/ITermoAditivodeTransaoIndividualComitOlmpicoBrasileirotarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/ITermoAditivodeTransaoIndividualComitOlmpicoBrasileirotarjado.pdf",
+ "sha256": "29001fc8aebdec52fb85945044cc1ed4b2d0beff5b58307dbb8fe342b56cc498",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

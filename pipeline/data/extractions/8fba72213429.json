@@ -1,0 +1,85 @@
+{
+ "taxpayer": "SANTA CASA DE CARIDADE DE URUGUAIANA",
+ "approval_date": "2022-10-06",
+ "consolidated_amount": 28876290.09,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bem imóvel (quadra de terrenos na Comarca de Uruguaiana, nº 317, avaliado em R$ 50.000.000,00) a ser indicado à penhora na Execução Fiscal nº 500294054.2022.404.7105",
+  "Cessão fiduciária de crédito de R$ 7.783.295,94 (mais acréscimos legais) decorrente de Precatório do Cumprimento de Sentença nº 50000756-68.2021.4.04.7103"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilização de interposta pessoa para ocultar bens",
+  "Declarar que não alienou ou onerou bens para frustrar a recuperação dos créditos",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6.757/22",
+  "Declarar veracidade das informações cadastrais e patrimoniais",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Apresentar situação econômico-financeira anualmente via balanço contábil",
+  "Manter em dia pagamento de impostos, taxas e tributos sobre bens dados em garantia",
+  "Peticionar nos processos judiciais no prazo de 60 dias noticiando a celebração da transação",
+  "Individualizar valores recolhidos ao FGTS nas contas vinculadas dos trabalhadores"
+ ],
+ "special_clauses": [
+  "Cláusula 11 - garantia via crédito de precatório (Cumprimento de Sentença nº 50000756-68.2021.4.04.7103), com 50% do valor destinado à quitação do FGTS e demais parcelas previdenciárias",
+  "Cláusula 11 §4º - concordância da União com destinação ao Hospital do saldo excedente ao montante de 50% do precatório, para pagamento de serviços médicos e verbas salariais de médicos celetistas e aquisição de aparelho de ressonância magnética",
+  "Cláusula 8ª parágrafo único - uso de crédito de Cumprimento de Sentença para amortização do saldo devedor",
+  "Parágrafo único da Cláusula 10 - restrição da expropriação do imóvel, em caso de rescisão, à cobrança de contribuições previdenciárias, nos termos da Lei 14.334/2022 enquanto mantida certificação da LC 187/2021"
+ ],
+ "sector": "Saúde (hospitalar/filantrópico)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.95,
+  "modality": 0.9,
+  "sector": 0.7,
+  "consolidated_amount": 0.5,
+  "total_discount_pct": 0.2,
+  "installments": 0.2,
+  "down_payment_pct": 0.1,
+  "discounts.fine_pct": 0.1,
+  "discounts.interest_pct": 0.1,
+  "discounts.charges_pct": 0.1,
+  "guarantees": 0.85,
+  "obligations": 0.8,
+  "judicial_recovery": 0.1,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Considerado o valor consolidado (anterior aos descontos) dos créditos tributários, atualizados até setembro de 2022, no montante de R$ 14.015.411,70 ... e no montante de R$ 14.860.878,39, aplicados os descontos legais",
+  "discount_mean_annex_I": "sendo concedido o desconto médio de 37,48%, conforme simulações anexas",
+  "discount_mean_annex_II": "sendo concedido o desconto médio de 37,36%, conforme simulações anexas",
+  "discount_annex_III": "sendo concedido o desconto de 27,39%, valores atualizados conforme extrato extraído no dia 26/08/2022",
+  "installments_annex_I": "serão objeto de plano de pagamento em 60 (sessenta) amortizações mensais e sucessivas",
+  "installments_annex_II": "prevê o pagamento em 145 (cento e quarenta e cinco) parcelas mensais e sucessivas",
+  "installments_annex_III": "serão objeto de plano de pagamento em 110 (cento e dez) amortizações mensais e sucessivas"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "8fba72213429",
+ "title": "Termo de Transação Individual - Santa Casa de Caridade de Uruguaiana",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualSantaCasadeCaridadedeUruguaiana.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualSantaCasadeCaridadedeUruguaiana.pdf",
+ "sha256": "08d2db2d4824bb3cf793c1cf6658ff390722853d782339b5ed066438bb91b3b2",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

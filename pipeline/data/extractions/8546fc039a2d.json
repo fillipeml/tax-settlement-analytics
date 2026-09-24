@@ -1,0 +1,86 @@
+{
+ "taxpayer": "Indústrias Artefama S/A em Recuperação Extrajudicial",
+ "approval_date": "2024-08-28",
+ "consolidated_amount": 12737788.05,
+ "modality": "Transação Individual - Débitos Previdenciários - PJ - Demais RJE - até 60 prestações - redução de até 65%",
+ "total_discount_pct": 64.69,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel descrito no Anexo II (matrícula tarjada)",
+  "Manutenção de bloqueios decorrentes de penhoras on-line nos processos relacionados aos créditos negociados"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienaram ou oneraram bens com propósito de frustrar recuperação de créditos",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6.757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos da RFB com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Declarar não possuir créditos/precatórios federais líquidos e certos em desfavor da União",
+  "Não desistir unilateralmente do acordo",
+  "Confessar de forma irrevogável e irretratável a dívida",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos, no prazo de 30 dias",
+  "Apresentar comprovantes de protocolo das petições de desistência em até 30 dias",
+  "Peticionar em demais processos judiciais relacionados à transação em até 30 dias",
+  "Quitar custas processuais pendentes e despesas de cancelamento de leilões",
+  "Substituir ou reforçar garantia em caso de depreciação/perecimento, no prazo de 30 dias",
+  "Apresentar situação econômico-financeira sempre que demandado pela Fazenda Nacional",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições"
+ ],
+ "special_clauses": [
+  "Condições concedidas em razão de decisão judicial (mandado de segurança nº 5008790-36.2024.4.04.7100) determinando reexame da proposta considerando a condição de recuperação extrajudicial, classificada com capacidade de pagamento D",
+  "Valores bloqueados judicialmente e valores pendentes de arrematações anteriores destinados à quitação/liquidação da conta",
+  "Juros calculados pela SELIC acumulada mensalmente a partir do mês subsequente à assinatura, mais 1% no mês do pagamento",
+  "Não pagamento da 1ª parcela impede consolidação e gera cancelamento da transação",
+  "Nomeação da União como procuradora em causa própria para receber indenização de desapropriação e aplicar na amortização da dívida"
+ ],
+ "sector": "Indústria moveleira",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.3,
+  "discounts": 0.2,
+  "guarantees": 0.7,
+  "judicial_recovery": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Aplicando-se os descontos previstos na Lei Federal nº 13.988/2020 de acordo com a capacidade de pagamento a conta totalizou R$ 12.737.788,05, sendo concedido um percentual efetivo final de 64,69%.",
+  "total_discount_pct": "sendo concedido um percentual efetivo final de 64,69%",
+  "installments": "O parcelamento será realizado em 60 (sessenta) parcelas"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees"
+ ],
+ "id": "8546fc039a2d",
+ "title": "Termo de Transação Individual - Indústrias Artefama SA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualIndstriasArtefamaSATarajado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualIndstriasArtefamaSATarajado.pdf",
+ "sha256": "10d5603365e1615dc74daa0c4626cd795416caf2740b069045433f25ded894a2",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

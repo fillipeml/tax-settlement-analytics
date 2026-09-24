@@ -1,0 +1,83 @@
+{
+ "taxpayer": "SHOPPING BOTUCATU EMPREENDIMENTOS S.A.",
+ "approval_date": "2023-08-30",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 114,
+ "down_payment_pct": 4.0,
+ "guarantees": [
+  "Bem imóvel matriculado (dados tarjados), de propriedade de terceiro, localizado em Botucatu/SP, oferecido à penhora nos autos da execução fiscal nº 5000363-11.2023.4.03.6131"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Declarar preenchimento dos requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Formalizar garantia ofertada em 30 dias da assinatura do termo",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor aproximado de R$ 2.181.073,93 para amortização do saldo devedor após descontos",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal fica suspensa até confirmação dos créditos pela autoridade competente, mantendo garantias até quitação integral",
+  "Possibilidade de alienação do bem dado em garantia mediante prévia anuência da Fazenda Nacional, com inclusão da Fazenda como interveniente anuente no contrato de compra e venda",
+  "Utilização do sistema COMPREI para eventual alienação de bens penhorados em execuções fiscais",
+  "Direcionamento de eventuais créditos de precatórios ou depósitos judiciais para amortização dos saldos devedores da Transação"
+ ],
+ "sector": "Shopping centers / entretenimento e varejo",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "judicial_recovery": 0.6,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "down_payment_pct": "Pagamento de entrada equivalente à 4% (quatro por cento) do valor do total dos débitos consolidados, sem incidência de desconto, em 6 (seis) prestações mensais e sucessivas",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em 114 (cento e quatorze) prestações mensais e sucessivas, conforme Anexo II"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "63b164233aea",
+ "title": "Termo de Transação Individual - Shopping Park Botucatu",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualShoppingParkBotucatuInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualShoppingParkBotucatuInformaesSigilosasSuprimidas.pdf",
+ "sha256": "10055b69e1c4c4507ec8315511b59aaafe69650eecf56bb508e2fb00f1473488",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

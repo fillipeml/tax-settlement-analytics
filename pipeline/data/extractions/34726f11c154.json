@@ -1,0 +1,66 @@
+{
+ "taxpayer": "BORAQUÍMICA LTDA (e outros requerentes solidários: Luiz Antônio Bueno Costa, Marcos Antônio Bueno Costa, Rogério José Bonato, Rodolfo Cavinato Gonçalvez Chaves, Fábio Gonçalves Chaves, Rodrigo Gonçalves Chaves, TJ-Log Armazéns Gerais Ltda, Bueno Prestação de Serviços Eireli-ME, Comercial Auto House Ltda)",
+ "approval_date": "2024-12-09",
+ "consolidated_amount": null,
+ "modality": "Termo Aditivo de Transação Individual (repactuação)",
+ "total_discount_pct": 36.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manutenção das disposições da transação vigente, especialmente garantias, condições negociadas e causas de rescisão",
+  "Cumprimento do plano de pagamento repactuado"
+ ],
+ "special_clauses": [
+  "Majoração do desconto para 36% em razão de atualização da Capacidade de Pagamento Presumida (capag) para R$ 181.169.858,81",
+  "Repactuação do plano de pagamento a pedido da Requerente (requerimento nº 20240377778) em virtude de dificuldade financeira para adimplemento das parcelas",
+  "Vedada a redução do montante principal, desconto aplicado proporcionalmente sobre multa, juros e encargos",
+  "Extinção do débito somente após integral cumprimento dos requisitos previstos no momento da celebração do acordo (art. 156, III, CTN)"
+ ],
+ "sector": "Químico",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.6,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "2.1.2 Desconto sobre o saldo remanescente, após o pagamento da entrada, de 36% (trinta e seis por cento), vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "34726f11c154",
+ "title": "Termo de Transação Individual - Boraquímica LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualBoraqumicaLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualBoraqumicaLTDATarjado.pdf",
+ "sha256": "c180c5876ff777f7a904d63bc658692ff176a99c550453edec46b0ff30bf4f7c",
+ "extracted_at": "2026-07-22T14:22:36+00:00",
+ "simulated": false
+}

@@ -1,0 +1,70 @@
+{
+ "taxpayer": "TOMOVALE CENTRO DE DIAGNOSTICO POR IMAGEM LTDA.",
+ "approval_date": "2025-01-07",
+ "consolidated_amount": 11893175.25,
+ "modality": "Transação Individual (modalidades DEMAIS e PREV)",
+ "total_discount_pct": 41.23,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 50,
+ "down_payment_pct": 0.0,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Regularizar em até 90 dias os débitos inscritos em Dívida Ativa ou exigíveis após a formalização",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter por 5 anos os livros e documentos exigidos pelas normas fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Permanecer no regime do lucro real durante a vigência da transação",
+  "Peticionar em até 60 dias nos processos judiciais relativos à Dívida Transacionada"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor, em valor correspondente a R$ 2.358.916,41, respeitados os limites de 70% do saldo devedor com descontos",
+  "Cobrança do saldo liquidado com uso de créditos de PF/BCN ficará suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo de 5 anos",
+  "Transação realizada sem apresentação de garantia"
+ ],
+ "sector": "Saúde (diagnóstico por imagem)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.7,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "discounts": 0.2,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.3,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "PASSIVO FISCAL CONSOLIDADO | R$ 11.893.175,25",
+  "total_discount_pct": "PERCENTUAL DE DESCONTO MÉDIO DEMAIS | 41,23% ... PERCENTUAL DE DESCONTO MÉDIO PREV | 50,09%",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em 50 (cinquenta) prestações mensais e sucessivas, conforme Anexo II ... Parcelamento do saldo devido na modalidade PREV em 50 (cinquenta) prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "1b6db2423f8e",
+ "title": "Termo de Transação Individual - Tomovale Centro de Diagnostico por Imagem LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTomovaleCentrodeDiagnosticoporImagemLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTomovaleCentrodeDiagnosticoporImagemLTDATarjado.pdf",
+ "sha256": "71e543b0b3cd80f5320e4e66dc3ced237da9b033c6067602155a4d826dcd1eec",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

@@ -1,0 +1,78 @@
+{
+ "taxpayer": "RODOPA INDUSTRIA E COMERCIO DE ALIMENTOS LTDA e FORTE EMPREENDIMENTOS E PARTICIPACOES LTDA",
+ "approval_date": "2025-05-13",
+ "consolidated_amount": 168728385.39,
+ "modality": "Transação Individual",
+ "total_discount_pct": 59.29,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 6,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens ou direitos com propósito de frustrar recuperação dos créditos",
+  "Autorizar compensação de valores de restituições, ressarcimentos ou reembolsos com prestações do acordo",
+  "Autorizar compensação de valores de precatórios federais de que seja credora",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a formalização da Transação",
+  "Comprovar em 60 dias a desistência do contencioso administrativo fiscal",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda",
+  "Manter-se optante pelo lucro real durante toda a vigência do acordo",
+  "Reconhecer responsabilidade solidária pela totalidade dos débitos transacionados"
+ ],
+ "special_clauses": [
+  "Utilização de créditos decorrentes de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 70% do saldo da dívida após descontos",
+  "Não haverá oferta de garantia vinculada à presente Transação, considerando redução do prazo para pagamento",
+  "Responsabilidade solidária entre as empresas do grupo pelo pagamento integral dos débitos",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL ficará suspensa até confirmação pela autoridade competente"
+ ],
+ "sector": "Alimentos",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "down_payment_pct": 1.0,
+  "installments": 1.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 1.0,
+  "obligations": 0.95,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 168.728.385,39 (cento e sessenta e oito milhões, setecentos e vinte oito mil, trezentos e oitenta e cinco reais e trinta e nove centavos) - atualizado até 03/2025",
+  "total_discount_pct": "PERCENTUAL DE DESCONTO MÉDIO 59,29%",
+  "installments": "Pagamento da Dívida Transacionada, tanto a de natureza não previdenciária (\"Dívida Transacionada — Demais Débitos\"), quanto a de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 6 (seis) prestações mensais sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "938c4948f4e7",
+ "title": "Termo de Transação Individual - Rodopa Indústria e Comércio de Alimentos LTDA, Forte Empreendimentos e Participações LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRodopaIndustriaeComrciodeAlimentosLTDAForteEmpreendimentoseParticipaesLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRodopaIndustriaeComrciodeAlimentosLTDAForteEmpreendimentoseParticipaesLTDA.pdf",
+ "sha256": "4382f33ec92659319d363dc62a2b45d22e89916a9f31ccac93f9eed27e74fafd",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

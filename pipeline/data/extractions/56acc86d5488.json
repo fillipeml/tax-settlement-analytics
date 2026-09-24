@@ -1,0 +1,84 @@
+{
+ "taxpayer": "WTORRE S/A e outras empresas do grupo WTorre/Real/WT (grupo econômico)",
+ "approval_date": "2024-10-29",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 57.21,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhor de 50% das cotas sociais da Sociedade WTPR Empreendimentos Imobiliários Ltda (Anexo IV)",
+  "Penhora de bens imóveis (Anexo V)",
+  "Apólice de Seguro Garantia na execução fiscal nº 5015076-71.2019.4.03.6182"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Declarar cumprimento dos requisitos da Lei 13.988/2020",
+  "Não utilizar a Transação de forma abusiva",
+  "Declarar não utilização de pessoa interposta",
+  "Declarar não alienação/oneração de bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Manter-se optante pela tributação pelo lucro real durante a vigência do acordo",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda",
+  "Formalizar penhor de quotas em 30 dias",
+  "Formalizar penhora dos imóveis em 30 dias",
+  "Comprovar formalização das penhoras em 90 dias",
+  "Apresentar anualmente demonstrativo de suficiência das garantias",
+  "Peticionar em 30 dias nos processos judiciais para noticiar a transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação de bens imóveis dados em garantia para amortização do plano de pagamento (item 4)",
+  "Utilização de crédito decorrente de prejuízo fiscal e base de cálculo negativa de CSLL, limitado a 70% do saldo da dívida após descontos (item 2.1.4)",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas (item 3.5)",
+  "Anuência ao uso do sistema COMPREI para alienação de imóveis em garantia em caso de rescisão (item 3.7)",
+  "Ressalva de saldo de débitos negociados em Transação por Adesão anterior, a ser pago em 108 (demais débitos) ou 48 (previdenciária) prestações"
+ ],
+ "sector": "Imobiliário/Construção Civil e Engenharia",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.1,
+  "total_discount_pct": 0.9,
+  "installments": 0.85,
+  "down_payment_pct": 0.1,
+  "discounts": 0.2,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.7,
+  "judicial_recovery": 0.3
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), resultante no desconto efetivo médio de 57,21% (cinquenta e sete e vinte e um avos porcento).",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais, escalonadas na forma discriminada no Anexo III, ressalvado o saldo dos débitos negociados na Transação por Adesão, firmada anteriormente à data de assinatura do Termo, que deverá ser pago em 108 (cento e oito) prestações mensais;"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "judicial_recovery"
+ ],
+ "id": "56acc86d5488",
+ "title": "Termo de Transação Individual - Wtorre Engenharia e Construção LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualWtorreEngenhariaeConstruoLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualWtorreEngenhariaeConstruoLTDATarjado.pdf",
+ "sha256": "74d7ae6807a87cfc5b2f5b787e1db2744a186bbae9c51e6d3bc708f1db95d0f6",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

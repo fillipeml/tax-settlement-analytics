@@ -1,0 +1,78 @@
+{
+ "taxpayer": "GRANRIVA GRANITOS LTDA",
+ "approval_date": "2022-10-31",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança (garantia fidejussória prestada pelos GARANTIDORES/fiadores Renner Antônio Riva e Sônia Helena Suella Riva)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar/dissimular origem ou destino de bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Declarar que informações cadastrais, patrimoniais e econômico-fiscais são verdadeiras",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens/direitos que possam inviabilizar ou reduzir a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da Transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Transação vinculada ao cumprimento do plano de recuperação judicial (processo nº 014.11.002637-5)",
+  "Desconto máximo de até 70% a cada CDA, vedada redução do montante principal, aplicado proporcionalmente sobre acréscimos legais (multa, juros e encargos)",
+  "Rating D da Requerente considerado para as condições concedidas",
+  "Possibilidade de direcionamento de créditos (precatórios, depósitos judiciais) para abatimento do saldo devedor",
+  "Cláusula de responsabilização dos garantidores em caso de descumprimento (item 3.5)"
+ ],
+ "sector": "Extração e beneficiamento de granitos (mineração/materiais de construção)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.9,
+  "modality": 0.9,
+  "sector": 0.5,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais no valor de R$1.256,92 (em maio/2022)",
+  "installments_social_security": "Pagamento da Dívida Transacionada de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 60 (sessenta) prestações mensais no valor de R$547,37 (em maio/2022)",
+  "discount_max": "Desconto máximo de até 70% (setenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "d2e4e242b6fd",
+ "title": "Termo de Transação Individual - Granriva Granitos LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualGranrivaGranitosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualGranrivaGranitosLTDA.pdf",
+ "sha256": "7f0e66fc81bbb87f0e24c29949bff17da8a5cc5f7b1f25df157bf559dec91654",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

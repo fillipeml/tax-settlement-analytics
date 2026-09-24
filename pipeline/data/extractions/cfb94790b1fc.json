@@ -1,0 +1,73 @@
+{
+ "taxpayer": "IRMANDADE DE SANTA IZABEL DE CABO FRIO",
+ "approval_date": "2024-05-28",
+ "consolidated_amount": 61567321.53,
+ "modality": "Transação Individual",
+ "total_discount_pct": 52.85,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel constituído pelo Lote 06, da Quadra \"C\", localizado no bairro Tocaia, em Cabo Frio/RJ, Matrícula 37.210, do Cartório de Registro de Imóveis do 1º e 4º Distrito de Cabo Frio/RJ",
+  "Imóvel localizado na Rua Barão do Rio Branco, 72, bairro Passagem, em Cabo Frio/RJ, Matrícula nº 11.341, do Cartório de Registro de Imóveis do 1º e 4º Distrito de Cabo Frio/RJ"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter em dia o pagamento de todos os impostos e taxas federais, estaduais e municipais que incidam sobre os imóveis dados em garantia",
+  "Manter a regularidade perante o FGTS",
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional",
+  "Comunicar à Fazenda Nacional e ao Juízo das execuções fiscais a superveniência de penhora ou novo gravame sobre o bem oferecido em garantia",
+  "Permanecer nos parcelamentos já aderidos, honrando os pagamentos até completa quitação das CDAs",
+  "No prazo de 90 dias, pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União após a formalização do acordo",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações"
+ ],
+ "special_clauses": [
+  "Transformação em pagamento definitivo de valores bloqueados/depositados judicialmente para amortização da dívida (cláusula 2.3)",
+  "Possibilidade de substituição de garantia em caso de alienação com concordância da Fazenda Nacional, com reversão de 30% do valor auferido (cláusula 3.4.3)",
+  "Vedação de nova transação por outro plano de amortização sobre as mesmas inscrições (cláusula 6.3)",
+  "Possibilidade de desistência do acordo para inclusão em programa de parcelamento especial futuro (cláusula 6.3.1)"
+ ],
+ "sector": "Saúde/filantropia (santa casa/hospital)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 0.95,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 1.0,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "VALOR TOTAL TRANSACIONADO R$61.567.321,53",
+  "total_discount_pct": "Total 61.567.321,53 52,85%",
+  "installments": "O plano de pagamento relativo aos débitos não previdenciários e previdenciários, prevê seu recolhimento em 145 e 60 parcelas mensais sucessivas, respectivamente"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "cfb94790b1fc",
+ "title": "Termo de Transação Individual - Irmandade de Santa Izabel de Cabo Frio (PGFN)",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualIrmandadedeSantaIzabeldeCaboFrioPGFNtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualIrmandadedeSantaIzabeldeCaboFrioPGFNtarjado.pdf",
+ "sha256": "bd1ed2f663c1e9b870e491613fbc0ba740c18a7e3acb52da3de932e93d6ae4ae",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

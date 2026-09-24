@@ -1,0 +1,72 @@
+{
+ "taxpayer": "TV CIDADE FORTALEZA LTDA",
+ "approval_date": "2023-11-17",
+ "consolidated_amount": 56945317.23,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de Matrícula nº 12.395, do Cartório de Registro de Imóveis da 4ª Zona da Comarca de Fortaleza - Ceará (Cartório Miranda Bezerra), prédio nº 2565, Avenida Desembargador Moreira, 04 pavimentos, avaliado em R$ 14.359.000,00, já penhorado nos autos da execução fiscal 0043333-15.1996.4.05.8100",
+  "Manutenção de garantias já associadas aos débitos, inclusive penhoras prévias em execuções fiscais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos administrativos e ações judiciais relativos aos débitos",
+  "Comunicação prévia à Fazenda Nacional antes de alienar bens ou direitos",
+  "Não utilizar interposta pessoa para ocultar bens, direitos ou valores",
+  "Não alienar, onerar ou ocultar bens com propósito de frustrar a recuperação dos créditos",
+  "Apresentar situação econômico-financeira anualmente (balanço/demonstração de resultados) ou quando solicitado pela PGFN",
+  "Manter recolhimento de obrigações tributárias correntes e acessórias",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo"
+ ],
+ "special_clauses": [
+  "Possibilidade de alteração dos valores das prestações a depender do resultado dos PRDIs apresentados junto ao E-CAC (SICAR), após análise da PGFN (§5º, Cláusula 3ª)",
+  "Em caso de rescisão, alienação do imóvel dado em garantia via plataforma Comprei, com limite mínimo de 50% do valor de avaliação (Cláusula 8ª)",
+  "Direito creditório superveniente (incluindo precatórios) deverá ser vertido para pagamento da transação, mesmo que para antecipação de parcelas não vencidas (Cláusula 16)"
+ ],
+ "sector": "Comunicação/TV (entretenimento)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.9,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.95,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "PREVIDENCIÁRIOS R$ 14.372.557,61 ... DEMAIS R$ 42.572.759,12",
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 65% (sessenta e cinco por cento), observadas suas capacidades de pagamento (CAPAG)",
+  "installments": "para pagamento de forma escalonada no prazo de 120 (cento e vinte) meses, a dívida não-previdenciária, e no prazo de 60 (sessenta meses), a dívida previdenciária"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "4f08f402ce93",
+ "title": "Termo de Transação Individual - TV Cidade Fortaleza",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransacaoIndividualTVCidadeFortalezatarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransacaoIndividualTVCidadeFortalezatarjado.pdf",
+ "sha256": "49b654e13ea7234797721e0ab4e0fefdeefdb9b3a39c88fc8575cd47e53ce71e",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

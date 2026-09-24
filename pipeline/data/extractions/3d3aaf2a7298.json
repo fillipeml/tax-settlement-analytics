@@ -1,0 +1,54 @@
+{
+ "taxpayer": "LABORATÓRIOS BALDACCI LTDA EM RECUPERAÇÃO JUDICIAL (CNPJ 61.150.447/0001-31)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 12167173.45,
+ "modality": "Transação individual",
+ "total_discount_pct": 31.91,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de eventuais garantias eventualmente existentes nos processos em curso"
+ ],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [
+  "Parcelas lineares",
+  "Manutenção de eventuais garantias eventualmente existentes nos processos em curso"
+ ],
+ "sector": "Farmacêutico",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.8,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.9,
+  "down_payment_pct": 0.9,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada Total: R$ 12.167.173,45",
+  "total_discount_pct": "Desconto efetivo médio Total: 31,91%",
+  "installments": "Número de parcelas Previdenciária: 1 / Demais débitos: 1"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date"
+ ],
+ "id": "3d3aaf2a7298",
+ "title": "SumrioLaboratriosBaldacci.pdf",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioLaboratriosBaldacci.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioLaboratriosBaldacci.pdf",
+ "sha256": "f016222a4918f6369b6ee17b9f36eaafe513fd4dd5aeb1334e6eaa81ac4b1eea",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

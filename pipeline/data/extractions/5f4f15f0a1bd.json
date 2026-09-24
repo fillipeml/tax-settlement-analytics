@@ -1,0 +1,74 @@
+{
+ "taxpayer": "GELOG LOCACOES E TRANSPORTES LTDA",
+ "approval_date": "Not identified",
+ "consolidated_amount": 141593367.33,
+ "modality": "Transação Individual",
+ "total_discount_pct": 46.71,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Veículos listados e avaliados conforme documentos do Anexo III",
+  "Fiadores pessoa natural (dois fiadores assinam o termo)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens ou direitos com propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais prestadas",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Formalizar penhora dos bens nos autos das execuções fiscais listadas em 30 dias",
+  "Peticionar nos processos judiciais em até 60 dias para noticiar a celebração da Transação, desistir de impugnação/recurso/ação e renunciar aos direitos"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação de bens imóveis dados em garantia, mediante prévia anuência da Fazenda Nacional (cláusula 4)",
+  "Eventuais créditos de precatório ou levantamento de depósito judicial deverão ser direcionados para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Transportes/Locação de veículos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.2,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "discounts": 0.3,
+  "down_payment_pct": 0.2,
+  "installments": 0.9,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.2,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL ... Consolidado R$ 141.593.367,33",
+  "total_discount_pct": "Desconto máximo de 46,71% (quarenta e seis inteiros, e setenta e um centésimos por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais, escalonadas na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "discounts",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "5f4f15f0a1bd",
+ "title": "Termo de Transação Individual - Gelog Locações e Transportes LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualGelogLocaeseTransportesLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualGelogLocaeseTransportesLTDATarjado.pdf",
+ "sha256": "660b417b39a54eb340f016b75b00101b69d691a5fa43333908cd1494f847939e",
+ "extracted_at": "2026-07-22T14:22:42+00:00",
+ "simulated": false
+}

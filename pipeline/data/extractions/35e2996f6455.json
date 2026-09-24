@@ -1,0 +1,69 @@
+{
+ "taxpayer": "NÚCLEO INDÚSTRIA TÊXTIL LTDA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2025-05-29",
+ "consolidated_amount": 1999943.92,
+ "modality": "Transação Individual - Empresa em recuperação judicial",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 96,
+ "down_payment_pct": 3.0,
+ "guarantees": [
+  "Manutenção das garantias eventualmente existentes"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Fornecer informações sobre bens, direitos, valores e transações à PGFN",
+  "Autorizar acesso da Fazenda Nacional a declarações e escritas fiscais",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando débitos em até 90 dias",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da Transação e desistir/renunciar",
+  "Não distribuir lucros ou dividendos a sócios até aprovação do plano de recuperação judicial",
+  "Peticionar em até 60 dias no processo de recuperação judicial noticiando a celebração da Transação"
+ ],
+ "special_clauses": [
+  "Uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) para amortização da Dívida Transacionada, limitado a até 44,50% do saldo devedor da Dívida Previdenciária e até 36,15% do saldo devedor da Dívida Demais Débitos, com limite total de R$ 5.600.659,39",
+  "Condições estabelecidas com base na presunção de irrecuperabilidade prevista no artigo 11, §5º, da Lei 13.988/2020"
+ ],
+ "sector": "Têxtil",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.85,
+  "installments": 0.6,
+  "down_payment_pct": 0.6,
+  "discounts": 0.3,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.8,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Totais: 1.999.943,92 476.706,92 195.338,21 546.519,02 181.396,58 1.399.960,74 599.983,17 70,00%",
+  "total_discount_pct": "Concede-se o desconto máximo de 70% (setenta por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal.",
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Demais Débitos será adimplido com pagamento de entrada de 3% em 12 (doze) prestações mensais e saldo em 96 (noventa e seis) prestações mensais, sucessivas e lineares."
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "installments",
+  "down_payment_pct",
+  "discounts"
+ ],
+ "id": "35e2996f6455",
+ "title": "Termo de Transação Individual - Núcleo Indústria Têxtil LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualNcleoIndstriaTxtilLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualNcleoIndstriaTxtilLTDA.pdf",
+ "sha256": "ce57a14e8bf98cc45aa01fd347154e5927f8c8829479c9afcd4b77c634409497",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

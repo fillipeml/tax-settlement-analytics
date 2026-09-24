@@ -1,0 +1,71 @@
+{
+ "taxpayer": "CLÍNICA DE REPOUSO SANTA LÚCIA LTDA",
+ "approval_date": "2021-08-19",
+ "consolidated_amount": 7794299.57,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 110,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Cessão parcial de precatório (Requisição 20510016437)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Reconhecimento e confissão irrevogável e irretratável dos débitos",
+  "Petição nos processos judiciais em até 30 dias para noticiar a transação",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa em até 90 dias",
+  "Manter regularidade perante o FGTS",
+  "Individualização dos pagamentos ao FGTS via SEFIP em até 30 dias",
+  "Diligenciar perante o Juízo da 1ª VF de Nova Friburgo para recolhimento dos DARF"
+ ],
+ "special_clauses": [
+  "Cessão parcial de precatório para pagamento à vista dos débitos",
+  "Anuência da Procuradoria do Município de Nova Friburgo em razão de intervenção administrativa (Decreto 995/2021)",
+  "Pagamento condicionado à disponibilização do precatório, com possibilidade de conversão em parcelamento de 110 parcelas para débitos do FGTS caso não haja liberação integral"
+ ],
+ "sector": "Saúde/Clínica de repouso",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O plano de pagamento relativo aos débitos previdenciários e não previdenciários (ANEXO II), cujo total consolidado após a incidência dos descontos é de R$ 6.363.880,32 (...) O plano de pagamento relativo aos débitos perante o FGTS (ANEXO III), cujo total consolidado referente a julho de 2021, após a incidência dos descontos, é de R$ 1.430.419,25",
+  "installments": "prevê o recolhimento em 110 (cento e dez) parcelas, cada uma no valor de R$ 13.003,81 (treze mil e três reais e oitenta e um centavos) – Modalidade 6 do ANEXO III"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "consolidated_amount"
+ ],
+ "id": "0eedde0626a8",
+ "title": "Termo de Transação Individual - Repousa Santa Lúcia LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualRepousaSantaLuciaLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualRepousaSantaLuciaLTDA.pdf",
+ "sha256": "402a71a77f56a212cf6223bdb44da3d9a9b24dc60d33e0c1db428c1a78fde9f1",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

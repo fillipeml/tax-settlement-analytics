@@ -1,0 +1,76 @@
+{
+ "taxpayer": "EXIMBIZ COMERCIO INTERNACIONAL S.A",
+ "approval_date": "2023-05-24",
+ "consolidated_amount": 318196644.86,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": 65.0,
+  "interest_pct": 65.0,
+  "charges_pct": 65.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel sede da DEVEDORA - Rodovia Governador Mário Covas, 3979, km 268, Planalto de Carapina, Serra/ES, matrícula nº 24.677 e 25.382 (Cartório 1º Ofício da 2ª Zona da Comarca da Serra/ES)",
+  "Imóvel 'Fazenda Santa Mônica' - Rodovia ES-060, s/n, Santa Mônica, Vila Velha, ES, matrículas 18.911, 4.023, 31.588 e 48.700 (Cartório 2º Ofício de Guarapari/ES)",
+  "Apartamento 1102 - Edifício Athenas, Rua Itaoca, 20, Praia de Itaparica, Vila Velha/ES, matrícula nº 138.696",
+  "Apartamento 1103 - Edifício Athenas, Rua Itaoca, 20, Praia de Itaparica, Vila Velha/ES, matrícula nº 55.872",
+  "Apartamento 1104 - Edifício Athenas, Rua Itaoca, 20, Praia de Itaparica, Vila Velha/ES, matrículas nº 136.058 e 136.057"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistir de impugnações, recursos e ações administrativas ou judiciais relativas à Dívida Transacionada",
+  "Reconhecer e confessar de forma irrevogável e irretratável a dívida",
+  "Manter regularidade perante o FGTS e proceder à individualização dos valores recolhidos",
+  "Não alienar bens ou direitos próprios ou de controladores/sócios sem comunicação à Fazenda Nacional enquanto não quitada a transação",
+  "Não utilizar pessoa interposta para ocultar origem/destinação de bens",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União no prazo de 90 dias",
+  "Permanecer nos parcelamentos já aderidos, honrando pagamentos até quitação das CDAs",
+  "Manter livros e documentos comprobatórios de créditos de prejuízo fiscal e base negativa da CSLL durante o período de análise",
+  "Efetuar pagamento regular de tributos federais, estaduais e municipais sobre os imóveis dados em garantia",
+  "Comprovar em 30 dias o protocolo de pedido de penhora judicial dos imóveis em garantia"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação de até 10% do saldo remanescente",
+  "Possibilidade de substituição de garantia caso não seja possível o registro do imóvel 'Fazenda Santa Mônica'",
+  "Liberação parcial de garantias mediante quitação de 50% ou mais do saldo da transação, sob condições específicas",
+  "Faculdade de adquirir precatórios federais ou créditos líquidos e certos para amortização/quitação do saldo devedor",
+  "Compensação de valores de restituições, ressarcimentos, reembolsos ou precatórios federais com as parcelas do acordo",
+  "Suspensão da cobrança do saldo liquidado com créditos de prejuízo fiscal até confirmação pela RFB, podendo liberar garantias mediante carta fiança"
+ ],
+ "sector": "Comércio internacional",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.85,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal do DEVEDOR objeto da presente transação é composto das inscrições constantes do ANEXO I, totalizando R$ 318.196.644,86 (trezentos e dezoito milhões, cento e noventa e seis mil, seiscentos e quarenta e seis reais, oitenta e seis centavos), atualizados em 10.05.2023.",
+  "total_discount_pct": "Concessão do desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a Dívida Transacionada de natureza não previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento do saldo remanescente a ser efetuado em 120 (cento e vinte) meses, por meio de parcelas escalonadas da seguinte forma:"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "f27e3549a0f4",
+ "title": "Termo de Transação Individual - Eximbiz Comercio Internacional SA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualEximbizComercioInternacionalSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualEximbizComercioInternacionalSA.pdf",
+ "sha256": "d57e19c60328500c9ea14fd18d622dceb8a02751ab310fac9b4a49355c253f52",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

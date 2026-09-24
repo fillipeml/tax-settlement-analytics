@@ -1,0 +1,74 @@
+{
+ "taxpayer": "GASCOM EQUIPAMENTOS INDUSTRIAIS LTDA e TBA - TECNOLOGIA EM EQUIPAMENTOS LTDA",
+ "approval_date": "2023-08-14",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Direitos pessoais ou reais sobre o imóvel Matrícula nº 6.275 do RGI de Sertãozinho – SP, avaliado em R$20.000.000,00 nos autos da Execução Fiscal 5001493-65.2019.4.03.6102 em 08/03/2021",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em execuções fiscais/outras ações judiciais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar/dissimular bens, direitos ou valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais prestadas",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União ou precatórios federais em seu favor",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa após a formalização",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação prévia à Fazenda Nacional",
+  "Peticionar em até 60 dias nos processos judiciais relativos à Dívida Transacionada para noticiar a celebração da Transação, desistir de impugnações/recursos/ações e renunciar aos direitos, confessando a dívida de forma irrevogável e irretratável"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor de R$ 14.954.428,54 para amortização do saldo devedor após aplicação dos descontos, com cobrança suspensa até confirmação dos créditos pela autoridade competente (cláusula 2.1.4 e 2.1.5)",
+  "Possibilidade de alienação de bem imóvel dado em garantia, condicionada à anuência prévia da Fazenda Nacional e inclusão desta como interveniente anuente (cláusulas 5.1 e 5.2)",
+  "Direcionamento de eventuais créditos de precatórios ou depósitos judiciais para adimplemento dos saldos devedores (cláusula 2.5)"
+ ],
+ "sector": "Equipamentos industriais",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.4,
+  "approval_date": 0.6,
+  "consolidated_amount": 0.2,
+  "total_discount_pct": 0.5,
+  "discounts.fine_pct": 0.3,
+  "discounts.interest_pct": 0.3,
+  "discounts.charges_pct": 0.3,
+  "down_payment_pct": 0.1,
+  "installments": 0.9,
+  "modality": 0.9,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.3
+ },
+ "source_excerpts": {
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada — Demais Débitos\" em 120 (cento e vinte) prestações mensais, escalonadas na forma discriminada no Anexo II",
+  "discounts.charges_pct": "Desconto máximo de 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "approval_date",
+  "sector",
+  "judicial_recovery"
+ ],
+ "id": "1c42867ff7be",
+ "title": "Termo de Transação Individual - Gascom Equipamentos Industriais LTDA, TBA -Tecnologia em Equipamentos LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualGascomEquipamentosIndustriaisLTDATBATecnologiaemEquipamentosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualGascomEquipamentosIndustriaisLTDATBATecnologiaemEquipamentosLTDA.pdf",
+ "sha256": "4c62a4f10c6bd4539225a807cf9cc383dbf1c09589431c97f3a5cabcda653e26",
+ "extracted_at": "2026-07-22T14:22:42+00:00",
+ "simulated": false
+}

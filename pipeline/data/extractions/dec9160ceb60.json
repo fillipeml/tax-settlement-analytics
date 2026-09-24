@@ -1,0 +1,75 @@
+{
+ "taxpayer": "COMP LINE INFORMÁTICA LTDA",
+ "approval_date": "2021-08-06",
+ "consolidated_amount": 73013319.23,
+ "modality": "Transação Individual",
+ "total_discount_pct": 41.59,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca de imóveis relacionados no ANEXO II, pertencentes a Felipe Daniel Mendonça Guarneri, Alexandra Nobre Mendonça, Vanessa Nobre Mendonça Araújo e Leonardo Araújo de Oliveira Silva, avaliados em R$ 5.333.262,00",
+  "Crédito a receber da WIZ SOLUÇÕES decorrente do Contrato de Compra e Venda de Quotas representativas do capital social da WIZ BPO, no valor de R$ 47.609.100,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos relacionados no ANEXO I",
+  "Renúncia a alegações de direito e questionamentos administrativos e judiciais sobre os débitos",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa no prazo máximo de 90 dias",
+  "Manter as garantias oferecidas até integral cumprimento das condições",
+  "Informar previamente à PGFN alienação ou disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou valor dos pagamentos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Não utilizar pessoa interposta para ocultar origem ou destinação de bens",
+  "Apresentar situação econômico-financeira anualmente com balanço contábil apurado",
+  "Registrar hipoteca sobre bens do ANEXO II no prazo de 45 dias"
+ ],
+ "special_clauses": [
+  "WIZ SOLUÇÕES e WIZ BPO comprometem-se a realizar o pagamento das prestações devidas caso o DEVEDOR não as cumpra (Cláusula 21)",
+  "Oferecimento em garantia de crédito a receber de contrato de compra e venda de quotas (Cláusula 20)",
+  "Possibilidade de suspensão dos pagamentos em caso de adesão a programa de parcelamento extraordinário mais benéfico (Cláusula 37)",
+  "Vedação de formalização de nova transação pelo DEVEDOR por 2 anos em caso de rescisão (§4º da Cláusula 28)"
+ ],
+ "sector": "Tecnologia/Informática",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "installments": 1.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam R$ 73.013.319,23, atualizado no mês de julho de 2021",
+  "total_discount_pct": "a presente transação envolve concessão do desconto máximo possível de 41,59% (quarenta e um inteiro e cinquenta e nove centésimos por cento), vedada a incidência sobre o principal do débito",
+  "installments": "O prazo para pagamento dos débitos previdenciários e não previdenciários será de 36 (trinta e seis) meses"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "dec9160ceb60",
+ "title": "Termo de Transação Individual - Comp Line",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-comp-line.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-comp-line.pdf",
+ "sha256": "f27a1a669b3f21d67b303006f54630aebb3b046b3b0ce4e43e13631c8b0589ef",
+ "extracted_at": "2026-07-22T14:22:25+00:00",
+ "simulated": false
+}

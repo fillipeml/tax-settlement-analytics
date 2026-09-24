@@ -1,0 +1,69 @@
+{
+ "taxpayer": "BONOR INDUSTRIA DE BOTÕES DO NORDESTE S/A - EM RECUPERAÇÃO JUDICIAL e BONOR INDUSTRIAL S/A - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-04-24",
+ "consolidated_amount": 48327746.11,
+ "modality": "Transação Individual (Plano de Regularização Fiscal) - Portaria PGFN nº 6.757/2022, com aplicação da Portaria PGFN nº 2.382/2020 para devedores em recuperação judicial",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens já penhorados ou porventura descritos no termo como garantia (não liberados pela transação)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Adesão ao REGULARIZE PGFN para formalização do plano de pagamento",
+  "Desistência de impugnações, recursos administrativos e ações judiciais relativas aos débitos",
+  "Comunicação à Fazenda Nacional antes de alienar bens ou direitos",
+  "Apresentação anual de demonstrações de resultado/balanço contábil ou sempre que a PGFN solicitar",
+  "Pagamento regular dos tributos correntes",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Petição noticiando aos juízos a celebração do acordo de transação individual"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de precatório (processo 0800049-46.2023.4.05.8400) para dedução do plano de pagamento dos débitos previdenciários",
+  "Condicionamento da venda de bens da parte devedora, enquanto não liquidada a dívida, à aquiescência da Fazenda Nacional",
+  "Em caso de rescisão, alienação de bens penhorados via plataforma COMPREI com limite mínimo de 50% do valor de avaliação",
+  "Não implica redução do montante principal do crédito inscrito em dívida ativa"
+ ],
+ "sector": "Industrial (indústria de botões/têxtil)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "judicial_recovery": 0.95,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.6,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.7,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total com reduções (A - C - B) 19.997.008,06 54.899,72 285.666,64 123.012,82 20.460.587,25 [previdenciário] + Total com reduções (A - C - B) 26.775.056,93 131.279,49 669.406,19 291.416,64 27.867.159,26 [demais débitos]",
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 65%",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 120"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "total_discount_pct"
+ ],
+ "id": "73d132f97311",
+ "title": "Termo de Transação Individual - Bonor Industria de Botões do Nordeste SA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualBonorIndustriadeBotesdoNordesteSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualBonorIndustriadeBotesdoNordesteSATarjado.pdf",
+ "sha256": "1525fa9cde433b9a0f66493762ff79780b20235c9ac00b67db2405cfa85cbbe7",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

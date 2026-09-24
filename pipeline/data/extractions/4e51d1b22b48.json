@@ -1,0 +1,58 @@
+{
+ "taxpayer": "RODOPA INDUSTRIA E COMERCIO DE ALIMENTOS LTDA (65.791.980/0001-33); FORTE EMPREENDIMENTOS E PARTICIPACOES LTDA (03.239.385/0001-32)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 168728385.39,
+ "modality": "Transação individual",
+ "total_discount_pct": 59.29,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 6,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de eventuais garantias eventualmente existentes nos processos em curso"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Alimentos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.9,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.0,
+  "judicial_recovery": 0.8,
+  "special_clauses": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada Total: R$ 168.728.385,39",
+  "total_discount_pct": "Desconto efetivo médio Total: 59,29%",
+  "installments": "Número de parcelas Previdenciária: 6 / Demais débitos: 6"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "4e51d1b22b48",
+ "title": "SumrioRodopaIndustriaeComrciodeAlimentosLTDAForteEmpreendimentoseParticipaesLTDA.pdf",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioRodopaIndustriaeComrciodeAlimentosLTDAForteEmpreendimentoseParticipaesLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioRodopaIndustriaeComrciodeAlimentosLTDAForteEmpreendimentoseParticipaesLTDA.pdf",
+ "sha256": "0396d180cb6a796565039abeacb2ed562a2ff9bd553289c4911335ae46a26b6a",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

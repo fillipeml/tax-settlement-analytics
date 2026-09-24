@@ -1,0 +1,79 @@
+{
+ "taxpayer": "PROJEÇÃO ENGENHARIA PAULISTA DE OBRAS EIRELI",
+ "approval_date": "2024-10-29",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar preenchimento dos requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Regularizar em 30 dias saldo decorrente de reconsolidação de conta de transação individual",
+  "Não alienar bens que possam inviabilizar capacidade de pagamento sem comunicação à Fazenda",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor após aplicação dos descontos em 70% para as modalidades DEMAIS DÉBITOS e PREVIDENCIÁRIO, limitado ao crédito disponível apresentado",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL fica suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de 5 anos",
+  "Consideração do rating D do contribuinte e situação transitória de crise para concessão das condições"
+ ],
+ "sector": "Engenharia/Construção Civil",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Nas modalidades DEMAIS DÉBITOS e PREVIDENCIÁRIOS, desconto máximo de até 65% (sessenta por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS DÉBITOS e PREVIDENCIÁRIOS em até 36 prestações mensais e sucessivas, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector",
+  "guarantees"
+ ],
+ "id": "bc4f806236eb",
+ "title": "Termo de Transação Individual - Projeção Engenharia Paulista de Obras Eireli",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualProjeoEngenhariaPaulistadeObrasEireliTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualProjeoEngenhariaPaulistadeObrasEireliTarjado.pdf",
+ "sha256": "7b1b17b749f24a4d1d008fa45f6b636fca3e6ea7aef5fd3447e5fc9b5d0f5945",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

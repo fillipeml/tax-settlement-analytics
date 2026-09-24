@@ -1,0 +1,80 @@
+{
+ "taxpayer": "TV ÔMEGA LTDA (REDETV!) e demais empresas do grupo (PROMO TV COMERCIAL LTDA, REDETV INTERACTIVE LTDA, TELETV SERVIÇOS INTERATIVOS LTDA, TV MIDIA PUBLICIDADE COMERCIAL LTDA, MIDIA TV COMERCIAL LTDA, IT INTERATIVIDADE TELEFONICA LTDA, TVI COMUNICAÇÃO INTERATIVA LTDA, TECNET TELEINFORMÁTICA LTDA, TECNET COMÉRCIO E SERVIÇOS LTDA, TECPLAN TELEINFORMÁTICA LTDA, SANDETUR VIAGENS E TURISMO LTDA)",
+ "approval_date": "2023-02-28",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Espaços publicitários em mídia televisiva (cotas de patrocínio, ações de merchandising e comerciais avulsos de 30\", 60\" e 90\") vinculados à grade de programação da REDETV! nas praças de São Paulo, Rio de Janeiro, Belo Horizonte, Recife e Fortaleza, no valor correspondente à totalidade do débito transacionado",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal ou outra ação judicial"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar/dissimular bens, direitos ou valores",
+  "Declarar não ter alienado ou onerado bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Manter a concessão para exploração de emissoras de televisão no Rio de Janeiro, Recife, Belo Horizonte, Fortaleza e São Paulo",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa ou se tornarem exigíveis após a Transação",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicar a Fazenda Nacional",
+  "Peticionar em até 15 dias na Execução Fiscal 0020789-55.2011.4.03.6130 para transformar depósitos em pagamento definitivo",
+  "Peticionar em até 60 dias nos processos judiciais para desistir de impugnações/recursos e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Garantia atípica consistente em espaços publicitários em mídia televisiva (cotas de patrocínio, merchandising e comerciais avulsos), com valor correspondente à totalidade do débito transacionado, sujeitos a redução proporcional conforme pagamentos",
+  "Possibilidade de utilização de créditos de prejuízo fiscal acumulado e base de cálculo negativa da CSLL, nos percentuais estimados de 53,96% da Dívida Previdenciária e 57,37% da Dívida Demais Débitos",
+  "Migração de débitos do parcelamento da Lei 12.996/2014 para a conta de transação, com desobrigação temporária de recolhimento das parcelas mensais enquanto pendente a migração",
+  "Possibilidade de inclusão futura de débitos de outras Requerentes parcelados sob Leis 11.941/2009, 12.865/2013 e 12.996/2014, no prazo de 6 meses após homologação de ferramenta de migração",
+  "Imputação sem descontos dos depósitos judiciais da Execução Fiscal 0020789-55.2011.4.03.6130 no DEBCAD 39.639.858-8"
+ ],
+ "sector": "Mídia/televisão (radiodifusão e publicidade televisiva)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.75,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de 65% (cinquenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), conforme estimado no Anexo III",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada — Demais Débitos\") em 120 (cento e vinte) prestações mensais, na forma discriminada no Anexo IV"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "d3b4f0f44b75",
+ "title": "Termo de Transação Individual - TV Ômega LTDA, Promo TV Comercial LTDA, Redetv Interactive LTDA, Teletv Serviços Interativos LTDA, TV Midia Publicidade Comercial LTDA, Mídia TV Comercial LTDA, IT Interatividade Telefônica LTDA, TVI Comunicação Interativa LTDA, Tecnet Teleinformática LTDA, Tecnet Comércio e Serviços LTDA Tecplan Teleinformática LTDA, Sandetur Viagens e Turismo LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/19839.103602_2022152aTVMEGALTDA2.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/19839.103602_2022152aTVMEGALTDA2.pdf",
+ "sha256": "c6f7af2f6ba61419e1d71cf04615d1ec0b104fb3b23dbc9fdfa10abc25192ced",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

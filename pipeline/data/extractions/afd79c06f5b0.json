@@ -1,0 +1,71 @@
+{
+ "taxpayer": "GRUPO SINAL (MAIS DISTRIBUIDORA DE VEÍCULOS S/A e outras empresas do grupo)",
+ "approval_date": "2024-03-14",
+ "consolidated_amount": 672692392.66,
+ "modality": "Transação Individual",
+ "total_discount_pct": 45.39,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 15,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": false,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienaram ou oneraram bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar no prazo de 90 dias os débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Reconhecer a responsabilidade solidária pela totalidade dos débitos transacionados",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Não haverá oferta de garantia vinculada à Transação, considerando a redução significativa do prazo para adimplemento e o reconhecimento do grupo econômico de fato com imposição de responsabilidade tributária solidária",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 69,10% do saldo da dívida após aplicação dos descontos",
+  "Reconhecimento expresso administrativo do Grupo Econômico formado pelas empresas indicadas, evitando futuras discussões judiciais a seu respeito",
+  "Débitos do Anexo IV serão consolidados na mesma conta das inscrições do Anexo I, gerando saldo devedor nas parcelas, a ser quitado em 30 dias"
+ ],
+ "sector": "Comércio/distribuição de veículos automotores",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.95,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.5,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 672.692.392,66 (Seiscentos e setenta e dois milhões, seiscentos e noventa e dois mil, trezentos e noventa e dois reais e sessenta e seis centavos)",
+  "total_discount_pct": "o que implica numa média concedida aproximada de 45,39% (quarenta e cinco inteiros e trinta e nove centésimos por centos) no presente acordo",
+  "installments": "Pagamento da Dívida Transacionada, tanto a de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\"), quanto a de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 15 (quinze) prestações mensais iguais e sucessivas"
+ },
+ "review_fields": [
+  "discounts",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "afd79c06f5b0",
+ "title": "Termo de Transação Individual - Mais Distribuidora de Veículos S/A, Billy Distribuidora de Veículos LTDA, Bis Distribuidora de Veículos LTDA, Price Distribuidora de Veículos LTDA, GWB Distribuidora de Veículos LTDA, ABC Motors LTDA, Mix Administração e Participações LTDA, Mercantil Distribuidora de Veículos LTDA, Nylpe Distribuidora de Veículos LTDA, Izi Veículos e Peças LTDA, Sinal Rede de Distribuição Veículos LTDA, Shift Administração e Participações LTDA, Mais Propaganda e Marketing LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMaisDistribuidoradeVeculosSABillyDistribuidoradeVeculosLTDABisDistribuidoradeVeculosLTDAPriceDistribuidoradeVeculosLTDAGWBDistribuidoradeVeculosLTDAABCMo.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMaisDistribuidoradeVeculosSABillyDistribuidoradeVeculosLTDABisDistribuidoradeVeculosLTDAPriceDistribuidoradeVeculosLTDAGWBDistribuidoradeVeculosLTDAABCMo.pdf",
+ "sha256": "5e80e536eea77125ac5458e3472f2038b95ed1cd3e128a0aa541cc6b6e047090",
+ "extracted_at": "2026-07-22T14:22:47+00:00",
+ "simulated": false
+}

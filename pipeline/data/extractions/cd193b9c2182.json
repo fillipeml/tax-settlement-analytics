@@ -1,0 +1,72 @@
+{
+ "taxpayer": "SOCIEDADE EDUCACIONAL LEONARDO DA VINCI LTDA. / GRUPO EDUCACIONAL UNIFICADO LTDA.",
+ "approval_date": "2024-03-08",
+ "consolidated_amount": 92962.03,
+ "modality": "Transação Individual - Modalidade 13",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 70.0
+ },
+ "installments": 38,
+ "down_payment_pct": null,
+ "guarantees": [
+  "depósito judicial em dinheiro",
+  "carta de fiança bancária",
+  "seguro garantia",
+  "outra garantia suficiente e idônea"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade fiscal perante a União, inclusive perante o FGTS",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas do FGTS dos respectivos trabalhadores",
+  "Autorizar a CREDORA a ter acesso às suas declarações e escritas fiscais",
+  "Apresentar requerimento administrativo via portal REGULARIZE",
+  "Pagar, parcelar ou garantir novos débitos relativos ao FGTS e à contribuição social (LC 110/2001) inscritos em Dívida Ativa em até 90 dias",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Peticionar nos processos judiciais noticiando a celebração da transação e desistindo das ações no prazo de 30 dias",
+  "Apresentar comprovação do protocolo das petições em até 10 dias"
+ ],
+ "special_clauses": [
+  "O montante devido aos trabalhadores (PRINCIPAL DEP+JAM) não sofrerá descontos, conforme art. 3º da RCC974/2021",
+  "Percentual de desconto sobre Juros/Multa/Encargos de 70,00% (Desconto Máximo Permitido)"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.8,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "discounts.charges_pct": 0.9,
+  "down_payment_pct": 0.3,
+  "installments": 0.75,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "judicial_recovery": 0.2,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Total: 92.962,03",
+  "total_discount_pct": "Modalidade 13: Desconto: 65,00% Valor do Desconto: 60.425,32",
+  "installments": "JUROS/MULTA/ENCARGOS Nº Parcelas: 38 Valor a Parcelar: 19.619,15 Valor da Parcela: 516,29"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "judicial_recovery",
+  "installments",
+  "special_clauses"
+ ],
+ "id": "cd193b9c2182",
+ "title": "Termo de Transação Individual - Sociedade Educacional Leonardo da Vinci LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualSociedadeEducacionalLeonardodaVinciLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualSociedadeEducacionalLeonardodaVinciLTDATarjado.pdf",
+ "sha256": "834d178f1b7718a3678417dbf8400e1f9d55fec917e5729042b0e0157a55810d",
+ "extracted_at": "2026-07-22T14:22:31+00:00",
+ "simulated": false
+}

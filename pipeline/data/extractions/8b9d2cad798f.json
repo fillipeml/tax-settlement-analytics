@@ -1,0 +1,54 @@
+{
+ "taxpayer": "TUX COMERCIO DE ROUPAS LTDA",
+ "approval_date": "Not identified",
+ "consolidated_amount": 10959755.78,
+ "modality": "Transação individual",
+ "total_discount_pct": 48.03,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": 0.0,
+ "guarantees": [],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Comércio de roupas",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.6,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.95,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.85,
+  "discounts": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "DÍVIDA TRANSACIONADA - PGFN TOTAL 10.959.755,78",
+  "total_discount_pct": "DESCONTO EFETIVO MÉDIO - PGFN (em percentual %) TOTAL 48,03%",
+  "installments": "NÚMERO DE PARCELAS - PGFN Previdenciária 48 Demais Débitos 48 Simples Nacional 48",
+  "down_payment_pct": "Exigência de entrada - PGFN (SIM ou NÃO) NÃO"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "modality",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "8b9d2cad798f",
+ "title": "Sumário - TUX Comércio de Roupas LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioTUXComrciodeRoupasLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioTUXComrciodeRoupasLTDA.pdf",
+ "sha256": "450056c34a5741337eeea4573b791323c684b0b41de0f8db4812da80ce72ba7e",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

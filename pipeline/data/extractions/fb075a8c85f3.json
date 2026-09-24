@@ -1,0 +1,74 @@
+{
+ "taxpayer": "GRUPO COSIL (COSIL CONSTRUÇÕES E INCORPORAÇÕES AS e demais empresas do grupo econômico)",
+ "approval_date": "2024-06-18",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Plano de Regularização Fiscal - REGULARIZE PGFN)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 24,
+ "down_payment_pct": 10.0,
+ "guarantees": [
+  "Imóvel de Matrícula nº 16.154 do 5º Cartório de Registro de Imóveis de Aracaju - Sergipe, gleba de terra localizada no Mosqueiro, área total de 98.388 m², avaliado em R$ 24.779.000,00",
+  "Manutenção de garantias já associadas aos débitos, inclusive penhoras prévias em execuções fiscais"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Comprovar existência, regularidade escritural e disponibilidade dos créditos de prejuízo fiscal e base de cálculo negativa da CSLL, atestados por contador registrado",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos incluídos",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo",
+  "Não alienar bens sem comunicação prévia à Fazenda Nacional",
+  "Apresentar situação econômico-financeira anualmente (balanço/DRE)",
+  "Permanecer ou retornar ao regime de tributação pelo lucro real, mantendo livros e documentos por 5 anos",
+  "Pagar regularmente os tributos correntes",
+  "Verter direitos creditórios supervenientes (inclusive precatórios) para pagamento da transação"
+ ],
+ "special_clauses": [
+  "Corresponsabilização mútua entre as 16 empresas do grupo econômico e da representante legal Jessica Meneses Silva Oliveira (Cláusula 10ª)",
+  "Autorização de uso de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para quitação do saldo devedor remanescente, com limite de 70% da dívida remanescente (§4º e §5º da Cláusula 3ª)",
+  "Procedimento detalhado de alienação do bem em garantia via plataforma Comprei em caso de rescisão, com limite mínimo de 50% do valor de avaliação (Cláusula 8ª)",
+  "Vedação de nova transação por 2 anos em caso de rescisão",
+  "Hipóteses de rescisão específicas para empresas em recuperação judicial (medida cautelar fiscal, inaptidão de CNPJ, extinção sem resolução de mérito)"
+ ],
+ "sector": "Construção civil/incorporação imobiliária",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "installments": 0.95,
+  "down_payment_pct": 0.85,
+  "total_discount_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "para pagamento no prazo de 24 (vinte e quatro) meses de maneira escalonada",
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 65% (sessenta e cinco por cento)",
+  "down_payment_pct": "No mês 1, com pagamento de 10% (dez por cento) do valor da totalidade dos débitos, devidamente atualizados pelos índices oficiais"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "fb075a8c85f3",
+ "title": "Termo de Transação Individual - Cosil Construções e Incorporações AS em recuperação judicial",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCosilConstrueseIncorporaesASemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCosilConstrueseIncorporaesASemrecuperaojudicialtarjado.pdf",
+ "sha256": "1f25cdac84d5fe4bbcd5bf036ba7f431d0cb1ba9f80c8f16d522928b1c98e32b",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

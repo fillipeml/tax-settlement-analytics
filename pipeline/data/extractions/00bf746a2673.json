@@ -1,0 +1,75 @@
+{
+ "taxpayer": "SCAPINI TRANSPORTE E LOGÍSTICA LTDA.",
+ "approval_date": "Not identified",
+ "consolidated_amount": null,
+ "modality": "Transação individual (PERSE)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Não exigida garantia real ou fidejussória para participantes PERSE (Cláusula 7ª)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens ou valores",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação de créditos",
+  "Cumprir exigências da Portaria PGFN nº 7917/21 (PERSE) e nº 9917/20",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Apresentar situação econômico-financeira anualmente (balanço contábil)",
+  "Manter recolhimento das obrigações tributárias correntes"
+ ],
+ "special_clauses": [
+  "Dispensa de garantias reais ou fidejussórias para devedores PERSE (Cláusula 7ª, com base no §7º, inciso II, do art. 3º da Lei 14.148/21)",
+  "Manutenção automática de gravames decorrentes de arrolamento de bens e medidas cautelares fiscais já existentes (§1º da Cláusula 7ª)",
+  "Possibilidade de alienação por iniciativa particular de bens penhorados ou oferecidos em garantia (§2º da Cláusula 7ª)"
+ ],
+ "sector": "Transporte e logística",
+ "confidence": {
+  "taxpayer": 1.0,
+  "approval_date": 0.3,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.75,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "modality": 0.8,
+  "sector": 0.7,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "sendo concedido o desconto máximo de até 70% por inscrição, conforme simulações anexas e observados os limites do §2º do art. 11 da Lei n. 13.988/20 e §1º do art. 3º da Lei n. 14.148/21 (PERSE)",
+  "installments": "O plano relativo às inscrições indicadas no Anexo II prevê o pagamento em 145 (cento e quarenta e cinco) parcelas mensais e sucessivas, conforme os valores estipulados no Anexo III"
+ },
+ "review_fields": [
+  "approval_date",
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "installments",
+  "judicial_recovery"
+ ],
+ "id": "00bf746a2673",
+ "title": "Termo de Transação Individual - Scapini Transporte e Logística / Anexo I / Anexo II / Anexo III",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualScapiniTransporteeLogisticaAnexoIAnexoIIAnexoIII.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualScapiniTransporteeLogisticaAnexoIAnexoIIAnexoIII.pdf",
+ "sha256": "0e4878bc2879f19bda987341aeda8ccf9ba539f5141791230531afd79dfb132c",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

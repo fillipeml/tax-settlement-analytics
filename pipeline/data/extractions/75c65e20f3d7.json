@@ -1,0 +1,79 @@
+{
+ "taxpayer": "HOSPITAL SÃO LUCAS DE SANTOS LTDA",
+ "approval_date": "2022-01-25",
+ "consolidated_amount": 118795634.55,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis (matrículas tarjadas)",
+  "Maquinário do ativo imobilizado do Hospital (equipamentos de raio-X, angiógrafos, tomógrafos, ultrassons e transdutores, módulos de conexão e acessórios)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou/onerou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais/patrimoniais/econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens/direitos que reduzam capacidade de pagamento sem comunicação à Fazenda",
+  "Concordar com compensação de ofício da Dívida Transacionada",
+  "Admitir observador/depositário indicado pela Fazenda Nacional nas dependências, com acesso à escrita fiscal, contabilidade, recibos, contratos, boletos e extratos bancários",
+  "Formalizar garantia (caução real ou hipoteca) no prazo de 60 dias",
+  "Peticionar nos processos judiciais em até 60 dias para desistência/renúncia e confissão da dívida"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação de bens imóveis dados em garantia mediante prévia anuência da Fazenda Nacional (cláusula 4)",
+  "Créditos de precatório ou depósito judicial podem ser direcionados para adimplemento dos saldos devedores (cláusula 2.5)",
+  "Admissão de observador/depositário nas dependências do Hospital com amplo acesso a documentos fiscais e contábeis (cláusula 6.2.12)"
+ ],
+ "sector": "Saúde/Hospitalar",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$118.795.634,55 (cento e dezoito milhões, setecentos e noventa e cinco mil, seiscentos e trinta e quatro reais reais) (Valores atualizados para novembro de 2021)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 84 (oitenta e quatro) prestações mensais, escalonadas na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "75c65e20f3d7",
+ "title": "Termo de Transação Individual - Hospital São Lucas de Santos",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualHospitalSoLucasdeSantos.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualHospitalSoLucasdeSantos.pdf",
+ "sha256": "92093fb49f98c0c132b650877ea1df76cd3da1be74c793f154942e75f7027aae",
+ "extracted_at": "2026-07-22T14:22:44+00:00",
+ "simulated": false
+}

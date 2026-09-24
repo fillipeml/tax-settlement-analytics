@@ -1,0 +1,68 @@
+{
+ "taxpayer": "GRUPO ARAKATU (AGROPECUÁRIA ARAKATU LTDA EM RECUPERAÇÃO JUDICIAL - CNPJ 07.633.371/0001-50 - e COTTON PLACAS LTDA EM RECUPERAÇÃO JUDICIAL - CNPJ 03.659.419/0001-48)",
+ "approval_date": "2022-08-18",
+ "consolidated_amount": 27674091.65,
+ "modality": "Transação individual (recuperação judicial)",
+ "total_discount_pct": 90.0,
+ "discounts": {
+  "fine_pct": 90.0,
+  "interest_pct": 90.0,
+  "charges_pct": 90.0
+ },
+ "installments": 4,
+ "down_payment_pct": 41.54,
+ "guarantees": [
+  "Imóvel rural denominado Fazenda Bonanza II, matrícula 9452, avaliado em R$ 9.830.857,60",
+  "Imóvel rural denominado Fazenda Jefferson, matrícula 756, avaliado em R$ 11.400.475,00"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar os instrumentos de negociação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir lucros ou dividendos a sócios e acionistas até a aprovação do plano de recuperação judicial",
+  "Regularizar, no prazo de 90 dias, os débitos que vierem a ser inscritos em dívida ativa ou que se tornarem exigíveis após a formalização da negociação",
+  "Recolhimento das obrigações tributárias correntes devidas pelo devedor",
+  "Cumprimento das obrigações acessórias dependentes da obrigação principal"
+ ],
+ "special_clauses": [
+  "Cláusula 23ª - possibilidade de migração para nova modalidade de transação/parcelamento caso norma futura permita melhores condições",
+  "Cláusula 8ª §2º - pagamento das parcelas anuais será resultante de parte dos recebimentos decorrentes de arrendamento de imóvel de propriedade da devedora, que constitui garantia da transação",
+  "Parágrafo único da Cláusula 24ª - possibilidade de amortizações superiores ao valor das parcelas acordadas caso a situação financeira da devedora permita"
+ ],
+ "sector": "Agronegócio",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.98,
+  "total_discount_pct": 0.9,
+  "discounts.fine_pct": 0.85,
+  "discounts.interest_pct": 0.85,
+  "discounts.charges_pct": 0.85,
+  "down_payment_pct": 0.9,
+  "installments": 0.85,
+  "judicial_recovery": 0.98,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizando, em agosto/2022, o montante de R$ 27.674.091,65 (vinte e sete milhões, seiscentos e setenta e quatro mil, noventa e um reais e sessenta e cinco centavos)",
+  "total_discount_pct": "as partes envolvidas na presente transação acertam que será concedido desconto, individualmente por cada Inscrição em DAU da DEVEDORA, a incidir sobre os respectivos juros, multas e encargo legais, no percentual de 90% (noventa por cento)",
+  "installments": "b) parcela inicial, no valor de R$ 2.175.831,71...; c) outras 03 (três) parcelas anuais sucessivas, sendo as 02 (duas) primeiras também no valor de R$ 2.175.831,71... e a última delas no valor de R$ 1.213.768,62",
+  "down_payment_pct": "ENTRADA 31/08/2022 41,54% 41,54%"
+ },
+ "review_fields": [
+  "sector"
+ ],
+ "id": "65f7600796ff",
+ "title": "Termo de Transação Individual - Arakatu LTDA em recuperação judicial",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualArakatuLTDAemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualArakatuLTDAemrecuperaojudicialtarjado.pdf",
+ "sha256": "0fad52e537472cbcf3a9a7720cf578dc33a64742ef14d000cdb6452619c48156",
+ "extracted_at": "2026-07-21T19:10:50+00:00",
+ "simulated": false
+}

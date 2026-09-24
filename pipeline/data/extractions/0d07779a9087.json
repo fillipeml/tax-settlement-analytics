@@ -1,0 +1,71 @@
+{
+ "taxpayer": "BR TEXTIL LTDA.",
+ "approval_date": "2024-03-26",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Máquina RAMA, marca Albrecjt, 5 campos, já penhorada nos autos de Execução Fiscal n. 5009378-97.2016.404.7205/SC, avaliada em R$ 1.800.000,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais prestadas à administração tributária",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação e requerer extinção dos respectivos processos com resolução de mérito",
+  "Manter regularidade fiscal perante a União e perante o FGTS",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas do FGTS dos respectivos trabalhadores",
+  "Manter a manutenção do maquinário oferecido em garantia",
+  "Peticionar nos processos judiciais noticiando a celebração da transação e desistindo das ações, no prazo máximo de 30 dias",
+  "Apresentar comprovação do protocolo das petições via sistema Regularize no prazo máximo de 60 dias",
+  "Comprovar substituição ou reforço de garantia em caso de redução significativa do valor do bem, no prazo de 30 dias",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições abrangidas pela transação"
+ ],
+ "special_clauses": [
+  "Oferecimento de máquina RAMA já penhorada em execução fiscal como garantia do débito (Cláusula 8)",
+  "Obrigação de manutenção do maquinário oferecido em garantia durante a vigência da transação (Cláusula 9)",
+  "Possibilidade de adjudicação judicial ou alienação do bem garantido pela União em caso de resolução da transação (Cláusula 10)",
+  "Definição de redução significativa do valor do bem em garantia como a retirada de mais de 25% do valor do bem (Cláusula 11)"
+ ],
+ "sector": "Têxtil",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.95,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "guarantees": "A DEVEDORA oferece em garantia do débito uma máquina RAMA, marca Albrecjt 5 campos, já penhorada nos autos de Execução Fiscal n. 5009378-97.2016.404.7205/SC, avaliada em R$ 1.800.000,00 (um milhão e oitocentos mil reais)."
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "0d07779a9087",
+ "title": "Termo de Transação Individual - BR Têxtil LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualBRTxtilLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualBRTxtilLTDAtarjado.pdf",
+ "sha256": "ee3e6cc468e1df1215ce9ff5f2ad6dc48df1dcf0b15de418ab4177807f52e0f8",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

@@ -1,0 +1,72 @@
+{
+ "taxpayer": "CENTRO PARANAENSE DE DIAGNÓSTICO ECOGRÁFICO GUIDO A. V. PEREZ LTDA., EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2023-10-25",
+ "consolidated_amount": 791949.77,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Não alienar ou onerar bens com propósito de frustrar recuperação de créditos",
+  "Cumprir exigências da Portaria PGFN 6757/22, 2383/2021 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos após o acordo",
+  "Não distribuir lucros ou dividendos até aprovação do plano de recuperação judicial",
+  "Apresentar situação econômico-financeira anualmente via balanço contábil",
+  "Manter recolhimento de obrigações tributárias correntes e obrigações acessórias",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições abrangidas"
+ ],
+ "special_clauses": [
+  "Concessão de descontos e parcelamento escalonado do saldo devedor considerando situação de recuperação judicial da devedora",
+  "Vedação à distribuição de lucros/dividendos até aprovação do plano de recuperação judicial",
+  "Débitos considerados irrecuperáveis nos termos do art. 25, III, b da Portaria PGFN 6757/2022"
+ ],
+ "sector": "Saúde/Diagnóstico por imagem",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.55,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.5,
+  "judicial_recovery": 0.95,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Consolidado: 148.723,90 (Anexo I) / Valor Consolidado: 643.225,87 (Anexo II)"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "guarantees"
+ ],
+ "id": "a1cb0d82f8b1",
+ "title": "Termo de Transação Individual - Centro Paranaense de Diagnóstico Ecográfico Guido A V Perez LTDA em recuperação judicial",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCentroParanaensedeDiagnsticoEcogrficoGuidoAVPerezLTDAemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCentroParanaensedeDiagnsticoEcogrficoGuidoAVPerezLTDAemrecuperaojudicialtarjado.pdf",
+ "sha256": "9ae86ab07ef60ad25d0286dc7022aa70adc7d9de47472e0d23ad0a01eb370be2",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

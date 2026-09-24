@@ -1,0 +1,67 @@
+{
+ "taxpayer": "DFC ADMINISTRADORA DE IMÓVEIS LTDA, BONANZA SUPERMERCADOS LTDA e ALIANÇA DISTRIBUIDORA DE GÊNEROS ALIMENTÍCIOS LTDA (grupo econômico)",
+ "approval_date": "2020-12-30",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Fornecer demonstrações contábeis dos 3 últimos exercícios sociais",
+  "Fornecer relação nominal dos credores",
+  "Fornecer relação de bens e direitos de propriedade",
+  "Declarar não utilização de interposição de pessoas para ocultar bens",
+  "Apresentar situação econômico-financeira anualmente",
+  "Manter recolhimento das obrigações tributárias correntes",
+  "Regularizar débitos de FGTS existentes no prazo de 45 dias"
+ ],
+ "special_clauses": [
+  "Aproveitamento de crédito de processo judicial (exclusão do ICMS da base do PIS/COFINS) para quitação ou compensação dos débitos",
+  "Prazo estendido do parcelamento da dívida não previdenciária condicionado à adesão da empresa DFC ADMINISTRADORA DE IMÓVEIS LTDA como corresponsável",
+  "Plano de amortização com parcelas escalonadas e valor reduzido nos 24 primeiros meses para dívida previdenciária",
+  "Reconhecimento de grupo econômico para fins de corresponsabilidade solidária e unidade de garantia da execução (art. 28 da LEF)"
+ ],
+ "sector": "Supermercados/distribuição de gêneros alimentícios e administração de imóveis",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "discounts": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "para pagamento no prazo de 145 (cento e quarenta e cinco) meses, a dívida não-previdenciária, e no prazo de 60 (sessenta meses), a dívida previdenciária",
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 50% (cinquenta por cento), baseado na capacidade de pagamento dos DEVEDORES"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "discounts",
+  "down_payment_pct",
+  "guarantees",
+  "sector"
+ ],
+ "id": "dcd3dd99e5c8",
+ "title": "Termo de Transação Individual - Bonanza",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual_bonanza.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual_bonanza.pdf",
+ "sha256": "f022c4571052300de2de6d3cdc55a28b11467af92000e5adb800afaf38d07b02",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

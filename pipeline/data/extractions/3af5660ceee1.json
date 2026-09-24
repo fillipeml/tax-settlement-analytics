@@ -1,0 +1,79 @@
+{
+ "taxpayer": "INIPLA VEÍCULOS LTDA. – EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2023-05-30",
+ "consolidated_amount": 27208814.14,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhora de imóveis (Anexo IV e V)",
+  "Penhora de marca 'Grupo Alpini Veículos' (Anexo VI)",
+  "Penhora de cotas e outros ativos de terceiros garantidores"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações sempre que solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que reduzam significativamente a capacidade de pagamento sem comunicação à Fazenda",
+  "Concordar com futura compensação de ofício da Dívida Transacionada"
+ ],
+ "special_clauses": [
+  "Exclusão de pessoas físicas e jurídicas do polo passivo do IDPJ nº 5000398-83.2022.4.03.6105 (Cláusula 6.2)",
+  "Liberação de bens, ativos e direitos gravados no IDPJ para as pessoas excluídas (Cláusula 6.3)",
+  "Possibilidade de alienação de ativos dados em garantia mediante anuência da Fazenda Nacional (Cláusula 4)",
+  "Conversão em renda dos valores penhorados/depositados/bloqueados em Execuções Fiscais específicas para abatimento da dívida (Cláusula 2.2)",
+  "Revisão periódica (12 meses) dos valores amortizados e do valor de mercado das garantias, podendo liberar gravames (Cláusula 3.5)",
+  "Oferecimento de garantia por Terceiros Garantidores não implica reconhecimento de responsabilidade solidária ou subsidiária (Cláusula 3.1.1)"
+ ],
+ "sector": "Comércio de veículos (concessionária/varejo de automóveis)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Resumo da dívida transacionada após descontos ... TOTAL R$ 27.208.814,14",
+  "installments": "2.1.2. Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais... 2.1.3. Pagamento da Dívida Transacionada de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 60 (sessenta) prestações mensais..."
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "3af5660ceee1",
+ "title": "Termo de Transação Individual - Inipla Veículos LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIniplaVeculosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIniplaVeculosLTDATarjado.pdf",
+ "sha256": "972e2307d75333d796b1c2c4e14bd916748b36bde77edcd547db45f30b8d7157",
+ "extracted_at": "2026-07-22T14:22:44+00:00",
+ "simulated": false
+}

@@ -1,0 +1,59 @@
+{
+ "taxpayer": "COVOLAN INDÚSTRIA TÊXTIL LTDA (CNPJ 56.724.412/0012-81)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 123046641.04,
+ "modality": "Transação individual",
+ "total_discount_pct": 51.06,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Manutenção de eventuais garantias eventualmente existentes nos processos em curso"
+ ],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [
+  "Parcelas escalonadas",
+  "FGTS negociado diretamente com a CEF"
+ ],
+ "sector": "Têxtil",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.85,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.85,
+  "down_payment_pct": 0.9,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.0,
+  "special_clauses": 0.75,
+  "judicial_recovery": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada Total: R$ 123.046.641,04",
+  "total_discount_pct": "Desconto efetivo médio Total: 51,06%",
+  "installments": "Número de parcelas ... Demais débitos: 84"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "discounts",
+  "obligations",
+  "installments"
+ ],
+ "id": "188b7e6362c2",
+ "title": "Sumário - Covolan Indústria Têxtil",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioCovolanIndstriaTxtil.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioCovolanIndstriaTxtil.pdf",
+ "sha256": "6b090a05f93acc5e0e914d71b257e3a6b7fcce47d2397f15d4d138628c8ed50c",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

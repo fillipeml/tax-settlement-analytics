@@ -1,0 +1,79 @@
+{
+ "taxpayer": "ARACAJU INVESTIMENTOS LTDA",
+ "approval_date": "2024-01-05",
+ "consolidated_amount": 1572138.0,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção das garantias já associadas aos débitos incluídos na transação, inclusive penhoras em execuções fiscais, até a efetiva quitação"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não alienar bens ou direitos dados em garantia sem concordância da Fazenda Nacional",
+  "Não alienar bens ou direitos sem reservar ativos suficientes para os créditos da Fazenda Nacional",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais ou estaduais",
+  "Individualizar valores recolhidos nas contas vinculadas dos trabalhadores",
+  "Apresentar situação econômico-financeira anualmente",
+  "Regularizar débitos de FGTS existentes em 45 dias"
+ ],
+ "special_clauses": [
+  "Contribuinte em Recuperação Judicial (Processo 0002115-18.2023.8.25.0001)",
+  "Pagamento com utilização de até 70% do crédito de Prejuízo Fiscal (PF) e Base de Cálculo Negativa (BCN) da CSLL",
+  "Prazo de 120 meses para dívida não-previdenciária e 60 meses para dívida previdenciária",
+  "Parcela mínima de R$ 500,00",
+  "Possibilidade de alienação de bens penhorados via sistema COMPREI com valor mínimo de 50% da avaliação"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.1,
+  "discounts.fine_pct": 0.1,
+  "discounts.interest_pct": 0.1,
+  "discounts.charges_pct": 0.1,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "special_clauses": 0.7,
+  "judicial_recovery": 0.95
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Totais: 910.385,70 ... Totais: 661.752,30 (soma dos consolidados dos dois anexos: 910.385,70 + 661.752,30 = 1.572.138,00)",
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 70 %, observando-se a respectiva capacidade de pagamento",
+  "installments": "para pagamento no prazo de 120 (cento e vinte) meses, quanto à dívida não-previdenciária, e no prazo de 60 (sessenta meses) no tocante à dívida previdenciária"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "consolidated_amount"
+ ],
+ "id": "5dcc1aeffe84",
+ "title": "Termo de Transação Individual - Aracaju Investimentos LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualAracajuInvestimentosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualAracajuInvestimentosLTDATarjado.pdf",
+ "sha256": "2b81f44ac6f1bccdfe03c856bcd50c8d699e076691c0a6a6115139516eec132b",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

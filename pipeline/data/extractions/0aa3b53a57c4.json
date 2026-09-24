@@ -1,0 +1,77 @@
+{
+ "taxpayer": "SANTA CASA DE MISERICÓRDIA DE CAMPOS",
+ "approval_date": "2024-11-07",
+ "consolidated_amount": 113657350.03,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis de propriedade da empresa situados em Campos dos Goytacazes, constantes do anexo II, constituídos em 22 matrículas imobiliárias",
+  "Penhora nas execuções fiscais listadas no ANEXO III"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações judiciais/administrativos relativos à Dívida Transacionada",
+  "Confissão irrevogável e irretratável da dívida",
+  "Peticionar em 30 dias nos processos judiciais para noticiar a Transação e desistir de ações",
+  "Manter regularidade perante o FGTS e individualizar valores recolhidos",
+  "Não alienar bens ou direitos próprios sem comunicação prévia à Fazenda Nacional",
+  "Dar ciência à CREDORA de alterações na natureza jurídica ou societária em 30 dias",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União em 90 dias",
+  "Regularizar matrículas imobiliárias em 180 dias para possibilitar penhora pela União",
+  "Comunicar execuções fiscais aos juízos em 30 dias",
+  "Pagamento regular de tributos federais, estaduais e municipais sobre os imóveis do Anexo II"
+ ],
+ "special_clauses": [
+  "Compensação de créditos de precatórios federais (ação judicial 1078533-67.2023.4.01.3400) com prestações do acordo",
+  "Possibilidade de substituição de garantia por outros bens de igual valor em caso de não regularização de matrículas",
+  "Utilização do sistema COMPREI para eventual alienação dos bens penhorados",
+  "Desconto máximo de 70% aplicado apenas sobre acréscimos legais (multa, juros e encargos), vedada redução do principal",
+  "Nomeação da CREDORA como procuradora para receber indenização em caso de desapropriação de imóvel penhorado"
+ ],
+ "sector": "Saúde / Entidade filantrópica hospitalar",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.75,
+  "installments": 0.7,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Das inscrições previdenciárias e não previdenciárias, constantes do ANEXO I, totalizando R$ 113.657.350,03, atualizados em fevereiro/2025",
+  "total_discount_pct": "Concessão do desconto máximo de 70% o incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento do saldo remanescente dos débitos de natureza não previdenciária e previdenciária e os referentes à CPRB e contribuições parafiscais efetuado em 145 (cento e quarenta e cinco) meses, por meio de parcelas escalonadas da seguinte forma"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "0aa3b53a57c4",
+ "title": "Termo de Transação Individual - Santa Casa de Misericórdia de Campos (PGFN)",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualSantaCasadeMisericrdiadeCamposPGFNTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualSantaCasadeMisericrdiadeCamposPGFNTarjado.pdf",
+ "sha256": "29c39ca767493de3ee165d7868937b6bc7ef52f8584e37d5e4deffb3b862f3d9",
+ "extracted_at": "2026-07-22T14:22:31+00:00",
+ "simulated": false
+}

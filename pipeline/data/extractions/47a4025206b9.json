@@ -1,0 +1,71 @@
+{
+ "taxpayer": "FARMACOTÉCNICA INST DE MANIPULACOES FARMACEUTICAS LTDA",
+ "approval_date": "2023-08-23",
+ "consolidated_amount": 52377696.58,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e das garantias prestadas administrativamente ou nas ações de execução fiscal até a extinção dos créditos"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos relacionados no ANEXO I",
+  "Renúncia expressa a alegações de direito e questionamentos administrativos e judiciais sobre os débitos",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes a partir da assinatura",
+  "Regularizar novos débitos inscritos em dívida ativa no prazo de 90 dias",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Apresentar, no prazo de 30 dias da assinatura, renúncia e desistência de defesa de processos judiciais e administrativos vinculados ao ANEXO I",
+  "Pagamento de honorários advocatícios e custas processuais eventualmente devidos"
+ ],
+ "special_clauses": [
+  "Dispensa do reconhecimento de grupo econômico exigido pelo §3º do art. 50 da Portaria PGFN 6757/2022, tendo em vista a quitação integral do passivo em parcela única e à vista (Cláusula 5ª)",
+  "Concessão do desconto máximo possível de 65% sobre o valor consolidado das dívidas, vedada a incidência sobre o principal do débito, em razão de as dívidas serem consideradas irrecuperáveis pela PGFN (Cláusula 6ª)"
+ ],
+ "sector": "Farmacêutico/Farmacotécnica (manipulação)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 0.9,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "discounts": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam R$ 52.377.696,58 (cinquenta e dois milhões, trezentos e setenta e sete mil, seiscentos e noventa e seis reais e cinquenta e oito centavos), atualizado no mês de agosto de 2023",
+  "total_discount_pct": "concessão do desconto máximo possível de 65% (sessenta e cinco por cento) sobre o valor consolidado das dívidas, vedada a incidência sobre o principal do débito",
+  "installments": "será realizado pela DEVEDORA em PARCELA ÚNICA, à vista, sendo expedida uma guia para cada modalidade de débitos (previdenciários e não previdenciários)"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "47a4025206b9",
+ "title": "Termo de Transação Individual - Farmacotécnica INST de manipulações farmacêuticas",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualFarmacotcnicaInstdeManipulaesFarmacuticasLTDAtarjado..pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualFarmacotcnicaInstdeManipulaesFarmacuticasLTDAtarjado..pdf",
+ "sha256": "8f39244c82b9a946b69f46f3d89233f81dd45d45d9f34485b00727951f654324",
+ "extracted_at": "2026-07-22T14:22:22+00:00",
+ "simulated": false
+}

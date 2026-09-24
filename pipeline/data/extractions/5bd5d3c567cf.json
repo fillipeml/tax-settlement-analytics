@@ -1,0 +1,67 @@
+{
+ "taxpayer": "LABORTECNE INDUSTRIA QUÍMICA E DE EMBALAGEM LTDA",
+ "approval_date": "2023-11-30",
+ "consolidated_amount": 5561784.37,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de garantias eventualmente já associadas aos débitos incluídos na transação, inclusive penhoras prévias em execuções fiscais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos administrativos e ações judiciais relacionados aos débitos",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Apresentar situação econômico-financeira anualmente via balanço contábil ou demonstrações complementares",
+  "Manter regularidade no recolhimento das obrigações tributárias correntes",
+  "Vincular direitos creditórios supervenientes (incluindo precatórios) ao pagamento da transação"
+ ],
+ "special_clauses": [
+  "Revisão de CAPAG durante a vigência, com ajuste da primeira parcela e posterior adequação no SISPAR (Cláusula 3ª, §1º e §2º)",
+  "Venda de bens do devedor condicionada à anuência da Fazenda Nacional, com reversão do produto da alienação para quitação do acordo (Cláusula 7ª)",
+  "Vinculação de direitos creditórios supervenientes, incluindo precatórios, ao pagamento da transação, mesmo para antecipação de parcelas não vencidas (Cláusula 14)"
+ ],
+ "sector": "Química/Embalagens",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.4,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL R$ 705.796,53 R$ 5.561.784,37 R$ 1.986.997,84",
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 65% (sessenta e cinco por cento)",
+  "installments": "para pagamento de forma linear em 120 (cento e vinte) meses, a dívida não-previdenciária"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "5bd5d3c567cf",
+ "title": "Termo de Transação Individual - Labortecne Indústria Química e de Embalagem LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualLabortecneIndstriaQumicaedeEmbalagemLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualLabortecneIndstriaQumicaedeEmbalagemLTDAtarjado.pdf",
+ "sha256": "d0a1ffe61a8cdd9cb6648d50eb303f7e88bfc5f4093cf30448f72cdaa97332ca",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

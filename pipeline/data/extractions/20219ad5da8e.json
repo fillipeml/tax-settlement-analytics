@@ -1,0 +1,76 @@
+{
+ "taxpayer": "INDÚSTRIA E COMÉRCIO DE CONFECÇÕES SÃO FRANCISCO LTDA.",
+ "approval_date": "2023-11-01",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 102,
+ "down_payment_pct": 6.0,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em execução fiscal"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos administrativos e ações judiciais relativas aos débitos incluídos",
+  "Petição nos processos judiciais em até 60 dias noticiando a celebração do acordo",
+  "Fornecer informações sobre bens, direitos, valores e transações sempre que solicitado pela PGFN",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa após a formalização do acordo",
+  "Não alienar ou onerar bens sem comunicação à Fazenda Nacional",
+  "Verter para pagamento da dívida qualquer crédito que venha a dispor (precatórios etc.)",
+  "Manter, por 5 anos, livros e documentos comprobatórios dos créditos de prejuízo fiscal e base negativa de CSLL utilizados",
+  "Apresentar anualmente situação econômico-financeira por meio de balanço contábil",
+  "Permanecer no regime de tributação por Lucro Real durante a vigência da transação"
+ ],
+ "special_clauses": [
+  "Autorização de utilização de créditos de prejuízo fiscal acumulado e base de cálculo negativa da CSLL para quitação de até 70% do saldo devedor após desconto, respeitando o limite da CAPAG, distribuído entre as contas DEMAIS e PREV",
+  "Desconto máximo de até 65% em cada inscrição, vedada redução do principal, aplicado proporcionalmente sobre multa, juros e encargo legal",
+  "Compromisso de permanência no regime de Lucro Real durante a vigência da transação para utilização dos créditos de PF/BC negativa de CSLL"
+ ],
+ "sector": "Indústria e comércio de confecções (vestuário/têxtil)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 1.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.6,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "down_payment_pct": "Entrada de 6% sobre o valor do débito sem descontos, em 18 (dezoito) parcelas",
+  "installments": "Pagamento da dívida transacionada de natureza não previdenciária em 102 (cento e duas) prestações mensais, conforme indicado no ANEXO II",
+  "discount_max": "Desconto máximo de até 65% a cada uma das inscrições, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa juros e encargo legal)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector",
+  "guarantees"
+ ],
+ "id": "20219ad5da8e",
+ "title": "Termo de Transação Individual - Indústria e Comércio de Confecções São Francisco LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualIndstriaeComrciodeConfecesSoFranciscoLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualIndstriaeComrciodeConfecesSoFranciscoLTDAtarjado.pdf",
+ "sha256": "35e8d65f7724611e8c2eae7b61e2f47bb95b26a4b61cbc3675135ae1d1dc8e80",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

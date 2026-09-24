@@ -1,0 +1,85 @@
+{
+ "taxpayer": "LUMINAR MONTAGENS ELÉTRICAS LTDA. e LUMINAR COMÉRCIO INDÚSTRIA LTDA. (Grupo Luminar)",
+ "approval_date": "2022-07-22",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel urbano com área total de 5.462,75m², em Barreiros, São José/SC, registrado em nome da Luminar Comércio Indústria Ltda., dado em venda direta na execução fiscal (CLÁUSULA 6ª)",
+  "Bens imóveis e benfeitorias listados no ANEXO VI do termo (CLÁUSULA 13)",
+  "Manutenção das penhoras existentes nos autos da execução fiscal nº 5003610-53.2017.4.04.7207"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar/dissimular origem ou destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Cumprir exigências da Portaria PGFN 9.917/20 e da proposta",
+  "Declarar veracidade de informações cadastrais, patrimoniais e econômico-fiscais",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Manter em dia parcelamentos e negociações englobados na proposta",
+  "Apresentar petição na execução fiscal informando a celebração da transação (prazo de 5 dias)",
+  "Manter em dia pagamento de impostos, taxas e tributos incidentes sobre bens dados em garantia",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço/demonstrações de resultado",
+  "Recolher obrigações tributárias correntes e acessórias"
+ ],
+ "special_clauses": [
+  "Reconhecimento de grupo econômico de fato entre as devedoras, com responsabilidade solidária pelas dívidas (CLÁUSULA 3ª)",
+  "Alienação em venda direta, no bojo de execução fiscal, de imóvel avaliado em R$ 11.200.000,00, cujo produto será destinado à liquidação/amortização de parcelamentos e transações existentes, constituindo a parcela de entrada (CLÁUSULA 5ª e 6ª)",
+  "Possibilidade de novo plano de pagamento em até 120 amortizações mensais após a venda do imóvel, com desconto máximo de 65% por inscrição (CLÁUSULA 5ª, III)",
+  "Autorização para venda de outros imóveis dados em garantia para amortizar parcelamentos (CLÁUSULA 5ª, IV)",
+  "Possibilidade de plano de pagamento de débitos previdenciários remanescentes em 60 parcelas, com desconto de até 65% (CLÁUSULA 7ª)",
+  "Cláusula de causa própria nomeando a União como procuradora para receber indenização em caso de desapropriação de bens dados em garantia (CLÁUSULA 17ª)"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.3,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.2,
+  "total_discount_pct": 0.2,
+  "installments": 0.85,
+  "down_payment_pct": 0.2,
+  "discounts.charges_pct": 0.75,
+  "discounts.fine_pct": 0.1,
+  "discounts.interest_pct": 0.1,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.1,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "as DEVEDORAS poderão estabelecer novo plano de pagamento, na modalidade de transação individual, em até 120 (cento e vinte) amortizações mensais e sucessivas",
+  "discounts.charges_pct": "sendo possível a concessão de um desconto máximo de 65% (sessenta e cinco por cento) por inscrição, observados os limites do §2º do art. 11 da Lei n. 13.988/20, com as alterações promovidas pela Lei n° 14.375/2022",
+  "amount_venda_imovel_referencia": "pelo preço certo e ajustado de R$ 11.200.000,00 (onze milhões e duzentos mil reais), em moeda corrente nacional, que será pago em prestação única, no prazo de 30 (trinta) dias"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "judicial_recovery",
+  "approval_date"
+ ],
+ "id": "8c9de9bedce5",
+ "title": "Termo de Transação Individual - Luminar Montagens Elétricas LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/copy_of_TermodeTransacaoIndividualLuminarMontagensEletricasLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/copy_of_TermodeTransacaoIndividualLuminarMontagensEletricasLTDA.pdf",
+ "sha256": "35f636954e1f976d4b05e7f9cc4c0e402a060b9cfdcacd0e46d6a30d72a5c305",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

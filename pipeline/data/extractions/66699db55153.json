@@ -1,0 +1,55 @@
+{
+ "taxpayer": "Cláudio Pinheiro Cavalcanti Ltda., em Recuperação Judicial",
+ "approval_date": "Not identified",
+ "consolidated_amount": 2401541.06,
+ "modality": "Transação Individual",
+ "total_discount_pct": 54.83,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de eventuais garantias eventualmente existentes nos processos em curso"
+ ],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.1,
+  "modality": 0.85,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.6,
+  "down_payment_pct": 0.7,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada Total: R$ 2.401.541,06",
+  "total_discount_pct": "Desconto efetivo médio Total: 54,83%%",
+  "installments": "Número de parcelas Previdenciária: 36 / Demais débitos: 60 / Simples Nacional: 60"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "66699db55153",
+ "title": "Sumário - Cláudio Pinheiro Cavalcanti LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/SumrioCludioPinheiroCavalcantiLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/SumrioCludioPinheiroCavalcantiLTDA.pdf",
+ "sha256": "2103abf8e00835cb450177470c23fefafca5337bf29043fa0c9a59ba42342353",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

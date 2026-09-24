@@ -1,0 +1,77 @@
+{
+ "taxpayer": "CLUB DE REGATAS VASCO DA GAMA",
+ "approval_date": "2021-09-28",
+ "consolidated_amount": 37070415.7,
+ "modality": "Transação Individual",
+ "total_discount_pct": 32.22,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 105,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis objeto do processo de arrolamento de bens, junto a RFB",
+  "Contratos de cessão de direitos de captação, fixação, edição, exibição e transmissão do Campeonato Brasileiro de Clubes - Temporadas 2021, 2022, 2023 e 2024",
+  "Contratos de cessão de direitos de captação, fixação, edição, exibição e transmissão do Campeonato Carioca - Temporadas 2021 e 2022",
+  "Contrato de patrocínio com ASSOCIAÇÃO FORTE ALIANÇA, vigente até 31.12.2022",
+  "Contrato de patrocínio com BANCO BMG S.A., vigente até 31.12.2023",
+  "Contrato de patrocínio com HAVAN S.A, vigente até 31.12.2021",
+  "Contrato de patrocínio com SPR INDÚSTRIA DE CONFECÇÃO LTDA, vigente até 31.12.2024"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistir de impugnações, recursos e ações judiciais/administrativas relativas à Dívida Transacionada",
+  "Confessar de forma irrevogável e irretratável os débitos transacionados",
+  "Peticionar nos processos judiciais em até 30 dias da assinatura do Acordo noticiando a transação",
+  "Comunicar aos juízos das execuções fiscais o oferecimento das garantias em até 30 dias",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Complementar a garantia com novos contratos de patrocínio e cessão de direitos em até 30 dias",
+  "Antecipar as próximas 4 parcelas do acordo junto com o pagamento da primeira parcela",
+  "Permanecer nos parcelamentos já aderidos",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União em até 90 dias",
+  "Fornecer informações sobre bens, direitos e valores sempre que solicitado pela CREDORA"
+ ],
+ "special_clauses": [
+  "Antecipação de 4 parcelas como compensação pelo não recolhimento de recursos devidos por força de negócio jurídico processual celebrado em processos judiciais relativos a retenção de receitas de cessão onerosa de direitos federativos de jogadores",
+  "Obrigação de complementar garantias com novos contratos de patrocínio e cessão de direitos de participação em campeonatos de futebol",
+  "Vedação à redução do montante devido aos trabalhadores mesmo com desconto aplicado"
+ ],
+ "sector": "futebol/entretenimento",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.9,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "installments": 1.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizando R$ 37.070.415,70 (trinta e sete milhões, setenta mil, quatrocentos e quinze reais e setenta centavos), referente ao mês de setembro 2021",
+  "total_discount_pct": "será concedido desconto de 32,22 %, vedada a redução do montante devido aos trabalhadores",
+  "installments": "Número de parcelas | 105"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "e69d1e15bc09",
+ "title": "Termo de Transação Individual - Vasco (FGTS)",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualVascoFGTS.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualVascoFGTS.pdf",
+ "sha256": "fe52099975a0961d2ee088db5a68dbb573c87d22f0d05a65e938351ebc691010",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

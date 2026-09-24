@@ -1,0 +1,66 @@
+{
+ "taxpayer": "CAMPO LARGO PATRIMONIAL LTDA",
+ "approval_date": "2025-05-27",
+ "consolidated_amount": 17707015.47,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel denominado \"Fazenda Boa Sorte\" registrado no cartório de Imóveis de Xique-Xique/Ba sob nº 1.269, localizado no Município de Itaguaçu da Bahia/BA, de propriedade da devedora CAMPO LARGO PATRIMONIAL LTDA (16.990.436/0001-05), com valor de avaliação de R$ 34.862.041,20"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Fornecer informações sobre bens, direitos, valores e transações",
+  "Autorizar acesso da Fazenda Nacional a declarações e escritas fiscais",
+  "Não alienar bens que reduzam significativamente a capacidade de pagamento sem comunicação prévia",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando em 90 dias débitos exigíveis supervenientes",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a Transação e desistir das ações",
+  "Formalizar a garantia (oferecimento à penhora) em até 30 dias da assinatura do Acordo",
+  "Comprovar desistência e renúncia na exceção de pré-executividade da execução fiscal 1038174-50.2024.4.01.3300 em 60 dias"
+ ],
+ "special_clauses": [
+  "Desconto máximo de 65% aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal",
+  "Garantia constituída por imóvel rural (Fazenda Boa Sorte) mediante oferecimento à penhora em execução fiscal específica",
+  "Autorização de alienação dos bens dados em garantia mediante anuência prévia da Fazenda Nacional, inclusive via Plataforma Comprei",
+  "Possibilidade de utilização de créditos de PF/BCN, com hipótese de rescisão em caso de não confirmação dos créditos"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.3,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "guarantees": 0.95,
+  "judicial_recovery": 0.2,
+  "down_payment_pct": 0.1
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Consolidado R$ 17.707.015,47",
+  "total_discount_pct": "Desconto 65%",
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Demais Débitos será adimplido em 120 (cento e vinte) prestações mensais sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "judicial_recovery",
+  "down_payment_pct"
+ ],
+ "id": "c4b0db827a95",
+ "title": "Termo de Transação Individual e Anexos - Campo Largo Patrimonial LTDA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualeAnexosCampoLargoPatrimonialLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualeAnexosCampoLargoPatrimonialLTDA.pdf",
+ "sha256": "e1eb49ddefe352904537d44bf511ff2660eb9f8b21f165a8c8b1f15b316d6176",
+ "extracted_at": "2026-07-22T14:22:25+00:00",
+ "simulated": false
+}

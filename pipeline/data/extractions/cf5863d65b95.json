@@ -1,0 +1,83 @@
+{
+ "taxpayer": "Not identified",
+ "approval_date": "2021-09-03",
+ "consolidated_amount": 175131360.17,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel objeto da matrícula nº 1.376 do Ofício Único do Cartório de Rio das Ostras (RJ), avaliado em R$ 38.000.000,00",
+  "Terreno objeto da matrícula nº 43.583 do 1º Cartório de Registro de Imóveis de Guarulhos (substituído conforme cláusula 4.3)",
+  "Terreno objeto de matrícula nº 117.983 do 1º Cartório de Registro de Imóveis de Guarulhos - SP",
+  "Terreno objeto de matrícula nº 117.984 do 1º Cartório de Registro de Imóveis de Guarulhos - SP"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Confissão irrevogável e irretratável de todos os débitos inscritos listados nos ANEXOS I e II renovada a cada pagamento periódico",
+  "Obrigação de renunciar a quaisquer alegações de direito sobre as quais se fundem ações judiciais",
+  "Inclusão dos CNPJ e CPFs listados no item 2.1 como codevedores no cadastro da dívida ativa",
+  "Adimplemento do plano de pagamento dos débitos incluídos na transação",
+  "Compromisso de efetuar os pagamentos das parcelas mensais por meio do sistema SISPAR",
+  "Formalização da garantia oferecida no item 4.1 através de registro no prazo de 60 dias",
+  "Compromisso de regularizar, pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa ou do FGTS no prazo de 90 dias",
+  "Compromisso de providenciar a regularização dos débitos perante o FGTS no prazo de 90 dias",
+  "Compromisso de manter regularidade perante o FGTS",
+  "Compromisso de apresentar os autos do Conflito de Competência nº 179.229 no prazo de 10 dias",
+  "Compromisso de informar à Fazenda Nacional sobre conclusão da operação de fusão no prazo de 30 dias",
+  "Compromisso de informar à Fazenda Nacional sobre conclusão do inventário de João Alberto Machado Alves no prazo de 30 dias",
+  "Autorização de acesso à Fazenda Nacional das declarações e escritas fiscais",
+  "Declarar que não alienarão bens ou direitos sem devida comunicação à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos, valores, transações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta para ocultar bens",
+  "Declarar que não alienaram ou oneraram bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais"
+ ],
+ "special_clauses": [
+  "Cláusula 4.2 e 4.3: FAZENDA NACIONAL não se opõe ao levantamento de indisponibilidades sobre imóvel, com substituição por outros imóveis permutados como garantia",
+  "Cláusula 3.8/3.9: transformação em pagamento definitivo dos depósitos realizados em execuções fiscais específicas, com requerimento em até 10 dias",
+  "Cláusula 6.4: inscrições poderão ser incluídas em outro programa de parcelamento se apresentarem condições mais vantajosas"
+ ],
+ "sector": "Transporte/Logística",
+ "confidence": {
+  "taxpayer": 0.3,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.0,
+  "discounts": 0.2,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$ 130.338.972,41 (Débitos não previdenciários) + R$ 44.792.387,76 (Débitos previdenciários) - Valor consolidado das inscrições, atualizado para agosto/2021",
+  "installments": "3.7. O prazo máximo previsto para pagamento das dívidas transacionadas descritas no item 3.1 será de 120 (cento e vinte) para os débitos não previdenciários e de 60 (sessenta) meses para os previdenciários"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "total_discount_pct",
+  "discounts",
+  "down_payment_pct",
+  "special_clauses"
+ ],
+ "id": "cf5863d65b95",
+ "title": "Termo de Transação Individual - Superpesa CIA de Transportes Especiais e Intermodais em recuperação judicial",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualSuperpesaCIAdeTransportesEspeciaiseIntermodaisemrecuperacaojudicial.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualSuperpesaCIAdeTransportesEspeciaiseIntermodaisemrecuperacaojudicial.pdf",
+ "sha256": "32164e57918f01a0edf943e2b21b14f506c9581c16154735c403e7d65b6be1e4",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

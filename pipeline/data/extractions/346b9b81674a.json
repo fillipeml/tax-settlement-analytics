@@ -1,0 +1,90 @@
+{
+ "taxpayer": "GRUPO AFINIDADE (AFINIDADE CONSULTORIA E BENEFÍCIOS LTDA. e demais empresas do grupo)",
+ "approval_date": "2023-11-21",
+ "consolidated_amount": 144010665.29,
+ "modality": "Transação individual (Plano de Regularização Fiscal - substituição a termo anterior)",
+ "total_discount_pct": 42.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 101,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis relacionados no ANEXO II-A e B (garantias já formalizadas/mantidas)",
+  "Bens imóveis relacionados no ANEXO II-C (loteamento Parque Três Poderes)",
+  "Nomeação à penhora na execução fiscal nº1005543-78.2023.4.01.3400 dos bens descritos no ANEXO II-B e C",
+  "Constituição de hipoteca sobre imóveis em caso de extinção da execução fiscal referida antes da quitação integral"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos do ANEXO I",
+  "Renúncia a alegações de direito e questionamentos administrativos/judiciais sobre os débitos",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa após a assinatura, no prazo de 90 dias",
+  "Manter as garantias oferecidas até integral cumprimento das condições",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos, inclusive valor da operação",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou valor de pagamentos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou para prejudicar livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou bens com propósito de frustrar recuperação de créditos",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Autorizar compensação de precatórios federais de que seja credor",
+  "Apresentar matrícula atualizada dos imóveis em garantia no prazo de 30 dias",
+  "Peticionar na execução fiscal referida no prazo de 60 dias para lavratura do termo de penhora",
+  "Manter em dia impostos e taxas sobre imóveis dados em garantia",
+  "Substituir bem em garantia em caso de perecimento/deterioração significativa, no prazo de 15 dias",
+  "Apresentar renúncia e desistência de processos judiciais/administrativos no prazo de 30 dias"
+ ],
+ "special_clauses": [
+  "Substituição de termo de transação anterior firmado em março de 2022, em razão de requerimento de revisão da capacidade de pagamento e de renegociação/repactuação da totalidade dos débitos",
+  "Reconhecimento de grupo econômico de fato (GRUPO AFINIDADE) com corresponsabilidade de todos os integrantes pelos débitos",
+  "Flexibilização das regras de aceitação, avaliação, substituição e liberação de garantias",
+  "Possibilidade de utilização de créditos líquidos e certos ou precatórios para amortização/liquidação do saldo devedor",
+  "Desconto vedado sobre o principal do débito, aplicando-se apenas sobre demais rubricas (encargos)",
+  "Valores da dívida e das parcelas-base são estimados, dado que o desconto não incide sobre o principal",
+  "Necessidade de desistência de todos os programas de benefício fiscal vigentes para criação das contas de transação individual",
+  "Dificuldade relatada para constituição de hipoteca sobre parte dos imóveis do acordo anterior (ANEXO II-B), motivando nomeação à penhora"
+ ],
+ "sector": "Consultoria/corretagem de seguros e benefícios",
+ "confidence": {
+  "taxpayer": 0.9,
+  "approval_date": 0.95,
+  "modality": 0.9,
+  "sector": 0.6,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.3,
+  "guarantees": 0.6,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "é composto por todos os seus créditos fiscais relacionados no ANEXO I, que totalizam R$ 144.010.665,29 (cento e quarenta e quatro milhões, dez mil, seiscentos e sessenta e cinco reais e vinte e nove centavos), atualizado no mês de novembro de 2023",
+  "total_discount_pct": "a presente transação envolve a concessão de descontos de até 42% (quarenta e dois por cento), vedada a incidência sobre o principal do débito",
+  "installments": "A presente transação terá prazo de vigência de até 101 (cento e um) meses"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "346b9b81674a",
+ "title": "Termo de Transação Individual - Afinidade Consultoria e Benefícios",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodetransaoIndividualAfinidadeConsultoriaeBenefciosLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodetransaoIndividualAfinidadeConsultoriaeBenefciosLTDAtarjado.pdf",
+ "sha256": "47cb0a620ac374078285ccc027f53f9760ba4a08ee7f70b953328cc66c6cfabd",
+ "extracted_at": "2026-07-22T14:22:25+00:00",
+ "simulated": false
+}

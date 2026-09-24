@@ -1,0 +1,86 @@
+{
+ "taxpayer": "NATURASUC INDUSTRIA E COMERCIO LTDA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2025-04-22",
+ "consolidated_amount": 27380348.42,
+ "modality": "Transação Individual",
+ "total_discount_pct": 47.79,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 3.0,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas administrativamente ou em ações de execução fiscal ou outra ação judicial"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não ter alienado ou onerado bens com propósito de frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de bens do ativo não circulante",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos relativos aos créditos incluídos na transação",
+  "Manter regularidade fiscal perante União e FGTS (CRF)",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Declarar não possuir créditos líquidos e certos ou precatórios em desfavor da União",
+  "Não desistir do acordo (sob pena de rescisão)",
+  "Permanecer no regime de tributação pelo lucro real até cumprimento integral do acordo",
+  "Manter por 5 anos livros e documentos comprobatórios de PF/BCN",
+  "Apresentar situação econômico-financeira sempre que a PGFN solicitar",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições abrangidas",
+  "Peticionar nos processos judiciais noticiando a celebração da transação"
+ ],
+ "special_clauses": [
+  "Uso de créditos de prejuízo fiscal (PF) e base de cálculo negativa da CSLL (BCN) no valor nominal de R$ 4.690.000,00 para amortização do saldo devedor, sob condição resolutória de homologação pela RFB em até 5 anos",
+  "Desconto médio de 44,14% sobre inscrições do Anexo I (Previdenciários) com abatimento de R$ 1.196.075,12 de PF/BCN, em 60 parcelas",
+  "Desconto médio de 48,93% sobre inscrições do Anexo II (Demais Débitos) com abatimento de R$ 3.493.924,88 de PF/BCN, em 120 parcelas",
+  "Obrigação de permanecer no regime de lucro real até cumprimento integral do acordo, em razão do uso de créditos de PF/BCN",
+  "Rating de recuperabilidade do Grupo classificado como 'D'"
+ ],
+ "sector": "Indústria e comércio (alimentício/bebidas - agroindústria)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.6,
+  "installments": 0.6,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.6,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "cujo montante totaliza, em 02/2025, R$ 27.380.348,42 (vinte e sete milhões, trezentos e oitenta mil, trezentos e quarenta e oito reais e quarenta e dois centavos)",
+  "total_discount_pct": "PERCENTUAL DE DESCONTO MÉDIO 47,79%",
+  "installments": "o saldo restante será objeto de plano de pagamento em 120 (cento e vinte) prestações, dividido em entrada de 3% (12 parcelas) e demais parcelas escalonadas, mensais e sucessivas, conforme os valores estipulados no Anexo III",
+  "down_payment_pct": "dividido em entrada de 3% (12 parcelas)"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "installments",
+  "guarantees",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "2456055b9374",
+ "title": "Termo de Transação Individual - Naturasuc Indústria e Comércio LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualNaturasucIndstriaeComrcioLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualNaturasucIndstriaeComrcioLTDA.pdf",
+ "sha256": "65fb8994df8bbad9ddb6876e85a4c607bcb31ba8698867b80a9872f9b5f799fa",
+ "extracted_at": "2026-07-22T14:22:48+00:00",
+ "simulated": false
+}

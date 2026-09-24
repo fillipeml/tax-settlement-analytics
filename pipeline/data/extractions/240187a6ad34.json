@@ -1,0 +1,81 @@
+{
+ "taxpayer": "GULLIVER MANUFATURA DE BRINQUEDOS - EM RECUPERAÇÃO JUDICIAL LTDA",
+ "approval_date": "2024-10-09",
+ "consolidated_amount": 103395112.49,
+ "modality": "Transação individual",
+ "total_discount_pct": 62.12,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 24,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança do sócio Andres Luis Lavin Cebada",
+  "Imóvel de matrícula n. 57.358 do 2º CRI de São Caetano do Sul/SP (hipoteca)",
+  "Imóvel de matrícula n. 57.357 do 2º CRI de São Caetano do Sul/SP (penhora)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens ou valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar a recuperação dos créditos",
+  "Autorizar compensação de restituições, ressarcimentos ou reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais de que seja credora",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias os débitos que se tornarem exigíveis após a transação",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo",
+  "Manter-se regular e em dia com as Transações, NJP e Parcelamentos em curso"
+ ],
+ "special_clauses": [
+  "Autorização para alienação do imóvel penhorado (Rua Barão de Mauá, 280), condicionada ao juízo da recuperação judicial e preferência de pagamento à União",
+  "Utilização de créditos de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor de R$ 25.309.359,96 para amortização do saldo devedor",
+  "Cobrança do saldo liquidado com créditos de PF/BCN suspensa até confirmação pela autoridade competente",
+  "Exclusão dos débitos de FGTS desta transação, a serem regularizados por Negócio Jurídico Processual (NJP) concomitante"
+ ],
+ "sector": "Fabricação de brinquedos",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 103.395.112,49 (cento e três milhões, trezentos e noventa e cinco mil, cento e doze reais e quarenta e nove centavos)",
+  "total_discount_pct": "PERCENTUAL DE DESCONTO MÉDIO | 62,12%",
+  "installments": "PRAZO PARA PAGAMENTO | 24 MESES"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct"
+ ],
+ "id": "240187a6ad34",
+ "title": "Termo de Transação Individual - Gulliver Manufatura de Brinquedos LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualGulliverManufaturadeBrinquedosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualGulliverManufaturadeBrinquedosLTDATarjado.pdf",
+ "sha256": "4f2d20bd7ee2dc3b5061ce5d66e87556ad1f197108d609fb2ae870c43144dc04",
+ "extracted_at": "2026-07-22T14:22:43+00:00",
+ "simulated": false
+}

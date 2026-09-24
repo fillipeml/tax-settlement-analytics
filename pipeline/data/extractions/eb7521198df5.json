@@ -1,0 +1,78 @@
+{
+ "taxpayer": "CONSTRUTORA ROMA LTDA.",
+ "approval_date": "2024-01-29",
+ "consolidated_amount": 54808656.27,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 160,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens integrantes do ativo (máquinas e equipamentos) descritos e avaliados no ANEXO VI",
+  "Veículos (17 unidades: Fiat/Strada, Fiat/Palio, Caminhões, Reboques, Caminhão Tanque, Caminhão Basculante, Volks/Gol) descritos e avaliados no ANEXO VI",
+  "5% da receita bruta mensal da DEVEDORA (penhora de faturamento, a ser depositada judicialmente a partir da decisão que reconhecer a rescisão do acordo)"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Manter durante a vigência do acordo os livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Permanecer como optante do regime de apuração de IRPJ pela modalidade de lucro real até a extinção da Dívida Transacionada",
+  "Efetuar o pagamento regular de todos os tributos federais, estaduais e municipais que incidam sobre os bens dados em garantia",
+  "Desistir de impugnações, recursos e ações judiciais relativas à Dívida Transacionada",
+  "Dar ciência à CREDORA de alterações na natureza jurídica ou formatação societária no prazo de 30 dias",
+  "Não alienar bens ou direitos próprios ou de controladores sem devida comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar ou dissimular origem/destinação de bens",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União no prazo de 30 dias",
+  "Manter regularidade perante o FGTS e proceder à individualização dos valores recolhidos dos trabalhadores"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação de até 30% do saldo remanescente após descontos",
+  "Possibilidade de flexibilização das garantias mediante alienação dos bens com anuência da CREDORA, condicionada à destinação do valor obtido à quitação das parcelas vincendas",
+  "Penhora de faturamento (5% da receita bruta mensal) como garantia adicional, a ser formalizada apenas em caso de rescisão do acordo"
+ ],
+ "sector": "Construção civil",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.9,
+  "installments": 0.5,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "judicial_recovery": 0.5,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Das inscrições previdenciárias, constantes do ANEXO II, totalizando R$12.406.044,72 (...); Das inscrições não previdenciárias, constantes do ANEXO III, totalizando R$42.402.611,55 (...)",
+  "total_discount_pct": "Concessão do desconto de 65% incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à Fazenda Nacional, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Pagamento do saldo remanescente dos débitos de natureza previdenciária efetuado em 60 (sessenta) meses (...); Pagamento do saldo remanescente dos débitos de natureza não-previdenciária efetuado em 100 (cem) meses (...)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "judicial_recovery",
+  "approval_date"
+ ],
+ "id": "eb7521198df5",
+ "title": "Termo de Transação Individual - Construtora Roma LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualConstrutoraRomaLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualConstrutoraRomaLTDATarjado.pdf",
+ "sha256": "cf29393e6b7145ef8e1a5fe6f6b0be6faaded5b37357555e716916fec5ebcddd",
+ "extracted_at": "2026-07-22T14:22:29+00:00",
+ "simulated": false
+}

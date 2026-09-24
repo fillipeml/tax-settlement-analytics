@@ -1,0 +1,76 @@
+{
+ "taxpayer": "ARAÚJO DISTRIBUIDORA LTDA",
+ "approval_date": "2020-11-26",
+ "consolidated_amount": 27360632.94,
+ "modality": "Transação individual",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 50.0
+ },
+ "installments": 84,
+ "down_payment_pct": 2.5,
+ "guarantees": [
+  "Bens/veículos da frota da REQUERENTE (compromisso de aquisição em nome da devedora principal, sujeitos a garantia)",
+  "Manutenção de constrições até liberação condicionada",
+  "Reserva de bens/rendas suficientes para garantia do crédito"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos",
+  "Renúncia a alegações de direito e desistência de ações judiciais em 30 dias",
+  "Compromisso de pagar/parcelar/garantir novos débitos inscritos em 90 dias",
+  "Declaração de não utilização abusiva da transação",
+  "Declaração de não uso de interposição de pessoas para ocultar bens",
+  "Declaração de não alienação/oneração de bens para frustrar recuperação de créditos",
+  "Apresentação de requerimento administrativo via REGULARIZE com o termo assinado",
+  "Compromisso de adquirir veículos substitutos em nome da devedora principal",
+  "Manutenção do cumprimento das exigências durante impugnação de rescisão"
+ ],
+ "special_clauses": [
+  "Liberação de constrições sobre veículos da frota mediante alegação de essencialidade e necessidade de renovação contratual (nome do terceiro contratante tarjado)",
+  "Desistência da penhora sobre valores de contrato de locação entre Araújo Distribuidora e Araújo Empreendimentos Imobiliários",
+  "Conversão em renda de valores bloqueados judicialmente (~R$338.000,00) como antecipação de parcelas",
+  "Suspensão de execuções fiscais específicas antes da ratificação"
+ ],
+ "sector": "Distribuição/Comércio",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.4,
+  "approval_date": 0.95,
+  "modality": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.8,
+  "discounts.charges_pct": 0.75,
+  "discounts.interest_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.6
+ },
+ "source_excerpts": {
+  "consolidated_amount": "VALOR CONSOLIDADO TOTAL: R$ 27.360.632,94 (novembro/2020)",
+  "total_discount_pct": "VALOR DO DESCONTO (50%): R$ 13.680.316,47",
+  "installments": "O saldo remanescente que nesta data é de R$11.628.268,87 (85%), será pago em 78 parcelas mensais e sucessivas... (parcelas 8 a 84)"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.interest_pct",
+  "discounts.fine_pct",
+  "guarantees",
+  "judicial_recovery",
+  "special_clauses"
+ ],
+ "id": "3f9f4a144912",
+ "title": "Termo de Transação Individual - Grupo Araújo",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-do-grupo-araujo",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-do-grupo-araujo",
+ "sha256": "0a1ff5bae12ee6dd4ae1e42b6af544c5a54f60a59c3bc2adae7dc80eb47b8958",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

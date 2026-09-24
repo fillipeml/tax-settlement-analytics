@@ -1,0 +1,76 @@
+{
+ "taxpayer": "MAREL INDÚSTRIA DE MÓVEIS S/A",
+ "approval_date": "2023-05-29",
+ "consolidated_amount": 29637774.56,
+ "modality": "Transação Individual (Plano de Pagamento Parcelado)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel objeto da matrícula do Registro de Imóveis de Francisco Beltrão, oferecido pela devedora com anuência da interveniente/garante BSV Administradora de Bens S/A"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens ou direitos com propósito de frustrar a recuperação dos créditos inscritos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de bens do ativo não circulante",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria PGFN 6757/2022 e na proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação, com extinção de processos com resolução de mérito",
+  "Manter o Certificado de Regularidade do FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após o acordo",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados e balanço contábil",
+  "Verter para pagamento da dívida qualquer crédito a receber por precatório ou outro meio em face da União, Estado ou Município"
+ ],
+ "special_clauses": [
+  "Cláusula 09ª: oferta de imóvel em garantia com perfectibilização mesmo com suspensão da exigibilidade do crédito",
+  "§1º da Cláusula 09ª: valores bloqueados em juízo até a assinatura serão utilizados para amortização da dívida, sem aproveitamento dos descontos acordados",
+  "§6º da Cláusula 6ª: possibilidade de revisão da conta DEMAIS caso PRDI seja deferido pela administração"
+ ],
+ "sector": "Indústria de móveis",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "A DEVEDORA possui em aberto os débitos tributários relacionados nos Anexos I e II, que totalizam em maio de 2023 o montante de R$ 29.637.774,56 (vinte e nove milhões, seiscentos e trinta e sete mil, setecentos e setenta e quatro reais e cinquenta e seis centavos), seu rating de classificação de recuperabilidade é 'D'.",
+  "installments": "O saldo a pagar será objeto de plano de pagamento em 120 (cento e vinte) amortizações, mensais e sucessivas."
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "eba6c58e393d",
+ "title": "Termo de Transação Individual - Marel Indústria de Móveis SA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualMarelIndustriadeMoveisSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualMarelIndustriadeMoveisSA.pdf",
+ "sha256": "c92b143c94b79c2d0c1861a859d6fb3ddddb785a85dd8953474a9c306986e263",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

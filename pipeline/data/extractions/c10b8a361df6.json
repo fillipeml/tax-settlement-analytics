@@ -1,0 +1,63 @@
+{
+ "taxpayer": "Grupo Habitacional (Habitacional Empreendimentos LTDA e outras 12 empresas - ver anexo)",
+ "approval_date": "2024-09-30",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Aditivo)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não haverá utilização de Prejuízo Fiscal e Base de Cálculo Negativa de CSLL nas contas a serem cadastradas"
+ ],
+ "special_clauses": [
+  "Inclusão de novas inscrições na DAU (Cláusula 1ª) referentes a débitos com fatos geradores ocorridos até a data da assinatura do Termo original, com aplicação dos mesmos descontos e prazos do acordo original (Cláusula 3ª)",
+  "Inclusão de inscrições de FGTS e Contribuição Social do FGTS na negociação (Cláusula 2ª)",
+  "Débitos incluídos terão como prazo os meses remanescentes do plano de pagamento já definido no Termo original (Parágrafo Primeiro)",
+  "Manutenção de todas as demais disposições do TERMO DE TRANSAÇÃO original celebrado em 13.12.2023, notadamente descontos e prazos, e corresponsabilização prevista na cláusula 21 do referido documento (Cláusula 4ª)"
+ ],
+ "sector": "Construção civil/habitacional",
+ "confidence": {
+  "taxpayer": 0.5,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.8,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "approval_date": "Recife, 30 de setembro de 2024.",
+  "modality": "ADITIVO TERMO DE TRANSAÇÃO INDIVIDUAL"
+ },
+ "review_fields": [
+  "taxpayer",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "c10b8a361df6",
+ "title": "Primeiro Termo aditivo - Habitacional Empreendimentos LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermoaditivoHabitacionalEmpreendimentosLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermoaditivoHabitacionalEmpreendimentosLTDAtarjado.pdf",
+ "sha256": "708d16902ce718a9f42e5b2280dc43f8311b472f28c680a12b6d7159c584ed41",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

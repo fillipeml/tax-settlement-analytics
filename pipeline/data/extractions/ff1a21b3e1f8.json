@@ -1,0 +1,79 @@
+{
+ "taxpayer": "ATLÂNTICA PRODUTOS DE PETRÓLEO LTDA",
+ "approval_date": "2021-04-23",
+ "consolidated_amount": 39198055.89,
+ "modality": "Transação individual",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel Chácara nº 219, Jardim Limoeiro, Serra/ES, Matrícula 6.621, avaliação R$8.649.000,00 (constante do quadro resumo como R$8.291.000,00)",
+  "Imóvel Duas Glebas A, EU X e A EU XI, Serra/ES, Matrícula 73.749 e 73.750, avaliação R$44.165.000,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos inscritos listados na cláusula 1, renovada a cada pagamento periódico",
+  "Renúncia a quaisquer alegações de direito, atuais ou futuras, sobre créditos incluídos na transação",
+  "Adimplemento do plano de pagamento previsto na cláusula 3",
+  "Reconhecimento da incidência de juros Selic + 1% sobre as parcelas",
+  "Reconhecimento do prazo máximo de 84 meses para pagamento",
+  "Compromisso de efetuar os pagamentos das parcelas mensais por meio do sistema SISPAR",
+  "Efetivação da penhora sobre os bens oferecidos em garantia no prazo de 30 dias",
+  "Compromisso de, no prazo de 90 dias, pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União após a formalização do acordo",
+  "Compromisso de manter regular a situação dos parcelamentos vigentes",
+  "Compromisso de manter regularidade perante o FGTS",
+  "Autorização de acesso à Fazenda Nacional às declarações e escritas fiscais",
+  "Declarar que não alienará bens ou direitos próprios ou de controladores/administradores sem comunicação à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos, valores, transações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais prestadas"
+ ],
+ "special_clauses": [
+  "Amortização do saldo remanescente mediante antecipação de pagamento em parcela única, com redução proporcional da quantidade de parcelas vincendas (item 3.7)",
+  "Direcionamento de créditos de precatório, depósito judicial ou outro meio para adimplemento dos saldos devedores (item 3.8)",
+  "Revisão anual da manutenção das garantias para liberação do excesso de garantia (item 4.3)"
+ ],
+ "sector": "Combustíveis/Petróleo",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.98,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.2,
+  "installments": 0.95,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.7,
+  "judicial_recovery": 0.3
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total 39.198.055,89",
+  "total_discount_pct": "% Desconto Efetivo Possível por inscrição ... 50,00%",
+  "installments": "O plano de pagamento relativo aos débitos não previdenciários (Anexo I) prevê o recolhimento de 84 parcelas mensais no valor de R$233.321,76 (em março de 2021)."
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "special_clauses",
+  "judicial_recovery"
+ ],
+ "id": "ff1a21b3e1f8",
+ "title": "Termo de Transação Individual - Atlântica Produtos de Petróleo",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualAtlanticaProdutosdePetroleo.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualAtlanticaProdutosdePetroleo.pdf",
+ "sha256": "e5bbe7e4d4d59d06209e42e93595cb10cd9a0fda73cdb9431501d803f910373f",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

@@ -1,0 +1,75 @@
+{
+ "taxpayer": "VIP INDUSTRIA E COMERCIO DE CAIXAS E PAPELAO ONDULADO LTDA",
+ "approval_date": "2023-04-28",
+ "consolidated_amount": 138170672.7,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": 65.0,
+  "interest_pct": 65.0,
+  "charges_pct": 65.0
+ },
+ "installments": 119,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel em Vinhedo, Matrícula nº 22532, do Oficial de Registro de Imóveis de Vinhedo, já avaliado e penhorado nos autos da Execução Fiscal nº 5018036-97.2019.4.03.6182",
+  "Bens móveis (máquinas, equipamentos, mobiliário e utensílios) da Unidade de Vinhedo/SP, conforme laudo técnico"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar/dissimular origem ou destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos sócios acima do mínimo legal durante a vigência do acordo",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa após a formalização",
+  "Comunicar à Fazenda Nacional alienação de bens/direitos que possam reduzir capacidade de pagamento",
+  "Concordar com futura compensação de ofício da Dívida Transacionada",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação, desistir de impugnações/recursos e confessar a dívida",
+  "Formalizar em 60 dias a penhora dos bens móveis oferecidos em garantia"
+ ],
+ "special_clauses": [
+  "Desconstituição de penhoras, ônus reais e gravames sobre bens dos sócios e cônjuges (não da empresa) condicionada ao pagamento da parcela de entrada de R$ 27.742.599,63",
+  "Manutenção automática dos gravames sobre bens da empresa Requerente",
+  "Possibilidade de alienação dos imóveis dados em garantia mediante prévia anuência da Fazenda Nacional, desde que não inferior ao valor de avaliação (atualizada a cada 2 anos), com inclusão da Fazenda como interveniente anuente",
+  "Créditos que a Requerente venha a dispor (precatório, depósito judicial etc.) poderão ser direcionados ao pagamento dos saldos devedores",
+  "Vinculação e manutenção em dia de transações já celebradas nas contas 4453594, 6617200 e 6617405, sob pena de rescisão"
+ ],
+ "sector": "Embalagens (caixas e papelão ondulado)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "discounts": 0.85,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada — Total de saldo de R$ 138.170.672,70 (cento e trinta e oito milhões, cento e setenta mil, seiscentos e setenta e dois reais e setenta centavos) (Valores atualizados para fevereiro de 2023)",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) sobre cada uma das CDAs, excetuadas aquelas mencionadas no item 2.1.1., vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Esse saldo remanescente será pago em 119 parcelas mensais, iguais e sucessivas de R$ 46.107,05 (quarenta e seis mil, cento e sete reais e cinco centavos), com os acréscimos legais."
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "eab3f954f247",
+ "title": "Termo de Transação Individual - VIP Industria e Comercio de Caixas e Papelao Ondulado LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualVIPIndustriaeComerciodeCaixasePapelaoOnduladoLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualVIPIndustriaeComerciodeCaixasePapelaoOnduladoLTDA.pdf",
+ "sha256": "67ff8fca8bdf82eaa39e7ffe2a7cef9f7d05f259de49234a30eb9ceb4179f1e5",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

@@ -1,0 +1,78 @@
+{
+ "taxpayer": "DISTRIBUIDORA DE BEBIDAS F. ANTONIO CHIAMULERA LTDA.",
+ "approval_date": "Not identified",
+ "consolidated_amount": 34771877.42,
+ "modality": "Transação Individual",
+ "total_discount_pct": 45.77,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel - Matrícula do Registro de Imóveis de Lajeado/RS (Imóvel 1)",
+  "Imóvel - Matrícula do Registro de Imóveis de Lajeado/RS (Imóvel 2)",
+  "Imóvel - Matrícula do Registro de Imóveis de Lajeado/RS (Imóvel 3)",
+  "Imóvel - Matrícula do Registro de Imóveis de Lajeado/RS (Imóvel 4)",
+  "Imóvel - Matrícula do Registro de Imóveis de Lajeado/RS (Imóvel 5)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante a PGFN e a RFB, regularizando em 90 dias débitos que se tornarem exigíveis",
+  "Peticionar em até 60 dias nos processos judiciais para desistência e renúncia",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Formalizar garantia via oferecimento de bens à penhora no prazo de 30 dias",
+  "Não utilizar a Transação de forma abusiva"
+ ],
+ "special_clauses": [
+  "Garantia real mediante 5 imóveis de propriedade da Interveniente ASSESSORIA E CONSULTORIA MONICA LTDA, a serem oferecidos à penhora nos autos da Execução Fiscal nº 5002549-19.2015.4.04.7114",
+  "Depósitos judiciais vinculados à Dívida Transacionada serão transformados em pagamento definitivo sem descontos",
+  "Possibilidade de alienação dos bens dados em garantia mediante anuência prévia da Fazenda Nacional, inclusive via Plataforma Comprei"
+ ],
+ "sector": "Distribuição de bebidas",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.6,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.6,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor consolidado das inscrições exibidas: R$34.771.877,42",
+  "total_discount_pct": "Concede-se o desconto máximo de 54,23%, calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal.",
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Demais Débitos será adimplido em 120 (cento e vinte) prestações mensais sucessivas, no percentual linear de 0,833%"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "guarantees",
+  "total_discount_pct"
+ ],
+ "id": "9d5fdcb52734",
+ "title": "ermo de Transação Individual - Distribuidora de Bebidas F. Antonio Chiamulera LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/ermodeTransaoIndividualDistribuidoradeBebidasF.AntonioChiamuleraLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/ermodeTransaoIndividualDistribuidoradeBebidasF.AntonioChiamuleraLTDA.pdf",
+ "sha256": "c6b605e7ec2a69dfc27a699da7759122cc59f9120bfb81b078b5f75aa00fd3b4",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

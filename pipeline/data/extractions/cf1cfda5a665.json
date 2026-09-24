@@ -1,0 +1,77 @@
+{
+ "taxpayer": "ABENGOA BIOENERGIA AGROINDUSTRIA LTDA - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2021-05-31",
+ "consolidated_amount": 92636083.88,
+ "modality": "Transação individual (com garantia)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 107,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca sobre imóveis matrículas nºs 72.770 e 72.771 (Usina São João), incluindo móveis e benfeitorias",
+  "Substituição de garantia (hipoteca e alienação fiduciária) da unidade fabril São Luís (matrículas 863 e 17.440) pela garantia sobre os imóveis 72.770 e 72.771"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Renunciar a quaisquer alegações de direito sobre os créditos incluídos na transação, com requerimento de extinção do processo com resolução de mérito",
+  "Manter regularidade perante o FGTS",
+  "Regularizar, no prazo de 90 dias, os débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis",
+  "Declarar que não utiliza pessoa interposta para ocultar bens, direitos ou valores",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de ativo não circulante",
+  "Apresentar relação dos bens particulares dos controladores, administradores, gestores e representantes legais",
+  "Comprovar, no prazo de 60 dias, a desistência expressa e irrevogável das ações judiciais indicadas (item 6.1)",
+  "Pagar R$ 500.000,00 a título de honorários advocatícios até 30/06/2021",
+  "Arcar com custos de constituição/registro da hipoteca e da substituição de garantia"
+ ],
+ "special_clauses": [
+  "Substituição da garantia do débito PESA (hipoteca e alienação fiduciária da unidade fabril São Luís, matrículas 863 e 17.440) por garantia de igual natureza sobre os imóveis matrículas 72.770 e 72.771 (Usina São João)",
+  "Liberação da garantia original (matrículas 863 e 17.440) após pagamento do valor indicado na cláusula 4.4.1.1",
+  "Fazenda Nacional desistirá do recurso especial no Agravo de Instrumento nº 2121124-86.2018.8.26.0000 no prazo de 35 dias, e se compromete a não pleitear penhora/bloqueio de valores passíveis de ressarcimento pela Receita Federal enquanto vigente a transação"
+ ],
+ "sector": "Agronegócio/Bioenergia",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.8,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.3,
+  "installments": 0.9,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "os dois débitos objeto da presente transação (80.6.21.003318-51 e 80.2.17.002339-42), possuem valor atualizado total de R$ 92.636.083,88",
+  "total_discount_pct": "a FAZENDA NACIONAL concede desconto de 70% sobre a dívida consolidada, que não incidirá sobre os valores relativos ao principal, nos termos do art. 11, da Lei nº 13.988/2021",
+  "installments": "saldo remanescente em 107 parcelas mensais iguais, com vencimento da primeira (1/107) em 31/07/2022 e da última (107/107) em 31/05/2031"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "cf1cfda5a665",
+ "title": "Termo de Transação Individual - Abengoa X",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-abengoa-x.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-abengoa-x.pdf",
+ "sha256": "987daa48ec78788b25354348dc9bd7cf88d15a9794bfe975fafbe211803c001a",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

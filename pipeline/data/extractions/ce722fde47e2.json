@@ -1,0 +1,76 @@
+{
+ "taxpayer": "Grupo econômico PLANALTO TRANSPORTES LTDA (e demais: VEÍSA VEÍCULOS LTDA, JMT AGROPECUARIA LTDA, JMT ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA, FORMOSA PARTICIPAÇÕES LTDA)",
+ "approval_date": "2022-04-13",
+ "consolidated_amount": null,
+ "modality": "Transação Individual Tributária",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente (não há exigência de novas garantias reais ou fidejussórias para participantes PERSE)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Cumprir exigências da Portaria PGFN 7917/21 (PERSE) e 9917/20",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Apresentar situação econômico-financeira anualmente (balanço/DRE)",
+  "Manter recolhimento das obrigações tributárias correntes"
+ ],
+ "special_clauses": [
+  "Reconhecimento de grupo econômico de fato entre os devedores, com responsabilidade solidária pelas dívidas (Cláusula 3ª)",
+  "Dispensa de garantias reais ou fidejussórias para participantes da modalidade PERSE (Cláusula 8ª)",
+  "Faculdade de alienação por iniciativa particular de bens penhorados/oferecidos em garantia para amortização do saldo devedor (art. 880 CPC)",
+  "Confissão irrevogável e irretratável da dívida, com efeito de interrupção/suspensão do prazo prescricional"
+ ],
+ "sector": "Transporte/Comércio de veículos/Agropecuária (grupo econômico diversificado)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "judicial_recovery": 0.85,
+  "guarantees": 0.7,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "sendo concedido o desconto máximo de até 70% por inscrição, conforme simulações anexas e observados os limites do §2º do art. 11 da Lei n. 13.988/20 e §1º do art. 3º da Lei n. 14.148/21 (PERSE)",
+  "installments": "O plano relativo às inscrições indicadas no Anexo II prevê o pagamento em 145 (cento e quarenta e cinco) parcelas mensais e sucessivas"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "installments",
+  "sector",
+  "guarantees"
+ ],
+ "id": "ce722fde47e2",
+ "title": "Termo de Transação Individual - Planalto transportes RJ Anexo I - Anexo II",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualPlanaltotransportesRJAnexoIAnexoII.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualPlanaltotransportesRJAnexoIAnexoII.pdf",
+ "sha256": "dde96eaaeaa2e78afec56c078b3b6a7042aedf6ad0f563e80d57dc21c4544a32",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

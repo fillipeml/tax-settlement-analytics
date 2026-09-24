@@ -1,0 +1,77 @@
+{
+ "taxpayer": "PAULO AFONSO COSTA (grupo econômico com MAFRINORTE MATADOURO FRIGORÍFICO DO NORTE LTDA, ATIVO ALIMENTOS EXP. E IMP. EIRELI, CONSTRU LAR CONSTRUÇÃO E EMPREENDIMENTOS IMOBILIÁRIOS LTDA, FRIGORÍFICO UNIÃO LTDA, SOBERANO ALIMENTOS LTDA e BOI BOM LTDA)",
+ "approval_date": "2020-07-24",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca de imóveis listados no ANEXO II",
+  "Manutenção de bloqueio judicial de bens dos intervenientes até garantia integral da dívida sem descontos",
+  "Alienação fiduciária sobre bens móveis ou imóveis e cessão fiduciária de direitos sobre coisas móveis, títulos de crédito, direitos creditórios ou recebíveis futuros"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Renunciar a alegações de direito e desistir de ações/recursos judiciais relacionados aos créditos transacionados",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/valores",
+  "Declarar que não alienou/onerou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Apresentar relação de bens particulares de controladores, administradores, gestores e representantes legais",
+  "Comunicar à Fazenda Nacional antes de alienar bens ou direitos",
+  "Manter parcelamentos dos débitos de MAFRINORTE e ATIVO ALIMENTOS",
+  "Regularizar em 90 dias inscrições previdenciárias não passíveis de desconto e débitos de FGTS",
+  "Registrar hipoteca no Cartório de Registro de Imóveis no prazo de 30 dias",
+  "Manter em dia impostos e tributos que incidam sobre imóveis dados em garantia"
+ ],
+ "special_clauses": [
+  "Manutenção do bloqueio judicial de bens dos intervenientes até garantia integral da dívida do grupo sem os descontos (Cláusula 7ª, II)",
+  "Corresponsabilidade fiscal solidária do requerente com as empresas listadas no IDPJ (Cláusula 7ª, I)",
+  "Possibilidade de revisão administrativa dos descontos/parcelas de SOBERANO ALIMENTOS LTDA para enquadramento em 70% de desconto e 145 parcelas (Cláusula 8ª, parágrafo único)",
+  "Utilização de valores da 'Fazenda Alvorada' para amortização das parcelas vincendas, com pagamento de R$ 2,8 milhões à vista e R$ 11,5 milhões parcelados conforme cronograma vinculado à assinatura de Escritura Pública (Cláusula 7ª, X)",
+  "Avaliação oficial dos bens em garantia por perito nomeado de comum acordo ou laudo de banco público/empresa pública (Cláusula 7ª, XI)",
+  "Inscrição 20 5 99 000009-97 excluída do desconto por haver depósito judicial integral (Cláusula 7ª, VIII)"
+ ],
+ "sector": "Agronegócio (frigorífico/matadouro e alimentos)",
+ "confidence": {
+  "taxpayer": 0.5,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "taxpayer",
+  "judicial_recovery",
+  "down_payment_pct",
+  "discounts"
+ ],
+ "id": "28acdc3dbcb0",
+ "title": "Termo de Transação Individual - Boi Bom",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-boi-bom",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-boi-bom",
+ "sha256": "7cf9041e3817f8cb4fdaf0c5b9ae3d3303824195c2ea75901f8bd799d81b0903",
+ "extracted_at": "2026-07-22T14:22:25+00:00",
+ "simulated": false
+}

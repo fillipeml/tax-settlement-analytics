@@ -1,0 +1,79 @@
+{
+ "taxpayer": "Insuagro Agroindustrial S/A",
+ "approval_date": "2025-03-24",
+ "consolidated_amount": 32674323.68,
+ "modality": "Transação individual",
+ "total_discount_pct": 53.23,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": 4.0,
+ "guarantees": [
+  "Bens constantes no Anexo II (penhora nas execuções fiscais)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens para frustrar recuperação dos créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de ativo não circulante",
+  "Cumprir exigências da Portaria PGFN nº 6757/2022 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos relativos aos créditos incluídos",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos ou se tornarem exigíveis",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Não desistir unilateralmente da transação",
+  "Apresentar situação econômico-financeira (demonstrações de resultado, balanço) quando solicitado",
+  "Peticionar nos processos judiciais no prazo de 90 dias noticiando a transação",
+  "Formalizar penhora dos bens dados em garantia no prazo estipulado",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições"
+ ],
+ "special_clauses": [
+  "Pagamento de pedágio de 4% da dívida antes de desconto, em 12 prestações uniformes",
+  "Nomeação da União como procuradora do proprietário em caso de desapropriação do bem dado em garantia",
+  "Renúncia da devedora a objeção sobre alienação forçada do bem imóvel dado em garantia, inclusive quanto à essencialidade do bem"
+ ],
+ "sector": "Agroindústria",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "discounts": 0.3,
+  "guarantees": 0.7,
+  "obligations": 0.9,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.3
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Soma dos Valores Consolidados das 6 inscrições do relatório PGFN (1.308.348,03 + 4.772.519,59 + 12.738.999,49 + 4.177.291,70 + 8.460.679,80 + 1.216.485,07)",
+  "total_discount_pct": "será aplicado desconto médio de 53,23%, observados os limites do § 2º do art. 11 da Lei n. 13.988/20",
+  "installments": "o saldo restante será objeto de plano de pagamento em 108 (cento e oito) amortizações escalonadas, mensais e sucessivas",
+  "down_payment_pct": "A Devedora efetuará pagamento de pedágio, correspondente a 4% (quatro por cento) da dívida antes de qualquer desconto, a ser pago em 12 (doze) prestações uniformes"
+ },
+ "review_fields": [
+  "sector",
+  "discounts",
+  "guarantees",
+  "judicial_recovery",
+  "consolidated_amount"
+ ],
+ "id": "980f556ddb3a",
+ "title": "Termo de Transação Individual - Insuagro Agroindustrial S.A",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualInsuagroAgroindustrialS.A",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualInsuagroAgroindustrialS.A",
+ "sha256": "ad3a9d523ea51bc4bee3c478ba63033c59f42cd8b9e6be26acca833c152354f4",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

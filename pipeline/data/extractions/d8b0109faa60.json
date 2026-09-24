@@ -1,0 +1,62 @@
+{
+ "taxpayer": "Cláudio Pinheiro Cavalcanti Ltda., em Recuperação Judicial (CNPJ 08.396.938/0001-84)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 2401541.06,
+ "modality": "Transação Individual",
+ "total_discount_pct": 54.83,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Manutenção de eventuais garantias eventualmente existentes nos processos em curso"
+ ],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [
+  "Parcelas lineares",
+  "Sem exigência de entrada",
+  "Créditos de PF/BCN utilizados para amortização (Previdenciária e Demais débitos), não utilizados na conta Simples Nacional"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.2,
+  "modality": 0.9,
+  "approval_date": 0.1,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.6,
+  "down_payment_pct": 0.9,
+  "judicial_recovery": 0.9,
+  "discounts": 0.1,
+  "guarantees": 0.9,
+  "obligations": 0.3,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada Total: R$ 2.401.541,06",
+  "total_discount_pct": "Desconto efetivo médio Total: 54,83%%",
+  "installments": "Número de parcelas Previdenciária: 36 / Demais débitos: 60 / Simples Nacional: 60"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "obligations"
+ ],
+ "id": "d8b0109faa60",
+ "title": "Termo de Transação Individual - Cláudio Pinheiro Cavalcanti LTDA ( Sumário)",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCludioPinheiroCavalcantiLTDASumrio.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCludioPinheiroCavalcantiLTDASumrio.pdf",
+ "sha256": "12f61883cca13acc8f6dddd9b5c94f1c9473da5c9dc8265324147d192d34ea43",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

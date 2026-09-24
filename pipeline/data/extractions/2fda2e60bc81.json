@@ -1,0 +1,75 @@
+{
+ "taxpayer": "SPORT CLUB DO RECIFE",
+ "approval_date": "2023-07-05",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 53.7,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel matriculado sob o nº 4.262 – 7º CRI Recife/PE (garantia integral das inscrições excluídas, penhorado por R$ 400.000.000,00)",
+  "Manutenção das penhoras existentes nos executivos fiscais em trâmite na Justiça Federal de Pernambuco",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Confissão irrevogável e irretratável da dívida",
+  "Desistência de impugnações, recursos administrativos e ações judiciais relacionadas aos débitos",
+  "Peticionar nos processos judiciais em até 60 dias após a assinatura, noticiando a celebração do acordo",
+  "Fornecer informações sobre bens, direitos e situação econômica sempre que solicitado",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis",
+  "Não alienar bens/direitos sem comunicação à Fazenda Nacional durante o cumprimento do acordo",
+  "Apresentar situação econômico-financeira (demonstrações de resultados, balanço contábil) sempre que a PGFN reputar oportuno",
+  "Recolher obrigações tributárias correntes",
+  "Verter para pagamento da dívida qualquer crédito de precatório ou outro meio a que venha a ter direito",
+  "Realizar amortização variável anual de 30% das receitas extraordinárias, limitada a R$ 5.000.000,00 ao ano"
+ ],
+ "special_clauses": [
+  "Amortização variável anual correspondente a 30% das receitas extraordinárias (premiação em competições, venda de direitos de atletas, ativos alienados na RJ, valores da Timemania, restituições), limitada a R$ 5.000.000,00 anuais",
+  "Créditos de FGTS transacionados separadamente, gerido pela Caixa Econômica Federal, pagos em 45 parcelas o principal e 100 parcelas juros/multas/encargos, com desconto de 65% (Modalidade 13)",
+  "Formalização de três contas independentes de transação (Previdenciária, Demais Débitos e FGTS), sendo a inadimplência de qualquer uma causa de rescisão de todas",
+  "Exclusão de determinadas inscrições oriundas da Secretaria do Patrimônio da União, garantidas integralmente por imóvel penhorado, com prazo de 90 dias para regularização caso julgadas legítimas",
+  "Possibilidade de reversão de valores de alienação de ativos no contexto da recuperação judicial para pagamento do acordo (100% se bens em garantia, mínimo 30% se não oferecidos em garantia)"
+ ],
+ "sector": "futebol/entretenimento",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.9,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "judicial_recovery": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de até 70% em cada uma das inscrições, conforme a sua capacidade de pagamento, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa juros e encargo legal), conforme cálculo do sistema (53,7%)",
+  "installments": "Pagamento da dívida transacionada de natureza não previdenciária em 145 (cento e quarenta e cinco) prestações mensais"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "2fda2e60bc81",
+ "title": "Termo de Transação Individual - Sport Club do Recife",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualSortClubdoRecifeTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualSortClubdoRecifeTarjado.pdf",
+ "sha256": "c62e42bfc239748f4d0eddcfa70482eaa659a4942ed86431dd9491b2a5ce622a",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

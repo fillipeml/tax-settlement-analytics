@@ -1,0 +1,72 @@
+{
+ "taxpayer": "SERRARIAS CAMPOS DE PALMAS S/A – EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2022-08-22",
+ "consolidated_amount": null,
+ "modality": "Transação Individual do FGTS - Plano de Pagamento Parcelado",
+ "total_discount_pct": 31.31,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 80,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de propriedade do DEVEDOR (Fazenda Cacumbangue-Quirizal), avaliado em R$ 13.634.392,00, já objeto de penhora pela União na execução fiscal nº 0001444-18.2013.8.16.0123"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas do FGTS dos trabalhadores",
+  "Peticionar nos processos judiciais noticiando a celebração da transação em até 30 dias",
+  "Apresentar comprovação do protocolo das petições em até 20 dias via sistema Regularize",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil ou demonstrações complementares quando solicitado pela PGFN",
+  "Recolher obrigações tributárias correntes e acessórias",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições abrangidas"
+ ],
+ "special_clauses": [
+  "Substituição ou reforço de garantia em caso de perecimento, depreciação ou deterioração que reduza significativamente (mais de 20%) o valor do bem oferecido",
+  "Nomeação da União como procuradora do proprietário em causa própria em caso de desapropriação do imóvel dado em garantia",
+  "Rescisão específica pela não regularização em até 60 dias dos DEBCAD's 373423209, 373423217, 373423225, 373423233 e 373423241 e das inscrições CSPR 201401192 e CSPR201702963"
+ ],
+ "sector": "Madeireiro/Serrarias",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "com desconto de 31,31%, que incidirá sobre os juros, multa e encargos, conforme modalidade n. 31 apresentada pela CAIXA/FGTS",
+  "installments": "compromete-se a efetuar a regularização das inscrições relacionadas na cláusula 1 mediante pagamento parcelado em 80 (oitenta) meses"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "f183b1735f82",
+ "title": "Termo de Transação Individual - Serrarias Campos de Palmas SA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualSerrariasCamposdePalmasSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualSerrariasCamposdePalmasSA.pdf",
+ "sha256": "f36e10183f35546ff916952e5aed8a81e577b9efaff1a05d34b00af590a8d89a",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

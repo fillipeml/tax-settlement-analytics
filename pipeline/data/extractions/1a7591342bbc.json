@@ -1,0 +1,82 @@
+{
+ "taxpayer": "KAINOS TELEATENDIMENTO LTDA EPP",
+ "approval_date": "2023-10-02",
+ "consolidated_amount": 23358059.73,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantidas as garantias já existentes até a assinatura deste acordo"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicar a Fazenda Nacional",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Solicitar à RFB em 60 dias o envio para inscrição em Dívida Ativa dos débitos do Anexo II",
+  "Comunicar à Fazenda Nacional a efetivação do envio para inscrição em Dívida Ativa",
+  "Recolher em 30 dias os valores decorrentes da reconsolidação da conta",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Permanecer no regime de lucro real durante a vigência da transação",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir de ações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 70% do saldo da dívida dos 'DEMAIS DÉBITOS' e 'DÉBITOS PREVIDENCIÁRIOS', após aplicação dos descontos",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de cinco anos",
+  "Direcionamento de eventuais créditos de precatórios ou depósitos judiciais para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Teleatendimento",
+ "confidence": {
+  "taxpayer": 1.0,
+  "approval_date": 1.0,
+  "modality": 1.0,
+  "sector": 0.5,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.7,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "VALOR A SER TRANSACIONADO (PGFN): R$ 23.358.059,73",
+  "installments": "Pagamento da Dívida Transacionada de natureza previdenciária e não previdenciária (\"Dívida Transacionada — Demais Débitos) em 36 prestações mensais, respectivamente, prestações mensais iguais e sucessivas, na forma discriminada no Anexo Il"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector",
+  "guarantees"
+ ],
+ "id": "1a7591342bbc",
+ "title": "Termo de Transação Individual - Kainos Teleatendimento LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualKainosTeleatendimentoLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualKainosTeleatendimentoLTDA.pdf",
+ "sha256": "26143216f3ada34871c3bb325b1763af75670e041655fc479dffb6bbf2e5960e",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

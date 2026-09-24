@@ -1,0 +1,79 @@
+{
+ "taxpayer": "ELLO SERVIÇOS DE MÃO DE OBRA LTDA (e grupo econômico: FORTAL TERCEIRIZAÇÃO DE MÃO DE OBRA LTDA, REAL SERVIÇOS DE LOCAÇÃO DE MÃO DE OBRA LTDA, MISSÃO SERVIÇOS TÉCNICOS LTDA, FORTAL EMPREENDIMENTOS EIRELI)",
+ "approval_date": "2025-05-05",
+ "consolidated_amount": 157942898.07,
+ "modality": "Transação Individual (Plano de Regularização Fiscal - Portaria PGFN nº 6.757/2022)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis (39 matrículas relacionadas na Cláusula 4ª, de propriedade de FORTAL EMPREENDIMENTOS, ELLO SERVIÇOS, REAL SERVIÇOS, FORTAL TERCEIRIZAÇÃO, MARÍLIA e DIÓGENES, e JESSIKA MARQUES MOURA)",
+  "Créditos (pagamentos vincendos) decorrentes de contratos de prestação de serviços com órgãos da administração pública estadual e municipal do Ceará (ANEXO III)",
+  "Fiança bancária/seguro-garantia no valor de R$ 12.000.000,00, a ser ofertada no prazo de 30 dias (Cláusula 9ª)",
+  "Corresponsabilidade solidária de todas as empresas do grupo econômico e da sócia-administradora Marília Lopes Cruz Rolim (art. 135 CTN)"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos (Cláusula 2ª)",
+  "Desistência de impugnações, recursos administrativos e ações judiciais relativas aos débitos (Cláusula 10ª)",
+  "Pagamento regular dos tributos correntes (Cláusula 18ª)",
+  "Apresentação anual de demonstrações de resultado/balanço contábil (Cláusula 16ª)",
+  "Não alienar bens sem comunicação à Fazenda Nacional (Cláusula 12ª, I)",
+  "Oferecer fiança bancária/seguro-garantia no prazo de 30 dias (Cláusula 9ª)",
+  "Peticionar em até 15 dias em todas as execuções informando a oferta de garantias (Cláusulas 4ª §1º e 8ª §1º)",
+  "Vinculação de eventuais precatórios e restituições tributárias à amortização da transação (Cláusula 17ª)"
+ ],
+ "special_clauses": [
+  "Corresponsabilização de grupo econômico de fato reconhecido, incluindo terceiros intervenientes-anuentes (Cláusula 2ª §2º e §4º)",
+  "Autorização de penhora de imóveis de terceiros (Diógenes Cruz Rolim Esmeraldo e Jéssika Marques de Moura) sem caracterizar responsabilização tributária (Cláusula 4ª §2º)",
+  "Oferta de créditos de contratos públicos como garantia, com limite de retenção de 30% de cada pagamento devido (Cláusula 8ª §3º)",
+  "Procedimento de alienação de bens via plataforma COMPREI em caso de rescisão, com regras detalhadas de leilão/venda (Cláusula 7ª)",
+  "Vedação de nova transação por 2 anos em caso de rescisão (Cláusula 13ª §3º)",
+  "Possibilidade de inclusão futura de débitos do Anexo IV (ainda em cobrança administrativa) mediante desistência de parcelamento/impugnação em até 30 dias (Cláusula 18ª)"
+ ],
+ "sector": "Terceirização de mão de obra / prestação de serviços",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.8,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.55,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.3,
+  "installments": 0.6,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "judicial_recovery": 0.6,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Consolidado: 161.657.860,74 [ANEXO I - relatório PGFN, contribuinte ELLO SERVIÇOS 06.888.220/0001-80]; Total consolidado do grupo (soma dos relatórios anexados de ELLO, FORTAL EMPREENDIMENTOS, FORTAL TERCEIRIZAÇÃO, REAL SERVIÇOS e MISSÃO): valores individuais somam R$ 157.942.898,07 conforme quadro 'Dados da Capacidade de Pagamento' de um dos relatórios: 'Valor da divida na data da adesão: 191.179.027,61'",
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 65% (Cláusula 3ª, tabelas DÉBITOS PREVIDENCIÁRIOS e DÉBITOS NÃO PREVIDENCIÁRIOS); e 'Desconto aplicado na (Capacidade de pagamento): 65,00%' (relatórios PGFN anexos)",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES): 120 (Cláusula 3ª, tabela DÉBITOS PREVIDENCIÁRIOS 120 meses e DÉBITOS NÃO PREVIDENCIÁRIOS); 'Quantidade de Prestações (excluindo as prestações da entrada): 120' (relatórios PGFN anexos)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "8d07d0b6591b",
+ "title": "Termo de Transação Individual - Ello Serviços de Mão de Obra LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualElloServiosdeModeObraLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualElloServiosdeModeObraLTDATarjado.pdf",
+ "sha256": "8e56956ffa86ccdd5ab6eb6593108b97e19efcd4ebd5dc4aeb81aeb693fc6150",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

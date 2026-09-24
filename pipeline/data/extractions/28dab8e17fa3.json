@@ -1,0 +1,61 @@
+{
+ "taxpayer": "Not identified",
+ "approval_date": "Not identified",
+ "consolidated_amount": 7707164.97,
+ "modality": "0077 - TRANSACAO INDIVIDUAL (DEPENDE DE PREVIA APROVACAO DO PDA DA REGIAO); Modalidades: 0189 - DEMAIS DEBITOS - PORTE DEMAIS - RJ - ENTR - ATE 120 MESES - REDUCAO DE ATE 70% - F; 0190 - DEBITOS PREVIDENCIARIOS - PORTE DEMAIS - RJ - ENTRADA - ATE 60 MESES - REDUCAO DE 70% - F",
+ "total_discount_pct": 44.85,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [
+  "Atenção: Caso a dívida esteja ajuizada, com leilão designado ou já realizado, o parcelamento da Lei nº 10.522/2002 deve ser requerido na unidade da PGFN que administra a cobrança, sendo ineficazes os atos realizados neste sistema de parcelamento on-line."
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.0,
+  "sector": 0.0,
+  "modality": 0.9,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.5,
+  "total_discount_pct": 0.5,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.3,
+  "special_clauses": 0.6,
+  "judicial_recovery": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Totais: 3.296.364,97 ... 4.410.800,06",
+  "total_discount_pct": "410800006 |0,00| |a22.330,07 |910.325,32 GA5o7 dO[TESTA |243220704 24,85%",
+  "installments": "Quantidade Máxima de Prestações: (excluindo as Prestações da entrada) 120 / Prestações selecionadas: 120"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "approval_date",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "28dab8e17fa3",
+ "title": "Anexo I - Chef Foods Indústria e Comércio de Produtos Alimentícios LTDA, V.H.D. Indústria, Comércio de Produtos Alimentícios  LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/AnexoIChefFoodsIndstriaeComrciodeProdutosAlimentciosLTDAV.H.D.IndstriaComrciodeProdutosAlimentciosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/AnexoIChefFoodsIndstriaeComrciodeProdutosAlimentciosLTDAV.H.D.IndstriaComrciodeProdutosAlimentciosLTDA.pdf",
+ "sha256": "d178dd60e59c8027cea779af69dbef43b030d655fadcf3ecdb10cb62c9328749",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

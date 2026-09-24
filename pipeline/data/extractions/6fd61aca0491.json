@@ -1,0 +1,72 @@
+{
+ "taxpayer": "INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES MUNICIPAIS DE ARAPOTI",
+ "approval_date": "2023-04-04",
+ "consolidated_amount": 474644.63,
+ "modality": "Transação Individual - Plano de Pagamento Parcelado do Débito Fiscal (0603 - Demais Débitos - 60 meses - Redução de até 65% - Prest. Lineares - Aut.)",
+ "total_discount_pct": 55.82,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar/dissimular bens ou valores",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria PGFN 6.757/2022 e na proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais quando envolver capacidade de pagamento",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após a formalização do acordo",
+  "Confessar de forma irrevogável e irretratável a dívida objeto da transação",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relacionadas aos débitos do Anexo I",
+  "Peticionar nos processos judiciais noticiando a celebração da transação",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil ou demonstração de resultado do exercício quando solicitado pela PGFN",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias dependentes da obrigação principal"
+ ],
+ "special_clauses": [
+  "Cláusula 7 - Afastada a necessidade de oferta de garantias, mesmo que não integrais, por se tratar de autarquia municipal cujos bens são públicos e protegidos pelo regime de precatório (art. 100 da CF)"
+ ],
+ "sector": "Previdência (RPPS - Regime Próprio de Previdência Social municipal)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.9,
+  "total_discount_pct": 0.95,
+  "discounts.fine_pct": 0.3,
+  "discounts.interest_pct": 0.3,
+  "discounts.charges_pct": 0.3,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.5,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Consolidado: 474.644,63",
+  "total_discount_pct": "Percentual efetivo de reduções: 55,82%",
+  "installments": "A inscrição acima referida será objeto de plano de pagamento em 60 (sessenta) amortizações mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "6fd61aca0491",
+ "title": "Termo de Transação Individual - Instituto de Previdência dos Servidores Municipais de Arapoti",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualInstitutodePrevidnciadosServidoresMunicipaisdeArapotiTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualInstitutodePrevidnciadosServidoresMunicipaisdeArapotiTarjado.pdf",
+ "sha256": "21aa567c1819386c206a1006502ce85579dc33f07e0c586585f3065532fa336e",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

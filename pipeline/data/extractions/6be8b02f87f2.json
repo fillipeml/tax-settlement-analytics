@@ -1,0 +1,70 @@
+{
+ "taxpayer": "Cláudio Pinheiro Cavalcanti Ltda., em Recuperação Judicial",
+ "approval_date": "2025-04-08",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Plano de Regularização Fiscal (Portaria PGFN nº 6.757/2022, com termos da Portaria PGFN nº 2.382/2020 para devedores em recuperação judicial)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens/direitos",
+  "Comprovar situação econômico-financeira anualmente por demonstrações de resultados/balanço contábil",
+  "Pagar regularmente os tributos correntes",
+  "Permanecer no regime de tributação pelo lucro real durante a vigência da transação (em razão do uso de créditos de PF/BCN)",
+  "Manter livros e documentos fiscais comprobatórios por até 5 anos ou até liquidação integral do acordo",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativos aos débitos incluídos",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo"
+ ],
+ "special_clauses": [
+  "Autorização de uso de crédito de prejuízo fiscal e base de cálculo negativa de CSLL para quitação do saldo remanescente, limitado a 70% da dívida remanescente (Cláusula 4ª)",
+  "Crédito total máximo de PF/BCN aproveitado: R$ 244.289,46, sendo R$ 94.289,46 nos débitos previdenciários e R$ 150.000,00 nos demais débitos",
+  "Condições diferenciadas de rescisão por estar em recuperação judicial (falta de pagamento de 6 parcelas consecutivas ou 9 alternadas, vs. 3 consecutivas ou 6 alternadas para demais situações)",
+  "Venda de bens da PARTE DEVEDORA condicionada à aquiescência da Fazenda Nacional enquanto não liquidada a dívida (Cláusula 6ª)",
+  "Em caso de rescisão, alienação de bens penhorados via sistema COMPREI com lance mínimo de 50% do valor de avaliação"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.75,
+  "down_payment_pct": 0.0,
+  "installments": 0.7,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "judicial_recovery": 0.95,
+  "obligations": 0.75,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 65% (constante tanto na tabela de débitos previdenciários quanto na de demais débitos)",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 60 (débitos não previdenciários/demais débitos); 36 (débitos previdenciários)"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "installments",
+  "total_discount_pct"
+ ],
+ "id": "6be8b02f87f2",
+ "title": "Termo de Transação Individual - Cláudio Pinheiro Cavalcanti LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCludioPinheiroCavalcantiLTDATarjadoII.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCludioPinheiroCavalcantiLTDATarjadoII.pdf",
+ "sha256": "8f8056690060782cd180145495bb0bbf90dee3597b48330d805d67f9ebaadd06",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

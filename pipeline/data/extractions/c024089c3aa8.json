@@ -1,0 +1,76 @@
+{
+ "taxpayer": "CARGOBRAS COMERCIAL LTDA",
+ "approval_date": "2024-11-08",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bem imóvel matriculado sob o nº 12.929 no CRI de São Francisco do Sul/SC",
+  "Bem imóvel matriculado sob o nº 12.930 no CRI de São Francisco do Sul/SC",
+  "Bem imóvel matriculado sob o nº 13.220 no CRI de São Francisco do Sul/SC"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não ter alienado ou onerado bens para frustrar a recuperação dos créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com as prestações do acordo",
+  "Autorizar compensação de precatórios federais com as prestações do acordo",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6757/22",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa após o acordo",
+  "Providenciar regularização dos imóveis dados em garantia na Secretaria Municipal de Meio Ambiente de São Francisco do Sul/SC em até 180 dias",
+  "Peticionar nos processos judiciais em até 30 dias após a assinatura, noticiando a transação e desistindo de embargos e exceções de pré-executividade"
+ ],
+ "special_clauses": [
+  "Manutenção de gravames decorrentes de arrolamento de bens, medida cautelar fiscal, penhora ou garantias prestadas administrativamente ou em execução fiscal",
+  "União nomeada procuradora do devedor com poderes para receber indenização em caso de desapropriação total ou parcial dos bens dados em garantia",
+  "Obrigação de substituir ou reforçar garantia em caso de perecimento, depreciação ou deterioração que reduza significativamente (>25%) o valor do bem oferecido em garantia"
+ ],
+ "sector": "Comércio",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "o DEVEDOR pagará prestação básica em 145x lineares de R$ 23.912,21"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "c024089c3aa8",
+ "title": "Termo de Transação Individual - Cargobras Comercial LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCargobrasComercialLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCargobrasComercialLTDA.pdf",
+ "sha256": "0385bf9ebce9c9678a97f93cb8f5c7a78c3938e663fa9b9fb72429f801460659",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

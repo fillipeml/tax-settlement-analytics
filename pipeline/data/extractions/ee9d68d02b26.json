@@ -1,0 +1,80 @@
+{
+ "taxpayer": "PROIMPORT BRASIL LTDA em recuperação judicial e ARTILUX BRASIL DISTRIBUIDORA LTDA em recuperação judicial",
+ "approval_date": "2023-02-17",
+ "consolidated_amount": 93706684.83,
+ "modality": "Transação Individual (plano de pagamento parcelado)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Marca SOUL CYCLE (propriedade da PROIMPORT BRASIL LTDA), avaliada em R$ 10.723.000,00, a ser constituída por penhora na execução fiscal nº 5001530-16.2017.4.04.7208/SC",
+  "Crédito líquido e certo decorrente do cumprimento de sentença contra a fazenda pública nº 5010730-18.2015.4.04.7208/SC (exequente PROIMPORT BRASIL LTDA), a ser usado para amortização de parcelas",
+  "Fiança pessoal de André Ricardo Souto Maior pela totalidade da dívida"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não ter alienado ou onerado bens com propósito de frustrar a recuperação dos créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de ativo não circulante",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6757/2022 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos que tenham por objeto os créditos incluídos",
+  "Manter o Certificado de Regularidade do FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não distribuir lucros ou dividendos a sócios/acionistas até aprovação do plano de recuperação judicial",
+  "Manter por 5 anos livros e documentos comprobatórios dos créditos de PF/BCN utilizados",
+  "Peticionar nos processos judiciais informando a celebração da transação em até 60 dias",
+  "Peticionar nos autos do cumprimento de sentença nº 5010730-18.2015.4.04.7208/SC em 30 dias",
+  "Apresentar situação econômico-financeira anualmente (demonstrações de resultado e balanço contábil)",
+  "Cumprir obrigações tributárias correntes e acessórias"
+ ],
+ "special_clauses": [
+  "Uso de créditos de prejuízo fiscal (PF) e base de cálculo negativa de CSLL (BCN) para amortização do saldo devedor 'DEMAIS', condicionado à homologação posterior pela RFB em 5 anos",
+  "Possibilidade de redução dos valores negociados de PIS e COFINS em razão de coisa julgada nas ações nº 5013539-05.2015.404.7200/SC e nº 0008846-65.2008.4.02.5001/ES, mediante pedido de revisão de débito inscrito (PRDI)",
+  "Garantia via marca SOUL CYCLE e crédito de cumprimento de sentença contra a fazenda pública, além de fiança pessoal do representante legal",
+  "Reforço de pagamento na última prestação do plano de 120 parcelas (Anexo I)"
+ ],
+ "sector": "Comércio/Distribuição (importação e distribuição)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.4,
+  "modality": 1.0,
+  "approval_date": 0.9,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.0,
+  "discounts": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "judicial_recovery": 1.0,
+  "guarantees": 0.95,
+  "obligations": 0.95,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "cujo montante totaliza em fevereiro/2023 – R$ 93.706.684,83 (noventa e três milhões, setecentos e seis mil, seiscentos e oitenta e quatro reais e oitenta e três centavos)",
+  "installments": "o saldo restante será objeto de plano de pagamento em 120 (cento e vinte) amortizações lineares, mensais e sucessivas, e pagamento de reforço na última prestação"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "discounts",
+  "down_payment_pct",
+  "installments",
+  "approval_date"
+ ],
+ "id": "ee9d68d02b26",
+ "title": "Termo de Transação Individual - Proimport Brasil LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualProimportBrasilLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualProimportBrasilLTDA.pdf",
+ "sha256": "1ea9147392ea4cd68cf5e7ae3d66b1d809119e52e03721cff89ffacbecfa35f2",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

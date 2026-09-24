@@ -1,0 +1,88 @@
+{
+ "taxpayer": "GRUPO MAITY (MAITY BIOENERGIA LTDA, MAITY AGRÍCOLA LTDA, AIMAR AGROINDUSTRIAL DO MARANHÃO S/A, AGRÍCOLA NOSSA SENHORA DAS GRAÇAS S/A)",
+ "approval_date": "2024-12-02",
+ "consolidated_amount": 375715506.75,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens móveis agrícola",
+  "Bens móveis indústria",
+  "Fazenda Lageado - penhora - mat. 427",
+  "Fazenda Boa Esperança - penhora - Mat. 1573",
+  "Fazenda Santa Maria - Mat. 1.567",
+  "Fazenda Santa Izabel - Mat. 1.711",
+  "Fazenda Canto da Onça - Mat. 1534"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar irrevogável e irretratavelmente os débitos do ANEXO I",
+  "Renunciar a alegações de direito e questionamentos administrativos e judiciais",
+  "Manter regularidade perante PGFN e RFB, regularizando em 90 dias débitos que se tornarem exigíveis",
+  "Regularizar novos débitos inscritos em dívida ativa e de FGTS em até 90 dias",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos que impactem a solvabilidade",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou valor de pagamentos",
+  "Anuir com modificação de competência para reunião de processos",
+  "Efetuar tempestivamente o pagamento da amortização acordada",
+  "Não utilizar a transação de forma abusiva ou para prejudicar livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Autorizar compensação de precatórios e restituições com prestações do acordo",
+  "Manter regime Lucro Real por 60 meses",
+  "Apresentar situação econômico-financeira anualmente",
+  "Manter em dia pagamento de impostos e taxas sobre imóveis dados em garantia",
+  "Comprovar oferta dos imóveis em penhora em 30 dias"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL, limitado a 30% do saldo remanescente na conta previdenciária e 60% na conta não previdenciária",
+  "Cobrança do saldo liquidado com uso de créditos de PF/BCN fica suspensa até confirmação pela RFB, prazo máximo de 5 anos",
+  "Desconto de até 65% vedada incidência sobre o principal do débito, em razão de dívidas irrecuperáveis pela PGFN",
+  "Corresponsabilização de pessoas físicas: Antonio Celso Izar, Iacy Auxiliadora Ferreira Izar e Marizeth Campos Guimarães Moura",
+  "Reconhecimento de grupo econômico de fato entre as empresas signatárias"
+ ],
+ "sector": "Agronegócio",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.8,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal das DEVEDORAS inscrito em dívida ativa da União, parte desta transação, é composto por todos os seus créditos fiscais relacionados no ANEXO I, que totalizam R$ 375.715.506,75 (trezentos e setenta e cinco milhões, setecentos e quinze mil, quinhentos e seis reais e setenta e cinco centavos), atualizado no mês de novembro de 2024",
+  "total_discount_pct": "Nos termos autorizados pelo art. 54, §4º da Portaria 6.757/2022 c/c art. 11, II da Lei nº 13.988/2020 c/c art. 15, III da Portaria PGFN nº 6757/2022, a presente transação envolve concessão de desconto de até 65% (sessenta e cinco por cento), vedada a incidência sobre o principal do débito, uma vez que as dívidas são consideradas irrecuperáveis pela PGFN, em razão da capacidade de pagamento da DEVEDORA principal do Grupo.",
+  "installments": "Haja vista o pagamento do saldo remanescente em parcela única, as PARTES concordam, expressamente, com a utilização de créditos de prejuízo fiscal e de base de cálculo negativa da CSLL"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "1b888c2691ae",
+ "title": "Termo de Transação Individual -  Hospital Nossa Senhora Auxiliadora HNSA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualMaityBioenergiaLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualMaityBioenergiaLTDATarjado.pdf",
+ "sha256": "50400e17242aa4aa441a0d57cc05fb7d3481056a04af00789c462f9da0c8be58",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

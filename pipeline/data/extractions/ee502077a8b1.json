@@ -1,0 +1,85 @@
+{
+ "taxpayer": "AUTO VIAÇÃO NOSSA SENHORA DO CARMO LTDA, AUTO VIAÇÃO SÃO JOSÉ DOS PINHAIS LTDA e ROYAL ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA",
+ "approval_date": "2024-06-04",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": 5.0,
+ "guarantees": [
+  "Imóveis descritos no Anexo IV (dados/descrições tarjados)",
+  "Fiança pessoal dos intervenientes fiadores (HBF Participações e Holding Ltda, Neyd Torres Brunatto, João Carlos Torres Brunatto, Maria Helena Fransceschi Pineroli e Dante Luiz Franceschi)",
+  "Manutenção de gravames decorrentes de arrolamento de bens, medida cautelar fiscal, penhora ou garantias já prestadas"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos",
+  "Declarar não ter alienado ou onerado bens para frustrar a recuperação dos créditos",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Cumprir exigências adicionais da Portaria PGFN 6757/22",
+  "Declarar veracidade de informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Declarar não possuir créditos/precatórios líquidos e certos em desfavor da União",
+  "Manter-se optante do regime de tributação pelo lucro real durante toda a negociação",
+  "Não desistir do acordo sob pena de rescisão",
+  "Peticionar nos processos judiciais em até 60 dias, noticiando a transação e indicando bens em garantia",
+  "Providenciar oferecimento e formalização da penhora dos imóveis em até 90 dias",
+  "Apresentar situação econômico-financeira por meio de demonstrações de resultados quando solicitado pela PGFN",
+  "Manter recolhimento das obrigações tributárias correntes e acessórias"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para abatimento do saldo devedor",
+  "Possibilidade de alienação dos imóveis dados em garantia, mediante prévia oitiva e concordância da Fazenda Nacional, com destinação do produto ao plano de pagamento",
+  "Alienação por iniciativa particular (art. 880 CPC) ou, após 18 meses, via sistema COMPREI da PGFN",
+  "Nomeação da União como procuradora dos devedores em caso de desapropriação total ou parcial dos bens dados em garantia, com poderes para receber indenização e aplicá-la na amortização da dívida",
+  "Fiança pessoal dos intervenientes garantes com renúncia ao benefício de ordem (art. 828, I, CC)"
+ ],
+ "sector": "Transporte (viação/transporte rodoviário)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.9,
+  "installments": 0.3,
+  "discounts": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.6,
+  "obligations": 0.85,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "down_payment_pct": "os DEVEDORES pagarão uma entrada no montante de 5% do valor do devido sem descontos, em 12 prestações mensais",
+  "installments_social_security": "sendo o restante pago em 48 (quarenta e oito) amortizações mensais lineares",
+  "installments_other": "sendo que o restante será pago em 108 (cento e vinte) parcelas mensais lineares"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "discounts",
+  "judicial_recovery",
+  "sector",
+  "guarantees"
+ ],
+ "id": "ee502077a8b1",
+ "title": "Termo de Transação Individual - Royal Administração e Participações LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualRoyalAdministraoeParticipaesLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualRoyalAdministraoeParticipaesLTDATarjado.pdf",
+ "sha256": "266bcecdf32f8aa6b5e2217121c3c376543d22205ed4f606f7e8b5b658fccf83",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

@@ -1,0 +1,84 @@
+{
+ "taxpayer": "MINERAÇÃO MÔNEGO LTDA (CNPJ: 88.142.708/0001-28)",
+ "approval_date": "2023-09-11",
+ "consolidated_amount": 101268622.57,
+ "modality": "Transação Individual",
+ "total_discount_pct": 41.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis descritos no Anexo V, objeto de penhora nas execuções fiscais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens",
+  "Declarar não alienação/oneração de bens para frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de ativo não circulante",
+  "Cumprir exigências da Portaria PGFN nº 6757/22",
+  "Declarar veracidade de informações cadastrais/patrimoniais/econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos relativos aos créditos incluídos",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Manter livros e documentos comprobatórios de PF/BCN por 5 anos",
+  "Individualizar valores recolhidos ao FGTS nas contas vinculadas dos trabalhadores",
+  "Apresentar demonstrações de resultado sempre que a PGFN reputar oportuno",
+  "Manter recolhimento das obrigações tributárias correntes e acessórias",
+  "Adimplir emolumentos de eventual protesto cartorário",
+  "Peticionar nos processos judiciais em até 60 dias noticiando a transação",
+  "Formalizar penhora dos imóveis em até 90 dias"
+ ],
+ "special_clauses": [
+  "Uso de créditos de prejuízo fiscal (PF) e base de cálculo negativa de CSLL (BCN) na amortização do saldo devedor previdenciário",
+  "Aproveitamento de valores depositados em juízo (exceto autos nº 5065637-63.2021.404.7100) no saldo da negociação",
+  "Montante depositado nos autos 5065637-63.2021.404.7100 destinado primeiro à quitação da conta CSRS e primeira parcela FGRS",
+  "Rating de recuperabilidade da devedora classificado como 'C'",
+  "Inclusão de débitos de FGTS na mesma transação, sem desconto sobre montante devido aos trabalhadores"
+ ],
+ "sector": "Mineração",
+ "confidence": {
+  "taxpayer": 1.0,
+  "modality": 1.0,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.7,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.0,
+  "sector": 0.6
+ },
+ "source_excerpts": {
+  "consolidated_amount": "cujo montante totaliza em setembro/2023 – R$ 101.268.622,57 (cento e um milhões, duzentos e sessenta e oito centavos, seiscentos e vinte e dois reais e cinquenta e sete centavos)",
+  "total_discount_pct": "Sobre as inscrições indicadas no anexo I será aplicado desconto médio de 41%, observados os limites do §2º do art. 11 da Lei n. 13.988/20",
+  "installments": "o saldo restante será objeto de plano de pagamento em 120 (sessenta) amortizações escalonadas, mensais e sucessivas"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "9f1811d1da63",
+ "title": "Termo de Transação Individual - MCP Transporte Rodoviários SA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualMineracaoMonegoLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualMineracaoMonegoLTDA.pdf",
+ "sha256": "fe22e9578598b20ff6dfef738036ec31820e058f85f3518f38a97a7f7acd934a",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

@@ -1,0 +1,74 @@
+{
+ "taxpayer": "BOTAFOGO FUTEBOL E REGATAS",
+ "approval_date": "2022-04-06",
+ "consolidated_amount": 4786301.0,
+ "modality": "Transação individual (modalidade 6)",
+ "total_discount_pct": 29.1,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 110,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Contrato de cessão de direitos de captação, fixação, edição, exibição e transmissão, em Televisão por Assinatura e Internet, do Campeonato Brasileiro de Futebol – Série A - Temporadas de 2021, 2022, 2023 e 2024",
+  "Contrato de cessão de direitos de captação, fixação, edição, exibição e transmissão Via Sistema Pay-Per-View e Internet do Campeonato Brasileiro de Futebol – Série A - Temporadas de 2021, 2022, 2023 e 2024",
+  "Contrato de cessão de direitos de captação, fixação, edição, exibição e transmissão, em TV Aberta e Internet, dos Sons e Imagens do Campeonato Brasileiro de Clubes da Série A - Temporadas de 2021, 2022, 2023 e 2024"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistir de impugnações, recursos e ações administrativas ou judiciais relativas à dívida transacionada",
+  "Confessar de forma irrevogável e irretratável os débitos inscritos",
+  "Peticionar nos processos judiciais e administrativos em até 30 dias para noticiar a Transação e requerer formalização da penhora",
+  "Não alienar bens ou direitos próprios ou de controladores/administradores sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar ou dissimular bens, direitos ou valores",
+  "Permanecer nos parcelamentos já aderidos até completa quitação das CDAs",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União e do FGTS em até 90 dias",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Substituir as garantias por novos contratos de cessão de direitos de transmissão em caso de término de vigência dos contratos ofertados"
+ ],
+ "special_clauses": [
+  "Vedada a redução do montante devido aos trabalhadores (parcela rescisória)",
+  "Substituição obrigatória das garantias (contratos de transmissão) em caso de término de vigência ou redução de valores, sob pena de rescisão",
+  "Créditos de precatório ou depósito judicial do DEVEDOR devem ser direcionados ao adimplemento do saldo devedor em caso de parcelas em atraso",
+  "Adesão prévia à Transação regulada pela Portaria PGFN nº 7917/2021 (PERSE)"
+ ],
+ "sector": "Futebol/entretenimento",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.9,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "installments": 1.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizando R$ 4.786.301,00 (quatro milhões, setecentos e oitenta e seis mil e trezentos e um reais), referente ao mês de janeiro de 2022",
+  "total_discount_pct": "será concedido desconto de 29,10 % (modalidade 6), vedada a redução do montante devido aos trabalhadores",
+  "installments": "Número de parcelas: 110"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "4f7db0f976d7",
+ "title": "Termo de Transação Individual - Botafogo Futebol e Regatas",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransacaoIndividualBotafogoFuteboleRegatastarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransacaoIndividualBotafogoFuteboleRegatastarjado.pdf",
+ "sha256": "f7f36852ce497b0dfd0ede8b8f73dda7ccdd2ea23dc60b201d17b3712d5e65b6",
+ "extracted_at": "2026-07-22T14:22:33+00:00",
+ "simulated": false
+}

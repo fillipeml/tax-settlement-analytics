@@ -1,0 +1,74 @@
+{
+ "taxpayer": "COLITUR TRANSPORTES RODOVIÁRIOS LTDA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-10-16",
+ "consolidated_amount": 26886841.42,
+ "modality": "Transação individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 70.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis de propriedade da devedora, constante do anexo III",
+  "Penhora nas execuções fiscais listadas no ANEXO IV"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Manter regime de apuração de IRPJ pela modalidade de lucro real até a extinção da Dívida Transacionada",
+  "Manter livros e documentos exigidos pelas normas fiscais durante o período de análise dos créditos",
+  "Efetuar pagamento regular de todos os tributos federais, estaduais e municipais sobre os imóveis dados em garantia",
+  "Dar ciência à CREDORA de alterações na natureza jurídica ou formatação societária em 30 dias",
+  "Não alienar bens ou direitos próprios ou de controladores sem comunicação à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "No prazo de 90 dias, pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União",
+  "Manter regularidade perante o FGTS e individualizar valores recolhidos dos trabalhadores",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias",
+  "Peticionar em 30 dias nos processos judiciais e na Recuperação Judicial para noticiar a transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e de base de cálculo negativa da CSLL para amortização de até 45% do saldo remanescente das inscrições, após incidência dos descontos",
+  "Compensação de valores relativos a restituições, ressarcimentos ou reembolsos reconhecidos pela RFB com prestações do acordo",
+  "Compensação de valores relativos a precatórios federais com prestações do acordo",
+  "Requerimento de transformação em pagamento dos depósitos efetuados nos autos das Execuções Fiscais listadas no Anexo IV",
+  "Anuência da CREDORA com utilização do sistema COMPREI para eventual alienação dos bens já penhorados",
+  "No caso de desapropriação de imóvel penhorado, a CREDORA fica nomeada procuradora para receber a indenização e aplicá-la na amortização/liquidação da transação"
+ ],
+ "sector": "Transporte rodoviário",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.75,
+  "discounts": 0.75,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Das inscrições previdenciárias e não previdenciárias, constantes do ANEXO I, totalizando R$ 26.886.841,42, atualizados em julho/2024",
+  "total_discount_pct": "Concessão do desconto máximo de 70% o incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento do saldo remanescente dos débitos de natureza não previdenciária e os referentes à CPRB e contribuições parafiscais efetuado em 120 (cento e vinte meses) meses, por meio de parcelas lineares"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "installments",
+  "discounts"
+ ],
+ "id": "5997d86862b4",
+ "title": "Termo de Transação Individual - Colitur Transportes Rodoviários LTDA em recuperação judicial",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualColiturTransportesRodoviriosLTDAemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualColiturTransportesRodoviriosLTDAemrecuperaojudicialtarjado.pdf",
+ "sha256": "f4930597378020bf0156d5ce919216a6a5cbe7d965d6bc697be7a80c0cb040fc",
+ "extracted_at": "2026-07-22T14:22:29+00:00",
+ "simulated": false
+}

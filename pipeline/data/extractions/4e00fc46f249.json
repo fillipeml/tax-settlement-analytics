@@ -1,0 +1,76 @@
+{
+ "taxpayer": "T-GRAO CARGO TERMINAL DE GRANEIS S/A",
+ "approval_date": "2025-02-27",
+ "consolidated_amount": 38926124.23,
+ "modality": "Transação Individual",
+ "total_discount_pct": 38.92,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens descritos no Anexo III (não detalhados no documento), a serem oferecidos à penhora no prazo de até 60 dias nos autos do processo 0005696-38.2008.4.03.6104 (7ª Vara Federal de Santos)",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações à PGFN quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar origem/destinação de bens",
+  "Declarar não ter alienado/onerado bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam reduzir a capacidade de pagamento sem comunicação prévia à Fazenda Nacional",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da transação, desistir de impugnações/recursos e confessar a dívida"
+ ],
+ "special_clauses": [],
+ "sector": "Logística/Armazenagem portuária (terminal de granéis)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.8,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.85,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "down_payment_pct": 0.1,
+  "installments": 0.85,
+  "judicial_recovery": 0.1,
+  "guarantees": 0.6,
+  "obligations": 0.9,
+  "special_clauses": 0.5
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total ... R$ 38.926.124,23 Desconto efetivo MÉDIO 38,92%",
+  "total_discount_pct": "R$ 38.926.124,23 Desconto efetivo MÉDIO 38,92%",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 84 (oitenta e quatro) prestações mensais, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery",
+  "guarantees",
+  "special_clauses",
+  "approval_date"
+ ],
+ "id": "4e00fc46f249",
+ "title": "Termo de Transação Individual - T-Grao Cargo Terminal de Graneis SA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTGraoCargoTerminaldeGraneisSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTGraoCargoTerminaldeGraneisSATarjado.pdf",
+ "sha256": "4064aafc960bde106fea0f7725b80ce7e7140bc0b90554bbfc4339416349bd96",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

@@ -1,0 +1,81 @@
+{
+ "taxpayer": "METALÚRGICA RIOSULENSE S/A",
+ "approval_date": "2021-02-03",
+ "consolidated_amount": 134779444.18,
+ "modality": "Transação Individual - Plano de Pagamento Parcelado do Débito Fiscal, com desconto",
+ "total_discount_pct": 34.65,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 83,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis matriculados sob os números 438, 2.829, 2.970, 3.136, 5.466, 4.057, 5.554, 5.776, 5.866, 6.365, 6.538, 11.514, 12.362, 12.363, 12.364, 12.365, 12.366, 12.367, 12.371, 12.373, 12.374, 12.375, 12.376, 12.377, 12.378, 12.379, 12.380, 12.381, 12.382, 17.222, 19.808, 20.113, 20.162, 20.525, 20.876, 21.349, 24.722, 24.724, 24.725, 24.726, 24.727, 24.728, 24.730, 25.725, 27.481, 29.177, 31.867, 32.530, 36.883, 41.278, 52.668, 52.672 e 56.536, no Cartório de Registro de Imóveis de Rio do Sul/SC (garantem parcialmente o débito)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar não utilização de pessoa interposta",
+  "Declarar não alienação/oneração de bens para frustrar recuperação de créditos",
+  "Cumprir exigências da Portaria PGFN nº 9.917/2020",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Reconhecer definitivamente os débitos transacionados",
+  "Renunciar a alegações de direito sobre ações judiciais relativas aos débitos",
+  "Manter regularidade perante o FGTS",
+  "Manter regulares parcelamentos fiscais anteriores não englobados no Anexo II",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Manter as garantias associadas às dívidas transacionadas até integral cumprimento",
+  "Comunicar previamente alienação de bens ou direitos durante o plano de amortização",
+  "Confessar de forma irrevogável e irretratável a dívida",
+  "Apresentar situação econômico-financeira anualmente via demonstrações de resultados/balanço contábil",
+  "Recolher obrigações tributárias correntes"
+ ],
+ "special_clauses": [
+  "Garantia parcial por imóveis com redução da garantia conforme avaliação de suficiência (Cláusula 7ª e Anexo III)",
+  "Renúncia a direito na ação ordinária nº 50192678520194047200 (9ª Vara Federal de Florianópolis/SC)",
+  "Petição conjunta requerendo penhora por termo nos autos da execução fiscal nº 50004931220124047213"
+ ],
+ "sector": "Metalurgia/Indústria",
+ "confidence": {
+  "taxpayer": 0.99,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.95,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "82.737.403,68 [previdenciário] ... 52.042.040,50 [não previdenciário]",
+  "total_discount_pct": "desconto no importe de 34,65% (trinta e quatro inteiros e sessenta e cinco centésimos por cento), a ser aplicado sobre o valor consolidado de cada débito",
+  "installments": "o restante pago em 83 (oitenta e três) parcelas mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "16ae05545060",
+ "title": "Termo de Transação Individual - Metalúrgica Riosulense",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/termo-de-transacao-individual-rio-sulense.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/termo-de-transacao-individual-rio-sulense.pdf",
+ "sha256": "bd7920afaef4dc13689f5dc208b7601f5fa381fe8d1b69e7906e6f4238284608",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

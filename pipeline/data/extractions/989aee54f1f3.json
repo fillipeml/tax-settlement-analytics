@@ -1,0 +1,72 @@
+{
+ "taxpayer": "EXPRESSO SUL AMERICANO LTDA.",
+ "approval_date": "2022-04-25",
+ "consolidated_amount": 42586733.49,
+ "modality": "Transação Individual",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de propriedade da Requerente, situado na Rua Constante Piovan, nº 362, Bairro Industrial, Anhanguera, Osasco/SP, matrículas nº 26.547 e 26.546, do 2º Oficial de Registro de Imóveis de Osasco",
+  "Veículos de propriedade da Requerente, ainda que alienados fiduciariamente a alguma instituição financeira, identificados no Anexo III"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à Procuradoria-Geral da Fazenda Nacional conhecer sua situação econômica ou eventuais fatos que impliquem a rescisão do acordo",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar de qualquer forma a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores, seus reais interesses ou a identidade dos beneficiários de seus atos",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas à administração tributária são verdadeiras e que não foram omitidas informações quanto à propriedade de bens, direitos e valores",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 (noventa) dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos neste termo, sem proceder à devida comunicação à Fazenda Nacional",
+  "Concordar que a Dívida Transacionada seja objeto de futura e eventual compensação de ofício, nos termos do art. 89 e seguintes da IN RFB nº 1.717/2017"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação de imóveis dados em garantia mediante prévia anuência da Fazenda Nacional, condicionada à inclusão da Fazenda Nacional como interveniente anuente e destinação do valor arrecadado à quitação das parcelas vincendas",
+  "Possibilidade de renovação da frota ofertada em garantia, com substituição do veículo por outro de valor igual ou superior, mediante prévia anuência da Fazenda Nacional",
+  "Eventuais créditos que a Requerente venha a dispor, por precatório, levantamento de depósito judicial ou qualquer outro meio, perante a União ou outros entes federados, poderão ser direcionados para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Transporte de cargas",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 0.95,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.9,
+  "installments": 1.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 1.0,
+  "obligations": 1.0,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 42.586.733,49 (valores podem estar desatualizados)",
+  "total_discount_pct": "2.1.1. Desconto máximo de 50% (cinquenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "2.1.2. Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 84 (oitenta e quatro) prestações mensais, escalonadas na forma discriminada no Anexo II;"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "989aee54f1f3",
+ "title": "Termo de Transação Individual - Expresso Sul Americano",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TERMODETRANSAOINDIVIDUALEXPRESSOSULAMERICANO.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TERMODETRANSAOINDIVIDUALEXPRESSOSULAMERICANO.pdf",
+ "sha256": "3fca5133352befb770f9a03a13659c2ed303664f49d513f00ab9ec6ba9cdb846",
+ "extracted_at": "2026-07-22T14:22:33+00:00",
+ "simulated": false
+}

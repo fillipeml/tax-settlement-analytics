@@ -1,0 +1,65 @@
+{
+ "taxpayer": "LEITE & PARANHOS LTDA",
+ "approval_date": "2024-02-28",
+ "consolidated_amount": 12017621.9,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Ficam mantidas todas as garantias eventualmente já associadas aos débitos incluídos nesta transação individual, até a sua plena quitação, inclusive penhoras prévias em execuções fiscais."
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "O DEVEDOR se obriga a apresentar sua situação econômico-financeira, por meio de demonstrações de resultados, anualmente, por meio do balanço contábil apurado ou, sempre que a PGFN reputar oportuno, por meio de documentos e informações complementares com a demonstração do resultado do exercício.",
+  "A celebração da presente transação não dispensa o recolhimento das obrigações tributárias correntes devidas pelo DEVEDOR, nem mesmo o cumprimento das obrigações acessórias dependentes da obrigação principal.",
+  "de que não alienará bens ou direitos sem proceder à devida comunicação à Fazenda Nacional"
+ ],
+ "special_clauses": [
+  "Fica acordado que, para fins de sensibilização do SISPAR, por causa da revisão de Capag requerida pela empresa, a primeira parcela será em um valor diferente daquele proposto no plano de pagamento, considerando ainda a Capag anterior.",
+  "A venda de quaisquer bens do DEVEDOR, enquanto não liquidada a dívida transacionada, ficará condicionada à aquiescência da Fazenda Nacional, mediante a reversão do produto da alienação, integralmente ou em parte a ser ajustada para quitação do acordo."
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.3,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.75,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.8,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "foi considerada a nova capacidade de pagamento para os próximos 60 meses no valor de R$ 12.403.880,91 em dezembro de 2023 o que possibilitou a alteração do rating da empresa, ficando os valores finais da totalidade dos débitos previdenciários e não previdenciários no montante aproximado de R$ 12.017.621,90 até fevereiro de 2024, após os descontos legais cabíveis.",
+  "total_discount_pct": "para pagamento da dívida não-previdenciária de forma escalonada em 120 (cento e vinte) meses e, em 12 (doze) meses, da dívida previdenciária, com aproveitamento do desconto máximo de até 65% (sessenta e cinco por cento), observada sua capacidade de pagamento (CAPAG)",
+  "installments": "para pagamento da dívida não-previdenciária de forma escalonada em 120 (cento e vinte) meses"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "total_discount_pct"
+ ],
+ "id": "43ca90d4ee0b",
+ "title": "Termo de Transação Individual - Leite e Paranhos LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualLeiteeParanhosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualLeiteeParanhosLTDATarjado.pdf",
+ "sha256": "be1e873191d937ac10d951de808dce22cd92d13ee1541a74658126e8744ab04a",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

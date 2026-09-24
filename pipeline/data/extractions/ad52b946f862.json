@@ -1,0 +1,77 @@
+{
+ "taxpayer": "DESTILARIA DIAMANTE S A / AGROPECUÁRIA SÃO JERÔNIMO LTDA",
+ "approval_date": "2024-06-24",
+ "consolidated_amount": 15802727.65,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança de José Eduardo Manhaes Barreto",
+  "Fiança de Operacional Consultoria e Comércio de Projetos Ltda"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Reconhecer responsabilidade solidária pela totalidade dos débitos transacionados",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da transação e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Alienação de precatórios penhorados nas EFs 0051299-02.2005.4.03.6182, 0021374-58.2005.403.6182 e 0056692-73.2003.4.03.6182, com destinação de até 90% para amortização do saldo devedor transacionado e 10% para CDAs cobradas nessas execuções, sem descontos",
+  "Reconsolidação da conta de transação individual com recálculo do saldo devedor em caso de disponibilidade de precatórios",
+  "FGTS com desconto de 25,66% e pagamento em 80 prestações mensais, separado do restante da dívida (60 meses)"
+ ],
+ "sector": "Agronegócio",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.3,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 15.802.727,65 (quinze milhões, oitocentos e dois mil, setecentos e vinte e sete reais e sessenta e cinco centavos) (Valores atualizados para maio de 2024)",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) a cada uma das CDAs, observada a Capacidade de Pagamento da empresa, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), gerando desconto global médio de 65%, na forma do Anexo II.",
+  "installments": "Pagamento da Dívida Transacionada em 60 (sessenta) prestações mensais sucessivas, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "ad52b946f862",
+ "title": "Termo de Transação Individual - Destilaria Diamante SA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualDestilariaDiamanteSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualDestilariaDiamanteSA.pdf",
+ "sha256": "d8ea94c37f45a449402bb1bb5e245297eae51790546ded6e62b371186d56ff93",
+ "extracted_at": "2026-07-22T14:22:40+00:00",
+ "simulated": false
+}

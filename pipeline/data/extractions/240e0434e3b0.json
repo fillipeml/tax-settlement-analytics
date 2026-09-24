@@ -1,0 +1,71 @@
+{
+ "taxpayer": "ADELBRAS INDÚSTRIA E COMÉRCIO DE ADESIVOS LTDA",
+ "approval_date": "2023-04-28",
+ "consolidated_amount": 91364593.62,
+ "modality": "Transação Individual",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos inscritos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Concordar com compensação de ofício da Dívida Transacionada"
+ ],
+ "special_clauses": [
+  "Desconto máximo de 50% aplicado apenas sobre acréscimos legais (multa, juros, encargos), vedada redução do principal",
+  "Pagamento em parcela única, sem exigência de garantias em razão do pagamento único",
+  "Manutenção automática de gravames decorrentes de arrolamento de bens e medidas cautelares fiscais já existentes"
+ ],
+ "sector": "Indústria e comércio de adesivos (químico/industrial)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 91.364.593,62 (noventa e um milhões, trezentos e sessenta e quatro mil, quinhentos e noventa e três reais e sessenta e dois centavos)",
+  "total_discount_pct": "Desconto máximo de 50% (cinquenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 1 (uma) prestação mensal, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "240e0434e3b0",
+ "title": "Termo de Transação Individual - Adelbras Indústria e Comércio de Adesivos LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAdelbrasIndstriaeComrciodeAdesivosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAdelbrasIndstriaeComrciodeAdesivosLTDA.pdf",
+ "sha256": "b5ece33e2436463fd303070f1e7c3994be0e1bb83c1e81c1344466f4da0bc662",
+ "extracted_at": "2026-07-22T14:22:35+00:00",
+ "simulated": false
+}

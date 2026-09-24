@@ -1,0 +1,74 @@
+{
+ "taxpayer": "MARBRASA MARMORES E GRANITOS DO BRASIL S.A",
+ "approval_date": "2021-12-20",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel: área de terreno com 40.000,00 m² (quarenta mil metros quadrados) e perímetro de 836,00 m, matriculado sob o nº 1119, Livro 2-E, do Cartório de Registro Geral de Imóveis da 1ª zona da Comarca de Cachoeiro de Itapemirim, avaliado em R$ [valor tarjado]"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável de todos os débitos inscritos listados no Anexo, renovada a cada pagamento periódico",
+  "Desistência de impugnações, recursos e ações administrativas ou judiciais relativas à Dívida Transacionada",
+  "Peticionar nos processos judiciais e administrativos em 30 dias para noticiar a celebração da Transação e requerer a formalização da penhora",
+  "Efetivação da penhora sobre os bens oferecidos em garantia no prazo de 30 dias",
+  "Compromisso de, no prazo de 90 dias, pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União em nome da PROPONENTE",
+  "Compromisso de manter regular a situação dos parcelamentos atualmente vigentes",
+  "Compromisso de manter a regularidade perante o FGTS",
+  "Autorização de acesso à FAZENDA NACIONAL pelas declarações e escritas fiscais",
+  "Não alienar bens ou direitos sem devida comunicação à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos, valores e transações sempre que solicitado",
+  "Compromisso de realizar a individualização dos pagamentos feitos em relação a valores devidos aos trabalhadores por meio de transmissão de informações no SEFIP dentro do prazo máximo de 30 dias"
+ ],
+ "special_clauses": [
+  "Cessão à União de crédito homologado nos autos do PAF referente a créditos reconhecidos por decisão judicial, caso liberada a expedição de precatório em favor da PROPONENTE",
+  "Faculdade às PARTES de alienar o(s) imóvel(is) oferecido(s) em garantia, condicionada ao cumprimento de requisitos específicos (utilização do produto para quitação, ciência prévia à Fazenda Nacional, etc.)",
+  "Possibilidade de migração dos débitos para parelamentos especiais supervenientes que ofereçam melhores condições (cláusula 9.5)",
+  "Depósitos mensais realizados em agosto/2021 como valor simulado de entrada (R$ 64.834,90), excluindo FGTS, a serem usados para amortização da(s) última(s) parcela(s) do acordo"
+ ],
+ "sector": "Extração e beneficiamento de rochas ornamentais (mármores e granitos)",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts": 0.3,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.75,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 84 (oitenta e quatro meses) prestações mensais"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "7d2e99d4c6ee",
+ "title": "Termo de Transação Individual - Marbrasa Mármores e Granitos do Brasil",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualMarbrasaMarmoreseGranitosdoBrasil.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualMarbrasaMarmoreseGranitosdoBrasil.pdf",
+ "sha256": "6b355b5caf49e04710186e6239cb643ebe0e8f85d3260236ac132bcd1a337dd1",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

@@ -1,0 +1,70 @@
+{
+ "taxpayer": "FARMACIA LOPES & FREITAS LTDA EM RECUPERACAO JUDICIAL",
+ "approval_date": "2022-01-28",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer demonstrações contábeis dos 3 últimos exercícios sociais (balanço patrimonial, demonstração de resultados acumulados, demonstração do resultado desde o último exercício social, relatório gerencial de fluxo de caixa e projeção)",
+  "Fornecer relação nominal completa dos credores, natureza, classificação e valor atualizado do crédito",
+  "Fornecer relação de bens e direitos de propriedade dos integrantes da parte devedora, com laudo econômico-financeiro e avaliação de bens",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil ou demonstração de resultado do exercício",
+  "Manter recolhimento das obrigações tributárias correntes",
+  "Peticionar nos processos judiciais para noticiar a celebração do acordo de transação individual",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos incluídos"
+ ],
+ "special_clauses": [
+  "Anuência do administrador da recuperação judicial para produção dos efeitos da transação",
+  "Possibilidade de inclusão de novos débitos constituídos até a assinatura do termo, desde que inscritos em DAU até 31/03/2022 e requerimento formalizado até 29/04/2022",
+  "Duas contas independentes de transação: uma para débitos previdenciários (60 meses) e outra para demais débitos (84 meses)"
+ ],
+ "sector": "Farmácia/Varejo farmacêutico",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 70% (setenta por cento), não implicando, a negociação, a redução do montante principal do crédito inscrito em dívida ativa da União",
+  "installments": "para pagamento no prazo de 84 (oitenta e quatro) meses, da dívida não-previdenciária, e no prazo de 60 (sessenta meses), da dívida previdenciária"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "guarantees"
+ ],
+ "id": "4096e7f9a42e",
+ "title": "Termo de Transação Individual - Farmácia Lopes e Freitas LTDA em recuperação judicial",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-farmacia-lopes-e-freitas-ltda-em-recuperacao-judicial.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-farmacia-lopes-e-freitas-ltda-em-recuperacao-judicial.pdf",
+ "sha256": "7c4d72e7d92613fde84b45a414130975da944fecd3b4be828bfaa6115b6ab67d",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

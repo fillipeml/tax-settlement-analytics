@@ -1,0 +1,79 @@
+{
+ "taxpayer": "GF6 EMPREENDIMENTOS IMOBILIARIOS LTDA",
+ "approval_date": "2024-04-16",
+ "consolidated_amount": 13783002.86,
+ "modality": "Transação Individual",
+ "total_discount_pct": 32.19,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis (Anexo II) avaliados em R$ 13.240.000,00",
+  "Hipoteca ou penhora dos bens do ANEXO II"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável os débitos do ANEXO I",
+  "Renunciar a alegações de direito sobre ações/recursos relativos aos créditos do ANEXO I",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa após a assinatura, no prazo máximo de 90 dias",
+  "Manter as garantias oferecidas até o integral cumprimento das condições",
+  "Informar previamente à PGFN a alienação/disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos e valores sempre que solicitado",
+  "Anuir com eventual modificação de competência para reunião de processos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Manter em dia o pagamento de impostos e taxas sobre o imóvel dado em garantia",
+  "Efetuar no prazo de 90 dias o registro de hipoteca ou penhora sobre os bens",
+  "Desistir de impugnações e recursos administrativos/judiciais no prazo de 30 dias"
+ ],
+ "special_clauses": [
+  "Flexibilização das regras para aceitação, avaliação, substituição e liberação de garantias (Cláusula 1ª, IV)",
+  "Flexibilização das regras para constrição ou alienação de bens (Cláusula 1ª, V)",
+  "Possibilidade de utilização de créditos líquidos e certos decorrentes de decisões transitadas em julgado (Cláusula 1ª, VI)",
+  "Produto da venda dos imóveis do Anexo II será utilizado preferencialmente para quitação do plano de pagamentos (Cláusula 6ª)",
+  "Venda direta por iniciativa particular via plataforma COMPREI/PGFN subsidiariamente (Cláusula 7ª)"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.2,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.6,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.1,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam R$ 13.783.002,86, atualizado no mês de março/2024",
+  "total_discount_pct": "% DE DESCONTO POR ORIGEM DA DÍVIDA - Ni Raiz Declarado 16586275, Origem Divida NÃO PREV, Perc Desconto 32,17%; PREV, Perc Desconto 32,21%",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (demais) será de 120 (cento e vinte) meses, enquanto que o prazo para os débitos previdenciários será de 60 (sessenta) meses"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "approval_date"
+ ],
+ "id": "beb1042bb295",
+ "title": "Termo de Transação Individual - GF6 Empreendimentos Imobiliários LTDA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualGF6EmpreendimentosImobiliriosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualGF6EmpreendimentosImobiliriosLTDA.pdf",
+ "sha256": "79100f72ab605b77a944b63ad5cd815f7f41bf7d1a5e9fab466e8fb3dcb6d5f8",
+ "extracted_at": "2026-07-22T14:22:23+00:00",
+ "simulated": false
+}

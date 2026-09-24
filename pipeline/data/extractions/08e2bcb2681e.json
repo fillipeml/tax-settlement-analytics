@@ -1,0 +1,78 @@
+{
+ "taxpayer": "BENDERPLAST – INDÚSTRIA E COMÉRCIO DE EMBALAGENS e PARANÁ TÊXTIL INDÚSTRIA E COMÉRCIO DE EMBALAGENS",
+ "approval_date": "2022-11-28",
+ "consolidated_amount": 39459160.28,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Terreno urbano, lote 06 da quadra A, área de 5.415,00m2, matriculado sob n. 13.921 perante o 2º Ofício de Registro de Imóveis de Guarapuava/PR",
+  "Terreno urbano, lotes 02 e 03 da quadra B, área de 10.000,00m2, matriculado sob n. 15.987 perante o 2º Ofício de Registro de Imóveis de Guarapuava/PR"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar ausência de interposição de pessoa para ocultar bens/direitos/valores",
+  "Declarar que não alienaram ou oneraram bens com propósito de frustrar a recuperação dos créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de ativo não circulante",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN nº 6757/22",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação, extinguindo processos com resolução de mérito",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis",
+  "Não distribuir lucros ou dividendos a sócios e acionistas até aprovação do plano de recuperação judicial",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil ou demonstrações de resultado",
+  "Individualizar os valores recolhidos nas contas vinculadas dos trabalhadores (FGTS)"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal (PF) e base de cálculo negativa de CSLL (BCN) no valor nominal de R$ 8.457.221,70 para abatimento do saldo",
+  "Vedação de distribuição de lucros ou dividendos até aprovação do plano de recuperação judicial",
+  "Descontos diferenciados por rubrica no FGTS (FGPR e CSPR) que não incidem sobre valores devidos aos trabalhadores",
+  "Garantia real com imóveis a serem penhorados em execuções fiscais específicas",
+  "Cláusula de sub-rogação da União como procuradora em caso de desapropriação do bem dado em garantia"
+ ],
+ "sector": "Indústria de embalagens",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "discounts": 0.0,
+  "judicial_recovery": 0.85,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "As DEVEDORAS possuem em aberto os débitos relacionados nos Anexos I, II e III que totalizam R$ 39.459.160,28 (trinta e nove milhões, quatrocentos e cinquenta e nove mil, cento e sessenta reais e vinte e oito centavos), seu rating de classificação de recuperabilidade é \"D\"."
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "special_clauses"
+ ],
+ "id": "08e2bcb2681e",
+ "title": "Termo de Transação Individual - Benderplast Indústria e Comércio de Embalagens",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualBenderplastIndstriaeComrciodeEmbalagensTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualBenderplastIndstriaeComrciodeEmbalagensTarjado.pdf",
+ "sha256": "bc6732d6b208ced7536b42c2bd009e2d3761b442f8b8db679688c64334fb3d17",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

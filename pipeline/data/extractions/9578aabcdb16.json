@@ -1,0 +1,76 @@
+{
+ "taxpayer": "BGC FRIGORIFICOS LTDA - EM RECUPERACAO JUDICIAL (CNPJ 19.959.165/0001-13)",
+ "approval_date": "2025-03-13",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Lei 13.988/2020, Portaria PGFN 6.757/2022) - contribuinte em Recuperação Judicial",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção das garantias dos débitos eventualmente existentes até a quitação integral do saldo devedor"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a formalização",
+  "Não alienar bens/direitos que possam reduzir capacidade de pagamento sem comunicar à Fazenda Nacional",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Manter-se optante pelo lucro real durante a vigência do acordo em caso de uso de prejuízo fiscal/CSLL negativa",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Declarar preenchimento dos requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado"
+ ],
+ "special_clauses": [
+  "Desconto máximo de aproximadamente 70% aplicado de forma proporcional sobre acréscimos legais (multa, juros e encargos), vedada redução do principal",
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, limitado a 70% do saldo da dívida após descontos, no valor aproximado de R$1.405.109,69",
+  "Vinculação ao cumprimento do plano de recuperação judicial (processo nº 1000005-92.2023.8.26.0359)",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL suspensa até confirmação pela autoridade competente, dentro do prazo legal de 5 anos",
+  "Créditos de precatório ou depósito judicial perante a União devem ser direcionados obrigatoriamente para amortização do saldo devedor"
+ ],
+ "sector": "Agroindústria (frigorífico/carnes)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.6,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de aproximadamente 70% (setenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada, de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\"), em 60 (sessenta) prestações mensais iguais e sucessivas, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "guarantees"
+ ],
+ "id": "9578aabcdb16",
+ "title": "Termo de Transação Individual - BGC Frigoríficos LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualBGCFrigorficosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualBGCFrigorficosLTDA.pdf",
+ "sha256": "cf297af282aa1e41bff26bb33606aeebc52c6bcbcd67bc8d1816033c3303ce4f",
+ "extracted_at": "2026-07-22T14:22:36+00:00",
+ "simulated": false
+}

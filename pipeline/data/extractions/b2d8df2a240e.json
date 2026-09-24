@@ -1,0 +1,69 @@
+{
+ "taxpayer": "IRMANDADE DA SANTA CASA DE MISERICORDIA DE SAO PAULO",
+ "approval_date": "2025-06-20",
+ "consolidated_amount": 317931810.24,
+ "modality": "Transação Individual",
+ "total_discount_pct": 33.99,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Precatórios Federais (Processos 0025041-86.2000.4.01.3400, 0018734-61.2010.4.03.6100, 0019296-85.2001.4.03.6100)",
+  "Precatório Estadual (SP) - Processo 0031823-32.2020.8.26.0053",
+  "Imóveis (Matrículas 115.435, 157.123, 48.855, 268.776, 46.545 e 81.637, todos em São Paulo/SP)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Autorizar acesso da Fazenda Nacional a declarações e escritas fiscais",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando débitos exigíveis em até 90 dias",
+  "Peticionar em até 60 dias em todos os processos judiciais relativos à Dívida Transacionada para desistência e renúncia",
+  "Formalizar garantias no prazo de 30 dias mediante oferecimento de bens à penhora"
+ ],
+ "special_clauses": [
+  "Possibilidade de apresentar os quatro precatórios federais que garantem a transação para amortização do saldo transacionado (cláusula 6.6.2)",
+  "Distrato de negociações anteriores identificadas no Sispar pelos números 1721186, 1721177, 4336472, 3726826, 7755164 e 7755310",
+  "Possibilidade de alienação dos ativos dados em garantia mediante anuência prévia da Fazenda Nacional, com uso da Plataforma Comprei"
+ ],
+ "sector": "Saúde/Beneficência (hospital filantrópico)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "discounts": 0.3,
+  "down_payment_pct": 0.9,
+  "installments": 0.85,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "judicial_recovery": 0.3,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "PASSIVO FISCAL TRANSACIONADO - CONSOLIDADO (sem FGTS) R$ 317.931.810,24",
+  "total_discount_pct": "Concede-se o desconto máximo de 33,99% (trinta e três e noventa e nove centésimos por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal.",
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Demais Débitos será adimplido em 145 (cento e quarenta e cinco) prestações mensais lineares e sucessivas."
+ },
+ "review_fields": [
+  "sector",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "b2d8df2a240e",
+ "title": "Termo de Transação Individual - Irmandade da Santa Casa de Misericórdia de São Paulo",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIrmandadedaSantaCasadeMisericrdiadeSoPaulo.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIrmandadedaSantaCasadeMisericrdiadeSoPaulo.pdf",
+ "sha256": "a49ca3fae7f0c24414e57b5f8d1296c761eb16a52f90f357133d4598cdd41761",
+ "extracted_at": "2026-07-22T14:22:45+00:00",
+ "simulated": false
+}

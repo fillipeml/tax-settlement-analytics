@@ -1,0 +1,86 @@
+{
+ "taxpayer": "Grupo IRFASA (IRFATUR TURISMO E HOTELARIA S.A, IRFASA S.A CONSTRUCOES INDUSTRIA E COMERCIO, URBRAS URBANIZACAO E PREMOLDADOS LTDA, BETONMIX SERVICOS DE CONCRETAGEM EIRELI, SABEP SAO BENTO EMPREENDIMENTOS E PARTICIPACOES S.A, FAZENDAS DA PRATA S.A, Espólio de WAYNE DO CARMO FARIA)",
+ "approval_date": "2023-06-26",
+ "consolidated_amount": 71331623.01,
+ "modality": "Transação Individual",
+ "total_discount_pct": 62.48,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de matrícula nº 16.800 (\"Imóvel SIA\"), 4º Registro de Imóveis do DF",
+  "Imóvel de matrícula nº 3.951 (\"Hotel Aracoara\"), 2º Registro de Imóveis do DF",
+  "Imóvel de matrícula nº 1.060 (\"Fazenda da Prata\"), Cartório de Registro de Imóveis de Pirapora/MG (garantia condicional, sujeita a regras próprias)",
+  "Hipoteca sobre os imóveis oferecidos em garantia"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar irrevogável e irretratavelmente os débitos do ANEXO I",
+  "Renunciar a alegações de direito sobre os créditos relacionados",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa em até 90 dias",
+  "Manter as garantias oferecidas até integral cumprimento",
+  "Informar previamente à PGFN alienação/disposição de bens e recebimento de precatórios",
+  "Utilizar créditos líquidos e certos apurados em litígio como reforço de amortização",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou pagamentos",
+  "Anuir com modificação de competência para reunião de processos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva contra livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação de créditos",
+  "Não distribuir lucros enquanto não liquidado o ajuste, salvo reserva legal",
+  "Notificar a Fazenda Nacional sobre migração/aquisição de atividades operacionais",
+  "Informar anualmente composição da Carteira de Recebíveis dada em garantia, se for o caso",
+  "Autorizar compensação de valores de precatórios federais",
+  "Reconhecer o grupo econômico e concordar com inserção de corresponsáveis"
+ ],
+ "special_clauses": [
+  "Flexibilização das regras para constrição ou alienação de bens",
+  "Entrada de R$ 11.000.000,00 oriunda da venda de imóveis (Fazenda Sobradinho e Fazenda da Prata)",
+  "Cessão de Direitos de Posse da Fazenda Sobradinho com intervenção da DIRECIONAL ENGENHARIA S/A como cessionária-adquirente",
+  "Alienação judicial do imóvel Fazenda da Prata com valor mínimo de R$ 20.000.000,00",
+  "Exoneração da interveniente DIRECIONAL ENGENHARIA S/A de responsabilidade solidária, condicionada ao cumprimento da Cláusula 7ª, inciso I",
+  "Suspensão do dever de recolhimento da segunda parcela da entrada durante o período de venda judicial, com incidência de SELIC",
+  "Prazo de 11 meses para venda judicial da Fazenda da Prata"
+ ],
+ "sector": "Construção civil/imobiliário",
+ "confidence": {
+  "taxpayer": 0.85,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.2,
+  "installments": 0.9,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.2,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal do DEVEDORES inscrito em dívida ativa da União e do FGTS, parte desta transação, é composto por todos os seus créditos fiscais relacionados no ANEXO I, que totalizam R$ 71.331.623,01, atualizado no mês de maio de 2023",
+  "total_discount_pct": "Total R$ 74.020.338,01 | 62,48% | R$ 26.766.740,25",
+  "installments": "§2º. O prazo para pagamento dos débitos previdenciários e não previdenciários será de 60 (sessenta) meses."
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "judicial_recovery",
+  "taxpayer",
+  "sector"
+ ],
+ "id": "3303c07b0694",
+ "title": "Termo de Transação Individual - Ifartur Turismo e Hotelaria SA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualIfarturTurismoeHotelariaSAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualIfarturTurismoeHotelariaSAtarjado.pdf",
+ "sha256": "a9352d48ecf2feb400712de585cc34c6aad3ae1639aa4406b6c8a5db69ec0dd2",
+ "extracted_at": "2026-07-22T14:22:23+00:00",
+ "simulated": false
+}

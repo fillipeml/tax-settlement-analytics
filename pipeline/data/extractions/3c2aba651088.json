@@ -1,0 +1,77 @@
+{
+ "taxpayer": "PSN MONTAGENS E MANUTENÇÃO INDUSTRIAL LTDA",
+ "approval_date": "2025-03-28",
+ "consolidated_amount": 22762961.35,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de todas as garantias existentes (indisponibilidades/penhoras/bloqueios) nos processos relacionados aos créditos negociados"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens",
+  "Declarar que não alienou ou onerou bens para frustrar recuperação de créditos",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6.757/22",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando em até 90 dias débitos supervenientes",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Manter-se optante do regime de tributação pelo lucro real durante toda a negociação",
+  "Não desistir unilateralmente do acordo",
+  "Apresentar demonstrações de resultado sempre que demandado",
+  "Quitar custas processuais pendentes e despesas de leilões",
+  "Substituir ou reforçar garantia em caso de depreciação superior a 20%",
+  "Peticionar em 30 dias para desistência de recursos/ações judiciais"
+ ],
+ "special_clauses": [
+  "Liquidação parcial do saldo remanescente com utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL, no limite de 70% (art. 35 da Portaria PGFN 6.757/2022)",
+  "Escalonamento de prestações com percentuais crescentes por faixa",
+  "Exigência de quitação integral do valor rescisório do FGTS (primeira parcela) antes do cadastramento das contas de Demais Débitos e Débitos Previdenciários",
+  "Não pagamento integral da primeira parcela impede consolidação e gera cancelamento da transação"
+ ],
+ "sector": "Montagens e manutenção industrial",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.4,
+  "total_discount_pct": 0.3,
+  "installments": 0.5,
+  "down_payment_pct": 0.2,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "judicial_recovery": 0.2,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Sobre as inscrições indicadas no Anexo I (Demais Débitos) que totalizam, em março/2025, o montante de R$ 4.980.670,39... Sobre as inscrições de demais débitos indicadas no Anexo II (Demais Débitos), que totalizam, em março/2025, R$ 17.762.790,96",
+  "installments": "Quantidade Máxima de Prestações: 120 Prestações selecionadas: 120 (tela de consolidação Demais Débitos)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "sector",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "3c2aba651088",
+ "title": "Termo de Transação Individual - PSN Montagens e Manutenção Industrial LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualPSNMontagenseManutenoIndustrialLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualPSNMontagenseManutenoIndustrialLTDA.pdf",
+ "sha256": "5042be8bbfec2024e37809aac32e4e9339fd0fd43bea6080a8fba9e2d3305138",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

@@ -1,0 +1,88 @@
+{
+ "taxpayer": "Not identified",
+ "approval_date": "2022-10-26",
+ "consolidated_amount": 81717598.28,
+ "modality": "Transação Individual - Plano de Regularização Fiscal",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis (avaliação R$ 19.370.000,00)",
+  "Bloqueios em processos aproximadamente R$ 2.705.916,02",
+  "95% das cotas societárias do Restaurante Famiglia D'Itália (30.746.245/0001-23), de propriedade de RICARDO e FERNANDO SEVERINO",
+  "Carteira de recebíveis das DEVEDORAS, referente ao empreendimento Bougainville Belém, R$ 212.159.490,42 até limite de R$ 37.000.000,00",
+  "Hipoteca ou penhora conforme ANEXO II"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessam de forma irrevogável e irretratável os débitos relacionados no ANEXO I",
+  "Renunciam a alegações de direito e questionamentos administrativos e judiciais dos débitos do ANEXO I",
+  "Manter regularidade das obrigações para com FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa após a assinatura, no prazo máximo de 90 dias",
+  "Manter as garantias oferecidas até o cumprimento integral das condições",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos",
+  "Utilizar créditos líquidos e certos como reforço do plano de amortização",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou valor de pagamentos",
+  "Anuir com eventual modificação de competência para reunião de processos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Declarar que não alienaram bens com o propósito de frustrar a recuperação dos créditos",
+  "Não distribuir lucros enquanto não liquidado o ajuste, salvo reserva legal",
+  "Notificar a Fazenda Nacional sobre migração ou aquisição de atividades por outra pessoa jurídica",
+  "Informar anualmente a composição da Carteira de Recebíveis dada em garantia"
+ ],
+ "special_clauses": [
+  "Cláusula 25: valor da venda do imóvel de matrícula 4141 em Marituba, já depositado em juízo (R$10.500.000,00), utilizado como pagamento antecipado",
+  "Cláusula 26: apartamento nº 1801, cobertura duplex do Edifício Leonardo da Vinci, avaliado em R$5.200.000,00, será alienado para abatimento da dívida",
+  "Cláusula 27: valores bloqueados serão utilizados como garantia, exceto R$5.200.000,00 e R$1.146.131,75 que serão liberados em favor da STATUS CONSTRUÇÕES",
+  "Cláusula 28: possibilidade de recálculo de parcelas em caso de recebimento de valores de terceiros corresponsáveis não participantes da transação",
+  "Cláusula 31: inscrição nº 20114009703-21 em nome de RICARDO FREITAS SEVERINO, parcelada pela Lei nº 12.996/2014, não faz parte dos débitos desta negociação"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.3,
+  "sector": 0.2,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.2,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.2,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL R$ 81.717.598,28",
+  "total_discount_pct": "a presente transação envolve a concessão de descontos de até 65% (sessenta e cinco por cento), vedada a incidência sobre o principal do débito",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (demais) será de 120 (cento e vinte) meses, enquanto que o prazo para os débitos previdenciários será de 60 (sessenta) meses"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "f112f7f0ef00",
+ "title": "Termo de Transação Individual - Status Empreendimentos",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-status-empreendimentos_.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-status-empreendimentos_.pdf",
+ "sha256": "c5c0d55752c1606b44c7696feaf4aa615ca6e20511fd40dd8f3f0555467d1366",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

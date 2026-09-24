@@ -1,0 +1,78 @@
+{
+ "taxpayer": "PREFORMASTER INDÚSTRIA COMÉRCIO E SERVIÇOS LTDA. / CG3 TELECOM COMÉRCIO DE MATERIAIS ELÉTRICOS E TELEFÔNICOS LTDA.",
+ "approval_date": "2024-07-15",
+ "consolidated_amount": 20461523.46,
+ "modality": "Transação Individual - DEMAIS DÉBITOS",
+ "total_discount_pct": 18.45,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas",
+  "Fiança pessoal (Anexo II) prestada pelo sócio Guilherme Henrique Paschoalini da Silva"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens",
+  "Declarar que não alienou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Regularizar em 30 dias saldo decorrente de reconsolidação de conta em situação 'EM COBRANÇA'",
+  "Não alienar bens que possam inviabilizar capacidade de pagamento sem comunicar a Fazenda Nacional",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a Transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Cláusula 4.7: reconhecimento pelas Requerentes de que integram o mesmo grupo econômico, concordando com inserção como corresponsáveis nos sistemas da Dívida Ativa",
+  "Cláusula 2.1: concessão de desconto considerando rating C do contribuinte e situação transitória de crise",
+  "Fiança pessoal do sócio Guilherme Henrique Paschoalini da Silva conforme Anexo II (Instrumento de Garantia Fidejussória)"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.8,
+  "installments": 0.95,
+  "down_payment_pct": 0.1,
+  "discounts": 0.2,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.1,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "As inscrições em DAU transacionadas estão especificadas no Anexo I do Termo, e alcançam, hoje, a quantia de R$ 20.461.523,46, não considerados os benefícios concedidos pela Transação.",
+  "total_discount_pct": "Nas modalidades DEMAIS DÉBITOS, desconto máximo de até 18,45% a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS DÉBITOS em 84 prestações mensais, escalonadas conforme abaixo, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo;"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "8dbb19aa3dea",
+ "title": "Termo de Transação Individual -  Preformaster Indústria Comércio e Serviços LTDA - Tarjado",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualPreformasterIndstriaComrcioeServiosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualPreformasterIndstriaComrcioeServiosLTDATarjado.pdf",
+ "sha256": "ca3841544cd3fc405a32450cfc3761af5e20d834c8b633d4e0c12d691dbde41a",
+ "extracted_at": "2026-07-22T14:22:49+00:00",
+ "simulated": false
+}

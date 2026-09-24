@@ -1,0 +1,83 @@
+{
+ "taxpayer": "GRUPO JC GONTIJO",
+ "approval_date": "2023-02-10",
+ "consolidated_amount": 195827854.03,
+ "modality": "Transação Individual",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca de imóveis (ANEXO II), avaliados em R$ 72.751.827,00",
+  "Seguro-garantia no valor de R$ 80.998.562,49, emitido pela BMG Seguros S.A.",
+  "Fiança pessoal de José Celso Valadares Gontijo no valor de R$ 17.530.274,75"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável os débitos relacionados no ANEXO I",
+  "Renunciar a alegações de direito e questionamentos administrativos/judiciais sobre os débitos",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa após a assinatura, no prazo máximo de 90 dias",
+  "Manter as garantias oferecidas até o integral cumprimento das condições da transação",
+  "Informar previamente à PGFN alienação/disposição de bens do ativo não circulante",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou valor dos pagamentos",
+  "Autorizar compensação de restituições/precatórios com prestações do acordo",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Registrar hipoteca no prazo de 45 dias contados da assinatura",
+  "Apresentar aditivo da apólice de seguro-garantia no prazo de 45 dias",
+  "Apresentar situação econômico-financeira anualmente"
+ ],
+ "special_clauses": [
+  "Manutenção do desconto máximo de 50% da Transação Individual anterior (assinada em 24/05/2022), vedada incidência sobre o principal",
+  "Desistência de programas de benefício fiscal e transação individual anteriores, com amortização dos pagamentos já feitos",
+  "Possibilidade de suspensão dos pagamentos em caso de programa de parcelamento extraordinário mais benéfico, com adesão a 100% dos débitos",
+  "Prazo de vigência de até 84 meses",
+  "Transação produz efeitos mesmo pendente de homologação judicial"
+ ],
+ "sector": "Construção civil/incorporação imobiliária e hotelaria",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizam R$ 195.827.854,03 (Cento e noventa e cinco milhões, oitocentos e vinte e sete mil, oitocentos e cinquenta e quatro reais e três centavos), atualizado no mês de fevereiro de 2023",
+  "total_discount_pct": "fica mantido o desconto máximo possível de 50% (cinquenta por cento) da Transação Individual anterior, assinada em 24/05/2022, vedada a incidência sobre o principal do débito",
+  "installments": "O prazo para pagamento dos débitos previdenciários será de 48 (quarenta e oito) meses, e dos débitos não previdenciários (demais) será de 84 (oitenta e quatro) meses"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "cd7e62b30f29",
+ "title": "Termo de Transação Individual - Grupo JC Gontijo (2023)",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermoTransaoIndividualJCGontijoAssinado09.03.2023TARJADA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermoTransaoIndividualJCGontijoAssinado09.03.2023TARJADA.pdf",
+ "sha256": "1d8f0171386bbb893d72ab8457ccc64428b170fee25f53e21b6460459f93f327",
+ "extracted_at": "2026-07-21T19:08:39+00:00",
+ "simulated": false
+}

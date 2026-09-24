@@ -1,0 +1,77 @@
+{
+ "taxpayer": "BLU PAGAMENTOS S/A, BLU INSTITUIÇÃO DE PAGAMENTO LTDA. (BLU IP), PAGCENTER GESTÃO E LOGÍSTICA LTDA.",
+ "approval_date": "2024-07-09",
+ "consolidated_amount": 44675625.56,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 12,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Equipamentos de informática e terminais de Pontos de Serviço – POS (máquinas de cartão)",
+  "Penhora de 10% do faturamento mensal",
+  "Fiança pessoal dos sócios Bruno Giannini Lago Alonso e Luis Eduardo Torres Marinho"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não alienarem bens ou direitos próprios sem prévia comunicação à Fazenda Nacional (ressalvadas alienações inerentes às atividades empresariais, como cessão de recebíveis)",
+  "Não utilizarem pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Fornecer informações sobre bens, direitos, valores e operações sempre que solicitado pela CREDORA",
+  "Manter regularidade perante o FGTS e individualizar valores recolhidos",
+  "Pagar/parcelar/garantir, no prazo de 90 dias, novos débitos inscritos em Dívida Ativa após a formalização do acordo",
+  "Manter o regime de apuração do IRPJ/CSLL pelo Lucro Real e guarda de livros/documentos comprobatórios de PF/BCN por até 5 anos",
+  "Peticionar em 30 dias para desistir de impugnações/recursos/ações e confessar a dívida",
+  "Recolher obrigações tributárias correntes e acessórias"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para liquidar 60% do saldo após desconto de 65%",
+  "Primeira parcela não linear de R$ 7.000.000,00 seguida de 11 parcelas iguais",
+  "Possibilidade de substituição das garantias por seguro garantia ou fiança bancária mediante concordância da CREDORA",
+  "Fiadores obrigados a não alienar bens acima de 5% do patrimônio declarado sem comunicação, com ressalvas para participações societárias, valores mobiliários, títulos de dívida e CDBs"
+ ],
+ "sector": "Pagamentos/fintech (meios de pagamento e maquininhas POS)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.75,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.8,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Pelas inscrições relativas aos débitos constantes do Anexo I, totalizando R$ 44.675.625,56 (quarenta e quatro milhões, seiscentos e setenta e cinco mil e seiscentos e vinte e cinco reais e cinquenta e seis centavos), atualizados até julho de 2024.",
+  "total_discount_pct": "Concessão do desconto máximo possível de 65% sobre a dívida transacionada, observada a vedação de redução do montante principal, sendo o referido desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "pagamento do valor remanescente da dívida em 11 (onze) parcelas iguais e sucessivas, calculados sobre o valor da dívida consolidada após a concessão do desconto e a amortização dos créditos de PF/BCN da CSLL."
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "special_clauses"
+ ],
+ "id": "b439b6df9b85",
+ "title": "Termo de Transação Individual - Blu Pagamentos LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualBluPagamentosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualBluPagamentosLTDATarjado.pdf",
+ "sha256": "de87eb4ac583a2d826ce45d0cea718f0b8fd65c074936feea64911730f086962",
+ "extracted_at": "2026-07-22T14:22:29+00:00",
+ "simulated": false
+}

@@ -1,0 +1,78 @@
+{
+ "taxpayer": "FONTE CINDAM S/A",
+ "approval_date": "2024-04-08",
+ "consolidated_amount": 31455727.28,
+ "modality": "Transação Individual",
+ "total_discount_pct": 64.99,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Bens imóveis avaliados em R$ 7.140.000,00 (hipoteca)",
+  "Imóvel residencial na Rua Icatu nº 96, Humaitá, Rio de Janeiro – RJ, matrícula nº 0052624, avaliado em R$ 4.025.000,00",
+  "Imóvel residencial na Rua Hilário de Gouveia nº 15, apto 1001, Copacabana, Rio de Janeiro – RJ, matrícula nº 21.447, avaliado em R$ 3.115.000,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável os débitos do ANEXO I",
+  "Renunciar a alegações de direito sobre créditos do ANEXO I",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa no prazo de 90 dias",
+  "Manter as garantias até integral cumprimento das condições",
+  "Informar previamente à PGFN alienação/disposição de bens",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Anuir com modificação de competência para reunião de processos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou para prejudicar livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não possuir precatório federal ou créditos líquidos e certos em desfavor da União",
+  "Desistir de impugnações, recursos e ações judiciais no prazo de 30 dias",
+  "Manter em dia pagamento de impostos e taxas sobre imóvel dado em garantia",
+  "Registrar hipoteca no prazo de 90 dias contados da assinatura"
+ ],
+ "special_clauses": [
+  "Flexibilização das regras para aceitação, avaliação, substituição e liberação de garantias (Cláusula 1ª, Parágrafo único, IV)",
+  "Flexibilização das regras para constrição ou alienação de bens (Cláusula 1ª, Parágrafo único, V)",
+  "Possibilidade de utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL",
+  "Utilização do produto da venda dos imóveis do ANEXO II para quitação do plano de pagamentos (Cláusula 6ª)",
+  "Venda direta por iniciativa particular pela plataforma COMPREI/PGFN, subsidiariamente (Cláusula 7ª)"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.85,
+  "discounts": 0.1,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.1
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal do DEVEDOR inscrito em dívida ativa da União e do FGTS, parte desta transação, é composto por todos os seus créditos fiscais relacionados no ANEXO I, que totalizam R$ 31.455.727,28, atualizado no mês de fevereiro/2024",
+  "total_discount_pct": "Desconto máximo efetivo: 64,99%",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (demais) será de 120 (cento e vinte) meses"
+ },
+ "review_fields": [
+  "sector",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "90cb24b71316",
+ "title": "Termo de Transação Individual - Fonte Cindam SA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualFonteCindamSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualFonteCindamSATarjado.pdf",
+ "sha256": "07ab3e035aea1a48a089ab8dc457139b19d60e1a79a94dce2f10b2d60476899a",
+ "extracted_at": "2026-07-22T14:22:22+00:00",
+ "simulated": false
+}

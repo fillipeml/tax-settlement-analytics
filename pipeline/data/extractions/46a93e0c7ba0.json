@@ -1,0 +1,73 @@
+{
+ "taxpayer": "Agroaraçá Indústria e Comércio de Alimentos",
+ "approval_date": "2024-01-17",
+ "consolidated_amount": 122127449.52,
+ "modality": "Transação Individual (empresa em Recuperação Judicial)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Garantias associadas aos débitos, já penhoradas em executivos fiscais, mantidas nos respectivos processos judiciais"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade nos programas de parcelamentos anteriores",
+  "Manter regularidade com os tributos correntes",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Declarar que não utiliza pessoa interposta para ocultar bens ou valores",
+  "Declarar que não alienou ou onerou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais e econômico-fiscais prestadas",
+  "Manter as garantias associadas aos débitos transacionados",
+  "Não alienar bens sem comunicação à Fazenda Nacional"
+ ],
+ "special_clauses": [
+  "Cláusula 4ª - Parágrafo único: devedora deverá zelar pelo cumprimento das obrigações constantes no termo de transação do grupo econômico constante no SEI 16629.100043/2020-07",
+  "Uso de créditos decorrentes de prejuízo fiscal e base de cálculo negativa da CSLL em valor aproximado de R$33.167.499,99",
+  "Possibilidade de liberação de valores bloqueados em processos judiciais para pagamento de parcelas do acordo, conforme email de 20/04/2023"
+ ],
+ "sector": "Agroindústria/alimentos",
+ "confidence": {
+  "taxpayer": 0.98,
+  "approval_date": 0.95,
+  "modality": 0.95,
+  "sector": 0.6,
+  "judicial_recovery": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts": 0.0,
+  "guarantees": 0.75,
+  "obligations": 0.9,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total | 122.127.449,52 (ANEXO I - Relação de Débitos Elegíveis à Transação)",
+  "installments": "Pagamentos em 60 parcelas mensais, iniciando em aproximadamente R$21.696,66, para os fazendários, e pagamento em 60 parcelas mensais, para os previdenciários, iniciando em aproximadamente R$237.461,11, tudo conforme tabela do anexo III."
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "46a93e0c7ba0",
+ "title": "Termo de Transação Individual - Agroaraçá Indústria e Comércio de Alimentos LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAgroaraIndstriaeComrciodeAlimentosLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAgroaraIndstriaeComrciodeAlimentosLTDAtarjado.pdf",
+ "sha256": "49a35448501d357909f103021c53da56d370ecc8e04197813fa0cfdd9dc8b1bb",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

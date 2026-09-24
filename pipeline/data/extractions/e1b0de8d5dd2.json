@@ -1,0 +1,68 @@
+{
+ "taxpayer": "GAMA MINERAÇÃO S.A",
+ "approval_date": "2021-07-03",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": 100.0,
+  "interest_pct": 100.0,
+  "charges_pct": 100.0
+ },
+ "installments": 36,
+ "down_payment_pct": 0.334,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Declarar não utilizar pessoa interposta para ocultar bens ou valores",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Não alienar bens ou direitos sem prévia comunicação à Fazenda Nacional",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relacionadas aos débitos"
+ ],
+ "special_clauses": [
+  "Cláusula 7ª: Gama declara que não alienará bens ou direitos sem proceder à devida e prévia comunicação à Fazenda Nacional"
+ ],
+ "sector": "Mineração",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.8,
+  "discounts.fine_pct": 0.85,
+  "discounts.interest_pct": 0.85,
+  "discounts.charges_pct": 0.85,
+  "down_payment_pct": 0.85,
+  "installments": 0.85,
+  "guarantees": 0.6,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "total_discount_pct": "observado o limite de até 50% (cinquenta por cento) sobre o valor total de cada crédito objeto da negociação",
+  "installments": "em até 36 (trinta e seis) parcelas mensais e sucessivas",
+  "down_payment_pct": "Efetuar o pagamento, a título de entrada, de valor mensal equivalente a 0,334% (trezentos e trinta e quatro centésimos por cento) do valor consolidado dos créditos transacionados, durante 12 (doze) meses"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "e1b0de8d5dd2",
+ "title": "Termo de Transação Individual - GAMA MINERACAO",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-gama-mineracao.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-gama-mineracao.pdf",
+ "sha256": "fb07cb1e1156cbdb2df7f14cf61de188076cb59e17c94fb0388e03d77dfad059",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

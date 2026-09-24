@@ -1,0 +1,78 @@
+{
+ "taxpayer": "COMPANHIA ACUCAREIRA CENTRAL SUMAUMA, PENEDO AGRO INDUSTRIAL S/A, COMPANHIA ACUCAREIRA USINA CAPRICHO, IBERIA INDUSTRIAL E COMERCIAL LTDA (grupo econômico de fato)",
+ "approval_date": "2023-10-16",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Plano de Regularização Fiscal",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de todas as garantias já associadas aos débitos, inclusive penhoras em execuções fiscais",
+  "Bens elencados no Anexo II, declarados não-essenciais, sujeitos a constrições/penhora nas execuções fiscais"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Renunciar a alegações de direito sobre ações judiciais relacionadas aos débitos transacionados",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos de FGTS e demais débitos que se tornem exigíveis",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de bens do ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Proceder à individualização dos valores recolhidos em contas vinculadas do FGTS",
+  "Permanecer no regime de lucro real durante a vigência da transação",
+  "Apresentar demonstrações contábeis anualmente",
+  "Fornecer relação de bens e direitos e relatórios de prejuízo fiscal/base negativa CSLL no ato da assinatura"
+ ],
+ "special_clauses": [
+  "Corresponsabilização mútua entre as devedoras em razão de grupo econômico de fato (Cláusula 13)",
+  "Utilização de prejuízo fiscal e base de cálculo negativa de CSLL para pagamento de até 50% do total da dívida após descontos (§1º da Cláusula 6ª)",
+  "Bens do Anexo II declarados não-essenciais como garantia adicional para débitos de FGTS e/ou inscritos em Dívida Ativa",
+  "Contas previdenciária e demais débitos liquidadas de forma escalonada e progressiva por período (§4º e §5º da Cláusula 6ª)",
+  "Possibilidade de inclusão de honorários sucumbenciais na transação com mesmas condições de desconto e prazo"
+ ],
+ "sector": "Agroindústria/sucroalcooleiro",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.8,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "com aproveitamento do desconto de até 70% (setenta por cento), baseado na capacidade de pagamento dos DEVEDORES",
+  "installments": "para pagamento da dívida não-previdenciária, em 120 (cento e vinte) meses, e da dívida previdenciária em 60 (sessenta) meses"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "59248887f95c",
+ "title": "Termo de Transação Individual - Companhia Açucareira Central Sumaúma,  Penedo Agro Industrial SA, Companhia Açucareira Usina Capricho",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCOMPANHIAAUCAREIRACENTRALSUMAMAemrecuperaojudicialPENEDOAGROINDUSTRIALSAemrecuperaojudicialCOMPANHIAAUCAREIRAUSINACAPRICHOemrecuperaojudiciaTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCOMPANHIAAUCAREIRACENTRALSUMAMAemrecuperaojudicialPENEDOAGROINDUSTRIALSAemrecuperaojudicialCOMPANHIAAUCAREIRAUSINACAPRICHOemrecuperaojudiciaTarjado.pdf",
+ "sha256": "c4e1709d3c8e779ce3219f4976f69c6c48f1b8aef19ee9d4c07b2f58000e635d",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

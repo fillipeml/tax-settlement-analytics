@@ -1,0 +1,73 @@
+{
+ "taxpayer": "CL&M MEDICINA DO TRABALHO E SAUDE OCUPACIONAL LTDA",
+ "approval_date": "2024-03-25",
+ "consolidated_amount": 11025850.15,
+ "modality": "Transação Individual",
+ "total_discount_pct": 54.18,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Permanecer no regime de apuração do Lucro Real enquanto perdurar a vigência da presente transação",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à Procuradoria-Geral da Fazenda Nacional conhecer sua situação econômica ou eventuais fatos que impliquem a rescisão do acordo",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar de qualquer forma a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores, seus reais interesses ou a identidade dos beneficiários de seus atos, em prejuízo da Fazenda Pública Federal",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas à administração tributária são verdadeiras e que não foram omitidas informações quanto à propriedade de bens, direitos e valores",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União, reconhecidos em decisão judicial transitada em julgado, ou precatórios federais expedidos em favor do contribuinte",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 (noventa) dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito no valor de R$1.900.787,62, a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, para amortização do saldo devedor após a aplicação dos descontos",
+  "A cobrança do saldo liquidado com uso de créditos decorrentes de prejuízo fiscal e de base de cálculo negativa da CSLL ficará suspensa até a confirmação dos créditos utilizados pela autoridade competente, dentro do prazo legal de cinco anos da sua utilização",
+  "Eventuais créditos que a Requerente venha a dispor, por precatório, levantamento de depósito judicial ou qualquer outro meio, perante a União ou outros entes federados, poderão ser direcionados para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Saúde/Medicina do Trabalho",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.6,
+  "modality": 0.98,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.55,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.7,
+  "guarantees": 0.3,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "PF/BCN na contabilidade R$9.103.310,18 ... Saldo a pagar em dinheiro R$3.151.300,37 ... Total R$5.052.087,99 Desconto efetivo 54,18%",
+  "total_discount_pct": "Total R$5.052.087,99 Desconto efetivo 54,18%",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais, e escalonadas na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "sector",
+  "guarantees",
+  "judicial_recovery",
+  "discounts.fine_pct",
+  "discounts.interest_pct"
+ ],
+ "id": "0f896ab050be",
+ "title": "Termo de Transação Individual - CLM Medicina do Trabalho e Saúde Ocupacional LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCLMMedicinadoTrabalhoeSadeOcupacionalLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCLMMedicinadoTrabalhoeSadeOcupacionalLTDATarjado.pdf",
+ "sha256": "c946a3786a932ad7e8c29404c71b29f2a4732474b0907420ee279034da5edefd",
+ "extracted_at": "2026-07-22T14:22:37+00:00",
+ "simulated": false
+}

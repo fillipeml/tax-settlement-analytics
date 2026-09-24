@@ -1,0 +1,80 @@
+{
+ "taxpayer": "SANTA CASA DE CARIDADE DE BAGÉ",
+ "approval_date": "2023-10-04",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 41.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis (matrículas indicadas, avaliados em R$ 50.662.000,00 conforme Cláusula 10ª)",
+  "Penhoras existentes em execuções fiscais mantidas"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, operações e demais atos à PGFN (Cláusula 2ª, I)",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência (Cláusula 2ª, II)",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos (Cláusula 2ª, III)",
+  "Declarar que não aliena ou onera bens com propósito de frustrar a recuperação dos créditos (Cláusula 2ª, IV)",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria PGFN 6.757/22 (Cláusula 2ª, V)",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais (Cláusula 2ª, VI)",
+  "Manter regularidade perante o FGTS (Cláusula 2ª, VII)",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa (Cláusula 2ª, VIII)",
+  "Manter em dia pagamento de impostos, taxas e tributos sobre os bens dados em garantia (Cláusula 11)",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas dos trabalhadores (Cláusula 6ª, §7º)",
+  "Apresentar situação econômico-financeira por meio de demonstrações de resultados e balanço contábil (Cláusula 20)"
+ ],
+ "special_clauses": [
+  "Restrição à expropriação dos imóveis dados em garantia enquanto mantida certificação prevista na Lei Complementar 187/2021, limitando-se, em caso de rescisão, à cobrança exclusiva das contribuições previdenciárias (Cláusula 10, Parágrafo Único)",
+  "Destinação de precatório federal (nº 23710003459) para quitação de saldo devedor de FGTS (Cláusula 7, §4º)",
+  "Possibilidade de amortização do saldo devedor mediante créditos líquidos e certos ou precatórios obtidos pelo devedor (Cláusula 8ª)",
+  "Pagamento integral da verba rescisória do FGTS na primeira parcela (R$ 297.101,23) (Cláusula 6ª, B)"
+ ],
+ "sector": "Saúde/Hospitalar (entidade filantrópica - Santa Casa)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.95,
+  "modality": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.6,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.75,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "sector": 0.6,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "total_discount_pct": "sendo concedido o desconto médio que poderá chegar a 41,00%, observados os limites dos §§ 2º e 3º do art. 11 da Lei n. 13.988/20",
+  "installments": "O plano relativo às inscrições indicadas no Anexo I (demais débitos) prevê o pagamento em 145 (cento e quarenta e cinco) parcelas mensais e sucessivas"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector",
+  "guarantees"
+ ],
+ "id": "1897e59e0a40",
+ "title": "Termo de Transação Individual - Santa Casa de Caridade de Bage",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualSantaCasadeCaridadedeBage.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualSantaCasadeCaridadedeBage.pdf",
+ "sha256": "c8d21a7d022be23a2623f8d6101d70d2bb4430570b994b058e308dbc5c0b6b00",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

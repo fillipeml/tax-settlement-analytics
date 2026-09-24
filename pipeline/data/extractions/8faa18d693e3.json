@@ -1,0 +1,75 @@
+{
+ "taxpayer": "COMPONENT INDÚSTRIA E COMÉRCIO LTDA",
+ "approval_date": "2021-08-12",
+ "consolidated_amount": null,
+ "modality": "Transação individual de débitos de FGTS",
+ "total_discount_pct": 25.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Garantias já constantes das execuções fiscais (mantidas), podendo ser substituídas por depósito, fiança bancária ou seguro-garantia de igual valor"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Promover a desistência de impugnações, recursos e ações administrativas ou judiciais relativas à Dívida Transacionada, no prazo de 30 dias contados da assinatura do Acordo",
+  "Adimplir a Transação, observadas as condições previstas nos itens 3 e 4",
+  "Não alienar bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento, sem prévia comunicação à Fazenda Nacional",
+  "Pagar, parcelar ou garantir débitos inscritos em Dívida Ativa da União e/ou do FGTS não constantes da relação da Dívida Transacionada, no prazo de 90 dias",
+  "Manter regular a situação dos parcelamentos atualmente vigentes",
+  "Manter a regularidade perante o FGTS",
+  "Renunciar a quaisquer alegações de direito sobre ações judiciais que tenham por objeto a Dívida Transacionada",
+  "Fornecer informações sobre bens, direitos, valores e transações sempre que solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Realizar comunicações exigidas no Acordo via SICAR/REGULARIZE",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas do FGTS dos respectivos trabalhadores"
+ ],
+ "special_clauses": [
+  "Utilização dos valores depositados judicialmente nas execuções fiscais para pagamento das parcelas devidas aos trabalhadores (item 4)",
+  "Saldo do principal (DEP + JAM) pago em 60 parcelas e Juros/Multas/Encargos em 24 parcelas, com desconto de 25%",
+  "Primeira parcela referente a FGTS rescisório, com operacionalização pela CAIXA"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.2,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "discounts": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "3.1.1: Desconto de 25%",
+  "installments": "Saldo do principal (DEP + JAM) – valores devidos aos trabalhadores em 60 parcelas"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "installments",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "8faa18d693e3",
+ "title": "Termo de Transação Individual - Component",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-component.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-component.pdf",
+ "sha256": "03355463674e04e6624e379c3cfd3a9df6766e8803e3cf2b61572a879359ff00",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

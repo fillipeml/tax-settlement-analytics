@@ -1,0 +1,80 @@
+{
+ "taxpayer": "INDÚSTRIA VEROLME S/A IVESA (e corresponsáveis SEQUIP PARTICIPAÇÕES LTDA e MASSA FALIDA DE EMAQ ENGENHARIA E MÁQUINAS S/A)",
+ "approval_date": "2022-10-27",
+ "consolidated_amount": 294458691.61,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Precatório federal de titularidade da INDÚSTRIA VEROLME S/A – IVESA, expedido nos autos da ação ordinária nº 0066967-68.1994.4.02.5101 (12ª Vara Federal do Rio de Janeiro), cadastrado na Secretaria de Precatórios do TRF da 2ª Região sob o nº 5016731-22.2021.4.02.9388, formalizado via penhora nas execuções fiscais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos listados no Anexo I",
+  "Petição nos processos judiciais em até 30 dias para noticiar a celebração do acordo e confessar os débitos",
+  "Compromisso de efetuar pagamentos das parcelas por DARF emitido no sistema REGULARIZE",
+  "Regularizar em até 30 dias débitos inscritos em Dívida Ativa do FGTS e manter regularidade perante o FGTS",
+  "Compromisso de, em até 90 dias, pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União",
+  "Autorização de acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Declarar que não alienará bens sem comunicação à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/valores",
+  "Declarar que não alienou/onerou bens com propósito de frustrar recuperação dos créditos",
+  "Depositar em até 30 dias montante correspondente à redução da garantia representada pelo precatório",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais prestadas"
+ ],
+ "special_clauses": [
+  "Garantia via precatório federal em substituição a outras garantias tradicionais",
+  "Reconhecimento de corresponsabilidade entre IVESA, SEQUIP PARTICIPAÇÕES LTDA e MASSA FALIDA DE EMAQ ENGENHARIA E MÁQUINAS S/A",
+  "Possibilidade de inclusão futura de débitos do Anexo II após inscrição em Dívida Ativa, com recálculo do saldo devedor",
+  "Vedação de adesão a outra modalidade de transação para as inscrições do Anexo I, exceto adesão à quitação antecipada da Portaria PGFN 8.798/2022"
+ ],
+ "sector": "Indústria naval/metalúrgica",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.charges_pct": 0.8,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Débitos não previdenciários: Valor consolidado das inscrições R$ 225.919.606,61 / Débitos previdenciários: Valor consolidado das inscrições R$ 64.409.914,00",
+  "installments": "6.1.5. Reconhecimento de que o prazo máximo de pagamento das dívidas objeto desta transação individual será de 120 (cento e vinte) meses para os débitos não previdenciários e de 60 (sessenta) meses para os previdenciários",
+  "discounts.charges_pct": "serão concedidos os descontos máximos possíveis de acordo com a legislação: Débitos não previdenciários... % de desconto possível Até 65% / Débitos previdenciários... % de desconto possível Até 65%"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "judicial_recovery",
+  "special_clauses",
+  "consolidated_amount"
+ ],
+ "id": "620495c07bbd",
+ "title": "Termo de Transação Individual - Indústria Verolme",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualIndustriaVerolme.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualIndustriaVerolme.pdf",
+ "sha256": "ea23315c4e2ea0ddeb969a54c854ef2e3a7b15dd260d4c697979d65ef081d0bb",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

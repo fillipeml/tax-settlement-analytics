@@ -1,0 +1,82 @@
+{
+ "taxpayer": "CLOROETIL SOLVENTES ACÉTICOS S/A EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-09-17",
+ "consolidated_amount": 126167207.2,
+ "modality": "Transação Individual (Recuperação Judicial)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança pessoal do sócio Alexandre Sposito Manfredi, com renúncia ao benefício de ordem (art. 827, parágrafo único, c/c art. 828, I, do Código Civil)",
+  "Imóvel matriculado sob o número 10.668 do CRI de Mogi Mirim, de propriedade da Cloroetil, penhorado nos autos da execução fiscal 0004606-60.1997.8.26.0363 (AV. 30)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Declarar sob as penas da lei que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos",
+  "Declarar que não alienou/onerou bens para frustrar a recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias os débitos que se tornarem exigíveis após a formalização",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda",
+  "Manter-se regular com Transações e Parcelamentos em curso, quitando mensalmente as parcelas",
+  "Manter por 5 anos os livros e documentos comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação, desistir de impugnações/recursos e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Utilização de até 59,42% do saldo remanescente com créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação (item 2.1.4)",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL ficará suspensa até confirmação pela autoridade competente, dentro do prazo legal de 5 anos (item 2.1.5)",
+  "Eventuais créditos por precatório, levantamento de depósito judicial ou outro meio deverão ser direcionados ao adimplemento dos saldos devedores (item 2.4)",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas (item 3.5)",
+  "Transação vinculada ao cumprimento do plano de recuperação judicial nos autos do processo nº 1001678-50.2019.8.26.0363"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 1.0,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.0,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 1.0,
+  "sector": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "As inscrições em DAU transacionadas estão especificadas no Anexo I do Termo, e alcançam, hoje, a quantia de R$ 126.167.207,20, não considerados os benefícios concedidos pela Transação.",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 60 (sessenta) prestações mensais, na forma discriminada no Anexo II; ... Pagamento da Dívida Transacionada de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 60 (sessenta) prestações mensais, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "7ab6ef8a5e7f",
+ "title": "Termo de Transação Individual - Cloroetil Solventes Acéticos SA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCloroetilSolventesActicosSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCloroetilSolventesActicosSATarjado.pdf",
+ "sha256": "65812ab2f6dc08b82f737b837350a7de1ea8723008235a2724ca63271e4401b8",
+ "extracted_at": "2026-07-22T14:22:38+00:00",
+ "simulated": false
+}

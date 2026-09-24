@@ -1,0 +1,66 @@
+{
+ "taxpayer": "VENEZA VEICULOS LTDA",
+ "approval_date": "2022-02-07",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 60.67,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, no prazo de até 30 dias após a assinatura, demonstrações contábeis dos 3 últimos exercícios sociais (balanço patrimonial, demonstração de resultados acumulados, demonstração do resultado desde o último exercício social, relatório gerencial de fluxo de caixa e projeção)",
+  "Fornecer relação nominal completa dos credores, natureza, classificação e valor atualizado do crédito",
+  "Fornecer relação de bens e direitos de propriedade do requerente, no país ou exterior, com laudo econômico-financeiro e avaliação dos bens e ativos",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil ou quando a PGFN reputar oportuno",
+  "Manter recolhimento das obrigações tributárias correntes e obrigações acessórias dependentes",
+  "Verter para pagamento da dívida qualquer crédito reconhecido judicial ou administrativamente a receber por precatório ou outro meio"
+ ],
+ "special_clauses": [
+  "Cláusula 15: sobrevindo parcelamento com regras e/ou descontos mais benéficos, fica assegurado à devedora, a seu critério, a inclusão dos débitos transacionados no programa incentivado, extinguindo-se a presente transação sem ônus",
+  "Cláusula 14: obrigação de verter créditos de precatórios ou outros valores a receber da União, Estados ou Municípios para pagamento da dívida"
+ ],
+ "sector": "Comércio de veículos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "ambas com aproveitamento do desconto máximo de até 60,67% (sessenta vírgula sessenta e sete por cento), baseado na sua capacidade de pagamento",
+  "installments": "no prazo de 145 (cento e quarenta e cinco) meses, e no prazo de 60 (sessenta) meses para a sua dívida previdenciária"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "ef4e4d85d04d",
+ "title": "Termo de Transação Individual - Veneza Veículos LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualVenezaVeculosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualVenezaVeculosLTDA.pdf",
+ "sha256": "858c386c7e51c159ac54d5b3a98b75748bd61a3ce6cabaea63457bf462f34137",
+ "extracted_at": "2026-07-22T14:35:18+00:00",
+ "simulated": false
+}

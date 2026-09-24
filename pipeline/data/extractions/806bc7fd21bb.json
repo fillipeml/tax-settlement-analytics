@@ -1,0 +1,78 @@
+{
+ "taxpayer": "INAB INDÚSTRIA NACIONAL DE BEBIDAS LTDA",
+ "approval_date": "2022-08-16",
+ "consolidated_amount": 146980041.16,
+ "modality": "Transação Individual",
+ "total_discount_pct": 46.36,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel matriculado sob n. 41.935 do 1º Ofício do Registro de Imóveis de Toledo/PR, com edificações e instalações industriais, máquinas e equipamentos, edificações/benfeitorias, marcas e patentes, instalações elétricas e hidráulicas, garrafeiras, barris de cerveja, chopeiras do ativo imobilizado",
+  "Marca Cerveja Colônia, sob processo INPI n. 820622478"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade nos programas de parcelamentos a que aderiu antes do presente acordo",
+  "Manter regularidade com os tributos correntes",
+  "Manter regularidade perante o FGTS",
+  "Regularizar, no prazo de 90 dias, as dívidas que vierem a ser inscritas ou que se tornarem exigíveis após a formalização do acordo",
+  "Não alienar ou onerar bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos na transação",
+  "Realizar todas as comunicações relativas à transação por meio de requerimento administrativo no SICAR/REGULARIZE",
+  "Renunciar a quaisquer alegações de direito sobre créditos incluídos na transação",
+  "Promover a desistência de impugnações, recursos e ações judiciais e administrativas no prazo de 30 dias",
+  "Informar previamente à Fazenda Nacional a alienação e/ou disposição de bens e direitos",
+  "Autorizar a compensação de valores relativos a restituições, ressarcimentos ou reembolsos com prestações do acordo",
+  "Autorizar a compensação de valores relativos a precatórios federais",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado"
+ ],
+ "special_clauses": [
+  "Oferta em garantia de bem imóvel pertencente a terceiros, com anuência dos proprietários e cônjuges como intervenientes anuentes",
+  "Depósitos judiciais existentes na execução fiscal n. 5004170202016404 7016 e 50042787820184047016 serão transformados em pagamento definitivo da União, sem desconto",
+  "Direito creditório decorrente da ação n. 1013585-92.2018.4.01.3400 (Associação dos Fabricantes de Refrigerantes do Brasil) será utilizado para pagamento das parcelas vencíveis desta transação",
+  "Extinção da execução fiscal implicará constituição de hipoteca sobre bens imóveis e penhor sobre bens móveis a cargo da devedora"
+ ],
+ "sector": "Indústria de bebidas",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.7,
+  "modality": 1.0,
+  "approval_date": 0.95,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor total transacionado: R$ 146.980.041,16",
+  "total_discount_pct": "Valor com desconto: R$ 78.853.706,83",
+  "installments": "O valor dos débitos não previdenciários (\"demais débitos\") será dividido em 120 (cento e vinte) parcelas mensais escalonadas conforme a tabela"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "806bc7fd21bb",
+ "title": "INABINDSTRIANACIONALDEBEBIDASLTDA.pdf",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/INABINDSTRIANACIONALDEBEBIDASLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/INABINDSTRIANACIONALDEBEBIDASLTDA.pdf",
+ "sha256": "25c3d40ebd7c375866679a506ce82b926dedd1d13c5e1f7f81e5bf1beff21fcc",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

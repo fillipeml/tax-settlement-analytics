@@ -1,0 +1,59 @@
+{
+ "taxpayer": "Usina Santa Clotilde (Usina Santa Clotilde S/A)",
+ "approval_date": "2022-08-17",
+ "consolidated_amount": 1732137.24,
+ "modality": "Transação Individual (Primeiro Termo Aditivo) - débitos de Contribuição Social da Lei Complementar nº 110/2001",
+ "total_discount_pct": 46.78,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 20,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Pagamentos realizados por meio de documento de arrecadação emitido pela Caixa Econômica Federal"
+ ],
+ "special_clauses": [
+  "Inclusão de novas inscrições em Dívida Ativa (CSAL201400190, CSAL201500177, CSAL201500232, CSAL201600434, CSAL201700579, CSAL201900141) ao acordo de transação individual original firmado em 29/06/2022",
+  "Modalidade 6 da Simulação de Parcelamentos CS - Transação - Lei 13.988/2020 - RCCFGTS 974/2020"
+ ],
+ "sector": "Agronegócio (sucroalcooleiro)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.0,
+  "obligations": 0.7,
+  "judicial_recovery": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Total: 1.732.137,24",
+  "total_discount_pct": "concessão do desconto total de 46,78% (quarenta e seis vírgula setenta e oito porcento)",
+  "installments": "o parcelamento do valor em até 20 (vinte) parcelas mensais sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "obligations"
+ ],
+ "id": "6a354b8768eb",
+ "title": "Primeiro Termo Aditivo de Transação Individual - Usina Santa Clotilde",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/PrimeiroTermoAditivodeTransaoIndividualUsinaSantaClotildeTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/PrimeiroTermoAditivodeTransaoIndividualUsinaSantaClotildeTarjado.pdf",
+ "sha256": "e0c5ad2e8f3aaa293920ff31810d32240e6e39c0163c948c1511a7f6d37034ac",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

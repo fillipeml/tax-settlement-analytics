@@ -1,0 +1,77 @@
+{
+ "taxpayer": "RIO ITA LTDA",
+ "approval_date": "2023-09-27",
+ "consolidated_amount": 158710771.46,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhoras existentes nas execuções fiscais propostas para cobrança dos débitos transacionados (Anexo IV)",
+  "70% dos direitos creditórios oriundos da delegação dos direitos de emissão, comercialização e distribuição do Vale-Transporte e do Bilhete Único (cartão RioCard)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regime de apuração do IRPJ e CSLL com base no Lucro Real e guarda de livros/documentos durante o período de análise dos créditos de PF/BCN da CSLL",
+  "Efetuar pagamento regular de todos os tributos federais, estaduais e municipais sobre o imóvel penhorado",
+  "Não alienar bens ou direitos próprios ou de controladores/sócios-administradores sem comunicar à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar ou dissimular origem/destinação de bens, direitos e valores",
+  "Fornecer informações sobre bens, direitos, valores e operações sempre que solicitado pela CREDORA",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Renunciar a alegações de direito em ações judiciais relativas aos créditos incluídos na transação",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa em até 90 dias",
+  "Manter regularidade perante o FGTS e individualizar valores recolhidos dos trabalhadores",
+  "Peticionar nos autos das execuções fiscais em até 30 dias para noticiar a transação e requerer formalização de penhora sobre direitos creditórios",
+  "Peticionar em processos judiciais/administrativos para desistir de impugnações, recursos ou ações em até 30 dias",
+  "Autorizar a CREDORA a acessar declarações, informações financeiras e escrituração fiscal"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para liquidar até 40% do saldo devedor após desconto (cláusula 2.1.3)",
+  "Garantia via penhora de 70% dos direitos creditórios de delegação de Vale-Transporte e Bilhete Único (cartão RioCard) junto à FETRANSPOR",
+  "Possibilidade de alienação do imóvel penhorado mediante anuência da CREDORA como anuente no contrato de compra e venda",
+  "Nomeação da CREDORA como procuradora para receber indenização em caso de desapropriação do imóvel penhorado",
+  "Transformação em pagamento definitivo de depósitos judiciais ou valores bloqueados judicialmente, sem desconto"
+ ],
+ "sector": "Transporte (concessão de direitos de emissão/comercialização de Vale-Transporte e Bilhete Único - RioCard)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.98,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.98,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.3,
+  "installments": 0.95,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.2,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Débitos Previdenciários... R$ 132.152.357,56 / Demais Débitos............... R$ 26.558.413,90 / TOTAL........................... R$ 158.710.771,46",
+  "total_discount_pct": "Concessão do desconto máximo possível de até 65% (sessenta e cinco por cento) sobre a dívida transacionada, observada a vedação de redução do montante principal, sendo o referido desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Pagamento do saldo remanescente, tanto em relação aos débitos previdenciários (Anexo I) quanto em relação aos demais débitos (Anexo II), em 60 (sessenta) prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "791284583e63",
+ "title": "Termo de Transação Individual - Rio Ita LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualRioItaLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualRioItaLTDAtarjado.pdf",
+ "sha256": "5e2e8fb89c6c951383462ccc5c20f7787e3e84094a8807625a8eca3c549397a0",
+ "extracted_at": "2026-07-22T14:22:31+00:00",
+ "simulated": false
+}

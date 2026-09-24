@@ -1,0 +1,77 @@
+{
+ "taxpayer": "TV Ômega Ltda. (REDETV!) e outras (Promo TV Comercial Ltda., Redetv Interactive Ltda., Teletv Serviços Interativos Ltda., TV Mídia Publicidade Comercial Ltda., Mídia TV Comercial Ltda., IT Interatividade Telefônica Ltda., TVI Comunicação Interativa Ltda., Tecnet Teleinformática Ltda., Tecnet Comércio e Serviços Ltda., Tecplan Teleinformática Ltda., Sandetur Viagens e Turismo Ltda.)",
+ "approval_date": "2022-12-30",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Espaços publicitários em mídia televisiva (cotas de patrocínio, ações de merchandising, comerciais avulsos de 30\", 60\" e 90\") na grade de programação da REDETV! nas praças de São Paulo, Rio de Janeiro, Belo Horizonte, Recife e Fortaleza, no valor correspondente à totalidade do débito transacionado"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações sempre que solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Manter a concessão para exploração de emissoras de televisão no Rio de Janeiro, Recife, Belo Horizonte, Fortaleza e São Paulo",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa ou se tornarem exigíveis após a Transação",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da Transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Garantia consistente em espaços publicitários em mídia televisiva (crédito em mídia) em vez de garantias reais tradicionais",
+  "Possibilidade de utilização de créditos de prejuízo fiscal acumulado e base de cálculo negativa de CSLL nos percentuais de 55,34% da Dívida Previdenciária e 43,73% da Dívida Demais Débitos",
+  "Inserção da TV Ômega como corresponsável em todas as CDAs listadas no Anexo I",
+  "Possibilidade de inclusão de débitos já parcelados (Anexo II) na Transação no prazo de 6 meses, mantendo condições mínimas"
+ ],
+ "sector": "Mídia/Televisão (radiodifusão e publicidade)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de 65% (cinquenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), conforme descrito no Anexo IV",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais, escalonadas na forma discriminada no Anexo V"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "8fb1725af072",
+ "title": "Termo de Transação Individual - TV Ômega LTDA, Promo TV Comercial LTDA, Redetv Interactive LTDA, Teletv Serviços Interativos LTDA, TV Midia Publicidade Comercial LTDA, Mídia TV Comercial LTDA, IT Interatividade Telefônica LTDA, TVI Comunicação Interativa LTDA, Tecnet Teleinformática LTDA, Tecnet Comércio e Serviços LTDA Tecplan Teleinformática LTDA, Sandetur Viagens e Turismo LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTVmegaLTDAPromoTVComercialLTDARedetvInteractiveLTDATeletvServiosInterativosLTDATVMidiaPublicidadeComercialLTDAMdiaTVComercialLTDAITInteratividadeTelefnica.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTVmegaLTDAPromoTVComercialLTDARedetvInteractiveLTDATeletvServiosInterativosLTDATVMidiaPublicidadeComercialLTDAMdiaTVComercialLTDAITInteratividadeTelefnica.pdf",
+ "sha256": "e12094da527261a95645616b8480c12b0859d4e63a0d615f48ca8efc11926dbd",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

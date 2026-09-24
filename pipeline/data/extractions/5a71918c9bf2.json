@@ -1,0 +1,70 @@
+{
+ "taxpayer": "SIBERIA SERVICOS E ADMINISTRACAO DE BENS LTDA",
+ "approval_date": "2022-10-19",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel rural denominado \"Engenho Penedo\", situado no Município do Cabo de Santo Agostinho/PE, com área de 389,19 hectares, Matrícula nº 6456",
+  "Cessão fiduciária de crédito de precatório (Precatório nº 0270533-52.2022.4.05.0000 - PRC227440-PE)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos administrativos e ações judiciais relacionadas aos débitos objeto da transação",
+  "Renúncia a alegações de direito sobre as quais se fundem as impugnações/recursos/ações",
+  "Comunicação prévia à Fazenda Nacional antes de alienar bens ou direitos",
+  "Não utilizar pessoa natural ou jurídica interposta para ocultar/dissimular bens, direitos ou valores",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados/balanço contábil",
+  "Cumprir obrigações tributárias correntes e acessórias",
+  "Petição nos processos judiciais informando a celebração do acordo",
+  "Formalizar a cessão fiduciária do crédito no prazo de 20 dias"
+ ],
+ "special_clauses": [
+  "Suspensão do leilão do imóvel rural \"Engenho Penedo\" mediante assinatura do acordo",
+  "Possibilidade de alienação por iniciativa particular do imóvel dado em garantia, via sistema COMPREI, com condições específicas de parcelamento e comissão de intermediário",
+  "Cessão fiduciária de precatório em favor da União para amortização da dívida previdenciária",
+  "Concessão de condições diferenciadas de prazo e desconto com base no enquadramento como micro/pequena empresa (LC 123/2006)"
+ ],
+ "sector": "agronegócio/administração de bens",
+ "confidence": {
+  "taxpayer": 1.0,
+  "approval_date": 1.0,
+  "modality": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.95,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "sector": 0.3,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 70% (setenta por cento), baseado na capacidade de pagamento do DEVEDOR",
+  "installments": "para pagamento no prazo de 145 (cento e quarenta e cinco) meses, a dívida não-previdenciária, e no prazo de 60 (sessenta meses), a dívida previdenciária"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "5a71918c9bf2",
+ "title": "Termo de Transação Individual - Siberia Serviços e Administração de Benes LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualSiberiaServioseAdministraodeBenesLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualSiberiaServioseAdministraodeBenesLTDATarjado.pdf",
+ "sha256": "688b42e74986b6aa2b081e4b8502c0177e367691ad934d67589ef0cd5883c602",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

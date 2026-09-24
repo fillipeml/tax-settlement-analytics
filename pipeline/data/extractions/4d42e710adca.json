@@ -1,0 +1,73 @@
+{
+ "taxpayer": "S CAMPOS DA SILVA (Simone Campos da Silva / Dorinaldo M. da Silva - grupo econômico)",
+ "approval_date": "2021-08-26",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": 70.0,
+  "interest_pct": 70.0,
+  "charges_pct": 70.0
+ },
+ "installments": 145,
+ "down_payment_pct": 4.0,
+ "guarantees": [
+  "Imóvel de matrícula nº 8.019 (1º Ofício de Itaituba) - penhora já concretizada em 2016",
+  "Imóvel de matrícula nº 4.984 (1º Ofício de Itaituba) - penhora já concretizada em 2016",
+  "Imóvel de matrícula nº 9.250 (1º Ofício de Itaituba) - hipoteca a ser registrada em 30 dias"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Regularizar dívidas com o FGTS no prazo de 90 dias e manter regularidade",
+  "Regularizar débitos futuros inscritos em dívida ativa no prazo de 90 dias",
+  "Efetuar pagamentos da entrada e parcelas mensais acordadas",
+  "Manter as garantias associadas aos créditos transacionados",
+  "Informar previamente alienação/disposição de bens e direitos, recebimento de precatório ou levantamento de depósito judicial",
+  "Manter regularidade dos pagamentos dos parcelamentos já obtidos mencionados nos §2º e §3º da Cláusula 1ª",
+  "Apresentar relação de bens particulares com data de aquisição, valor estimado e ônus/restrições"
+ ],
+ "special_clauses": [
+  "Cláusula 10ª, II: possibilidade de alienação de imóvel urbano (sede do Auto Posto Dado, matrícula 8.019, avaliado em R$11.000.000,00) para pagamento do saldo devedor, com exclusividade de venda pelos devedores no primeiro ano",
+  "Cláusula 14ª: possibilidade de substituição das garantias por outro meio de valor e liquidez equivalente ou superior",
+  "Cláusula 15ª: obrigação de reforço de garantia em caso de redução significativa (>20%) do valor do bem oferecido em garantia"
+ ],
+ "sector": "Comércio de combustíveis (auto posto)",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.3,
+  "installments": 0.9,
+  "down_payment_pct": 0.95,
+  "discounts": 0.75,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.5,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "o saldo remanescente será parcelado em 145 (cento e quarenta e cinco) meses para as dívidas não previdenciárias e em 60 (sessenta) meses para o pagamento das dívidas previdenciárias",
+  "down_payment_pct": "Será paga uma entrada equivalente a 4% da dívida, parceladamente em 12 (doze) meses",
+  "discounts": "Aplicação do desconto de 70% sobre juros, multa e encargo legal, na forma da lei, com pagamento do saldo em 145 parcelas"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "judicial_recovery"
+ ],
+ "id": "4d42e710adca",
+ "title": "Termo de Transação Individual - S CAMPOS DA SILVA (AUTO POSTO DADO)",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/copy_of_TermodeTransacaoSCAMPOSAUTOPOSTODADO.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/copy_of_TermodeTransacaoSCAMPOSAUTOPOSTODADO.pdf",
+ "sha256": "76d6864fd5c4b4e4749175cbd4cc45419d33b105f897829a805ada27dc505d73",
+ "extracted_at": "2026-07-22T14:22:25+00:00",
+ "simulated": false
+}

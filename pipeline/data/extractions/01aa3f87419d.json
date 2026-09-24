@@ -1,0 +1,83 @@
+{
+ "taxpayer": "COMPANHIA DE SANEAMENTO AMBIENTAL DO MARANHÃO- CAEMA",
+ "approval_date": "2023-11-16",
+ "consolidated_amount": 1422711008.16,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Responsabilidade subsidiária do Estado do Maranhão (GARANTIDOR)",
+  "Penhora sobre percentual de faturamento (5% da receita bruta da Companhia)",
+  "Manutenção dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em execuções fiscais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos do ANEXO I",
+  "Renúncia a alegações de direito e questionamentos administrativos e judiciais",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa após a assinatura, no prazo máximo de 90 dias",
+  "Informar previamente à PGFN a alienação/disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou valores de pagamento",
+  "Anuir com eventual modificação de competência para reunião de processos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Autorizar compensação de precatórios federais e de restituições/ressarcimentos com prestações do acordo",
+  "Indicar existência de processos judiciais movidos pelo devedor ou grupo econômico contra a União",
+  "Apresentar renúncia e desistência de defesas de processos judiciais/administrativos no prazo de 30 dias",
+  "Apresentar situação econômico-financeira anualmente ou quando solicitado pela PGFN",
+  "Manter livros e documentos comprobatórios de prejuízo fiscal e BCN"
+ ],
+ "special_clauses": [
+  "Concessão de desconto máximo possível de 65%, vedada incidência sobre o principal do débito, por serem as dívidas consideradas irrecuperáveis pela PGFN em razão da capacidade de pagamento da CONTRIBUINTE",
+  "Utilização de créditos de prejuízo fiscal e de base de cálculo negativa da CSLL, limitado a 70% do saldo a ser pago após aplicação do desconto",
+  "Responsabilidade subsidiária do Estado do Maranhão como GARANTIDOR, com possibilidade de retenção e repasse de valores do Fundo de Participação dos Estados (FPE)",
+  "Penhora sobre percentual de faturamento (5% da receita bruta) em complemento à garantia fidejussória do Estado",
+  "Prazo para pagamento de débitos não previdenciários de 120 meses e previdenciários de 60 meses"
+ ],
+ "sector": "Saneamento",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.9,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal da CONTRIBUINTE inscrito em dívida ativa da União, parte desta transação, é composto por todos os seus créditos fiscais relacionados no ANEXO I, que totalizam R$ 1.422.711.008,16 (Um bilhão, quatrocentos e vinte e dois milhões e setecentos e onze mil e oito reais e dezesseis centavos), estimados para o mês de outubro de 2023",
+  "total_discount_pct": "a presente transação envolve concessão do desconto máximo possível de 65% (sessenta e cinco por cento), vedada a incidência sobre o principal do débito, uma vez que as dívidas são consideradas irrecuperáveis pela PGFN, em razão da capacidade de pagamento da CONTRIBUINTE (art. 24, IV, da Portaria PGFN nº 6757/2022)",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (demais) é de 120 (cento e vinte) meses e de 60 meses para os previdenciários"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "01aa3f87419d",
+ "title": "Termo de Transação Individual - Companhia de Saneamento Ambiental do Maranhão (CAEMA)",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualCompanhiadeSaneamentoAmbientaldoMaranhoCAEMA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualCompanhiadeSaneamentoAmbientaldoMaranhoCAEMA.pdf",
+ "sha256": "395d23a91047a3c32f0b01b3c07ac1f7f368a5cc1f31fd3f53a979868adf0baf",
+ "extracted_at": "2026-07-21T19:12:20+00:00",
+ "simulated": false
+}

@@ -1,0 +1,78 @@
+{
+ "taxpayer": "Synthesis Empreendimentos Imobiliários Ltda e outras (grupo econômico Confidere)",
+ "approval_date": "2024-05-31",
+ "consolidated_amount": 67740624.89,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter livros e documentos fiscais comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL durante o período de análise (cláusula 2.3)",
+  "Permanecer como optante do regime de apuração de IRPJ pela modalidade de lucro real até a extinção da Dívida Transacionada (cláusula 2.4)",
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional (cláusula 4.6.1)",
+  "Não utilizar pessoa interposta para ocultar origem/destino de bens (cláusula 4.6.2/4.7.4)",
+  "Não alienar ou onerar bens com propósito de frustrar recuperação de créditos (cláusula 4.6.3)",
+  "Dar ciência à CREDORA de alterações societárias no prazo de 30 dias (cláusula 4.7.2)",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado (cláusula 4.7.5)",
+  "Permanecer nos parcelamentos já aderidos, honrando pagamentos até completa quitação das CDAs (cláusula 4.7.8)",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa no prazo de 90 dias (cláusula 4.7.9)",
+  "Manter regularidade perante o FGTS e individualização de valores recolhidos (cláusula 4.7.10)",
+  "Comprovar existência, regularidade e disponibilidade dos créditos de prejuízo fiscal/CSLL por laudo contábil (cláusula 4.7.11)",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias (cláusula 6.3)"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação de até 70% do saldo remanescente (cláusula 2.1.2)",
+  "Reconhecimento de grupo econômico de fato entre as DEVEDORAS e corresponsabilidade entre elas (cláusula 1.3)",
+  "Autorização de uso de valores de restituições, ressarcimentos ou reembolsos da RFB para pagamento de prestações (cláusula 3.5)",
+  "Autorização de uso de precatórios federais para pagamento de prestações (cláusula 3.6)",
+  "Utilização de valores levantados na ação 0160935-45.2019.8.19.0001 para pagamento de prestações (cláusula 4.7.1)",
+  "Manutenção das demais garantias associadas aos débitos transacionados (cláusula 4.5)"
+ ],
+ "sector": "Imobiliário",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.3,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "1.2.1. Das inscrições previdenciárias, constantes do ANEXO I, totalizando R$ 2.856.901,30 ... atualizado até 05.2024. 1.2.2. Das inscrições não previdenciárias, constantes do ANEXO II, totalizando R$ 64.883.723,59 ... atualizado em 05.2024.",
+  "total_discount_pct": "2.1.1. Concessão do desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "2.1.3. Pagamento do saldo remanescente dos débitos de natureza previdenciária e não previdenciária a ser efetuado em 36 (trinta e seis) prestações mensais e sucessivas."
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "3c66a10413bf",
+ "title": "Termo de Transação Individual - Synteses Empreendimentos Imobiliários LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualSyntesesEmpreendimentosImobiliariosLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualSyntesesEmpreendimentosImobiliariosLTDAtarjado.pdf",
+ "sha256": "74a4c81760a7564fa3268f5642a2dd065a8dd5a7f72c614b264c49197dbc0a50",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

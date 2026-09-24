@@ -1,0 +1,86 @@
+{
+ "taxpayer": "Not identified",
+ "approval_date": "2022-03-06",
+ "consolidated_amount": 20076123.55,
+ "modality": "Transação individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel rural denominado (nome tarjado), com área de 1.047,304ha, localizado em Serranópolis, de propriedade de terceiro interveniente (Empresarial Agrícola Ribeirão Ltda), com edificações e benfeitorias, conforme laudo de avaliação anexo"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável o débito relacionado no ANEXO I",
+  "Renunciar a alegações de direito e questionamentos administrativos e judiciais sobre o débito",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa em até 90 dias",
+  "Manter a garantia oferecida até integral cumprimento das condições",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos, recebimento de precatório ou levantamento de depósito judicial",
+  "Fornecer informações sobre bens, direitos e situação econômica sempre que solicitado",
+  "Não constituir pessoa jurídica que diminua garantias ou pagamentos",
+  "Anuir com eventual modificação de competência para reunião de processos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva à livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou/onerou bens para frustrar recuperação de créditos",
+  "Desistir de impugnações, recursos e ações judiciais relativas ao débito em até 30 dias",
+  "Apresentar renúncia/desistência na execução fiscal nº1001123-68.2021.4.01.3507 em até 30 dias",
+  "Atualizar mensalmente a Declaração de Rendimentos no sistema SISPAR",
+  "Apresentar reavaliação particular do imóvel a cada 3 anos e certidão atualizada da matrícula",
+  "Protocolar averbação das garantias em até 45 dias da assinatura"
+ ],
+ "special_clauses": [
+  "Flexibilização das regras para aceitação, avaliação, substituição e liberação de garantias",
+  "Flexibilização das regras para constrição ou alienação de bens",
+  "Possibilidade de utilização de precatórios federais próprios ou de terceiros para amortização/liquidação",
+  "Possibilidade de compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Cláusula de ajuste de parcela conforme percentual da receita bruta mensal (art. 12 do Decreto-lei 1.598/77) a partir da 13ª parcela",
+  "Utilização de valor bloqueado cautelarmente na execução fiscal nº1001123-68.2021.4.01.3507 para amortização via DARF Avulso",
+  "Concordância prévia com constrição do imóvel dado em garantia para formar garantia real",
+  "Nomeação da Fazenda Nacional como procuradora em causa própria em caso de desapropriação do imóvel garantidor",
+  "Concordância com uso do modelo de negócio 'Comprei' (Portaria PGFN/ME nº 3.050/2022) para alienação do imóvel em caso de rescisão"
+ ],
+ "sector": "Agronegócio",
+ "confidence": {
+  "taxpayer": 0.1,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "discounts": 0.2,
+  "down_payment_pct": 0.1,
+  "guarantees": 0.7,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.3
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totaliza R$ 20.076.123,55, atualizado até agosto de 2022",
+  "total_discount_pct": "a presente transação envolve concessão do desconto máximo possível de 70% (setenta por cento), vedada a incidência sobre o principal do débito",
+  "installments": "O prazo para pagamento do débito será de 145 (cento e quarenta e cinco) meses, sendo o plano de amortização composto por prestações mensais"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "discounts",
+  "down_payment_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "34bfc092dc06",
+ "title": "Termo de Transação Individual- Empresarial Agrícola Ribeirão LTDA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualEmpresarialAgrcolaRibeiroLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualEmpresarialAgrcolaRibeiroLTDATarjado.pdf",
+ "sha256": "6b11acd0cdd61fdda3acfaec247574f5ec768dfcc3ae5c516827fef6d49f5917",
+ "extracted_at": "2026-07-22T14:22:22+00:00",
+ "simulated": false
+}

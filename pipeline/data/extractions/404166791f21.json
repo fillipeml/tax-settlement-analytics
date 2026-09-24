@@ -1,0 +1,81 @@
+{
+ "taxpayer": "Grupo Comunicação Três (Editora Três Ltda, Grupo Comunicação Três S.A, Três Editorial Ltda, Três Comércio de Publicações Ltda, Editora Brasil 21, Art & Editora JM Ltda, Três Participações S/A)",
+ "approval_date": "2022-03-04",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Promover a desistência de impugnações, recursos e ações administrativos ou judiciais relativos à Dívida Transacionada, no prazo de 30 dias contados da assinatura do Acordo",
+  "Adimplir a Transação, observadas as condições previstas na cláusula 3",
+  "Promover o pagamento de eventual saldo devedor, calculado na forma prevista na cláusula 3.10 e 3.11",
+  "Não alienar bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos na Transação, sem devida comunicação à Fazenda Nacional",
+  "Pagar, parcelar ou garantir, por meio de depósito, carta de fiança, seguro garantia ou outra garantia suficiente e idônea, no prazo de 90 dias, débitos inscritos em Dívida Ativa após a formalização da Transação e caso não constem da relação da Dívida Transacionada",
+  "Manter regular a situação dos parcelamentos atualmente vigentes",
+  "Manter a regularidade perante o Fundo de Garantia do Tempo de Serviço - FGTS",
+  "Renunciar a quaisquer alegações de direito, atuais ou futuras, sobre as quais se fundem ações judiciais, incluídas as coletivas, ou recursos que tenham por objeto a Dívida Transacionada",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à Fazenda Nacional conhecer sua situação econômica",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Realizar todas as comunicações exigidas no Acordo através de requerimento administrativo via SICAR/REGULARIZE",
+  "Apresentar comprovante da adesão ao parcelamento dos débitos de LC 110/01 no prazo de 60 dias contados da assinatura deste termo"
+ ],
+ "special_clauses": [
+  "Alienação de imóveis (UPIs) em leilões judiciais no âmbito da recuperação judicial, com produto destinado à quitação das parcelas do plano de pagamento (cláusula 3.2.1)",
+  "Desconto máximo de 70% incidente sobre a Dívida Transacionada, exceto para débitos de FGTS, vedada a redução do montante principal, aplicado de forma proporcional sobre multa, juros e encargos (cláusula 3.1.1)",
+  "Pagamento à vista dos débitos de FGTS das proponentes Três Comércio de Publicações Ltda e Três Editorial com desconto de 28,66%, representando 100% dos juros de mora, multa e encargos (cláusula 3.1.5)",
+  "Moratória de 6 meses na conta Demais Débitos para recolhimento do valor equivalente a 7,02% da dívida consolidada (cláusula 3.4)",
+  "Prazo máximo de 180 dias para alienação dos imóveis, prorrogável por mais 90 dias em caso de leilão sem resultado positivo (cláusulas 3.5 e 3.5.1)",
+  "Valores excedentes de alienação de imóveis acima da avaliação direcionados à conta previdenciária (cláusula 3.6)",
+  "Piso mínimo de lance de 70% do valor de avaliação dos imóveis conforme plano de recuperação judicial (cláusula 3.7)",
+  "Débitos de FGTS da LC 110/01 parcelados diretamente com a CEF, sem concessão de descontos (cláusula 3.17)",
+  "Deságio médio concedido pelos credores habilitados no PRJ de aproximadamente 80%, exceto créditos da Classe I (cláusula 6.3.1.1)"
+ ],
+ "sector": "Editorial/Comunicação (mídia e publicações)",
+ "confidence": {
+  "taxpayer": 0.5,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees"
+ ],
+ "id": "404166791f21",
+ "title": "Termo de Transação Individual - Editora Três",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualEditoraTrsLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualEditoraTrsLTDA.pdf",
+ "sha256": "ae177d8506ba288174b717285a6c1e010652d6c958886e22ecfc93397af29d33",
+ "extracted_at": "2026-07-22T14:22:40+00:00",
+ "simulated": false
+}

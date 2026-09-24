@@ -1,0 +1,71 @@
+{
+ "taxpayer": "NORLOG LOGÍSTICA INTEGRADA LTDA EM RECUPERAÇÃO JUDICIAL / MARIM ADMINISTRAÇÃO, EMPREENDIMENTOS E PARTICIPAÇÕES S/A EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2025-03-25",
+ "consolidated_amount": 9021171.95,
+ "modality": "Transação Individual (Portaria PGFN nº 6.757/2022, com termos da Portaria PGFN nº 2.382/2020 para devedores em recuperação judicial)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Preservação de garantias já existentes (judiciais ou administrativas) - Cláusula 5ª",
+  "Bens penhorados/descritos como garantia sujeitos a alienação via sistema COMPREI em caso de rescisão - Cláusula 7ª"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens/direitos",
+  "Apresentar situação econômico-financeira anualmente (balanço contábil/DRE)",
+  "Pagar regularmente os tributos correntes",
+  "Permanecer no regime de tributação pelo lucro real (NORLOG) durante vigência da transação ou por até 5 anos",
+  "Manter livros e documentos fiscais comprobatórios de PF/BCN",
+  "Comprovar existência, regularidade escritural e disponibilidade dos créditos de prejuízo fiscal e BCN atestados por contador"
+ ],
+ "special_clauses": [
+  "Aproveitamento de crédito de prejuízo fiscal e base de cálculo negativa de CSLL para quitação do saldo devedor remanescente (Cláusula 4ª)",
+  "Revisão de CAPAG considerando nova capacidade de pagamento de R$ 3.334.325,97 para os próximos 60 meses (novembro/2024) - §5º da cláusula de plano de pagamento",
+  "1ª parcela em valor diferenciado para sensibilização do SISPAR, conforme CAPAG anterior, com ajuste posterior (§4º)",
+  "Corresponsabilidade solidária entre os devedores por reconhecimento de grupo econômico (§2º Cláusula 2ª)",
+  "Direito creditório superveniente (precatórios, restituições tributárias) vertido em proveito da transação (Cláusula 15ª)"
+ ],
+ "sector": "logística/administração e participações",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.85,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.2,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.6,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total sem reduções (A) ... Consolidado 9.021.171,95 (débitos previdenciários)",
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 70%",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 48 ... 1ª parcela de R$ 168.000,00 47 parcelas lineares, CONFORME ANEXO II"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "guarantees"
+ ],
+ "id": "00b33a4ccb0e",
+ "title": "Termo de Transação Individual -  Norlog Logística Integrada LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualNorlogLogsticaIntegradaLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualNorlogLogsticaIntegradaLTDATarjado.pdf",
+ "sha256": "d29dd996894eaa159c576e7fb180485ba4750a9f5f97743c177780d5b582743d",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

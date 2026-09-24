@@ -1,0 +1,59 @@
+{
+ "taxpayer": "FAST PRINT & SYSTEM LTDA (CNPJ 03.270.407/0001-27)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 45377896.76,
+ "modality": "Transação individual",
+ "total_discount_pct": 52.63,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de eventuais garantias eventualmente existentes nos processos em curso"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [
+  "Parcelas lineares",
+  "Sem exigência de entrada"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.1,
+  "modality": 0.6,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.9,
+  "down_payment_pct": 0.9,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.0,
+  "judicial_recovery": 0.85,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada Total: R$ 45.377.896,76",
+  "total_discount_pct": "Desconto efetivo médio Total: 52,63%",
+  "installments": "Número de parcelas Previdenciária: 1 Demais débitos: 1"
+ },
+ "review_fields": [
+  "sector",
+  "modality",
+  "approval_date",
+  "discounts",
+  "obligations"
+ ],
+ "id": "f4f9d4f4e57e",
+ "title": "Sumário - Fast Print & System LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioFastPrintSystemLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioFastPrintSystemLTDA.pdf",
+ "sha256": "92698aef97d35638acf5195b3f970e1c7c58f712248aefb81435270fd75a66e7",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

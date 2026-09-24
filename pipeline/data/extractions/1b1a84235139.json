@@ -1,0 +1,71 @@
+{
+ "taxpayer": "SET PORT LOGISTICA LTDA",
+ "approval_date": "2025-04-03",
+ "consolidated_amount": 22639442.27,
+ "modality": "Transação Individual",
+ "total_discount_pct": 38.56,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em execução fiscal"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar/dissimular origem ou destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em até 90 dias débitos que se tornarem exigíveis após a formalização",
+  "Não alienar bens/direitos que possam reduzir capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [],
+ "sector": "Logística/Transporte",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "DEMAIS R$ 13.909.264,32 (PRINCIPAL) R$ 8.730.177,95 (ENCARGOS) 38,56% R$ 22.639.442,27 (TOTAL)",
+  "total_discount_pct": "Total ... R$ 13.909.264,32 Desconto efetivo MÉDIO 38,56%",
+  "installments": "O prazo máximo previsto para pagamento será de 120 (cento e vinte) meses para a Dívida Transacionada - Demais Débitos"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "1b1a84235139",
+ "title": "Termo de Transação Individual - Set Port Logística LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSetPortLogsticaLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSetPortLogsticaLTDATarjado.pdf",
+ "sha256": "71efdd625be635a97caa0e5f1366af9de6084d79c4d35d7a227027099a56c663",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

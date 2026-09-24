@@ -1,0 +1,70 @@
+{
+ "taxpayer": "USINCAL USINAGEM E CALDEIRARIA EM RECUPERAÇÃO JUDICIAL LTDA.",
+ "approval_date": "2024-11-19",
+ "consolidated_amount": 13673391.7,
+ "modality": "Transação individual (modalidades DEMAIS e PREV)",
+ "total_discount_pct": 46.79,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 0.0,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter durante 5 anos os livros e documentos exigidos pelas normas fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Peticionar em até 60 dias nos processos judiciais relativos à Dívida Transacionada para noticiar a celebração da transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Débitos de FGTS excluídos desta transação, pois incluídos no Parcelamento Transação nº 2022001560 junto à CEF",
+  "Débitos em cobrança na SRFB até a data de assinatura serão incluídos na conta de transação assim que inscritos em dívida ativa, gerando saldo devedor a ser quitado em 30 dias",
+  "Faculdade da Fazenda Nacional requerer a convolação da Recuperação Judicial em Falência em caso de rescisão",
+  "Créditos de precatório ou levantamento de depósito judicial deverão ser direcionados para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Metalurgia/usinagem e caldeiraria industrial",
+ "confidence": {
+  "taxpayer": 0.98,
+  "approval_date": 0.95,
+  "modality": 0.9,
+  "sector": 0.6,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL 13.673.391,70",
+  "total_discount_pct": "PERCENTUAL DE DESCONTO MÉDIO DEMAIS 46,79%",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em 120 (cento e vinte) prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "404bac1c7edb",
+ "title": "ermo de Transação Individual - V. S. de Lima & Cia LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualUsincalUsinagemeCaldeirariaLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualUsincalUsinagemeCaldeirariaLTDATarjado.pdf",
+ "sha256": "19a0ef046884d86004721df019f79cc477eefe35effe770bb3d6767a57cee57c",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

@@ -1,0 +1,79 @@
+{
+ "taxpayer": "TNG Comércio e Industria de Roupas LTDA; TB Indústria e Comércio de Confecção de Roupas LTDA; Arestta Comércio de Confecções LTDA (Grupo TNG - em recuperação judicial)",
+ "approval_date": "2023-03-29",
+ "consolidated_amount": 69072939.61,
+ "modality": "Transação individual (modalidades DEMAIS e PREV) no âmbito de recuperação judicial",
+ "total_discount_pct": 45.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 119,
+ "down_payment_pct": 10.0,
+ "guarantees": [
+  "Alienação fiduciária registrada no INPI, incidente sobre a marca de produto e de serviço 'TNG Comércio de Roupas LTDA', avaliada em R$ 112.000.000,00",
+  "Manutenção de gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Declarar que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar que não utiliza pessoa interposta para ocultar bens",
+  "Declarar que não alienou/onerou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento",
+  "Manter-se regular com outras Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos fiscais, inclusive comprobatórios de prejuízo fiscal e CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União"
+ ],
+ "special_clauses": [
+  "Corresponsabilidade entre as Requerentes reconhecida em relação a todos os débitos tratados na transação (art. 124, I, 132 e 133 do CTN)",
+  "Utilização de até 70% de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL fica suspensa até confirmação pela autoridade competente",
+  "Créditos de precatório ou depósito judicial da Requerente devem ser direcionados ao adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Vestuário/Confecções",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.6,
+  "down_payment_pct": 0.9,
+  "installments": 0.75,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "VALOR TOTAL DA DÍVIDA: R$ 69.072.939,61 (março/2023)",
+  "total_discount_pct": "Nas modalidades DEMAIS e PREV desconto máximo de até 45% (quarenta e cinco por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 119 (cento e dezenove) prestações mensais e sucessivas, conforme Anexo II",
+  "down_payment_pct": "Pagamento de entrada de 10% (dez por cento) à vista sobre o saldo a ser efetivamente pago em dinheiro pelas Requerentes"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "5eea86c2d253",
+ "title": "Termo de Transação Individual - TNG Comércio e Industria de Roupas",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTNGComrcioeIndustriadeRoupasLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTNGComrcioeIndustriadeRoupasLTDA.pdf",
+ "sha256": "a045e3e46f7d57869f0ee9d0f4abfbc95e4b7ad0567db2bd5ad957325ea99ae4",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

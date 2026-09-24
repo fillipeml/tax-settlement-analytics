@@ -1,0 +1,76 @@
+{
+ "taxpayer": "IBERKRAFT INDUSTRIA DE PAPEL E CELULOSE LTDA em Recuperação Judicial",
+ "approval_date": "2022-03-29",
+ "consolidated_amount": 10855050.93,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 4.0,
+ "guarantees": [
+  "Hipoteca sobre imóvel industrial localizado na Fazenda Rio das Cobras, estrada municipal distante 2,6 km da rodovia PR-473, altura do km 41, município de Quedas do Iguaçu/PR, compreendendo prédios, benfeitorias e respectiva gleba de terras (valor de mercado 2021: R$ 17.827.000,00)",
+  "Manutenção das garantias obtidas judicialmente nas execuções dos débitos transacionados",
+  "Suspensão da penhora de faturamento da Execução Fiscal nº 5003690-14.2012.4.04.7006"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Renunciar a alegações de direito e desistir de ações/recursos relativos aos débitos transacionados",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade nos programas de parcelamentos anteriores",
+  "Manter regularidade fiscal perante a União",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Anuir com manutenção das garantias obtidas judicialmente",
+  "Constituir hipoteca em até 120 dias sobre o imóvel industrial referido no Anexo II",
+  "Não alienar bens/direitos sem comunicação prévia à Fazenda Nacional (devedora, sócios e empresas do grupo)"
+ ],
+ "special_clauses": [
+  "Suspensão, com anuência da Fazenda Nacional, da penhora de faturamento da Execução Fiscal nº 5003690-14.2012.4.04.7006 enquanto perdurar o acordo",
+  "Possibilidade de pleitear redução dos valores negociados de PIS/COFINS em razão de coisa julgada na ação nº 5003814-12.2017.4.04.7009, mantendo-se as cobranças até decisão administrativa ou judicial sobre a apuração"
+ ],
+ "sector": "Papel e celulose",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.9,
+  "installments": 0.75,
+  "discounts": 0.3,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.95,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL ... R$ 10.855.050,93",
+  "total_discount_pct": "À dívida negociada será aplicado o valor máximo de desconto possível (70%), com saldo a ser quitado mediante o pagamento de entrada, esta de 4% calculada sobre o valor integral das dívidas, sem descontos, a ser paga em 12 prestações, seguindo-se, na 13ª parcela em diante, 108 parcelas mensais sucessivas, calculadas sobre o saldo reajustado mensalmente pela SELIC.",
+  "installments": "a ser paga em 12 prestações, seguindo-se, na 13ª parcela em diante, 108 parcelas mensais sucessivas",
+  "down_payment_pct": "esta de 4% calculada sobre o valor integral das dívidas, sem descontos"
+ },
+ "review_fields": [
+  "sector",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "117d856fbe28",
+ "title": "Termo de Transação Individual - Iberkraft Indústria de Papel e Celulose em recuperação judicial",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/termo-de-transacao-individual-iberkraft.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/termo-de-transacao-individual-iberkraft.pdf",
+ "sha256": "51a2db0768b9270274adeb236325b55c945cad8e1e730a86ffd78abe53f661d2",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

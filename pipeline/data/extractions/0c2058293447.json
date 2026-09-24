@@ -1,0 +1,59 @@
+{
+ "taxpayer": "SUKEST INDUSTRIA DE ALIMENTOS E FARMA LTDA (CNPJ 55.692.537/0001-51)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 39214382.06,
+ "modality": "Transação individual",
+ "total_discount_pct": 47.05,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de eventuais garantias eventualmente existentes nos processos em curso"
+ ],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Alimentos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.0,
+  "modality": 0.8,
+  "sector": 0.4,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.9,
+  "down_payment_pct": 0.3,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.0,
+  "special_clauses": 0.0,
+  "judicial_recovery": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada Total: R$ 39.214.382,06",
+  "total_discount_pct": "Desconto efetivo médio Total: 47,05%",
+  "installments": "Número de parcelas Previdenciária: 60 / Demais débitos: 60"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "0c2058293447",
+ "title": "SumrioSukestIndustriadeAlimentoseFarmaLTDA.pdf",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioSukestIndustriadeAlimentoseFarmaLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioSukestIndustriadeAlimentoseFarmaLTDA.pdf",
+ "sha256": "68bd0ec21e5f8249704dbd377fe69f8ca05f5b4349f9ca3d19e91574a4eba460",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

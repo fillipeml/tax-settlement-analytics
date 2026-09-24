@@ -1,0 +1,73 @@
+{
+ "taxpayer": "MOVICRANE COMÉRCIO E MANUTENÇÃO LTDA em recuperação judicial",
+ "approval_date": "2023-09-13",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores",
+  "Declarar que não alienará ou onerará bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Demonstrar a ausência de prejuízo ao cumprimento das obrigações contraídas com a celebração da transação em caso de alienação ou de oneração de bens ou direitos integrantes do respectivo ativo não circulante",
+  "Cumprir as exigências e obrigações adicionais previstas na Portaria PGFN nº 6757/22, na Portaria PGFN n. 2382/2021 e na proposta",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras e não omitem informações quanto à propriedade de bens, direitos e valores",
+  "Renunciar a quaisquer alegações de direito sobre créditos incluídos na transação, com extinção do processo com resolução de mérito",
+  "Manter a regularidade fiscal perante a União e perante o FGTS",
+  "Regularizar, no prazo de 90 dias, os débitos que vierem a ser inscritos em dívida ativa ou que se tornarem exigíveis após a formalização do acordo",
+  "Não distribuir lucros ou dividendos a sócios e acionistas até a aprovação do plano de recuperação judicial",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil e demonstrações de resultados"
+ ],
+ "special_clauses": [
+  "Não distribuição de lucros ou dividendos a sócios e acionistas até a aprovação do plano de recuperação judicial",
+  "Parcelamento diferenciado por rubrica: débitos SIMPLES NACIONAL em até 145 parcelas mensais escalonadas; débitos previdenciários (Anexo II) em 6 prestações lineares"
+ ],
+ "sector": "Comércio e manutenção (equipamentos - guindastes/movimentação de cargas)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.4,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.8,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 1.0,
+  "guarantees": 0.3,
+  "obligations": 0.9,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "installments": "incidirá o desconto médio relacionado no Anexo II observados os limites do §2º do art. 11 da Lei n. 13.988/20 e do e o saldo devedor será pago em 145 (cento e quarenta e cinco) parcelas mensais escalonadas."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "guarantees"
+ ],
+ "id": "9a8bfce07ee2",
+ "title": "Termo de Transação Individual - Movicrane Comércio e Manutenção LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/copy_of_TermodeTransacaoIndividualMovicraneComercioeManutencaoLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/copy_of_TermodeTransacaoIndividualMovicraneComercioeManutencaoLTDA.pdf",
+ "sha256": "2bf1b820ce0aec15a41382830c077294033d8d28da6b353d317d4ca3b1a3ee67",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

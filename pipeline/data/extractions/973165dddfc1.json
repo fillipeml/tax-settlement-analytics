@@ -1,0 +1,63 @@
+{
+ "taxpayer": "COMPANHIA DE SANEAMENTO AMBIENTAL DO MARANHÃO-CAEMA",
+ "approval_date": "2024-10-30",
+ "consolidated_amount": 615966831.42,
+ "modality": "Transação Tributária Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Garantia do Estado do Maranhão (GARANTIDOR)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manutenção dos compromissos, condições e obrigações acordados no Termo de Transação original",
+  "Inclusão de novas inscrições nas contas de transação SISPAR nº 9057755 e 9058101"
+ ],
+ "special_clauses": [
+  "Complementação proporcional dos créditos de prejuízo fiscal e de base de cálculo negativa da CSLL, limitada a 70% do saldo a ser pago pelo contribuinte após aplicação do desconto (Parágrafo terceiro)",
+  "Purga de mora com diluição do saldo devedor das prestações já vencidas nas prestações remanescentes (Parágrafo segundo)"
+ ],
+ "sector": "Saneamento",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.7,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Previdenciária R$560.103.249,35 ... Não previdenciária R$ 55.863.582,07"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "973165dddfc1",
+ "title": "I Termo Aditivo de Transação Individual - Companhia de Saneamento Ambiental do Maranhão CAEMA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/ITermoAditivodeTransaoIndividualCompanhiadeSaneamentoAmbientaldoMaranhoCAEMAtarjado1r.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/ITermoAditivodeTransaoIndividualCompanhiadeSaneamentoAmbientaldoMaranhoCAEMAtarjado1r.pdf",
+ "sha256": "6ce876e1eded14add9fda336ba80d12907683f218f6da4965c9ef2faf3279ea0",
+ "extracted_at": "2026-07-21T19:00:51+00:00",
+ "simulated": false
+}

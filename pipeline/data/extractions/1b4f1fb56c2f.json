@@ -1,0 +1,78 @@
+{
+ "taxpayer": "Cruzeiro Esporte Clube",
+ "approval_date": "2020-10-23",
+ "consolidated_amount": 327976841.66,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis (Sede Administrativa, Sede Social, com possibilidade de substituição por 'Campestre I' e 'Toca I') - Garantias Imobiliárias no montante de R$ 213.804.750,00",
+  "Garantia pignoratícia de 20% dos recebíveis presentes e futuros do Clube (direitos de TV, patrocínios, sócio torcedor, bilheteria, premiações CBF, negociação de jogadores, etc.)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistir dos parcelamentos fiscais vigentes que abrangem os débitos transacionados em até 5 dias",
+  "Manter vigentes parcelamentos anteriores não incluídos no Anexo II",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado",
+  "Não utilizar a transação de forma abusiva contra a livre concorrência",
+  "Regularizar dívida do FGTS em até 90 dias e manter regularidade",
+  "Manter regularidade das obrigações tributárias federais correntes",
+  "Pagar ou parcelar em 90 dias débitos que vierem a ser inscritos",
+  "Efetuar pagamentos de entrada e parcelas mensais",
+  "Manter as garantias associadas até cumprimento integral",
+  "Informar previamente alienação de bens e recebimento de precatórios/depósitos judiciais",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos do Anexo II",
+  "Peticionar nos processos judiciais noticiando a celebração da transação em 15 dias"
+ ],
+ "special_clauses": [
+  "Substituição de constrição de imóvel ('Campestre 2') na Execução Fiscal nº 1031811-41.2020.4.01.3800",
+  "Desconstituição de constrição para possibilitar alienação de bem e uso da quantia para pagamento de dívidas FIFA até limite R$ XX",
+  "Transformação em pagamento definitivo de depósitos judiciais da Execução Fiscal nº 15913-39.2019.4.01.3800 para quitação integral e sem descontos da Inscrição nº 60.2.18.004436-70",
+  "Autorização para substituição dos imóveis 'Barro Preto' e 'Sede' pelos imóveis 'TOCA I' e 'Campestre I'",
+  "Autorização para integralização dos imóveis em sociedades empresariais sem oneração/alienação das quotas",
+  "Possibilidade de migração para programa de parcelamento extraordinário ou transação por adesão mais benéfica (art. 8º da Lei 14.073/2020)",
+  "Anuência da União com continuidade e homologação da negociação com a 'Minas Arena'"
+ ],
+ "sector": "futebol/entretenimento",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.9,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Anexo II - Relação dos débitos incluídos na transação - Valor em 09/2020: R$ 327.976.841,66",
+  "installments": "o valor resultante será pago em 145 (cento e quarenta e cinco) parcelas mensais e consecutivas para a dívida não previdenciária e 60 (sessenta) parcelas mensais e consecutivas para a dívida previdenciária"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "1b4f1fb56c2f",
+ "title": "Termo de Transação Individual - Cruzeiro Esporte Clube",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-cruzeiro-esporte-clube",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-cruzeiro-esporte-clube",
+ "sha256": "eba1d5830cd73676ac66845b7e00e7a29a7dd70a05ec784842e6ae7550873473",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

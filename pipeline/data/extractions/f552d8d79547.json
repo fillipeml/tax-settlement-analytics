@@ -1,0 +1,74 @@
+{
+ "taxpayer": "ORBITA ELETRICIDADE MONTAGEM DE PAINEIS E AUTOMAÇÃO LTDA",
+ "approval_date": "2025-04-01",
+ "consolidated_amount": 11575979.29,
+ "modality": "Transação Individual",
+ "total_discount_pct": 37.62,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 70.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantém-se as garantias dos débitos eventualmente existentes até a quitação integral do saldo devedor"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar bens",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em até 90 dias débitos que se tornarem exigíveis após a formalização",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter por 5 anos livros e documentos comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de até 70% do saldo remanescente com créditos de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal ficará suspensa até confirmação pela autoridade competente, dentro do prazo de 5 anos",
+  "Créditos que a Requerente venha a dispor (precatório, levantamento de depósito judicial) deverão ser direcionados para adimplemento dos saldos devedores da Transação",
+  "Rating D da Requerente considerado na concessão das condições"
+ ],
+ "sector": "Elétrico/Automação industrial",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.7,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.3,
+  "discounts": 0.8,
+  "guarantees": 0.6,
+  "obligations": 0.9,
+  "judicial_recovery": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "DEMAIS R$ 7.221.218,39 R$ 4.354.760,90 R$ 11.575.979,29",
+  "total_discount_pct": "Após descontos ... DEMAIS R$ 7.221.218,39 R$ 5.054.852,87 37,62%",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "guarantees",
+  "approval_date"
+ ],
+ "id": "f552d8d79547",
+ "title": "Termo de Transação Individual - Orbita Eletricidade Montagem de Paineis e Automoção LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualOrbitaEletricidadeMontagemdePaineiseAutomooLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualOrbitaEletricidadeMontagemdePaineiseAutomooLTDATarjado.pdf",
+ "sha256": "b70e6399220c77ab94e706c020a15b226da52f3f25bb699e552908c4dd980fb5",
+ "extracted_at": "2026-07-22T14:22:49+00:00",
+ "simulated": false
+}

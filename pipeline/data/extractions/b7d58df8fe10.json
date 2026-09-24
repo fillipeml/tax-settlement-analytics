@@ -1,0 +1,76 @@
+{
+ "taxpayer": "PERNAMBUCO CONSTRUTORA EMPREENDIMENTOS LTDA (DEVEDORA PRINCIPAL) e outros (grupo econômico PERNAMBUCO)",
+ "approval_date": "2024-05-09",
+ "consolidated_amount": 114195292.76,
+ "modality": "Transação Individual",
+ "total_discount_pct": 58.69,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 96,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Terreno São Lourenço (Gleba 1A) - avaliação R$ 10.584.000,00 - área 1288,52 m²",
+  "Terreno São Lourenço (Gleba 1B) - avaliação R$ 1.666.000,00 - área 308,58 m²",
+  "Terreno Barra de Jangada - avaliação R$ 13.452.000,00 - área 1306,47 m²",
+  "Total das garantias avaliado em R$ 25.702.000,00",
+  "Terreno localizado em São Lourenço da Mata-PE, avaliado em R$ 16.348.000,00, área 58.108,25 m², como garantia das CDAs 40 2 22 003489-50, 40 6 22 011273-28, 40 6 22 011274-09 e 40 7 22 002763-60"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos",
+  "Desistência de impugnações, recursos administrativos e ações judiciais relacionadas aos débitos (exceto ação nº 0812499-64.2022.4.05.8300)",
+  "Oferecimento de bens à penhora em 30 dias contados da assinatura do Termo",
+  "Apresentação de situação econômico-financeira anualmente por meio de demonstrações de resultados/balanço contábil",
+  "Pagamento regular dos tributos correntes",
+  "Manutenção do regime de tributação pelo lucro real durante a vigência da transação (em razão do aproveitamento de créditos de PF/BCN)",
+  "Manter livros e documentos fiscais por até 5 anos após a celebração do acordo",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Vinculação de eventuais precatórios e restituições tributárias para amortização do acordo"
+ ],
+ "special_clauses": [
+  "Exclusão das CDAs 40 2 22 003489-50, 40 6 22 011273-28, 40 6 22 011274-09 e 40 7 22 002763-60 do acordo, em razão de discussão judicial (Processo nº 812499-64.2022.4.05.8300), com garantia integral oferecida",
+  "Corresponsabilidade solidária entre os integrantes da PARTE DEVEDORA por reconhecimento de grupo econômico",
+  "Aproveitamento de crédito de prejuízo fiscal e base de cálculo negativa de CSLL, limitado a 70% da dívida remanescente por conta de transação, com alíquotas de 25% (PF) e 9% (BCN)",
+  "Aproveitamento prévio de valores pagos na transação original e valores bloqueados/transformados em pagamento definitivo em execuções fiscais específicas (R$ 1.791.700,66 e R$ 40.943,52)",
+  "Possibilidade de alienação de bens dados em garantia via sistema COMPREI em caso de rescisão, com regras específicas de leilão/venda (mínimo 50% do valor de avaliação)",
+  "Cláusula de vinculação de direitos creditórios supervenientes (precatórios e restituições) ao adimplemento da transação, incluindo crédito pendente de liquidação judicial na ação nº 0807629-76.2018.4.05.8312"
+ ],
+ "sector": "Construção civil/Incorporação imobiliária",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.9,
+  "installments": 0.85,
+  "down_payment_pct": 0.3,
+  "discounts": 0.2,
+  "guarantees": 0.85,
+  "obligations": 0.8,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.2
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor da divida na data da adesão: 114.195.292,76",
+  "total_discount_pct": "Desconto conforme capacidade de pagamento: 58,69%",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 96"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "b7d58df8fe10",
+ "title": "Termo de Transação Individual - Pernambuco Construtora Empreendimentos LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/copy_of_TermodeTransaoIndividualPernambucoConstrutoraEmpreendimentosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/copy_of_TermodeTransaoIndividualPernambucoConstrutoraEmpreendimentosLTDATarjado.pdf",
+ "sha256": "ed27064039d25b8b21c23c7c5185c7e9867ece794597df8bc0fdebff4cbfd916",
+ "extracted_at": "2026-07-22T14:35:18+00:00",
+ "simulated": false
+}

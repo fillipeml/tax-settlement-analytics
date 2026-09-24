@@ -1,0 +1,79 @@
+{
+ "taxpayer": "AZEVEDO & TRAVASSOS S/A",
+ "approval_date": "2023-05-23",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 6.0,
+ "guarantees": [
+  "Imóvel (matrícula tarjada) - avaliação R$ 28.960.000,00",
+  "Imóvel (matrícula tarjada) - avaliação R$ 8.800.000,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar/dissimular origem ou destinação de bens",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa ou se tornarem exigíveis",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter-se regular e em dia com as Transações e Parcelamentos em curso",
+  "Solicitar à RFB em até 60 dias o envio para inscrição em Dívida Ativa dos débitos do Anexo II",
+  "Comunicar à Fazenda Nacional a efetivação do envio para inscrição em Dívida Ativa",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 70% do saldo da dívida após aplicação dos descontos",
+  "Utilização do Sistema COMPREI da PGFN para eventual alienação do imóvel dado em garantia em caso de descumprimento",
+  "Direcionamento de eventuais créditos de precatório ou levantamento de depósito judicial para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Construção civil/engenharia",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.3,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.85,
+  "installments": 0.85,
+  "guarantees": 0.8,
+  "judicial_recovery": 0.0,
+  "obligations": 0.8,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "down_payment_pct": "Entrada de R$ 3.100.000,00 (percentual aproximado em 6% dos débitos inscritos em dívida ativa, sem aplicação de descontos), dividida em 24x, sendo 3% no primeiro ano e 3% no segundo ano, neste último caso, acrescido do valor das parcelas.",
+  "installments": "O prazo máximo previsto para pagamento será de 120 (cento e vinte) meses para a Dívida Transacionada, Demais Débitos e 60 (sessenta) meses para a Dívida Transacionada Previdenciária"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "b804210a7509",
+ "title": "Termo Aditivo - Azevedo e Travassos",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAzevedoeTravassosprotegido.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAzevedoeTravassosprotegido.pdf",
+ "sha256": "0116f4c41cc76cc317652c6798979507461fcb6dee06383348278059a50702eb",
+ "extracted_at": "2026-07-22T14:22:36+00:00",
+ "simulated": false
+}

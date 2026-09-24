@@ -1,0 +1,60 @@
+{
+ "taxpayer": "CARBINOX INDÚSTRIA E COMÉRCIO LTDA (53.261.533/0001-93)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 75478025.61,
+ "modality": "Transação Individual",
+ "total_discount_pct": 56.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fidejussória"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Industrial (metalurgia/aço inox)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.4,
+  "modality": 0.85,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.0,
+  "special_clauses": 0.0,
+  "judicial_recovery": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada Total: R$ 75.478.025,61",
+  "total_discount_pct": "Desconto efetivo médio Total: 56%",
+  "installments": "Número de parcelas Previdenciária: 60 Demais débitos: 60"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "b6f70d392b00",
+ "title": "Sumário - Carbinox Indústria e Comércio LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioCarbinoxIndstriaeComrcioLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioCarbinoxIndstriaeComrcioLTDA.pdf",
+ "sha256": "316406392eda60c3cd65756d102098c12623129cbb1d3f4a10b5d2f761ade7d5",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

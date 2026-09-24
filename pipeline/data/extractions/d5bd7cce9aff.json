@@ -1,0 +1,65 @@
+{
+ "taxpayer": "CREDIX - INCENTIVOS E BENEFÍCIOS LTDA e RKS COMERCIO E REPRESENTAÇÕES LTDA (grupo econômico de fato, com corresponsabilidade de João Kepler Braga)",
+ "approval_date": "2023-08-02",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Plano de Regularização Fiscal (Portaria PGFN nº 6.757/2022)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Comunicar a Fazenda Nacional antes de alienar bens ou direitos",
+  "Não utilizar pessoa interposta para ocultar/dissimular bens, direitos e valores",
+  "Apresentar situação econômico-financeira anualmente via balanço contábil ou demonstrações de resultado quando solicitado pela PGFN",
+  "Manter recolhimento das obrigações tributárias correntes e obrigações acessórias",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo",
+  "Verter direitos creditórios supervenientes, incluindo precatórios, para pagamento da transação"
+ ],
+ "special_clauses": [
+  "Reconhecimento de grupo econômico de fato entre as duas empresas e a pessoa física João Kepler Braga, com corresponsabilização mútua e abertura de conta única reunindo as inscrições (Cláusula 7ª)",
+  "Declaração dos devedores de que não possuem quaisquer bens para oferecer em garantia ao acordo (Cláusula 6ª, IV)",
+  "Consideração de que os devedores já se encontram sem operação, com CNPJs baixados perante a Receita Federal"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.0,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.6,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "para pagamento no prazo de 120 (cento e vinte) meses, a dívida não-previdenciária, com aproveitamento do desconto máximo de até 65% (sessenta e cinco por cento), observadas suas capacidades de pagamento (CAPAG)",
+  "installments": "para pagamento no prazo de 120 (cento e vinte) meses"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "d5bd7cce9aff",
+ "title": "Termo de Transação Individual - Credix - Incentivos e Benefícios LTDA, RKS Comércio e Representações LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCredixIncentivoseBenefciosLTDARKSComrcioeRepresentaesLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCredixIncentivoseBenefciosLTDARKSComrcioeRepresentaesLTDA.pdf",
+ "sha256": "0ca278c1ab1a5842973742a1f689f6eb9e8935f6cada8638063aa89aa23f45e1",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

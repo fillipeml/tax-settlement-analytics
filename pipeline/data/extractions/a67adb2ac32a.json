@@ -1,0 +1,78 @@
+{
+ "taxpayer": "ALVICTO OZORES NOGUEIRA E CIA LTDA",
+ "approval_date": "2023-07-26",
+ "consolidated_amount": 36243294.5,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção dos gravames decorrentes de arrolamento de bens, de medida cautelar fiscal e das garantias prestadas administrativamente ou nas ações de execução fiscal ou em qualquer outra ação judicial, até confirmação dos créditos de prejuízo fiscal e base negativa da CSLL"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável os débitos relacionados no ANEXO I",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação dos créditos",
+  "Cumprir exigências adicionais previstas na Portaria, Edital ou proposta",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais de que seja credor",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Individualizar valores recolhidos nas contas vinculadas dos trabalhadores, quando for o caso",
+  "Anuir com eventual modificação da competência para reunião de processos",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos do ANEXO I",
+  "Peticionar nos processos judiciais em até 60 dias após assinatura, noticiando o acordo"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e de base de cálculo negativa da CSLL, limitada a 70% do saldo a ser pago após desconto (Cláusula 5ª, §2º)",
+  "Desconto limitado a até 65%, vedada incidência sobre o principal do débito, por serem dívidas consideradas irrecuperáveis pela PGFN (Cláusula 5ª, §1º)",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/base negativa CSLL fica suspensa até confirmação dos créditos utilizados (Cláusula 7ª)",
+  "Pagamento do saldo remanescente em parcela única (à vista) (Cláusula 5ª, §3º)"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.2,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "discounts": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.95,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal do DEVEDOR inscrito em dívida ativa da UNIÃO, parte desta transação, é composto por todos os seus créditos fiscais relacionados no ANEXO I, que totalizam R$ 36.243.294,50, atualizado no mês de junho de 2023",
+  "total_discount_pct": "a presente transação envolve a concessão de descontos limitados ao máximo de até 65% (sessenta e cinco por cento), vedada a incidência sobre o principal do débito, uma vez que as dívidas são consideradas irrecuperáveis pela PGFN em razão da capacidade de pagamento do DEVEDOR",
+  "installments": "O pagamento do saldo remanescente se dará em parcela única (à vista), por meio de documentos de arrecadação fiscal obtidos no sistema Regularize da PGFN"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "a67adb2ac32a",
+ "title": "Termo de Transação Individual - Alvicto Ozores Nogueira e Cia LTDA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualAlvictoOzoresNogueiraeCiaLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualAlvictoOzoresNogueiraeCiaLTDAtarjado.pdf",
+ "sha256": "ba84fba58f8147f2302ebcce7933cf985377f62743d40145c1340e366cdcc741",
+ "extracted_at": "2026-07-21T19:10:32+00:00",
+ "simulated": false
+}

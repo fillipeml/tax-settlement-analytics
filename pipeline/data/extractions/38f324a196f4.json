@@ -1,0 +1,69 @@
+{
+ "taxpayer": "MUNICÍPIO DE ARCOVERDE",
+ "approval_date": "2021-12-23",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 45.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável da dívida",
+  "Desistência de impugnações, recursos administrativos e ações judiciais relativas aos débitos",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Fornecer demonstrações contábeis e patrimoniais (salvo tratar-se de municípios)",
+  "Apresentar situação econômico-financeira anualmente via balanço contábil",
+  "Liquidar ou parcelar débitos de FGTS junto à CAIXA no prazo de 30 dias",
+  "Manter recolhimento das obrigações tributárias correntes e acessórias"
+ ],
+ "special_clauses": [
+  "Compromisso de liquidar ou parcelar débitos de FGTS junto à CAIXA ECONÔMICA FEDERAL em 30 dias, sob pena de rescisão",
+  "Dispensa de apresentação de demonstrações contábeis detalhadas por se tratar de município"
+ ],
+ "sector": "Administração pública municipal",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "total_discount_pct": "para pagamento no prazo 60 (sessenta meses), a dívida previdenciária, com aproveitamento do desconto máximo de até 45% (cinquenta por cento), baseado na capacidade de pagamento do DEVEDOR",
+  "installments": "para pagamento no prazo 60 (sessenta meses), a dívida previdenciária"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "guarantees",
+  "sector"
+ ],
+ "id": "38f324a196f4",
+ "title": "TermodeTransaoIndividualArcoverde.pdf",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualArcoverde.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualArcoverde.pdf",
+ "sha256": "e08d53c220527b058e59988bc7ec25ab7db3bbbdc1ba3c86efd3b2139a7faf8d",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

@@ -1,0 +1,79 @@
+{
+ "taxpayer": "Transporte Rodoviário Eireli (RODOSENI)",
+ "approval_date": "2022-09-19",
+ "consolidated_amount": 19281910.2,
+ "modality": "Transação individual",
+ "total_discount_pct": 64.87,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhora sobre imóveis (matrículas do Anexo II) titularizados pela devedora Rodoviário Seni Ltda, no Registro de Imóveis de Jaguaruna/SC",
+  "Penhora sobre imóveis titularizados pelo sócio Jones Nicaretta e sua esposa Angelica Liliane Lisboa, no Registro de Imóveis de Jaguaruna/SC e de Santana do Livramento/RS"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva para limitar/falsear a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/valores",
+  "Declarar não alienação/oneração de bens com propósito de frustrar a recuperação dos créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de bens do ativo não circulante",
+  "Cumprir exigências da Portaria PGFN 6.757/2022 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito e recursos sobre os créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União e CRF do FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Apresentar situação econômico-financeira anualmente (balanço contábil)",
+  "Peticionar nos processos judiciais noticiando a transação e desistindo das ações, no prazo de 30 dias",
+  "Apresentar comprovação do protocolo das petições em até 10 dias após os protocolos"
+ ],
+ "special_clauses": [
+  "Apresentação espontânea de imóveis em garantia considerada na definição das condições de pagamento",
+  "Enquadramento como crédito tipo D (irrecuperável) conforme CAPAG presumida do sistema DW",
+  "Obrigação dos intervenientes garantes limitada exclusivamente aos bens próprios, sem corresponsabilidade tributária (§4º Cláusula 7)",
+  "Busca de reunião dos executivos fiscais nos termos do art. 28 da Lei de Execuções Fiscais"
+ ],
+ "sector": "Transporte rodoviário",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.3,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.5,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "montante de R$ 19.281.910,20 (dezenove milhões, duzentos e oitenta e um mil, novecentos e dez reais e vinte centavos)",
+  "total_discount_pct": "O desconto médio, no caso concreto, ficou em 64,87% (SEI 27948229)",
+  "installments": "as inscrições indicadas serão objeto de plano de pagamento em 145 (cento e quarenta e cinco) amortizações mensais e sucessivas (DEMAIS DÉBITOS)"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "271be5428a75",
+ "title": "Termo de Transação Individual - Rodoviário Seni LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualRodoviarioSeniLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualRodoviarioSeniLTDA.pdf",
+ "sha256": "8e4f121135b504957acb804273f7a2c79941c383bef0c1a14e536d109866af84",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

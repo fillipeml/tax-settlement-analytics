@@ -1,0 +1,83 @@
+{
+ "taxpayer": "CONTAX S/A, AXIA MANUTENÇÃO S/A, ATMA PARTICIPAÇÕES S/A e SOLVIANTECH DESENVOLVIMENTO DE SISTEMAS LTDA - todas EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-01-22",
+ "consolidated_amount": 6413196.3,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens e direitos penhorados nos autos das execuções fiscais propostas pela Fazenda Nacional em face das DEVEDORAS",
+  "Depósitos judiciais transformados em pagamento definitivo",
+  "Possibilidade de garantia por depósito judicial em dinheiro, carta de fiança bancária, seguro garantia ou outra garantia suficiente e idônea para novos débitos"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações administrativas ou judiciais relativas à dívida transacionada",
+  "Reconhecimento e confissão irrevogável e irretratável dos débitos",
+  "Peticionar nos autos das execuções fiscais em 30 dias para requerer transformação dos depósitos judiciais em pagamento definitivo",
+  "Peticionar nos processos judiciais/administrativos e nos autos da Recuperação Judicial em 30 dias para noticiar o acordo",
+  "Manter regularidade perante o FGTS e proceder à individualização dos valores recolhidos",
+  "Quitar integralmente os débitos de FGTS incluídos no Plano de Recuperação Judicial (FGRJ202200324, FGRJ202300296, FGRJ202300300, FGRJ202300304) até o último dia útil de março de 2024",
+  "Comprovar pagamento integral e baixa perante a Caixa Econômica Federal no prazo máximo de 6 meses",
+  "Pagar, parcelar ou garantir novos débitos de FGTS e contribuição social inscritos em Dívida Ativa após a formalização do acordo, no prazo de 90 dias",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional durante a vigência do acordo",
+  "Fornecer informações sobre bens, direitos e valores sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência"
+ ],
+ "special_clauses": [
+  "Divisão do passivo entre débitos pagos via transação (FGRJ201501960, CSRJ201401357, FGRJ201401355, CSSP201700068, FGSP201700067) e débitos pagos no âmbito do Plano de Recuperação Judicial (FGRJ202200324, FGRJ202300296, FGRJ202300300, FGRJ202300304, FGRJ202300345)",
+  "Modalidade 25 (FGTS) com desconto de 5% sobre juros/multa/encargos, com pagamento do principal em 110 parcelas e juros/multa/encargos em 10 parcelas subsequentes",
+  "Modalidade 1 (Contribuição Social) com desconto de 25% sobre o saldo remanescente, pago em 60 parcelas",
+  "Cláusula de nomeação da CREDORA como procuradora para receber indenização de desapropriação de imóvel penhorado",
+  "Vedação de nova transação pelas DEVEDORAS por 2 anos em caso de rescisão"
+ ],
+ "sector": "Serviços/Telecomunicações e Tecnologia (grupo econômico com atuação em call center/telecomunicações, manutenção industrial e desenvolvimento de sistemas)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.4,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "as quais totalizam R$ 6.413.196,30 (seis milhões, quatrocentos e treze mil, cento e noventa e seis reais e trinta centavos), atualizadas até o mês de dezembro/2023",
+  "installments_fgts": "110 (cento e dez) parcelas mensais e sucessivas... JUROS/MULTA/ENCARGOS: 10 (dez) parcelas mensais e sucessivas",
+  "installments_contribuicao_social": "Saldo remanescente: pagamento em 60 (sessenta) parcelas mensais e sucessivas",
+  "discount_fgts": "Desconto – 5% (cinco por cento)",
+  "discount_contribuicao_social": "Desconto – 25% (vinte e cinco por cento)"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "guarantees"
+ ],
+ "id": "1c49ea4bde76",
+ "title": "Termo de Transação Individual - Contax SA em recuperação judicial",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualContaxSAemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualContaxSAemrecuperaojudicialtarjado.pdf",
+ "sha256": "73ff2177598d897a0713545b988a1cf0f58ffdb1cbeb446772fb5d0e284ff58f",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

@@ -1,0 +1,71 @@
+{
+ "taxpayer": "VIAÇÃO ACARI S/A (corresponsável: EXPRESSO NOSSA SENHORA DA GLÓRIA LTDA.)",
+ "approval_date": "2024-01-23",
+ "consolidated_amount": 31651806.26,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": 65.0,
+  "interest_pct": 65.0,
+  "charges_pct": 65.0
+ },
+ "installments": 44,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Corresponsabilização da empresa EXPRESSO NOSSA SENHORA DA GLÓRIA LTDA.",
+  "Imóvel de mat. [tarjado] (ANEXO VI)",
+  "Imóvel de mat. [tarjado] (ANEXO VII)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o FGTS e individualização dos valores recolhidos",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Fornecer informações econômico-financeiras quando solicitado",
+  "Pagar regularmente tributos federais, estaduais e municipais que incidam sobre os bens dados em garantia",
+  "Peticionar nos processos judiciais em até 30 dias para noticiar a transação e desistir de impugnações/recursos",
+  "Manter-se optante do regime de lucro real até extinção da dívida transacionada",
+  "Manter livros e documentos comprobatórios dos créditos de prejuízo fiscal/CSLL por até 5 anos"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para liquidação de até 70% do saldo remanescente das inscrições (65% Anexo III previdenciário e 5% Anexo IV não-previdenciário)",
+  "Possibilidade de compensação de precatórios federais e restituições/ressarcimentos com prestações do acordo",
+  "Possibilidade de alienação dos bens dados em garantia mediante prévia anuência da CREDORA, com destinação do valor à quitação das parcelas vincendas"
+ ],
+ "sector": "Transporte (rodoviário/coletivo)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.9,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.85,
+  "guarantees": 0.6,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizando R$ 29.358.004,89 (vinte e nove milhões, trezentos e cinquenta e oito mil e quatro reais e oitenta e nove centavos)... totalizando R$2.293.801,37 (dois milhões, duzentos e noventa e três mil, oitocentos e um reais e trinta e sete centavos)",
+  "total_discount_pct": "Concessão do desconto de 65% incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à Fazenda Nacional, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento do saldo remanescente dos débitos de natureza previdenciária efetuado em 44 (quarenta e quatro) meses, por meio de parcelas escalonadas da seguinte forma"
+ },
+ "review_fields": [
+  "sector",
+  "installments",
+  "down_payment_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "cd8170d159d8",
+ "title": "Termo de Transação Individual - Viação Acari SA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualViaoAcariSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualViaoAcariSATarjado.pdf",
+ "sha256": "7c26439b349d578b0051db4fc859244fc5f774ffb581011b72ce8e368229b3d1",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

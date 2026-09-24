@@ -1,0 +1,90 @@
+{
+ "taxpayer": "WHEATON BRASIL VIDROS LTDA.",
+ "approval_date": "2023-11-21",
+ "consolidated_amount": 826376216.24,
+ "modality": "Transação Individual",
+ "total_discount_pct": 31.83,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Veículos automotores diversos (65 itens listados na cláusula 3.1, incluindo carros, caminhonetes, caminhões e um helicóptero Bell Helicopter modelo 407)",
+  "99,99% de Participação Societária na empresa Viton-Equipamentos de Máquinas Ltda., CNPJ 12.979.176/0001-16",
+  "100% de Participação Societária na empresa Technicol Indústria e Comércio de Tintas Ltda., CNPJ 47.525.434/0001-79",
+  "99,99% de Participação Societária na empresa Wheaton Pintura e Beneficiamento de Vidros Ltda., CNPJ 29.251.838/0002-30",
+  "99,99% de Participação Societária na empresa Decor Vidros Beneficiamento de Embalagens Ltda., CNPJ 41.568.655/0001-48",
+  "99,99% de Participação Societária na empresa Nova Extar Comércio e Representações Ltda., CNPJ 17.517.645/0001-45",
+  "100% de Participação Societária na empresa WBLOG Transportes Ltda., CNPJ 43.782.837/0001-42",
+  "Marcas - processos INPI nº 908110243, 907741517, 907741410, 907741584, 907741460, 908110570, 811039889",
+  "Patente BR 20 2014 003248-2 Y1 (dispositivo de mascaramento)",
+  "Patente 10 2014 0084184 3 B1 (dispositivo de suporte planetário para pluralidade de frascos)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Reconhecimento e confissão irrevogável e irretratável da Dívida Transacionada",
+  "Desistência de impugnações, recursos e ações judiciais relativas à Dívida Transacionada",
+  "Fornecer informações sobre bens, direitos, valores e situação econômica sempre que solicitado",
+  "Não utilizar a Transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não ter alienado bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Apresentar em 30 dias protocolo de petição requerendo penhora dos bens/garantias listados na execução fiscal nº 5002075-87.2023.403.6114",
+  "Providenciar em 30 dias formalização das garantias de marcas e patentes via termo de alienação fiduciária para registro no INPI",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir de impugnações/recursos",
+  "Apresentar em até 30 dias protocolo das petições na execução fiscal nº 5002075-87.2023.403.6114"
+ ],
+ "special_clauses": [
+  "Oferecimento de participações societárias em seis empresas do grupo como garantia",
+  "Oferecimento de marcas e patentes registradas no INPI como garantia",
+  "Oferecimento de helicóptero Bell Helicopter modelo 407 como garantia",
+  "Direcionamento de eventuais créditos de precatórios ou depósitos judiciais para adimplemento dos saldos devedores",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas"
+ ],
+ "sector": "Vidros/Indústria de embalagens",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "discounts": 0.3,
+  "down_payment_pct": 0.0,
+  "installments": 1.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal da Requerente é composto pelo crédito tributário inscrito na CDA nº 80.3.22.003570-44, no valor consolidado de R$ 826.376.216,24 (outubro/2023).",
+  "total_discount_pct": "Desconto máximo de 31,83% ao crédito tributário inscrito na CDA nº 80.3.22.003570-44, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "O pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada - Demais Débitos\") será feito em 60 (sessenta) prestações iguais e mensais."
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "7372131dcfbd",
+ "title": "Termo de Transação Individual - Wheaton Brasil Vidros LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualWheatonBrasilVidrosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualWheatonBrasilVidrosLTDA.pdf",
+ "sha256": "70c03b26e4c7a101a5e422ec889eac16e55444a0456574ed79b0cef89cf226d1",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

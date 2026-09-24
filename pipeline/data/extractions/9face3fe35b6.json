@@ -1,0 +1,80 @@
+{
+ "taxpayer": "GRUPO VIA (VIA ENGENHARIA S.A. e VIA EMPREENDIMENTOS IMOBILIÁRIOS S/A e SPEs)",
+ "approval_date": "2021-07-06",
+ "consolidated_amount": 118017030.52,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca de bens imóveis relacionados no ANEXO II, valor total R$ 34.484.200,00 (matrículas 8319, 1654 e 32.184 no 4º RIDFT)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável os débitos do ANEXO I",
+  "Renunciar a alegações de direito e questionamentos administrativos e judiciais",
+  "Reconhecer o grupo econômico GRUPO VIA e corresponsabilidade solidária",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Garantir ou parcelar novos débitos inscritos em dívida ativa no prazo máximo de 90 dias",
+  "Manter as garantias oferecidas até o cumprimento integral das condições",
+  "Informar à PGFN alienação/disposição de bens imóveis do ativo imobilizado",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou pagamentos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva contra livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens/direitos",
+  "Desistir dos parcelamentos fiscais vigentes em até 5 dias corridos da assinatura",
+  "Registrar a hipoteca no prazo de 60 dias da assinatura",
+  "Apresentar situação econômico-financeira anualmente (demonstrações de resultados)"
+ ],
+ "special_clauses": [
+  "Oneração dos imóveis autorizada pelo item 82 do Plano de Recuperação Judicial (Processo 0718798-87.2019.8.07.0015)",
+  "União anui com liberação do seguro-garantia na execução fiscal nº 1038420-13.2019.4.01.3400 e ação ordinária 0018246-39.2015.4.01.3400 logo após assinatura",
+  "Possibilidade de suspensão dos pagamentos em caso de adesão a programa de parcelamento extraordinário mais benéfico (Cláusula 32ª)",
+  "Substituição de garantias por fiança bancária ou seguro-garantia de igual valor (Cláusula 17ª)",
+  "Débitos administrativos supervenientes poderão integrar o acordo se inscritos até 31/12/2021 (§2º Cláusula 2ª)"
+ ],
+ "sector": "Construção civil/incorporação imobiliária",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizando R$ 118.017.030,52, atualizado no mês de junho de 2021",
+  "installments": "A presente transação terá prazo de vigência de até 120 meses."
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "9face3fe35b6",
+ "title": "Termo de Transação Individual - Via Empreendimentos",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-via-empreendimentos.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-via-empreendimentos.pdf",
+ "sha256": "5431d927c7322a48d6acef8477c4d429cbfc8402ca0244867be57f0de6cead8d",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

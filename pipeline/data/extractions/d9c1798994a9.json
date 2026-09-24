@@ -1,0 +1,66 @@
+{
+ "taxpayer": "ROTOTECH ROTOMOLDAGEM TÉCNICA LTDA",
+ "approval_date": "2023-10-10",
+ "consolidated_amount": 580359.32,
+ "modality": "Transação Individual (Plano de Pagamento Parcelado do Débito Fiscal - FGTS/CS)",
+ "total_discount_pct": 28.02,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 28.02
+ },
+ "installments": 80,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel reavaliado em R$ 12.184.240,00 (EV 138 dos autos nº 5004576-22.2018.4.04.7129), em 09/10/2023"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas do FGTS dos respectivos trabalhadores",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações judiciais e recursos referentes aos créditos incluídos na transação",
+  "Peticionar nos processos judiciais noticiando a transação e desistindo das ações no prazo de 30 dias",
+  "Comprovar o protocolo das petições no prazo de 10 dias via sistema Regularize"
+ ],
+ "special_clauses": [
+  "Cláusula 8: garantia consistente em imóvel reavaliado, com nomeação da União como procuradora em causa própria em caso de desapropriação",
+  "Parágrafo 2º da Cláusula 8: obrigação de substituir/reforçar garantia em caso de depreciação superior a 20%"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.85,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.85,
+  "installments": 0.75,
+  "down_payment_pct": 0.0,
+  "discounts": 0.6,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Total: 580.359,32",
+  "total_discount_pct": "Percentual Juros/Multa/Encargos: 28,02% (Desconto Máximo Permitido)",
+  "installments": "Nº Parcelas: 80"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "d9c1798994a9",
+ "title": "Termo de Transação Individual  - Rototech Rotomoldagem Técnica LTDA - Informações Sigilosas Suprimidas.pdf",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualRototechRotomoldagemTcnicaLTDAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualRototechRotomoldagemTcnicaLTDAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "d7caa0cf71cd04c6f441f133d28aaf4b1b8cd15e57af5a10a87144357dcf67ba",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

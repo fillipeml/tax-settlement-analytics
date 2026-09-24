@@ -1,0 +1,79 @@
+{
+ "taxpayer": "INIPLA VEÍCULOS LTDA. – EM RECUPERAÇÃO JUDICIAL (e demais Requerentes: RWRV SERVIÇOS DE COBRANÇA LTDA., A.J.C. COMÉRCIO E INTERMEDIAÇÃO DE NEGÓCIOS LTDA., ROTEFI PARTICIPAÇÕES E EMPREENDIMENTOS LTDA., MAFEDER PARTICIPAÇÕES E EMPREEDIMENTOS LTDA., B.A. EXPORTAÇÃO E EMPREENDIMENTOS IMOBILIÁRIOS LTDA.)",
+ "approval_date": "2023-05-30",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhora de imóveis (Anexo IV e V)",
+  "Penhora de marcas (Anexo VI)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens/direitos que reduzam capacidade de pagamento sem comunicar a Fazenda Nacional",
+  "Concordar com futura compensação de ofício da Dívida Transacionada"
+ ],
+ "special_clauses": [
+  "Possibilidade de substituição de garantias por outras idôneas, preservando valor e qualidade (cláusula 3.4)",
+  "Revisão anual dos valores amortizados e do valor de mercado das garantias, podendo liberar gravames (cláusula 3.5)",
+  "Possibilidade de alienação de ativos dados em garantia com anuência da Fazenda Nacional, destinando valor à quitação de parcelas vincendas (cláusula 4)",
+  "Exclusão de pessoas físicas e jurídicas do polo passivo do IDPJ nº 5000398-83.2022.4.03.6105, com liberação de bens bloqueados (cláusula 6)",
+  "Valores penhorados/depositados/bloqueados em Execuções Fiscais e no IDPJ convertidos em renda em favor da União para abatimento da Dívida Transacionada antes dos descontos (cláusula 2.2)"
+ ],
+ "sector": "Comércio de veículos",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.4,
+  "modality": 1.0,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "judicial_recovery": 1.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de 70% (setenta por cento) a cada uma das CDAs, considerando a aplicação dos mesmos parâmetros da Transação Excepcional da Portaria PGFN nº 14.402/2020, nos termos do artigo 53 da Portaria PGFN nº 6.757/2022, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais, escalonadas na forma discriminada no Anexo III"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "approval_date"
+ ],
+ "id": "ce9e689e778b",
+ "title": "TermodeTransaoIndividualIniplaVeculosLTDAemrcuperaojudicialtarjado.pdf",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIniplaVeculosLTDAemrcuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIniplaVeculosLTDAemrcuperaojudicialtarjado.pdf",
+ "sha256": "8ddd44f2f8f3f999a9ec48c40baa010278266153321173d28cb2e8622d2cb347",
+ "extracted_at": "2026-07-22T14:22:44+00:00",
+ "simulated": false
+}

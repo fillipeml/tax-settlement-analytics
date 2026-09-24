@@ -1,0 +1,81 @@
+{
+ "taxpayer": "Grupo Econômico Só Ofertas (Varejo Total Comércio de Gêneros Alimentícios Ltda e outras 12 pessoas jurídicas)",
+ "approval_date": "2023-06-16",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis de matrícula e laudos listados no ANEXO II (empreendimento 'Ilha do Lazer' - matrículas 46.912, 46.911 e 1.400 do 2º Ofício do RGI de Araruama)",
+  "Alienação de veículos automotores penhorados nos autos das Execuções Fiscais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos inscritos em Dívida Ativa listados no ANEXO I",
+  "Peticionar nos processos judiciais em até 30 dias noticiando a celebração do acordo",
+  "Manter regularidade fiscal perante o FGTS",
+  "Quitar débitos de FGTS e Contribuição Social à vista em até 30 dias da assinatura",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos após a formalização",
+  "Não alienar bens sem comunicação prévia à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos e situação econômica sempre que solicitado",
+  "Manter em dia impostos e taxas sobre imóveis dados em garantia",
+  "Comunicar à credora superveniência de penhora ou gravame sobre bens oferecidos em garantia",
+  "Apresentar relação de bens e direitos que comporão as garantias"
+ ],
+ "special_clauses": [
+  "Reconhecimento de Grupo Econômico e responsabilidade solidária pela totalidade das dívidas (art. 50, §3º da Portaria PGFN 6.757/2022)",
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL (R$2.161.768,87) para amortização do saldo devedor de débitos previdenciários",
+  "Transformação em pagamento definitivo de valores bloqueados/depositados judicialmente",
+  "Tratamento especial dos depósitos da ação judicial 0007117-80.2020.8.19-0052 (50% para Parcela Intermediária 1, 50% liberado às Requerentes)",
+  "Sistema de alienação de imóveis via SISTEMA COMPREI/PGFN para garantia da Parcela Intermediária",
+  "Levantamento imediato da indisponibilidade do art. 185-A do CTN sobre bens imóveis dos Terceiros Requerentes",
+  "Alienação de veículos automotores penhorados com depósito do valor obtido em conta judicial",
+  "Resguardo de PRDI (Procedimento de Revisão de Débito Inscrito) relativo à tese do ICMS na base de cálculo do PIS/COFINS",
+  "Possibilidade de termo aditivo para fruição de direitos adicionais decorrentes de legislação futura",
+  "Transferência de até 100% dos débitos para programa de parcelamento extraordinário futuro mais benéfico"
+ ],
+ "sector": "Comércio varejista de gêneros alimentícios (supermercados)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.8,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "installments": "3.5 Os débitos não previdenciários serão pagos mediante o recolhimento de 120 parcelas mensais. 3.6 Os débitos previdenciários serão pagos mediante o recolhimento de 60 parcelas mensais."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "6ec4df57030e",
+ "title": "Termo de Transação Individual - Varejo Total Comércio de Gêneros Alimentícios LTDA, Jeovani Comércio de Gêneros Alimentícios LTDA, Só Ofertas Supermercados LTDA, M.A.J. Comércio de Gêneros Alimentícios LTDA, Quiosque e Lazer Boa Vista LTDA, MJ M Comércio  de Gêneros Alimentícios LTDA, Arara de  Araruama Comércio de Gêneros Alimentícios LTDA, MJ Comércio de Gênero Alimentícios LTDA, Iguaba Comércio de Alimentos LTDA, Só Ofertas Búzios Supermercados LTDA, Só Ofertas Comércio de Gêneros Alimentícios LTDA, M4 Participações e Empreendimentos Imobiliários LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualVarejoTotalComrciodeGnerosAlimentciosLTDA....pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualVarejoTotalComrciodeGnerosAlimentciosLTDA....pdf",
+ "sha256": "74655ac68e709a417af385df9bb5e0b4e366d34eb40826350fda01cf5226bcb9",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

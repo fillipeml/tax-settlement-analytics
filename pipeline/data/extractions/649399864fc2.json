@@ -1,0 +1,72 @@
+{
+ "taxpayer": "IMASA INDÚSTRIA DE MÁQUINAS AGRÍCOLAS LTDA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2023-04-12",
+ "consolidated_amount": null,
+ "modality": "Transação Individual Tributária (débitos previdenciários, demais débitos, FGTS e contribuições sociais do FGTS)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel matrícula nº 8.920 do Registro de Imóveis de Jacareí - SP, avaliado em R$ 3.470.583,00 (ANEXO V)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens, direitos e valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria 6.757/2022 e na proposta",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Renunciar a quaisquer alegações de direito sobre ações judiciais/recursos referentes aos créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União e manter o Certificado de Regularidade Fiscal do FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou que se tornarem exigíveis após a formalização do acordo",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil",
+  "Manter, durante 5 anos, os livros e documentos comprobatórios dos montantes de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Adimplir emolumentos decorrentes de eventual protesto cartorário das inscrições abrangidas pela transação"
+ ],
+ "special_clauses": [
+  "Comporá garantia o imóvel matrícula nº 8.920 do Registro de Imóveis de Jacareí - SP, avaliado em R$ 3.470.583,00 (ANEXO V). A proponente poderá alienar o referido imóvel, mediante pagamento à vista, após autorização judicial nos autos da execução fiscal, para a quitação da parcela de número 49 da conta Débitos Previdenciários. Não se realizando a alienação até o vencimento a proponente deverá quitar integralmente a parcela sob pena de rescisão do acordo (Cláusula 11, I).",
+  "Os montantes de créditos de PF e BCN aceitos na transação, no valor nominal de R$ 12.191.837,92 (...), serão utilizados depois da aplicação dos descontos indicados nas CLÁUSULAS 6ª, sob condição resolutória de sua ulterior homologação, no prazo de 5 (cinco) anos, pela Secretaria Especial da Receita Federal do Brasil"
+ ],
+ "sector": "Indústria de máquinas agrícolas",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "consolidated_amount": 0.3,
+  "installments": 0.6,
+  "total_discount_pct": 0.3,
+  "down_payment_pct": 0.2,
+  "discounts.fine_pct": 0.4,
+  "discounts.interest_pct": 0.4,
+  "discounts.charges_pct": 0.4,
+  "approval_date": 0.9,
+  "judicial_recovery": 0.6,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "approval_date": "Porto Alegre, 12 de abril de 2023.",
+  "guarantees": "Comporá garantia o imóvel matrícula nº 8.920 do Registro de Imóveis de Jacareí - SP, avaliado em R$ 3.470.583,00 (ANEXO V)."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "649399864fc2",
+ "title": "Termo de Transação Individual - Imasa Indústria de Máquinas Agrícolas LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualImasaIndstriadeMquinasAgrcolasLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualImasaIndstriadeMquinasAgrcolasLTDATarjado.pdf",
+ "sha256": "2012ed3f44abc3f453ef7185275c1415921a0185488bce7eebb809de87d9a952",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

@@ -1,0 +1,74 @@
+{
+ "taxpayer": "FAZ EMPREENDIMENTOS E SERVIÇOS LTDA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2025-05-06",
+ "consolidated_amount": 13524241.98,
+ "modality": "Transação Individual - Plano de Regularização Fiscal (Portaria PGFN 6.757/2022 e 2.382/2020, devedor em recuperação judicial)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens já penhorados ou porventura descritos no termo como garantia (a serem alienados em caso de rescisão)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens/direitos",
+  "Apresentar situação econômico-financeira anualmente (balanço contábil/demonstração de resultados)",
+  "Pagar regularmente os tributos correntes",
+  "Manter regime de tributação pelo lucro real durante a vigência da transação (em razão do uso de créditos de PF/BCN)",
+  "Comprovar existência e regularidade escritural dos créditos de prejuízo fiscal e base negativa de CSLL",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo",
+  "Regularizar débitos que se tornarem exigíveis após a formalização, no prazo de 90 dias"
+ ],
+ "special_clauses": [
+  "Aproveitamento de crédito de prejuízo fiscal e de base de cálculo negativa de CSLL para quitação do saldo devedor remanescente (Art. 4ª)",
+  "Prazo de parcelamento diferenciado por estar em recuperação judicial: falta de pagamento de 6 parcelas consecutivas ou 9 alternadas para rescisão (em vez de 3/6 para demais situações)",
+  "Possibilidade de alienação de bens via sistema COMPREI em caso de rescisão, com limite mínimo de 50% do valor de avaliação",
+  "Dedução de valores devidos dos repasses de Fundos de Participação de Estados e Municípios"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.2,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.1,
+  "discounts.interest_pct": 0.1,
+  "discounts.charges_pct": 0.1,
+  "guarantees": 0.4,
+  "obligations": 0.75,
+  "special_clauses": 0.7,
+  "judicial_recovery": 0.95
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total sem reduções (A) - Consolidado: 5.077.409,25 (débitos previdenciários) + Total sem reduções (A) - Consolidado: 8.446.882,73 (demais débitos)",
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 70%",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 60 MESES"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "guarantees",
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "f20573be0568",
+ "title": "Termo de Transação Individual - FAZ Empreendimentos e Servços LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualFAZEmpreendimentoseServosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualFAZEmpreendimentoseServosLTDA.pdf",
+ "sha256": "315e5a7fd5bc483a7e56cae3ab0fd3584c9a62fe3052dcb89f5ab88a00d98c14",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

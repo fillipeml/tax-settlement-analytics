@@ -1,0 +1,83 @@
+{
+ "taxpayer": "VIAÇÃO GRACIOSA LTDA; VIAÇÃO MARUMBI LTDA.; GRACIOSA TRANSPORTE E TURISMO LTDA; EMPRESA CURITIBA CERRO AZUL LTDA; ELUIZA HELENA SCHAEDLER; LIDIA BEATRIZ SCHAEDLER ALVES PEREIRA",
+ "approval_date": "2025-06-17",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 54.19,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "matrícula 4223 do Registro de Imóveis de Curitiba/PR",
+  "matrícula 3925 do Registro de Imóveis de Curitiba/PR",
+  "matrícula 837 do Registro de Imóveis de Antonina/PR",
+  "matrícula 17438 do Registro de Imóveis de Matinho/PR",
+  "matrícula 17439 do Registro de Imóveis de Matinho/PR",
+  "matrícula 17829 do Registro de Imóveis de Matinho/PR",
+  "matrícula 17830 do Registro de Imóveis de Matinho/PR",
+  "matrícula 14440 do Registro de Imóveis de Matinho/PR",
+  "matrícula 12536 do Registro de Imóveis de Pontal do Sul/PR",
+  "matrícula 12537 do Registro de Imóveis de Pontal do Sul/PR",
+  "matrícula 20903 do Registro de Imóveis de São José dos Pinhais/PR",
+  "matrícula 43485 do Registro de Imóveis de São José dos Pinhais/PR",
+  "matrícula 50185 do Registro de Imóveis de São José dos Pinhais/PR",
+  "matrícula 1040 do Registro de Imóveis de Guaraqueçaba/PR",
+  "matrícula 1418 do Registro de Imóveis de Guaraqueçaba/PR"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter a regularidade perante o FGTS",
+  "Manter a regularidade perante a PGFN e a RFB, regularizando em 90 dias débitos que se tornarem exigíveis",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir/renunciar",
+  "Não alienar bens sem comunicação prévia à Fazenda Nacional",
+  "Individualizar valores recolhidos nas contas vinculadas dos trabalhadores do FGTS",
+  "Formalizar garantia via penhora em até 30 dias contados da assinatura do Acordo"
+ ],
+ "special_clauses": [
+  "Responsabilidade solidária de ELUIZA HELENA SCHAEDLER restrita a CDAs específicas (art. 135, III, CTN)",
+  "Responsabilidade solidária de LIDIA BEATRIZ SCHAEDLER ALVES PEREIRA restrita a CDAs específicas (art. 135, III, CTN)",
+  "Desconto de 31,61% sobre débitos de FGTS da VIAÇÃO GRACIOSA LTDA conforme Modalidade 63 da simulação da CEF",
+  "Pagamento de verbas rescisórias do FGTS à vista, a título de entrada",
+  "Possibilidade de alienação dos bens dados em garantia mediante anuência da Fazenda Nacional, inclusive via Plataforma Comprei"
+ ],
+ "sector": "Transporte (viação/turismo)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "discounts": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.7,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.95,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Concede-se o desconto máximo de 54,19% (cinquenta e quatro vírgula dezenove por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal.",
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Demais Débitos será adimplido em 120 (cento e vinte) prestações mensais sucessivas"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "discounts",
+  "down_payment_pct",
+  "judicial_recovery",
+  "sector",
+  "installments"
+ ],
+ "id": "63f09c83d5aa",
+ "title": "Termo de Transação Individual - Viação Graciosa LTDA, Viação Marumbi LTDA, Graciosa Transporte e Turismo LTDA, Empresa Curitiba Cerro Azul LTDA, Eluiza Helena Schaedler, Lidia Beatriz Schaedler Alves Pereira",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualViaoGraciosaLTDAViaoMarumbiLTDAGraciosaTransporteeTurismoLTDAEmpresaCuritibaCerroAzulLTDAEluizaHelenaSchaedlerLidiaBeatrizSchaedlerAlvesPereira.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualViaoGraciosaLTDAViaoMarumbiLTDAGraciosaTransporteeTurismoLTDAEmpresaCuritibaCerroAzulLTDAEluizaHelenaSchaedlerLidiaBeatrizSchaedlerAlvesPereira.pdf",
+ "sha256": "9f2646134204a4d24fb9589e940d115a38011c011f9cf4169ceabfb9ab3da7b2",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

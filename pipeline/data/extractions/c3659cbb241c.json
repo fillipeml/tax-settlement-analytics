@@ -1,0 +1,81 @@
+{
+ "taxpayer": "Indústria Cerâmica Fragnani Ltda e outras empresas do grupo econômico (Mineradora Água Branca Ltda; Incenor Indústria Cerâmica do Nordeste Ltda; Tecnogrés Revestimentos Cerâmicos Ltda; Agropecuária Fragnani Ltda; Fragnani Empreendimentos e Participações Ltda)",
+ "approval_date": "2022-11-04",
+ "consolidated_amount": 293903630.97,
+ "modality": "Transação Individual - Plano de Regularização Fiscal",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca de bens imóveis relacionados no ANEXO II (total aproximado R$ 66.839.652,43)",
+  "Penhor de bens móveis (máquinas, equipamentos e veículos) relacionados no ANEXO II (total aproximado R$ 320.215.932,00)",
+  "Garantidores hipotecantes pessoas físicas: Ricardo Luiz Fragnani, Leda Cristina Bettin Fragnani, Filomena Cristina Fragnani, Evelyn Cristina Fragnani, Valdemar Fragnani Neto e Ricardo Fragnani, oferecendo bens próprios em garantia",
+  "Transformação em pagamento definitivo dos depósitos judiciais existentes nas Execuções Fiscais n. 0000590-15.2009.8.06.0146 e 0000334-20.2017.403.6143"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos relacionados no ANEXO I e III",
+  "Renúncia expressa a alegações de direito e desistência de ações/recursos judiciais e administrativos",
+  "Manutenção da regularidade das obrigações correntes com FGTS e tributos federais",
+  "Regularização em 90 dias dos débitos que se tornarem exigíveis após a formalização",
+  "Manutenção das garantias oferecidas nos Anexos II",
+  "Autorização de compensação de restituições/ressarcimentos/reembolsos e precatórios federais com prestações do acordo",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou valores de pagamento",
+  "Notificar a Fazenda Nacional sobre migração ou aquisição de atividades operacionais por outra pessoa jurídica",
+  "Individualização de valores do FGTS nas contas vinculadas dos trabalhadores, quando for o caso",
+  "Apresentar situação econômico-financeira anualmente ou quando solicitado",
+  "Efetuar registro de hipoteca de primeiro grau nos bens dados em garantia no prazo de 90 dias"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação dos 3 imóveis dados em garantia (Matrículas 28.206, 47.782 e 19.638) para abatimento do passivo fiscal, mediante condições específicas",
+  "Compromisso de assinar termo de cessão de direitos da propriedade resolúvel com relação aos imóveis descritos nas matrículas 41.640 e 41.436",
+  "Cláusula 51ª: possibilidade de rescindir a transação e aderir a acordo mais favorável, após desfeitos os descontos obtidos e mantidas as garantias oferecidas",
+  "Utilização residual de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para abatimento das dívidas, limitada ao percentual de desconto de 65%",
+  "Pedágio inicial de 12 parcelas antes da aplicação dos descontos, tanto para dívida não previdenciária quanto previdenciária"
+ ],
+ "sector": "Cerâmica/Revestimentos e Agronegócio",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal dos CONTRIBUINTES inscrito em dívida ativa da União, parte desta transação, é composto por todos os seus créditos fiscais relacionados no ANEXO I, que totalizam R$ 293.903.630,97 (duzentos e noventa e três milhões novecentos e três mil seiscentos e trinta reais e noventa e sete centavos), atualizado no mês de novembro de 2022",
+  "total_discount_pct": "Para amortização dos débitos inscritos em dívida ativa da União será concedido o desconto máximo de 65% sobre o valor total devido, limitado ao montante do valor principal",
+  "installments": "CLÁUSULA 36ª. A presente transação terá prazo de vigência de 120 (cento e vinte meses) meses."
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "c3659cbb241c",
+ "title": "Termo de Transação Individual - Fragnani",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualPSFNeBAInformaesSigilosasSuprimidasassinado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualPSFNeBAInformaesSigilosasSuprimidasassinado.pdf",
+ "sha256": "43b1eed5e87633511703751f5e34927632d1a459ca26646954b23cd0b880a775",
+ "extracted_at": "2026-07-22T14:22:24+00:00",
+ "simulated": false
+}

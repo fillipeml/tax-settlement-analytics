@@ -1,0 +1,77 @@
+{
+ "taxpayer": "INDÚSTRIAS GERAIS DE PARAFUSOS INGEPAL LTDA",
+ "approval_date": "Not identified",
+ "consolidated_amount": 76979803.41,
+ "modality": "Transação Individual",
+ "total_discount_pct": 62.19,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 55,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitadas pela PGFN",
+  "Autorizar o acesso da Fazenda Nacional a suas declarações e escritas fiscais",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação prévia à Fazenda Nacional",
+  "Manter a regularidade perante o FGTS",
+  "Manter a regularidade perante a PGFN e a RFB, regularizando em até 90 dias débitos que se tornarem exigíveis após a formalização da Transação",
+  "Peticionar em até 60 dias da assinatura em todos os processos judiciais relativos à Dívida Transacionada para noticiar a celebração da Transação, desistir da ação e renunciar aos direitos",
+  "Regularizar a dívida com o FGTS em até 90 dias da assinatura do termo",
+  "Manter livros e documentos fiscais/contábeis comprobatórios dos montantes de PF/BCN utilizados por 5 anos ou até liquidação integral da Transação",
+  "Promover a baixa dos montantes de PF/BCN utilizados nos livros e escriturações contábeis próprias",
+  "Manter o regime de apuração do IRPJ pelo lucro real durante toda a vigência da Transação (em razão do uso de PF/BCN)"
+ ],
+ "special_clauses": [
+  "Concessão de desconto máximo de 65% calculado por débito, aplicado proporcionalmente sobre acréscimos legais (multa, juros e encargos), vedada redução do principal",
+  "Autorização de uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) no valor máximo de R$ 15.350.782,56, limitado a 70% do saldo devedor após descontos, distribuído entre Dívida Previdenciária (R$ 7.641.763,55) e Demais Débitos (R$ 7.709.019,01)",
+  "Transação realizada sem apresentação de garantia (cláusula 7.1)",
+  "Prazo máximo de pagamento não pode ser prorrogado, com quitação integral do saldo remanescente na última prestação",
+  "Cobrança do valor liquidado com uso de PF/BCN fica suspensa até confirmação dos créditos pela autoridade competente, que dispõe de 5 anos para verificação sob pena de homologação tácita"
+ ],
+ "sector": "Indústria (metalurgia/parafusos)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.4,
+  "modality": 0.9,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "PASSIVO FISCAL CONSOLIDADO | R$ 76.979.803,41",
+  "total_discount_pct": "PERCENTUAL DE DESCONTO MÉDIO DEMAIS | 62,19%",
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Previdenciário será adimplido em 55 (cinquenta e cinco) prestações mensais e sucessivas, no valor de R$ 124.359,63 cada.",
+  "down_payment_pct": "ENTRADA | Não",
+  "guarantees": "A presente transação foi realizada sem a apresentação de garantia."
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "b7d32685e3a5",
+ "title": "Termo de Transação Individual - Indústrias Gerais de Parafusos Ingepal LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIndstriasGeraisdeParafusosIngepalLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIndstriasGeraisdeParafusosIngepalLTDA.pdf",
+ "sha256": "ffa892bc30b64019b71a612912e27305a19ec9b74658c02aad8840d0db2ae5ff",
+ "extracted_at": "2026-07-22T14:22:44+00:00",
+ "simulated": false
+}

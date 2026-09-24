@@ -1,0 +1,74 @@
+{
+ "taxpayer": "Grupo Regina (Regina Agroindustrial S/A e Regina Alimentos S/A)",
+ "approval_date": "2024-04-12",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bem imóvel - Matrícula 646, 2º Ofício de Cascavel, avaliado em R$ 28.140.000,00",
+  "Bem imóvel - Matrícula 1.363, 2º Ofício de Cascavel, avaliado em R$ 54.084.000,00",
+  "Marcas e patentes (REGINA, GRANJA REGINA, OVOS REGINA, BANQUETE, TÁ PRONTO) de propriedade da POLE ALIMENTOS LTDA",
+  "Fiança das empresas POLE ALIMENTOS LTDA e ATLÂNTICA AGROINDUSTRIAL LTDA (responsabilidade solidária, renúncia a benefício de ordem)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Pagamento regular dos tributos correntes",
+  "Manter regularidade perante o FGTS",
+  "Apresentar situação econômico-financeira anualmente via balanço contábil",
+  "Não alienar bens ou direitos do ativo não circulante sem comunicação à Fazenda Nacional",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Peticionar em até 60 dias nos processos judiciais noticiando a celebração do acordo",
+  "Manter livros e documentos comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL por até 5 anos",
+  "Permanecer no regime de tributação do Lucro Real enquanto vigente a transação"
+ ],
+ "special_clauses": [
+  "Reconhecimento de Grupo Econômico de fato entre Regina Agroindustrial S/A e Regina Alimentos S/A (Grupo Regina), com corresponsabilidade mútua pelos débitos",
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para quitação de até 70% do saldo devedor",
+  "Garantia oferecida por terceiro (POLE ALIMENTOS LTDA) mediante marcas e patentes, com anuência expressa",
+  "Alienação de bens imóveis por iniciativa particular via sistema COMPREI da PGFN, com condições específicas de leilão e venda",
+  "Modalidade especial de parcelamento do FGTS (FGCE Modalidade 19): desconto de 25%, principal em 60 parcelas, juros/multa/encargo em 24 parcelas",
+  "Aproveitamento de precatórios federais, estaduais ou municipais para liquidação dos débitos transacionados"
+ ],
+ "sector": "Agroindústria/Alimentos",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts": 0.3,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "aplicados descontos de até 65%... Desconto máximo de até 65% em cada uma das inscrições, vedada a redução do montante principal",
+  "installments": "Pagamento da dívida transacionada de natureza não previdenciária em 120 (cento e vinte) prestações mensais, sendo as 60 primeiras no percentual de 0,43% e as demais de 1,24%"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "f247a6a09783",
+ "title": "Termo de Transação Individual - Regina Agroindustrial SA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualReginaAgroindustrialSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualReginaAgroindustrialSA.pdf",
+ "sha256": "f5573b21a83522e4d16cfed396beef8ed5f2417a241973e93263a0f4c75439a9",
+ "extracted_at": "2026-07-22T14:35:18+00:00",
+ "simulated": false
+}

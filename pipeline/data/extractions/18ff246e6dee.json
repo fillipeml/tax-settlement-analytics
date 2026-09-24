@@ -1,0 +1,62 @@
+{
+ "taxpayer": "FUNDACAO DE ASSISTENCIA SOCIAL DE ANAPOLIS (FASA)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 10744693.87,
+ "modality": "Termo Aditivo de Transação Tributária Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [],
+ "special_clauses": [
+  "Considerando a impossibilidade de integral cumprimento da Cláusula 6ª, conforme os fundamentos de fato e direito expostos no Requerimento REGULARIZE/PROTOCOLO nº 00204882024, e a permissão da Cláusula 30ª, ambas do Termo de Transação Individual firmado entre as partes, FIRMAM o presente TERMO ADITIVO",
+  "CLÁUSULA 1ª. O plano de amortização da dívida previdenciária transacionada, controlada pela Conta SISPAR nº 8712128, passa a ser o seguinte",
+  "CLÁUSULA 2ª. Permanecem vigentes todos as demais disposições do Termo de Transação originário."
+ ],
+ "sector": "Assistência Social",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.3,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL 100,0000% 60 R$ 10.744.693,87",
+  "installments": "TOTAL 100,0000% 60 R$ 10.744.693,87"
+ },
+ "review_fields": [
+  "approval_date",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "obligations",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "18ff246e6dee",
+ "title": "Termo de Transação Individual - Fundação de Assistência Social de Anápolis",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualFundaodeAssistnciaSocialdeAnpolisTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualFundaodeAssistnciaSocialdeAnpolisTarjado.pdf",
+ "sha256": "5d1d10347d8578cc0041222540a3e5de640dbf7f8ba5eed05ad6c15bf6b6b9d2",
+ "extracted_at": "2026-07-22T14:22:22+00:00",
+ "simulated": false
+}

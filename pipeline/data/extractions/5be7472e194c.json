@@ -1,0 +1,60 @@
+{
+ "taxpayer": "Cláudio Pinheiro Cavalcanti Ltda.",
+ "approval_date": "2025-04-30",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Aditivo - Plano de Recuperação Fiscal)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Extrair as guias de pagamento a cada vencimento na plataforma Regularize da PGFN",
+  "Pagar valor mínimo estabelecido caso a parcela calculada seja inferior ao limite mínimo de parcela de transação",
+  "Não aproveitamento de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL na conta SIMPLES NACIONAL da transação"
+ ],
+ "special_clauses": [
+  "Cláusula 1ª: Adição de inscrições em Dívida Ativa da União (30 4 16 00 6970-14 e 30 4 19 005410-95), débitos de origem do SIMPLES NACIONAL, não capturados pelas contas previdenciárias e não previdenciárias já em vigor",
+  "Cláusula 2ª: Plano de regularização observa o plano de pagamento da conta não previdenciária, com pagamento linear em 60 meses",
+  "§3º: Não haverá aproveitamento de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL na conta SIMPLES NACIONAL, dado que os percentuais foram aproveitados nas contas PREV e NÃO PREV conforme Termo original",
+  "Cláusula 3ª: Ratificação de todas as demais cláusulas do Termo de Transação Individual original"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "modality": 0.85,
+  "judicial_recovery": 0.95,
+  "sector": 0.2,
+  "guarantees": 0.3,
+  "obligations": 0.75,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "O plano de regularização do passivo fiscal para os débitos adicionados observa rigorosamente o plano de pagamento da conta não previdenciária, a saber, pagamento linear em 60 meses."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "sector",
+  "guarantees"
+ ],
+ "id": "5be7472e194c",
+ "title": "Termo de Transação Individual - Cláudio Pinheiro Cavalcanti LTDA - Termo Aditivo",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCludioPinheiroCavalcantiLTDATermoAditivo.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCludioPinheiroCavalcantiLTDATermoAditivo.pdf",
+ "sha256": "79d22ad2329176e73022f2b3d055458a724b164c156f4b22265c49415580c571",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

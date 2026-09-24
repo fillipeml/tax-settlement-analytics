@@ -1,0 +1,52 @@
+{
+ "taxpayer": "AGRIMEX AGRO INDUSTRIAL MERCANTIL EXCELSIOR S A - EM RE",
+ "approval_date": "2024-01-29",
+ "consolidated_amount": 3908148.82,
+ "modality": "0026 - TRANSACAO INDIVIDUAL (DEPENDE DE PREVIA APROVACAO DO PDA DA REGIAO) / 0977 - DEMAIS DEBITOS - ATE 120 PRESTACOES- REDUCAO DE 70% - RJ- PRESTACOES ESCALONADAS - PFBCN",
+ "total_discount_pct": 82.77,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Agroindústria/Agronegócio",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.85,
+  "installments": 0.95,
+  "modality": 0.9,
+  "judicial_recovery": 0.9,
+  "sector": 0.4,
+  "down_payment_pct": 0.3
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Consolidado: 3.908.148,82",
+  "installments": "Quantidade de Prestações: 120",
+  "total_discount_pct": "Percentual efetivo de reduções: 82,77%"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "down_payment_pct",
+  "guarantees",
+  "obligations",
+  "special_clauses",
+  "sector",
+  "document_truncated"
+ ],
+ "id": "968ae0fb4ec0",
+ "title": "Grupo Nassau - Anexo II",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/copy2_of_GrupoNassauAnexoII.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/copy2_of_GrupoNassauAnexoII.pdf",
+ "sha256": "586e1bd189829e8daf27fab50cf4e84675ed2856b12567aa120fd3724fe4389f",
+ "extracted_at": "2026-07-22T14:39:22+00:00",
+ "simulated": false
+}

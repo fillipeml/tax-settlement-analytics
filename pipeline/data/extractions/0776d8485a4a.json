@@ -1,0 +1,82 @@
+{
+ "taxpayer": "ELLO SERVIÇOS DE MÃO DE OBRA LTDA, FORTAL TERCEIRIZAÇÃO DE MÃO DE OBRA LTDA, REAL SERVIÇOS DE LOCAÇÃO DE MÃO DE OBRA LTDA, MISSÃO SERVIÇOS TÉCNICOS LTDA, FORTAL EMPREENDIMENTOS EIRELI (Grupo Econômico FORTAL)",
+ "approval_date": "2025-05-05",
+ "consolidated_amount": 161657860.74,
+ "modality": "Transação Individual (Portaria PGFN nº 6.757/2022)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis relacionados na Cláusula 4ª (39 imóveis, total de avaliação R$ 24.450.000,00), de propriedade de FORTAL EMPREENDIMENTOS, ELLO SERVIÇOS, REAL SERVIÇOS, FORTAL TERCEIRIZAÇÃO, MARÍLIA e DIÓGENES, e JÉSSIKA MARQUES MOURA",
+  "Créditos (pagamentos vincendos) decorrentes de contratos de prestação de serviços com órgãos da administração pública estadual e municipal do Ceará (Cláusula 8ª, conforme ANEXO III)",
+  "Fiança bancária/seguro-garantia no valor de R$ 12.000.000,00 (Cláusula 9ª)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos (Cláusula 2ª)",
+  "Reconhecimento de grupo econômico de fato e corresponsabilidade solidária pelos débitos (Cláusula 2ª, §2º)",
+  "Peticionar em 15 dias em todas as execuções do ANEXO II informando oferta de garantias (Cláusula 4ª, §1º e Cláusula 8ª, §1º)",
+  "Ofertar fiança bancária/seguro-garantia no prazo de 30 dias (Cláusula 9ª)",
+  "Desistência de impugnações/recursos administrativos e ações judiciais (Cláusula 10ª)",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo (Cláusula 11ª)",
+  "Declarações diversas sobre não alienação de bens, inexistência de interposição de pessoas, não frustração de créditos, veracidade de informações cadastrais, inexistência de outros créditos e bens (Cláusula 12ª)",
+  "Apresentar situação econômico-financeira anualmente via balanço contábil (Cláusula 16ª)",
+  "Verter direitos creditórios supervenientes (precatórios, restituições) para a transação (Cláusula 17ª)",
+  "Pagar regularmente tributos correntes (Cláusula 18ª)"
+ ],
+ "special_clauses": [
+  "Reconhecimento de grupo econômico de fato entre as empresas devedoras e corresponsabilização da sócia-administradora MARÍLIA LOPES CRUZ ROLIM nos termos do art. 135 do CTN (Cláusula 2ª, §2º)",
+  "FORTAL EMPREENDIMENTOS EIRELI figura como terceira interveniente-anuente por estar impedida de transacionar diretamente, respondendo em nome próprio pelas dívidas das demais integrantes do grupo e ofertando bens próprios em garantia (Cláusula 2ª, §4º)",
+  "Procedimento de alienação de bens via sistema COMPREI em caso de rescisão, com limite mínimo de 50% do valor de avaliação (Cláusula 7ª)",
+  "Possibilidade de parcelamento da compra de bem alienado, com pagamento de 25% à vista e restante em até 30 meses (Cláusula 7ª, IV)",
+  "Oferta de créditos de contratos de prestação de serviços com órgãos públicos como garantia, limitado a 30% de cada pagamento em caso de rescisão (Cláusula 8ª, §3º)",
+  "Vedação de aditamentos futuros para inclusão de débitos, exceto os listados no Anexo IV (Cláusula 18ª)",
+  "Caráter unitário da transação: rescisão atinge a totalidade das inscrições (Cláusula 13ª, §4º)"
+ ],
+ "sector": "Terceirização de mão de obra / prestação de serviços",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.3,
+  "installments": 0.85,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.3,
+  "special_clauses": 0.85,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total com reduções (A - C - B) 157.942.898,07 1.026.295,14 1.855.358,92 833.308,59 161.657.860,74",
+  "total_discount_pct": "Desconto conforme capacidade de pagamento: 65,00%",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 120 [...] Quantidade de Prestações (excluindo as prestações da entrada): 120"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "consolidated_amount",
+  "installments"
+ ],
+ "id": "0776d8485a4a",
+ "title": "Termo de Transação Individual - Ello Serviços de Mão de Obra LTDA, Fortal Terceirização de Mão de Obra LTDA, Real Serviços de Locação de Mão de Obra LTDA, Missão Serviços Técnicos LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualElloServiosdeModeObraLTDAFortalTerceirizaodeModeObraLTDARealServiosdeLocaodeModeObraLTDAMissoServiosTcnicosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualElloServiosdeModeObraLTDAFortalTerceirizaodeModeObraLTDARealServiosdeLocaodeModeObraLTDAMissoServiosTcnicosLTDA.pdf",
+ "sha256": "5e2b04a420faf3cf08ceb27e33b0cfe490201a529aed995db136a48c4cfd633d",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

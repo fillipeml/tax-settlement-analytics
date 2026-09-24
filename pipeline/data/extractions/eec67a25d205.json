@@ -1,0 +1,86 @@
+{
+ "taxpayer": "MAGNA INDÚSTRIA DE MOLDES E MATRIZES LTDA. - EM RECUPERAÇÃO JUDICIAL e MAGNA COMPÓSITOS LTDA. (atual denominação social de MAGNA INDÚSTRIA DE PLÁSTICOS LTDA. - EM RECUPERAÇÃO JUDICIAL)",
+ "approval_date": "2023-09-27",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bem imóvel de propriedade dos DEVEDORES, avaliado em R$ 14.553.265,74 para fins de transação, conforme matrícula e laudo de avaliação juntados ao PA/SEI n. 10145.101640/2021-88"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar origem ou destinação de bens",
+  "Declarar não ter alienado ou onerado bens com propósito de frustrar recuperação dos créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de bens do ativo não circulante",
+  "Cumprir exigências e obrigações adicionais previstas nas Portarias PGFN/ME nº 6757/2022 e 2382/2021",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações judiciais relativas aos créditos incluídos",
+  "Manter regularidade fiscal perante a União",
+  "Manter Certificado de Regularidade do FGTS",
+  "Fornecer informações bancárias e empresariais sempre que solicitado",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não distribuir lucros ou dividendos a sócios/acionistas até aprovação do plano de recuperação judicial",
+  "Nomear o imóvel dado em garantia incontinenti à assinatura do termo",
+  "Manter em dia impostos, taxas e tributos sobre os bens dados em garantia",
+  "Individualizar valores recolhidos nas contas vinculadas dos trabalhadores (FGTS)",
+  "Apresentar situação econômico-financeira sempre que solicitado pela PGFN",
+  "Manter obrigações tributárias correntes e acessórias"
+ ],
+ "special_clauses": [
+  "Consideração da situação de recuperação judicial dos devedores para concessão de descontos e parcelamento escalonado",
+  "Débitos previdenciários (Anexo I) com desconto médio conforme Anexo IV, pagos em 60 parcelas mensais escalonadas",
+  "Débitos não previdenciários - demais débitos (Anexo II) com desconto médio conforme Anexo V, pagos em 120 parcelas mensais escalonadas",
+  "Débitos do FGTS (Anexo III) com plano de pagamento com descontos, exceto sobre montante devido aos trabalhadores nos termos do art. 3º da RCC do FGTS 974/2020",
+  "Garantia mediante penhora e avaliação de bem imóvel, com possibilidade de adjudicação ou alienação pela União em caso de rescisão",
+  "Cláusula de sub-rogação da União como procuradora em causa própria em caso de desapropriação do bem dado em garantia"
+ ],
+ "sector": "Indústria de moldes, matrizes e compósitos/plásticos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "approval_date": "Porto Alegre/RS, 27 de setembro de 2023.",
+  "guarantees": "A garantia da presente transação individual consiste no bem imóvel de propriedade dos DEVEDORES registrado sob [...] para fins de transação, em R$ 14.553.265,74, conforme matrícula e laudo de avaliação juntados ao PA/SEI n. 10145.101640/2021-88."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "eec67a25d205",
+ "title": "Termo de Transação Individual - Magna Indústria de Moldes e Matrizes LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualMagnaIndstriadeMoldeseMatrizesLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualMagnaIndstriadeMoldeseMatrizesLTDATarjado.pdf",
+ "sha256": "1355d139e57905b2c2b5c14fb6d8223c1be26138a4dcb29271aa97200d29f028",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

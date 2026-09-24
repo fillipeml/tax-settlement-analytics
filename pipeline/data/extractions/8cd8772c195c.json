@@ -1,0 +1,79 @@
+{
+ "taxpayer": "ADLIM TERCEIRIZAÇÃO EM SERVIÇOS ESPECIALIZADOS",
+ "approval_date": "2023-07-03",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 78,
+ "down_payment_pct": 6.0,
+ "guarantees": [
+  "Manutenção de todas as garantias já associadas aos débitos incluídos na transação, inclusive penhoras em execuções fiscais, até efetiva quitação"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação, com extinção de processos com resolução de mérito",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após o acordo",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos da RFB com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Individualizar valores recolhidos nas contas vinculadas dos trabalhadores, quando for o caso",
+  "Apresentar demonstrações contábeis/patrimoniais no ato da assinatura (bens e direitos, relatórios de prejuízo fiscal/CSLL)",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos",
+  "Peticionar nos processos judiciais informando a celebração do acordo",
+  "Apresentar situação econômico-financeira anualmente via balanço contábil",
+  "Verter créditos de precatórios ou outros valores recebidos de entes públicos para pagamento da dívida"
+ ],
+ "special_clauses": [
+  "Uso de prejuízo fiscal e base de cálculo negativa da CSLL para pagamento de 15,01% do saldo remanescente da dívida (§1º da Cláusula 6ª)",
+  "Duas contas independentes de transação: Débitos Previdenciários (60 meses) e Demais Débitos (90 meses), com inadimplência de uma implicando rescisão de ambas (§7º da Cláusula 6ª)",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL suspensa até confirmação dos créditos, mantendo garantias (§6º da Cláusula 6ª)"
+ ],
+ "sector": "Terceirização de serviços/mão de obra",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.4,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.95,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "total_discount_pct": "O desconto a ser aplicado é de até 65% (sessenta e cinco por cento) sobre cada inscrição, baseado na capacidade de pagamento da DEVEDORA",
+  "down_payment_pct": "com entrada de 6% da dívida e o saldo, após aplicação do desconto, em 78 (setenta) meses",
+  "installments": "o saldo, após aplicação do desconto, em 78 (setenta) meses"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "8cd8772c195c",
+ "title": "Termo de Transação Individual - Adlim Terceirização em serviços Especializados",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-adlim-terceirizacao-em-servicos-especializados.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-adlim-terceirizacao-em-servicos-especializados.pdf",
+ "sha256": "1207421e4edac9860e121e6c70117cbad36c2c2a7898bd156263ba69f6541ff4",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

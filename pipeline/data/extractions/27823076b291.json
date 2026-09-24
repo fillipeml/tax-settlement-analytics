@@ -1,0 +1,80 @@
+{
+ "taxpayer": "JOONGBO QUÍMICA DO BRASIL LTDA. - EM RECUPERACAO JUDICIAL (CNPJ 01.025.316/0001-09)",
+ "approval_date": "2024-08-16",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Portaria PGFN nº 6.757/2022, considerando Portaria PGFN nº 2.382/2021 - recuperação judicial)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 99,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bem imóvel (descrição tarjada/ilegível no documento)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Confissão irrevogável e irretratável da dívida",
+  "Desistência de impugnações/recursos administrativos e ações judiciais relativas aos débitos incluídos",
+  "Peticionar em todas as execuções ajuizadas informando a oferta dos bens em garantia",
+  "Peticionar nos processos judiciais em até 30 dias após assinatura, noticiando a celebração do acordo",
+  "Fornecer sempre que solicitado informações sobre bens, direitos, valores e transações",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa após o acordo",
+  "Apresentar situação econômico-financeira anualmente via balanço contábil",
+  "Verter para pagamento da dívida qualquer crédito monetizado reconhecido judicial/administrativamente",
+  "Manter regime de tributação pelo lucro real durante utilização de créditos de PF/BCN",
+  "Manter por 5 anos livros e documentos comprobatórios de prejuízo fiscal e BCN",
+  "Comunicar a Fazenda Nacional antes de alienar bens ou direitos durante o cumprimento do acordo",
+  "Não alienar bens com propósito de frustrar recuperação dos créditos"
+ ],
+ "special_clauses": [
+  "Aproveitamento de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para quitação de saldo devedor remanescente, limitado a 70% da dívida remanescente",
+  "Reconhecimento pela devedora, em recuperação judicial, de que as garantias ofertadas não configuram bens de capital essenciais ao plano de recuperação judicial",
+  "Possibilidade de alienação de bens em garantia via plataforma COMPREI em caso de rescisão, com limite mínimo de 50% do valor de avaliação",
+  "Regras específicas de rescisão para empresas em recuperação judicial (falta de pagamento de 6 parcelas consecutivas ou 9 alternadas, versus 3 consecutivas/6 alternadas para demais situações)"
+ ],
+ "sector": "Química",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.6,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.3,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto de até 65%, com 1 parcela de entrada no valor de R$ 100.000,00 (cem mil reais) e saldo em 59 parcelas. / Desconto de até 65%, com 1 parcela de entrada no valor de R$ 400.000,00 (quatrocentos mil reais) e saldo em 99 parcelas.",
+  "installments": "Desconto de até 65%, com 1 parcela de entrada no valor de R$ 400.000,00 (quatrocentos mil reais) e saldo em 99 parcelas."
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "total_discount_pct"
+ ],
+ "id": "27823076b291",
+ "title": "Termo de Transação Individual - Joongbo Quimica do Brasil LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualJoongboQuimicadoBrasilLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualJoongboQuimicadoBrasilLTDA.pdf",
+ "sha256": "c82549b34713421b4b735a0362b68746a4e01c0226ed1ab465a0dc9500c855d1",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

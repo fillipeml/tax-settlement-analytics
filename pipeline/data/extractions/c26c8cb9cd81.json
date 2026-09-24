@@ -1,0 +1,69 @@
+{
+ "taxpayer": "Massa Falida de Emilio Romani Sociedade Anônima",
+ "approval_date": "2020-04-30",
+ "consolidated_amount": 391002.49,
+ "modality": "Transação Individual - Pagamento à vista (Débitos Previdenciários e Demais Débitos)",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "não utilizar a transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "renunciar a quaisquer alegações de direito sobre ações judiciais ou recursos referentes aos créditos incluídos na transação",
+  "manter regularidade perante o FGTS",
+  "regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em dívida ativa ou que se tornarem exigíveis após a formalização do acordo",
+  "declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens, direitos e valores",
+  "declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "efetuar o pagamento à vista no valor de R$ 391.002,49 até 30/04/2020",
+  "não alienar bens ou direitos sem comunicação prévia à Fazenda Nacional enquanto não extintas as inscrições em DAU"
+ ],
+ "special_clauses": [],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.3,
+  "approval_date": 1.0,
+  "modality": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.8,
+  "guarantees": 0.7,
+  "obligations": 0.9,
+  "judicial_recovery": 0.5,
+  "special_clauses": 0.6
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Efetuar o pagamento à vista, no valor de R$ 391.002,49 (trezentos e noventa e um mil e dois reais e quarenta e nove centavos), até o dia 30/04/2020, correspondente ao valor, com desconto, da divida objeto da presente transação.",
+  "total_discount_pct": "- DESCONTO DE 50 % PARA AS INCRIÇÕES LISTADAS, CONFORME VALOR DISCRIMINADO NO ANEXO I, DEVIDAMENTE ATUALIZADO ATÉ A DATA DE 30/04/2020.",
+  "installments": "Efetuar o pagamento à vista, no valor de R$ 391.002,49 (...), até o dia 30/04/2020, correspondente ao valor, com desconto, da divida objeto da presente transação."
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery",
+  "special_clauses"
+ ],
+ "id": "c26c8cb9cd81",
+ "title": "Termo de Transação Individual - Massa Falida de Emilio Romani S.A.",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/termo-de-transacao-individual_massa-falida-emilio-romani.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/termo-de-transacao-individual_massa-falida-emilio-romani.pdf",
+ "sha256": "7f3956fca34a950616db4a61db7acf82f0e7d7b0cf357bcbf86a4b9c29fc37b3",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

@@ -1,0 +1,79 @@
+{
+ "taxpayer": "GRUPO DIFUSORA (RÁDIO E TV DIFUSORA DO MARANHÃO LTDA, RÁDIO CURIMA LTDA, RÁDIO CAXIAS, JOTA COMUNICAÇÃO S/A, DIFUSORA COMUNICAÇÃO S/A)",
+ "approval_date": "2025-05-20",
+ "consolidated_amount": 21239056.2,
+ "modality": "Transação Individual",
+ "total_discount_pct": 59.22,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel situado à Avenida Caneca da Mata, nº 120, Camboa, São Luís/MA, matrícula nº 6.041 do Cartório da 1ª Circunscrição Raimundo N. C. de Oliveira da Comarca de São Luís/MA, avaliado em R$ 12.000.000,00",
+  "Manutenção de garantias, penhoras e gravames já formalizados administrativa ou judicialmente"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável os débitos do ANEXO I",
+  "Renunciar a alegações de direito sobre ações judiciais/recursos relativos aos créditos",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando em 90 dias débitos supervenientes",
+  "Peticionar em até 60 dias nos processos judiciais para desistência/renúncia",
+  "Manter as garantias oferecidas até integral cumprimento do acordo",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou anticoncorrencial",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Manter em dia impostos e taxas sobre o imóvel dado em garantia",
+  "Registrar a penhora do imóvel em até 90 dias",
+  "Informar previamente alienação de bens do ANEXO II"
+ ],
+ "special_clauses": [
+  "Possibilidade de inclusão de débitos do ANEXO III (Receita Federal) em até 90 dias com recálculo do saldo devedor",
+  "Reconhecimento de grupo econômico de fato entre as empresas signatárias",
+  "Nomeação da Fazenda Nacional como procuradora para receber indenização em caso de desapropriação do imóvel dado em garantia",
+  "Vedação de desconto sobre o montante principal do crédito"
+ ],
+ "sector": "Radiodifusão/Comunicação",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts": 0.2,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal do DEVEDOR inscrito em dívida ativa da União, parte desta transação, é composto por todos os seus créditos fiscais relacionados no ANEXO I, que totalizam R$ 21.239.056,20, atualizado no mês de abril de 2025",
+  "total_discount_pct": "É concedido o desconto de até 59,22% sob a totalidade do passivo fiscal inscrito em dívida ativa, respeitada a vedação de desconto sobre o montante principal do crédito",
+  "installments": "CLÁUSULA 29º. A presente transação terá prazo de vigência de até 120 (cento e vinte) meses"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "23d8fb8e64ce",
+ "title": "Termo de Transação Individual - Rádio e TV Difusora do Maranhão LTDA, Rádio Curimã LTDA, Rádio Caxias, Jota Comunicação, Difusora Comunicações S/A",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualRdioeTVDifusoradoMaranhoLTDARdioCurimLTDARdioCaxiasJotaComunicaoDifusoraComunicaesSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualRdioeTVDifusoradoMaranhoLTDARdioCurimLTDARdioCaxiasJotaComunicaoDifusoraComunicaesSA.pdf",
+ "sha256": "ff8282b9ec8f7a6d4da6de43ee16d46a9cb09604fb4419320abd3d648dfae4c1",
+ "extracted_at": "2026-07-22T14:22:24+00:00",
+ "simulated": false
+}

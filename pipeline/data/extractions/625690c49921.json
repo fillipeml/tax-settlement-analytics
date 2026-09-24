@@ -1,0 +1,75 @@
+{
+ "taxpayer": "INFOPREÇOS S/A",
+ "approval_date": "2025-05-28",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 54,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança pessoal dos sócios Paulo Fernandes Garcia Neto, Marcus Vinícius Veiga Canfora Roggero e Leonardo Sierra Monteiro",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal, penhoras ou garantias prestadas administrativamente"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Autorizar acesso da Fazenda Nacional a declarações e escritas fiscais",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação prévia",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando em 90 dias débitos que se tornarem exigíveis",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a Transação, desistir e renunciar aos direitos",
+  "Manter livros e documentos fiscais/contábeis para comprovação de PF/BCN por 5 anos",
+  "Promover baixa dos montantes de PF/BCN utilizados nos livros contábeis",
+  "Manter regime de apuração do IRPJ pelo lucro real durante a vigência da Transação (para quem usou PF/BCN)"
+ ],
+ "special_clauses": [
+  "Autorização de uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) no valor máximo de R$ 5.944.465,42 para amortização da Dívida Transacionada, limitado a 31% do saldo devedor previdenciário e 31% do saldo devedor não-previdenciário, com limite máximo de 70% considerando isoladamente cada rubrica",
+  "Cobrança do valor liquidado com PF/BCN suspensa até confirmação dos créditos pela autoridade competente (prazo de 5 anos, sob pena de homologação tácita)",
+  "Depósitos judiciais vinculados à Dívida Transacionada deverão ser transformados em pagamento definitivo, sem descontos"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.98,
+  "approval_date": 0.95,
+  "modality": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "sector": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Concede-se o desconto máximo de 65% (sessenta e cinco por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal.",
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Previdenciária será adimplido em 54 (cinquenta e quatro) prestações lineares mensais sucessivas"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "625690c49921",
+ "title": "Termo de Transação Individual - Infopreços SA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualInfopreosSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualInfopreosSA.pdf",
+ "sha256": "b613ae7da9ab4bf1e218300855b6c9d5c69d2f67448e810fe72f7d0e8eff1b07",
+ "extracted_at": "2026-07-22T14:22:44+00:00",
+ "simulated": false
+}

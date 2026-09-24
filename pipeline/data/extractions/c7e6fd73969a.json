@@ -1,0 +1,83 @@
+{
+ "taxpayer": "ANALISES CLINICAS DR. MAURILIO DE ALMEIDA S/S - ME e SISCONTROL - CONTROLE DE QUALIDADE LTDA",
+ "approval_date": "2024-03-07",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Plano de Regularização Fiscal - Portaria PGFN 6.757/2022)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 104,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Apartamento nº [tarjado] no Edf. [tarjado], de propriedade do Sr. Fábio Antônio Rocha de Souza",
+  "Apartamento nº [tarjado] no Edf. [tarjado], de propriedade do Sr. Fábio Antônio Rocha de Souza",
+  "Imóvel situado na Parque Solon de Lucena, nº 81, Centro, João Pessoa-PB, de propriedade da Análises Clínicas Dr. Maurilio de Almeida S/S – ME",
+  "Veículo JEEP COMPASS LIMITED, placa RLR8G84, de propriedade da Análises Clínicas Dr. Maurilio de Almeida S/S – ME",
+  "Veículo Renault Kwid ZEN 10MT, placa RLR7C90, de propriedade da Análises Clínicas Dr. Maurilio de Almeida S/S – ME",
+  "Veículo Renault Kwid ZEN 10MT, placa QSL4H15, de propriedade da Análises Clínicas Dr. Maurilio de Almeida S/S – ME",
+  "Veículo VW Voyage TL MBV, placa PZF3978, de propriedade da Análises Clínicas Dr. Maurilio de Almeida S/S – ME"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Renunciar a alegações de direito sobre débitos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não alienar bens sem comunicação à Fazenda Nacional",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de ativos",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Autorizar compensação de precatórios federais com prestações do acordo",
+  "Manter a titularidade do crédito de PF/BCN sob regime do lucro real durante a vigência",
+  "Fornecer relação de bens e direitos no país ou exterior",
+  "Fornecer relatórios analíticos de composição, origem e período do prejuízo fiscal/CSLL com certificação contábil",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil",
+  "Pagar regularmente os tributos correntes",
+  "Verter para pagamento da dívida qualquer crédito recebido por precatório ou outro meio"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) no montante de R$ 4.748.794,93, limitado a 20% do total da dívida consolidada, direcionado prioritariamente aos débitos previdenciários (até 70% desta conta isoladamente)",
+  "Corresponsabilização mútua entre os devedores em virtude de grupo econômico de fato",
+  "Saldo bloqueado nos autos das execuções fiscais nºs 0003888-77.2016.4.05.8200 e 0801248-24.2023.4.05.8200 (R$ 466.640,30) para amortização sem desconto",
+  "Dívida não-previdenciária da SISCONTROL negociada por adesão na modalidade de pequeno valor, sem benefício de redução do montante principal",
+  "Previsão de alienação de bens em garantia via sistema COMPREI em caso de rescisão, com condições específicas de leilão/venda"
+ ],
+ "sector": "Saúde/análises clínicas",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "mediante adesão à modalidade de Transação Individual, para pagamento no prazo de 104 (cento e quatro) meses, a dívida não-previdenciária, e no prazo de 60 (sessenta) meses, a dívida previdenciária",
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 65% (sessenta e cinco por cento), conforme CAPAG do Grupo"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "c7e6fd73969a",
+ "title": "Termo de Transação Individual - Grupo Análises Clínicas Dr. Maurílio de Almeida SS",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualGrupoAnlisesClnicasDr.MaurliodeAlmeidaSStarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualGrupoAnlisesClnicasDr.MaurliodeAlmeidaSStarjado.pdf",
+ "sha256": "dc590a4a7c98da21f9def963eafd3ca4e9e06a3f9450bb7f36254c3b93a3584e",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

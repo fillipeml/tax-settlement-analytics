@@ -1,0 +1,65 @@
+{
+ "taxpayer": "TECMASTER ENGENHARIA E CONSTRUCOES LTDA EM RECUPERACAO JUDICIAL",
+ "approval_date": "2022-09-26",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Portaria PGFN nº 6.757/2022)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo",
+  "Apresentar situação econômico-financeira anualmente (balanço contábil ou DRE)",
+  "Manter recolhimento das obrigações tributárias correntes e obrigações acessórias",
+  "Verter direitos creditórios (incluindo precatórios) para pagamento da transação"
+ ],
+ "special_clauses": [
+  "Desconto máximo de até 70% em razão do estado de recuperação judicial, sem redução do montante principal do crédito inscrito em dívida ativa",
+  "Prazo de 120 meses para dívida não previdenciária e 60 meses para dívida previdenciária",
+  "Direitos creditórios, incluindo precatórios, vertidos para pagamento da transação"
+ ],
+ "sector": "Construção civil/Engenharia",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "judicial_recovery": 0.95
+ },
+ "source_excerpts": {
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 70% (setenta por cento), conforme plano de pagamento contido nos ANEXO I e II, tendo em vista seu estado de recuperação judicial não implicando, a negociação, a redução do montante principal do crédito inscrito em dívida ativa da União",
+  "installments": "para pagamento no prazo de 120 (cento e vinte) meses, a dívida não-previdenciária, e no prazo de 60 (sessenta meses), a dívida previdenciária"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees"
+ ],
+ "id": "aef4abe54713",
+ "title": "Termo de Transação Individual - Tecmaster Engenharia e Construções LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualTecmasterEngenhariaeConstruesLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualTecmasterEngenhariaeConstruesLTDA.pdf",
+ "sha256": "0b1015d334370f66eea3abaf5dd1d52edb8e5c7dba9968369b454f5c6d07a4ab",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

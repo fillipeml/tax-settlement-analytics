@@ -1,0 +1,78 @@
+{
+ "taxpayer": "GRUPO ASSIS FORTES (SERVI-SAN LTDA e outras)",
+ "approval_date": "2020-07-31",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhora de imóveis relacionados no Anexo III",
+  "Alienação fiduciária sobre bens móveis ou imóveis",
+  "Cessão fiduciária de direitos sobre coisas móveis, títulos de crédito, direitos creditórios ou recebíveis futuros"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Regularizar débitos com o FGTS no prazo de 90 dias, mantendo regularidade durante a transação",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Renunciar a alegações de direito sobre ações judiciais relativas aos créditos incluídos",
+  "Regularizar débitos futuros inscritos em dívida ativa no prazo de 90 dias",
+  "Efetuar pagamentos de entrada, parcelas diferenciadas e demais parcelas conforme Cláusula 8ª",
+  "Manter garantias associadas aos créditos transacionados",
+  "Apresentar garantias reais ou fidejussórias",
+  "Informar previamente alienação/disposição de bens e direitos, recebimento de precatório ou levantamento de depósito judicial",
+  "Apresentar relação de bens particulares com valor estimado e ônus existentes",
+  "Não alienar bens ou direitos sem comunicação prévia à Fazenda Nacional",
+  "Protocolar em até 10 dias petição de reconhecimento de corresponsabilidade e indicação de imóveis em garantia"
+ ],
+ "special_clauses": [
+  "Sócio Francisco de Assis Veras Fortes assume corresponsabilidade pessoal pelas dívidas do Grupo, na forma do art. 124, I do CTN (Cláusula 2ª, X)",
+  "Percentuais de desconto e prazo concedidos levaram em consideração o fato dos DEVEDORES estarem em Recuperação Judicial (Cláusula 7ª, §1º)",
+  "Penhora dos bens do Anexo III não se submete à ordem de preferência do art. 655 do CPC e art. 11 da Lei 6.830/80 (Cláusula 11, §1º)",
+  "Participação do Administrador Judicial da Recuperação Judicial como INTERVENIENTE/ANUENTE para demonstrar compatibilidade com o Plano de Recuperação Judicial (Cláusula 23)"
+ ],
+ "sector": "Segurança/Vigilância e Embalagens Plásticas",
+ "confidence": {
+  "taxpayer": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "modality": 0.9,
+  "judicial_recovery": 0.95,
+  "sector": 0.7,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "Ao valor consolidado da dívida inscrita será aplicado o desconto conforme definido no ANEXO IV, e o saldo remanescente parcelado será em 60 (sessenta) meses para a dívida previdenciária e em 84 (oitenta e quatro) meses para a dívida não previdenciária."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "sector"
+ ],
+ "id": "a1b46ab3f9c4",
+ "title": "Termo de Transação Individual - Servi-San",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransacaoIndividualServiSan.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransacaoIndividualServiSan.pdf",
+ "sha256": "2b14a7a8b2237f68be05ff9c05f8388d6f70cedc32eb6249f34771606a94fcd2",
+ "extracted_at": "2026-07-21T19:09:16+00:00",
+ "simulated": false
+}

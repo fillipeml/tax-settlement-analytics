@@ -1,0 +1,76 @@
+{
+ "taxpayer": "GSN GLOBAL SECURITY NETWORK COMERCIO DE EQUIPAMENTOS, ELETRONICOS LTDA",
+ "approval_date": "2025-02-24",
+ "consolidated_amount": 28408342.35,
+ "modality": "Transação individual",
+ "total_discount_pct": 54.13,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "4 (quatro) bens imóveis: 3 localizados no Maranhão (matrículas 76746, 76744 e 76742, 2º Registro de Imóveis de São Luiz/MA), previamente avaliados em R$ 17.500.000,00, e 1 imóvel no Paraná (matrícula 69054, 6º Registro de Imóveis de Curitiba/PR), avaliado em R$ 1.800.000,00, totalizando R$ 19.300.000,00, a serem indicados à penhora na execução fiscal nº 5010512-51.2023.4.04.7000",
+  "Escritura pública de hipoteca em favor da União, caso indeferida judicialmente a penhora dos imóveis"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações à PGFN quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens ou valores",
+  "Declarar que não aliena ou onera bens com o propósito de frustrar a recuperação dos créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de ativo não circulante",
+  "Autorizar compensação de restituições, ressarcimentos ou reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN nº 6757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais quando envolver capacidade de pagamento",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis",
+  "Não desistir do acordo sob pena de rescisão",
+  "Pagar custas processuais pendentes e despesas de cancelamento de leilões e emolumentos de escritura de hipoteca",
+  "Peticionar nos processos judiciais em até 30 dias após a assinatura, noticiando a celebração da transação e desistindo de embargos e exceções de pré-executividade"
+ ],
+ "special_clauses": [
+  "Nomeação da União como procuradora do proprietário com cláusula em causa própria para receber indenização em caso de desapropriação de bem dado em garantia",
+  "Possibilidade de substituição/reforço de garantia em caso de redução significativa (mais de 25%) do valor do bem",
+  "Manutenção automática dos gravames decorrentes de arrolamento, medida cautelar fiscal e garantias prestadas, com possibilidade de revisão em caso de excesso de garantias"
+ ],
+ "sector": "Segurança/Comércio de equipamentos eletrônicos",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.3,
+  "discounts": 0.2,
+  "guarantees": 0.95,
+  "judicial_recovery": 0.3,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "A DEVEDORA possui em aberto os débitos elegíveis relacionados no Anexo I que totalizam, em fevereiro/2025, o montante de R$ 28.408.342,35 (vinte e oito milhões, quatrocentos e oito mil, trezentos e quarenta e dois reais e trinta e cinco centavos)",
+  "total_discount_pct": "será aplicado desconto médio de 54,13%, observados os limites do §2º do art. 11 da Lei n. 13.988/2020; o saldo restante de R$ 13.030.074,86 (...) será objeto de plano de pagamento",
+  "installments": "será objeto de plano de pagamento em 120 (cento e vinte) parcelas escalonadas, mensais e sucessivas, sendo de R$ 45.605,26 (...) a primeira parcela"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "dcf1ee2fc85a",
+ "title": "Termo de Transação Individual - GSN Global Security Network Comércio de Equipamentos, Eletrônicos LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualGSNGlobal.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualGSNGlobal.pdf",
+ "sha256": "3a431c457083eeebd79493af3554cf2188f0b72a8ef7656484e7709ca21df04e",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

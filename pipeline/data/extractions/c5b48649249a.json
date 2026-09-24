@@ -1,0 +1,81 @@
+{
+ "taxpayer": "INDUSTRIAL ARBHORES COMPENSADOS - EIRELI - EPP",
+ "approval_date": "2025-05-08",
+ "consolidated_amount": 46802913.15,
+ "modality": "Transação Individual",
+ "total_discount_pct": 49.11,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Caminhão Mercedes Benz, modelo AXOR 2644S6X4, placas QHW0I64",
+  "Automóvel FIAT STRADA HD WK CW, placas BBM3H88",
+  "Automóvel FIAT STRADA Working, placas BBJ0358",
+  "Automóvel RENAULT KWID, placas RHB7A92",
+  "Automóvel VW GOL 1.0, placas ISB9D13",
+  "Engate SR/RANDON SP SRTM FL, placas EFV6G86",
+  "Engate FACCHINI, AOT2C65",
+  "Imóvel matrícula nº 427 do Registro de Imóveis da Comarca de Palmas-PR",
+  "Imóvel matrícula nº 12.818 do Registro de Imóveis da Comarca de Ponte Serrada-SC"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter a regularidade perante o Fundo de Garantia por Tempo de Serviço",
+  "Manter a regularidade perante a PGFN e a Secretaria da Receita Federal do Brasil, regularizando, no prazo de 90 dias, os débitos que se tornarem exigíveis após a formalização da Transação",
+  "Em até 60 dias da assinatura do Acordo, peticionar em todos os processos judiciais que tenham por objeto a Dívida Transacionada, a fim de noticiar a celebração da Transação, desistir da ação, impugnação ou recurso e renunciar aos direitos",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos, sem comunicação à Fazenda Nacional",
+  "Autorizar o acesso da Fazenda Nacional a suas declarações e escritas fiscais",
+  "Manter os livros e documentos fiscais e contábeis necessários à comprovação dos montantes de PF/BCN utilizados, por 5 anos ou até a liquidação integral da Transação",
+  "Promover a baixa dos montantes de PF/BCN utilizados nos livros e escriturações contábeis próprias",
+  "Manter o regime de apuração do Imposto de Renda da Pessoa Jurídica pelo lucro real, durante todo o período de vigência da Transação"
+ ],
+ "special_clauses": [
+  "Autorização de utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) no valor máximo de R$ 9.486.504,00 para amortização da Dívida Transacionada - Demais Débitos",
+  "Créditos de PF/BCN não podem amortizar percentual superior a 70% do saldo devedor apurado após descontos",
+  "Possibilidade de alienação dos ativos dados em garantia mediante anuência prévia da Fazenda Nacional",
+  "Uso da Plataforma Comprei para eventual alienação de bens dados em garantia"
+ ],
+ "sector": "Indústria de madeira/compensados",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.3,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "judicial_recovery": 0.2,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida a transacionar (total sem reduções)... R$ 46.802.913,15",
+  "total_discount_pct": "Desconto efetivo aplicado (% do Total) 49,110%",
+  "installments": "O saldo devedor remanescente da Dívida Transacionada – Demais Débitos será adimplido em 36 (trinta e seis) prestações mensais sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "c5b48649249a",
+ "title": "Termo de Transação Individual - Industrial Arbhores Compensados - Eireli - EPP",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualIndustrialArbhoresCompensadosEireliEPP.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualIndustrialArbhoresCompensadosEireliEPP.pdf",
+ "sha256": "b10e9a074c06f99478505912013f49daeb1d96857353c089484e3a9eaceccafa",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

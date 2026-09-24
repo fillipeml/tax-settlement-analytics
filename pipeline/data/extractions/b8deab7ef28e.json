@@ -1,0 +1,83 @@
+{
+ "taxpayer": "ICOMON TECNOLOGIA LTDA. e ICOMON COMERCIAL E CONSTRUTORA LTDA",
+ "approval_date": "2025-05-30",
+ "consolidated_amount": 585576706.1,
+ "modality": "Transação Individual",
+ "total_discount_pct": 55.57,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança dos sócios (Vivien Mello Suruagy, Walter Annicchino, Roberto Guidoni Sobrinho)",
+  "Contrato nº ACM 2023.057691 com a Vivo S.A. no valor de R$ 1.128.861.768,90, vencimento 30.05.2026"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Não utilizar a Transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienaram ou oneraram bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade com o parcelamento nº 2025002160 dos débitos de FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Manter regularidade perante PGFN e RFB, regularizando débitos supervenientes em até 90 dias",
+  "Não alienar bens que possam inviabilizar o cumprimento da transação sem comunicação prévia",
+  "Reconhecer responsabilidade solidária pela totalidade dos débitos transacionados",
+  "Manter-se optante pelo regime de lucro real durante toda a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais para desistência e renúncia"
+ ],
+ "special_clauses": [
+  "Autorização de uso de créditos de Prejuízo Fiscal e Base de Cálculo Negativa de CSLL (PF/BCN) no percentual máximo de 67,58% para amortização da Dívida Transacionada",
+  "Limitação de amortização por PF/BCN a R$ 356.564.153,62 e/ou 70% do saldo devedor consolidado",
+  "Vedação expressa à redução do montante principal",
+  "Reversão obrigatória de créditos de precatórios/depósitos judiciais para a conta de transação, ainda que reduza uso de PF/BCN",
+  "Exigência de aditivo contratual ou reforço de garantia quando expirado o contrato com a Vivo S.A. em 30.05.2026, sob pena de rescisão",
+  "Débitos do Anexo IV serão consolidados na mesma conta das inscrições do Anexo I, gerando saldo devedor a ser quitado em 30 dias"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada — Total de R$ 585.576.706,1 (Quinhentos e oitenta e cinco milhões, quinhentos e setenta e seis mil, setecentos e seis reais e dez centavos)",
+  "total_discount_pct": "o que implica numa média concedida aproximada de 55,57% (cinquenta e sete vírgula noventa e nove por cento) no presente acordo",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada — Demais Débitos\") em 84 (oitenta e quatro) prestações mensais escalonadas e a de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 24 (vinte e quatro) prestações mensais iguais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "b8deab7ef28e",
+ "title": "Termo de Transação Individual - Icomon Tecnologia LTDA, Icomon Comercial e Construtora LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIcomonTecnologiaLTDAIcomonComercialeConstrutoraLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIcomonTecnologiaLTDAIcomonComercialeConstrutoraLTDA.pdf",
+ "sha256": "dc8309e6513f5d7a65d9b9981f98c0594d788acfcd0c08f274eb4e10f67055e1",
+ "extracted_at": "2026-07-22T14:22:44+00:00",
+ "simulated": false
+}

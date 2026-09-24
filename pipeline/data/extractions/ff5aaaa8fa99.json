@@ -1,0 +1,81 @@
+{
+ "taxpayer": "Brandl do Brasil",
+ "approval_date": "2022-12-15",
+ "consolidated_amount": 32748813.99,
+ "modality": "Transação Individual",
+ "total_discount_pct": 44.06,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de matrícula 9730 do Cartório de Registro de Imóveis de Campina Grande do Sul/PR, avaliado em R$ 20.050.000,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de ativo não circulante",
+  "Autorizar compensação de restituições, ressarcimentos ou reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria PGFN nº 6757/22 e na proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais quando envolver capacidade de pagamento",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após a formalização",
+  "Manter, por 5 anos, livros e documentos comprobatórios de PF e BCN",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil ou demonstrações de resultado",
+  "Manter recolhimento das obrigações tributárias correntes",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições abrangidas"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de Prejuízo Fiscal (PF) e Base de Cálculo Negativa de CSLL (BCN) no valor nominal de R$ 7.327.087,11, sob condição resolutória de homologação em até 5 anos",
+  "Garantia consistente em penhora de imóvel avaliado em R$ 20.050.000,00, com sub-rogação da União como procuradora para receber indenização em caso de desapropriação"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.2,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.5,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "cujo montante totaliza R$ 32.748.813,99 (trinta e dois milhões, setecentos e quarenta e oito mil, oitocentos e treze reais e noventa e nove centavos) em dezembro/2022",
+  "total_discount_pct": "sendo concedido o desconto médio de 43,83%... aplicou-se o desconto médio de 44,29%",
+  "installments": "o saldo restante será objeto de pagamento em 120 (cento e vinte) parcelas mensais e escalonadas, conforme os valores estipulados no anexo III"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "ff5aaaa8fa99",
+ "title": "Termo de Transação Individual - BRANDL do Brasil  LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualBRANDLdoBrasilLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualBRANDLdoBrasilLTDATarjado.pdf",
+ "sha256": "0fea75269b9f5d8d2ef969bcbff2cd3ff3774d47abd9bfc7a268e5329e794451",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

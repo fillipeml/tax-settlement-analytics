@@ -1,0 +1,77 @@
+{
+ "taxpayer": "INDÚSTRIA ORIENTAL LTDA",
+ "approval_date": "2023-11-06",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": 4.0,
+ "guarantees": [
+  "Imóvel matrícula 62.115 - 2ª Circunscrição Imobiliária de Aracaju/Sergipe",
+  "Imóvel matrícula (tarjada) - Circunscrição Imobiliária de Aracaju/Sergipe"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após a formalização do acordo",
+  "Não alienar ou onerar bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil apurado",
+  "Manter livros e documentos exigidos pelas normas fiscais por 5 anos, comprobatórios dos montantes de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Permanecer no regime de tributação do Lucro Real enquanto vigente a transação",
+  "Peticionar nos processos judiciais em até 60 dias após a assinatura, noticiando a celebração do acordo",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos incluídos",
+  "Individualizar valores recolhidos nas contas vinculadas dos respectivos trabalhadores, quando for o caso"
+ ],
+ "special_clauses": [
+  "Autorização de uso de créditos de prejuízo fiscal acumulado e base de cálculo negativa da CSLL para quitação de até 70% do saldo devedor após desconto",
+  "Flexibilização/substituição de garantias mediante comprovação de avaliação idônea e concordância da Fazenda Nacional",
+  "Alienação dos bens em garantia via plataforma COMPREI em caso de rescisão ou decurso do prazo",
+  "Débito de FGTS não exigível na data da assinatura em razão de parcelamento prévio, com prazo de 90 dias para regularização em caso de restabelecimento da exigibilidade"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.1,
+  "modality": 0.98,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.9,
+  "installments": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "down_payment_pct": "Pagamento da dívida transacionada de natureza previdenciária com entrada de 4% do valor consolidado sem desconto em até 12 parcelas e remanescente pago em 30 parcelas iguais."
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "bea769543de9",
+ "title": "Termo de Transação Individual - Indústria Oriental",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualIndstriaOrientalLTDAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualIndstriaOrientalLTDAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "3e04c3ec426452183b1d70fde55fd7ed42fa197700ef61492a16d0f629625ee3",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

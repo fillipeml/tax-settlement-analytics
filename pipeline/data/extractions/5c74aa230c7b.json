@@ -1,0 +1,79 @@
+{
+ "taxpayer": "GETRONICS LTDA. e outras (grupo econômico Resource/Qintess/Cimcorp/Damovo/Sopho)",
+ "approval_date": "2024-06-10",
+ "consolidated_amount": 794019993.68,
+ "modality": "Transação Individual",
+ "total_discount_pct": 48.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens e eventuais penhoras judiciais",
+  "Contrato de Prestação de Serviço mantido pela proponente RESOURCE TECNOLOGIA E INFORMÁTICA LTDA e o Banco do Brasil"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens ou valores",
+  "Declarar não alienação/oneração de bens com propósito de frustrar a recuperação dos débitos",
+  "Autorizar compensação de restituições, ressarcimentos ou reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Aderir ao Domicílio Tributário Eletrônico (DTE)",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escriturações fiscais",
+  "Manter regularidade fiscal perante a RFB",
+  "Manter regularidade perante o FGTS",
+  "Regularizar débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter por 5 anos os livros e documentos fiscais comprobatórios de prejuízo fiscal e base negativa de CSLL",
+  "Manter-se optante pela tributação pelo lucro real durante a vigência do acordo",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor de R$187.354.449,00 para amortização do saldo devedor",
+  "Desconto máximo de até 65% aplicado individualmente sobre acréscimos legais, vedada redução do principal",
+  "Reconhecimento de que as Proponentes integram o mesmo grupo econômico e concordância com corresponsabilidade nos sistemas da Dívida Ativa"
+ ],
+ "sector": "Tecnologia da informação/telecomunicações",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.8,
+  "total_discount_pct": 0.9,
+  "installments": 0.7,
+  "down_payment_pct": 0.0,
+  "discounts": 0.2,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "A Dívida Transacionada - PGFN regulariza inscrições em Dívida Ativa da União de natureza previdenciária e não-previdenciária, que somam R$607.853.789,68 (atualizados até o mês de fevereiro/2024). [...] A Dívida Transacionada - RFB regulariza débitos em contencioso administrativo de natureza previdenciária e não previdenciária, no montante de R$186.166.2024,77 (atualizados até o mês de abril/2024)",
+  "total_discount_pct": "O desconto médio aplicado à Transação é de aproximadamente 48% (quarenta e oito por cento), em respeito à vedação de redução do montante principal, sendo aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais;"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "5c74aa230c7b",
+ "title": "Termo de Transação Individual - Getronics LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualGetronicsLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualGetronicsLTDATarjado.pdf",
+ "sha256": "18cff575c90fe1d5d95e5224d433c2dcf50c2be00c444eeab4dc585d22318bee",
+ "extracted_at": "2026-07-22T14:22:42+00:00",
+ "simulated": false
+}

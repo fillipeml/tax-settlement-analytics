@@ -1,0 +1,75 @@
+{
+ "taxpayer": "Americanas S/A - em Recuperação Judicial",
+ "approval_date": "2025-06-10",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": 70.0,
+  "interest_pct": 70.0,
+  "charges_pct": 70.0
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Carta de Fiança nº 45.00.02495, no valor de R$ 138.211.212,82, com prazo de validade indeterminado, emitida pela instituição financeira Banco BMG S/A"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações",
+  "Autorizar o acesso da Fazenda Nacional a suas declarações e escritas fiscais",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento",
+  "Manter a regularidade perante o FGTS",
+  "Manter a regularidade perante a PGFN e RFB, regularizando em 90 dias débitos que se tornarem exigíveis",
+  "Peticionar em até 60 dias em todos os processos judiciais relativos à Dívida Transacionada para noticiar a celebração da Transação, desistir e renunciar",
+  "Não distribuir lucros ou dividendos a sócios e acionistas até a aprovação do plano de recuperação judicial",
+  "Peticionar em até 60 dias no processo de recuperação judicial para noticiar a celebração da Transação",
+  "Manter livros e documentos fiscais e contábeis necessários à comprovação dos montantes de PF/BCN utilizados por 5 anos",
+  "Promover a baixa dos montantes de PF/BCN utilizados nos livros e escriturações contábeis próprias",
+  "Manter o regime de apuração do IRPJ pelo lucro real durante a vigência da Transação"
+ ],
+ "special_clauses": [
+  "Uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) para amortização de até 36% do saldo devedor da Dívida Transacionada - Previdenciária e 53% do saldo devedor da Dívida Transacionada - Demais Débitos, limitado a R$138.211.212,82",
+  "Cobrança do valor liquidado com uso de créditos de PF/BCN ficará suspensa até confirmação dos créditos pela autoridade competente (até 5 anos)",
+  "Depósitos judiciais vinculados à Dívida Transacionada serão transformados em pagamento definitivo sem descontos",
+  "Créditos de precatórios federais deverão ser obrigatoriamente destinados às contas de transação",
+  "Autorização de compensação de precatórios, restituições, ressarcimentos ou reembolsos reconhecidos pela RFB"
+ ],
+ "sector": "Varejo",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "discounts.fine_pct": 0.8,
+  "discounts.interest_pct": 0.8,
+  "discounts.charges_pct": 0.8,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "guarantees": 0.9,
+  "modality": 0.85,
+  "judicial_recovery": 0.95,
+  "sector": 0.5,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "7.4.1. O saldo devedor remanescente da Dívida Transacionada será pago em parcela única.",
+  "total_discount_pct": "7.2.1. Concede-se o desconto máximo de 70% (setenta por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal.",
+  "consolidated_amount": "Not identified"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "sector"
+ ],
+ "id": "5cf8031420a0",
+ "title": "Termo de Transação Individual - Americanas S/A",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualAmericanasS.A",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualAmericanasS.A",
+ "sha256": "fa7a2115e68032ef8c97e1e15bc103e96e81bad871a0a7f3fce1a20ee6fda4e1",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

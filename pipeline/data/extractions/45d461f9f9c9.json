@@ -1,0 +1,83 @@
+{
+ "taxpayer": "MUNDIAL S/A PRODUTOS DE CONSUMO (grupo econômico Mundial/Hercules/Zivi/Avamiller/DIMI/Zhepar/Eberle/Monte Magre/Elece)",
+ "approval_date": "2023-02-23",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 64.17,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Marca \"Hercules\" (INPI processo 840701993, concessão até 23/08/2026), avaliada em R$ 276.816.379",
+  "Demais marcas registradas nos processos n.º 840701861, 811826384, 816890994, 825428300, 827754191, 827754205, 828021090, 840701683, 840701799",
+  "Penhoras já formalizadas indicadas no Anexo V"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar a recuperação dos créditos",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens/direitos que possam reduzir capacidade de pagamento sem comunicação à Fazenda",
+  "Formalizar penhora da garantia em 60 dias nas Execuções Fiscais listadas",
+  "Averbar a garantia junto ao INPI em 60 dias",
+  "Peticionar em processos judiciais para desistência de impugnações/recursos e confissão da dívida"
+ ],
+ "special_clauses": [
+  "Oferecimento da marca 'Hercules' e outras marcas como garantia em substituição a outras garantias exigidas (art. 16, §2º da Portaria PGFN 6.757/2022)",
+  "Possibilidade de utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL em 56,53% da Dívida Transacionada",
+  "Levantamento de depósitos judiciais decorrentes de penhora de faturamento e SISBAJUD imputados sem desconto",
+  "Possibilidade de alienação de imóveis não operacionais dados em garantia mediante anuência da Fazenda Nacional",
+  "Uso do Sistema COMPREI da PGFN para eventual alienação de bens imóveis penhorados",
+  "Reconhecimento de grupo econômico de fato (CTN art. 124 e art. 50, I) entre as Proponentes e Intervenientes Anuentes Classe 1",
+  "Desistência e renúncia expressa dos Embargos à Execução nº 5047943-52.2019.4.04.7100"
+ ],
+ "sector": "Fabricação de talheres, cutelaria e produtos de consumo",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de até 64,17% (sessenta e quatro por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais, iguais e sucessivas;"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "45d461f9f9c9",
+ "title": "Termo de Transação Individual - Mundial S/A Produtos de Consumo",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMundialSAProdutosdeConsumoInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMundialSAProdutosdeConsumoInformaesSigilosasSuprimidas.pdf",
+ "sha256": "de19b9bb68097dd4f1686f90d622eb9143ef89fc6010de64e5291e111f75e993",
+ "extracted_at": "2026-07-22T14:22:48+00:00",
+ "simulated": false
+}

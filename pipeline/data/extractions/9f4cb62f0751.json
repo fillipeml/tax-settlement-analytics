@@ -1,0 +1,68 @@
+{
+ "taxpayer": "SOLUÇÃO SERVIÇOS COMÉRCIO E CONSTRUÇÃO LTDA (EIRELI)",
+ "approval_date": "2023-03-21",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, de medida cautelar fiscal e das garantias prestadas administrativamente ou nas ações de execução fiscal ou em qualquer outra ação judicial"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Peticionar nos processos judiciais em até 60 dias após a assinatura, noticiando a celebração do acordo",
+  "Fornecer sempre que solicitado informações sobre bens, direitos, valores, transações e operações",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados/balanço contábil",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias dependentes da obrigação principal",
+  "Verter para pagamento da dívida qualquer crédito de que venha a dispor, reconhecido judicial ou administrativamente, a ser recebido por precatório ou qualquer outro meio",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias os débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após a formalização do acordo",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas dos respectivos trabalhadores, quando for o caso",
+  "Não alienar bens ou direitos sem proceder à devida comunicação à Fazenda Nacional durante o cumprimento do acordo"
+ ],
+ "special_clauses": [],
+ "sector": "Construção civil / Comércio",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "discounts": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.8,
+  "guarantees": 0.7,
+  "obligations": 0.9,
+  "special_clauses": 0.5,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "installments": "Pagamento da dívida transacionada de natureza não previdenciária em 120 (cento e vinte) prestações mensais, conforme indicado no ANEXO II"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery",
+  "sector",
+  "installments"
+ ],
+ "id": "9f4cb62f0751",
+ "title": "Termo de Transação Individual - Solução Serviços, Comércio e Construção",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualSoluoServiosComrcioeConstruoLTDAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualSoluoServiosComrcioeConstruoLTDAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "8f23926d2835590d18ce0640b1dd3ad7b93552627b9323867ac8ccaf41994f2c",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

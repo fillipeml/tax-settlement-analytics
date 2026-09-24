@@ -1,0 +1,74 @@
+{
+ "taxpayer": "LIGHTHOUSE-SMS CONSULTORIA E TREINAMENTOS LTDA",
+ "approval_date": "2024-10-16",
+ "consolidated_amount": 35141981.46,
+ "modality": "Transação individual",
+ "total_discount_pct": 62.77,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis registrados no Cartório da Serventia Extrajudicial da Comarca de Carutapera/MA, de propriedade de INVESTNEWS PARTICIPAÇÕES INVESTIMENTOS CONSULTORIA, IMPORTAÇÃO E EXPORTAÇÃO, LOGÍSTICA E TRANSPORTES EIRELI",
+  "Contratos de prestação de serviço firmados entre a devedora e PETROBRAS (Petrobras UN-BS 5900.0118837.21.2, Petrobras UN-BZ 5900.0125667.23.2, Petrobras CAPMAN 5900.0126564.24.2)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações administrativas ou judiciais relativas à Dívida Transacionada",
+  "Reconhecimento e confissão irrevogável e irretratável da dívida",
+  "Peticionar nos processos judiciais em 30 dias para noticiar a celebração da Transação",
+  "Apresentar laudos de avaliação dos imóveis em 90 dias",
+  "Efetuar pagamento regular de tributos federais, estaduais e municipais sobre os imóveis dados em garantia",
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional",
+  "Manter regularidade perante PGFN e Receita Federal",
+  "Manter regularidade perante o FGTS e individualizar valores recolhidos dos trabalhadores",
+  "Dar ciência à CREDORA de alterações societárias em 30 dias",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado"
+ ],
+ "special_clauses": [
+  "Compromisso de oferecer em garantia eventuais contratos novos formalizados no curso do acordo, no prazo de 30 dias da assinatura",
+  "Possibilidade de substituição da garantia imobiliária por outra de igual ou superior montante e liquidez em caso de cassação da decisão que respalda a garantia",
+  "Compromisso da CREDORA de adequar valores e recalcular saldo/parcelas de inscrições específicas (70 4 22 041710-28 e outras) conforme decisão em processo da Receita Federal",
+  "Autorização de compensação de precatórios federais de titularidade da devedora com prestações do acordo"
+ ],
+ "sector": "Consultoria e treinamentos",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 1.0,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Das inscrições previdenciárias, constantes do ANEXO I, totalizando R$ 6.219.093,65, atualizadas em 10.2024; Das inscrições não previdenciárias, constantes do ANEXO II, totalizando R$ 28.922.887,81, atualizadas em 10.2024",
+  "total_discount_pct": "Concessão do desconto máximo de 62,77% (sessenta e dois inteiros e setenta e sete décimos por cento) incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento do saldo remanescente dos débitos de natureza não previdenciária em 84 (oitenta e quatro) prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "1173b2aa8528",
+ "title": "Termo de Transação Individual - Lighthouse SMS Consultoria e Treinamentos LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualLighthouseSMSConsultoriaeTreinamentosLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualLighthouseSMSConsultoriaeTreinamentosLTDAtarjado.pdf",
+ "sha256": "3bf8c99a8fd312b665fb2d83f2e321b26232a1b270f2e02795b0bb529a7ae9f9",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

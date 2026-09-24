@@ -1,0 +1,75 @@
+{
+ "taxpayer": "GRANENERGIA INVESTIMENTOS S/A e MTO REAL ESTATE PARTICIPACOES EIRELI",
+ "approval_date": "2023-06-06",
+ "consolidated_amount": 97445402.88,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca dos imóveis de matrículas 65.650, 16.455 e 6.969, registrados perante o Cartório do 1º Ofício de Registro de Imóveis de Mogi das Cruzes/SP, avaliados em R$117.468.000,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade fiscal perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após a transação",
+  "Peticionar em 30 dias nos processos judiciais para noticiar a celebração do acordo e confessar os débitos",
+  "Manter em dia o pagamento de tributos federais, estaduais e municipais sobre os imóveis dados em garantia",
+  "Comunicar à Fazenda Nacional superveniência de penhora ou novo gravame sobre os bens em garantia",
+  "Não alienar bens ou direitos sem comunicação prévia à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Manter regular a situação dos parcelamentos vigentes",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Efetuar pagamentos via DARF emitido pelo sistema REGULARIZE"
+ ],
+ "special_clauses": [
+  "Reconhecimento de grupo econômico e responsabilidade solidária entre GRANENERGIA e MTO exclusivamente para fins de pagamento de débitos fiscais federais",
+  "Possibilidade de inclusão de novos débitos inscritos em até 90 dias com mesmos descontos e condições (cláusula 1.2)",
+  "Em caso de locação dos imóveis dados em garantia, destinação de 5% do valor da locação para antecipação de parcelas finais; em caso de alienação, 50% do valor da operação",
+  "Possibilidade de termo aditivo para fruição de direitos adicionais de legislação futura",
+  "Possibilidade de transferência de até 100% dos débitos para programa de parcelamento mais benéfico futuro, mantendo garantias vinculadas"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.3,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "discounts": 0.0,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.3
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL R$94.207.944,14 [...] TOTAL R$3.161.260,36 [...] 70 8 22 0000440-47 76.198,38",
+  "installments": "Os débitos não previdenciários serão pagos mediante o recolhimento de 120 parcelas mensais, escalonadas da seguinte forma"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "consolidated_amount"
+ ],
+ "id": "be9b83454d55",
+ "title": "Termo de Transação Individual - Granenergia Investimentos SA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualGranenergiaInvestimentosSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualGranenergiaInvestimentosSA.pdf",
+ "sha256": "ecaa7fc36930fe7ac3b51024155b908c64333bb5e1f14f977e52170e77804426",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

@@ -1,0 +1,81 @@
+{
+ "taxpayer": "PGL DISTRIBUIÇÃO DE ALIMENTOS LTDA.",
+ "approval_date": "2022-08-09",
+ "consolidated_amount": 38017574.87,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca de imóveis do DEVEDOR (Anexo II), avaliados em R$ 27.900.000,00",
+  "Hipoteca de imóveis do INTERVENIENTE GARANTE Lindonor Peruzzo (valor tarjado)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilização de interposição de pessoas para ocultar bens",
+  "Declarar não alienação/oneração de bens com propósito de frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de ativo não circulante",
+  "Cumprir exigências da Portaria PGFN/ME 6757/2022",
+  "Declarar veracidade de informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União",
+  "Manter Certificado de Regularidade do FGTS",
+  "Fornecer informações bancárias e empresariais quando solicitado",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não distribuir lucros ou dividendos até aprovação do plano de recuperação judicial",
+  "Peticionar nos processos judiciais em até 60 dias noticiando a transação",
+  "Manter em dia pagamento de impostos e taxas sobre imóveis dados em garantia",
+  "Apresentar situação econômico-financeira quando solicitado pela PGFN"
+ ],
+ "special_clauses": [
+  "Recuperação judicial - transação segue rito de pessoas jurídicas comuns por já ter ultrapassado fase do art. 57 da Lei 11.101/2005",
+  "Garantia hipotecária prestada por Interveniente Garante limitada exclusivamente aos bens imóveis oferecidos, sem configurar solidariedade",
+  "Cláusula em causa própria em favor da União para receber indenização em caso de desapropriação de bens dados em garantia",
+  "Vedação à distribuição de lucros e dividendos até aprovação do plano de recuperação judicial"
+ ],
+ "sector": "Distribuição de alimentos",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "installments": 0.3,
+  "down_payment_pct": 0.1,
+  "total_discount_pct": 0.1,
+  "discounts.fine_pct": 0.1,
+  "discounts.interest_pct": 0.1,
+  "discounts.charges_pct": 0.1,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.8,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor consolidado: R$ 106.566,72 / R$ 13.529.520,42 / R$ 15.737.866,98 / R$ 7.100.354,29 / R$ 1.543.366,71 (soma dos débitos previdenciários e demais débitos listados na Cláusula 1ª, §1º e §2º)"
+ },
+ "review_fields": [
+  "installments",
+  "down_payment_pct",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "d1660ea6a13a",
+ "title": "Termo de Transação Individual - PGL Distribuição de Alimentos LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualPGLDistribuicaodeAlimentosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualPGLDistribuicaodeAlimentosLTDA.pdf",
+ "sha256": "789eec8ef51151b43eedcfaba3951ecf240ccd3c63850d8e81225e2e41bb4c0a",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

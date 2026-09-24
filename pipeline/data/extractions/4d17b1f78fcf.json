@@ -1,0 +1,62 @@
+{
+ "taxpayer": "Grupo econômico DISBRAVE (DISTRIBUIDORA BRASILIA DE VEICULOS S/A e outras empresas do grupo) e CARLOS ALBERTO GIANSELLA TAURISANO",
+ "approval_date": "2021-10-04",
+ "consolidated_amount": 263195366.16,
+ "modality": "Transação Tributária Individual (Primeiro Termo Aditivo)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Recolher mensalmente os DARFs relativos a cada uma das contas formalizadas no sistema informatizado",
+  "Amortização da 13ª e 26ª parcelas referentes aos débitos previdenciários e não previdenciários será viabilizada pela venda de ativos dos DEVEDORES",
+  "Cumprir todos os compromissos, condições e obrigações acordadas para manutenção da certidão positiva com efeitos de negativa"
+ ],
+ "special_clauses": [
+  "Vedada a incidência de desconto sobre o principal do débito, sendo considerado para a parcela base o percentual em relação à dívida com descontos (§4º Cláusula 5ª)",
+  "Toda a transação é considerada única: inadimplência em qualquer conta implica inadimplência de toda a transação"
+ ],
+ "sector": "Comércio de veículos e combustíveis (concessionárias/postos)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.7,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal dos DEVEDORES inscrito em dívida ativa da União e do FGTS, parte desta transação, é composto por todos os créditos fiscais relacionados no ANEXO I, totalizando R$ 263.195.366,16, atualizado no mês de setembro de 2021",
+  "installments": "PLANO DE PAGAMENTOS NÃO PREVIDENCIÁRIO ... 84 80.850.000,00 100,00%"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "4d17b1f78fcf",
+ "title": "Termo Aditivo - DISBRAVE",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-aditivo-disbrave.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-aditivo-disbrave.pdf",
+ "sha256": "01311c555c759b959fd391f16414124985a1fe451ca8a10df0a272e05fe8bba5",
+ "extracted_at": "2026-07-22T14:22:25+00:00",
+ "simulated": false
+}

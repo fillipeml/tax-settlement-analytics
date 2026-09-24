@@ -1,0 +1,84 @@
+{
+ "taxpayer": "FRÍGORÍFICO RAINHA DA PAZ LTDA",
+ "approval_date": "2021-05-19",
+ "consolidated_amount": 91148691.9,
+ "modality": "Transação Individual",
+ "total_discount_pct": 42.86,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Veículos (relação detalhada no ANEXO II, dados tarjados)",
+  "Equipamentos (relação detalhada no ANEXO II, dados tarjados)",
+  "Imóveis (relação detalhada no ANEXO II, dados tarjados)",
+  "Investimentos (relação detalhada no ANEXO II, dados tarjados)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade nos programas de parcelamentos anteriores",
+  "Manter regularidade com tributos correntes",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos",
+  "Declarar não alienar ou onerar bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais e econômico-fiscais",
+  "Manter garantias associadas aos débitos transacionados",
+  "Apresentar garantias reais ou fidejussórias",
+  "Apresentar relação de bens particulares de controladores, administradores e representantes legais",
+  "Comunicar à Fazenda Nacional antes de alienar bens ou direitos",
+  "Registrar em Cartório de Registro de Imóveis bem imóvel dado em garantia e manter tributos do imóvel em dia"
+ ],
+ "special_clauses": [
+  "Cláusula 4ª - exigência de apresentação de garantias reais ou fidejussórias, inclusive alienação fiduciária de bens móveis/imóveis e cessão fiduciária de direitos creditórios",
+  "Cláusula 20 - obrigação de substituição/reforço de garantia em caso de depreciação superior a 20% do valor do bem"
+ ],
+ "sector": "Agronegócio/Frigorífico",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.75,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total da dívida ativa consolidada em 17/05/2021: R$ 91.148.69,19",
+  "total_discount_pct": "Total da dívida ativa com desconto em 17/05/2021: R$ 52.081.773,60",
+  "installments": "A serem pagos em 60 (sessenta) parcelas mensais de R$ 652.250,00, mais 24 (vinte e quatro) parcelas mensais de R$ 539.448,90, totalizando 84 (oitenta e quatro) parcelas mensais."
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery",
+  "total_discount_pct",
+  "consolidated_amount"
+ ],
+ "id": "b4d6bea7f6c6",
+ "title": "Termo de Transação Individual - Frigorífico Rainha da Paz LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/termo-de-transacao-individual-frigorifico-rainha-da-paz-ltda.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/termo-de-transacao-individual-frigorifico-rainha-da-paz-ltda.pdf",
+ "sha256": "f60605be8eeb14263b9c11f8a6c5bf8d91fed3940ec4a7dca1450542687b6d0b",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

@@ -1,0 +1,72 @@
+{
+ "taxpayer": "IGREJA MUNDIAL DO PODER DE DEUS",
+ "approval_date": "2022-06-08",
+ "consolidated_amount": 182205509.88,
+ "modality": "Transação individual",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel Matrícula n.º 50.426 do 3º RGI de São Paulo, avaliação histórica de R$148.900.000,00, a ser formalizado como hipoteca"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar/dissimular bens, direitos e valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar/reduzir capacidade de pagamento sem comunicar a Fazenda Nacional",
+  "Concordar com futura compensação de ofício da Dívida Transacionada",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação, desistir de impugnações/recursos e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação dos imóveis dados em garantia mediante prévia anuência da Fazenda Nacional, com inclusão desta como interveniente anuente e destinação do valor arrecadado à quitação de parcelas vincendas",
+  "Direcionamento de eventuais créditos (precatórios, depósitos judiciais) para adimplemento dos saldos devedores da Transação",
+  "Passivo fiscal perante a PRFN2 deve ser regularizado em até 60 dias, sob pena de rescisão (cláusula 7.1.14)"
+ ],
+ "sector": "Religioso/entretenimento (templos e organizações associativas religiosas)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "guarantees": 0.95,
+  "obligations": 0.95,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$182.205.509,88 (cento e oitenta e dois milhões, duzentos e cinco mil, quinhentos e nove reais e centavos acima)",
+  "total_discount_pct": "Desconto máximo de 50% (cinquenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 84 (oitenta e quatro) prestações mensais, escalonadas na forma discriminada no Anexo II;"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "6993cf08a392",
+ "title": "Termo de Transação Individual - Igreja Mundial do Poder de Deus",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIgrejaMundialdoPoderdeDeus.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIgrejaMundialdoPoderdeDeus.pdf",
+ "sha256": "fc695cd499919db4dc8eebe379bf0b2e5dbce9b26f1e9cdc9336da3fd2a72ddc",
+ "extracted_at": "2026-07-22T14:22:44+00:00",
+ "simulated": false
+}

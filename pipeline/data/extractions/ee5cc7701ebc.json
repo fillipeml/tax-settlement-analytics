@@ -1,0 +1,63 @@
+{
+ "taxpayer": "ELLO SERVIÇOS DE MÃO DE OBRA LTDA (e corresponsáveis: FORTAL TERCEIRIZAÇÃO DE MÃO DE OBRA LTDA, REAL SERVIÇOS DE LOCAÇÃO DE MÃO DE OBRA LTDA, MISSÃO SERVIÇOS TÉCNICOS LTDA; interveniente: FORTAL EMPREENDIMENTOS EIRELI)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 817880499.49,
+ "modality": "Transação Individual",
+ "total_discount_pct": 52.57,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantém eventuais garantias existentes",
+  "Imóveis",
+  "Depósitos"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [
+  "Parcelas PREV60: Lineares",
+  "Parcelas PREV120 e DEMAIS: Escalonadas"
+ ],
+ "sector": "Serviços de mão de obra/terceirização",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.0,
+  "judicial_recovery": 0.85,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "discounts": 0.0,
+  "installments": 0.6,
+  "down_payment_pct": 0.9,
+  "guarantees": 0.85,
+  "obligations": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "DÍVIDA TRANSACIONADA - PGFN | TOTAL | 817.880.499,49",
+  "total_discount_pct": "DESCONTO EFETIVO MÉDIO - PGFN (em percentual %) | TOTAL | 52,57%",
+  "installments": "NÚMERO DE PARCELAS - PGFN | Previdenciária | 60/120 | Demais Débitos | 60"
+ },
+ "review_fields": [
+  "approval_date",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "installments",
+  "sector",
+  "obligations"
+ ],
+ "id": "ee5cc7701ebc",
+ "title": "Sumário - Ello Serviços de Mão de Obra LTDA, Fortal Terceirização de Mão de Obra LTDA, Real Serviços de Locação de Mão de Obra LTDA, Missão Serviços Técnicos LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/SumrioElloServiosdeModeObraLTDAFortalTerceirizaodeModeObraLTDARealServiosdeLocaodeModeObraLTDAMissoServiosTcnicosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/SumrioElloServiosdeModeObraLTDAFortalTerceirizaodeModeObraLTDARealServiosdeLocaodeModeObraLTDAMissoServiosTcnicosLTDA.pdf",
+ "sha256": "9f8934a7a5790998a4cdddc5e804143d115436ac984065a657328e879a7d6e50",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

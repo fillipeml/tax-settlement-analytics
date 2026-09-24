@@ -1,0 +1,86 @@
+{
+ "taxpayer": "TONDO EMBALAGENS LTDA - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "Not identified",
+ "consolidated_amount": 60615777.83,
+ "modality": "Transação Individual",
+ "total_discount_pct": 19.06,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de todas as garantias existentes (indisponibilidades/penhoras/bloqueios) nos processos relacionados aos créditos negociados"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens, direitos ou valores",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6.757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa após o acordo",
+  "Autorizar compensação de restituições, ressarcimentos ou reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Manter-se no regime de tributação pelo lucro real durante toda a negociação (em razão de uso de créditos de prejuízo fiscal/BCN da CSLL)",
+  "Não desistir unilateralmente do acordo",
+  "Confessar de forma irrevogável e irretratável a dívida",
+  "Apresentar demonstrações de resultados sempre que demandado pela Fazenda Nacional",
+  "Recolher obrigações tributárias correntes e obrigações acessórias",
+  "Quitar custas processuais pendentes e despesas de cancelamento de leilões",
+  "Peticionar em 30 dias nos processos judiciais noticiando a celebração da transação e desistindo de impugnações/recursos administrativos e ações judiciais"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para amortização (R$ 11.901.267,12 em débitos previdenciários e R$ 1.800.000,00 - demais débitos)",
+  "Capacidade de pagamento classificada como D, considerando recuperação judicial",
+  "Escalonamento de prestações (cobrança crescente) nos débitos não previdenciários, de 0,2% a 1,28% do saldo por faixa, ao longo de 120 meses",
+  "Valores bloqueados judicialmente até a assinatura serão usados para quitação sem os descontos concedidos (Lei 14.973/2024)",
+  "Amortização mensal acrescida de juros SELIC acumulados mais 1% no mês do pagamento",
+  "Constituição da União como procuradora do devedor para receber indenização em caso de desapropriação de bens dados em garantia"
+ ],
+ "sector": "Embalagens/Indústria",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Os débitos tributários (demais débitos e débitos previdenciários) alcançam em dezembro de 2024 o valor consolidado de R$ 60.615.777,83 (sessenta milhões, seiscentos e quinze mil, setecentos e setenta e sete reais e oitenta e três centavos).",
+  "total_discount_pct": "TOTAL DA TRANSAÇÃO: R$ 11.558.362,62 (19,06%)",
+  "installments": "Quantidade Máxima de Prestações: (excluindo as Prestações da entrada) 120 ... Prestações selecionadas: 120"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "special_clauses"
+ ],
+ "id": "c479993624b3",
+ "title": "Termo de Transação Individual - Tondo Embalagens LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualTondoEmbalagensLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualTondoEmbalagensLTDA.pdf",
+ "sha256": "73b5edeba3bf8cc6609e8d0a4325835ea3322370a50ed0de5b951fc5411b9b56",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

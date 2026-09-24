@@ -1,0 +1,74 @@
+{
+ "taxpayer": "COMFICA SOLUCOES INTEGRAIS DE TELECOMUNICACOES LTDA",
+ "approval_date": "2023-06-19",
+ "consolidated_amount": 9851722.53,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 112,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à Procuradoria-Geral da Fazenda Nacional conhecer sua situação econômica",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, direitos e valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Concordar com futura e eventual compensação de ofício da Dívida Transacionada",
+  "Informar o recebimento de quaisquer precatórios federais ou créditos em face da Fazenda Nacional"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal no valor de R$ 8.556.805,23 para amortização do saldo devedor após a aplicação dos descontos",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal fica suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de cinco anos",
+  "Vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)"
+ ],
+ "sector": "Telecomunicações",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.8,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.2,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "VALOR TOTAL DEVIDO DEMAIS (DW JUN 23) R$ 9.851.722,53",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) para cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 112 (cento e doze) prestações mensais, escalonadas na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "guarantees",
+  "consolidated_amount"
+ ],
+ "id": "63b7e51b0f66",
+ "title": "Termo de Transação Individual - Comfica Soluções Integrais de Telecomunicações LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualComficaSoluesIntegraisdeTelecomunicaesLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualComficaSoluesIntegraisdeTelecomunicaesLTDA.pdf",
+ "sha256": "a20904dbede844cfdbca4a3b1b76d83faab315c0faecdcd41f9748386f4865c0",
+ "extracted_at": "2026-07-22T14:22:38+00:00",
+ "simulated": false
+}

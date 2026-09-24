@@ -1,0 +1,69 @@
+{
+ "taxpayer": "REFRATÁRIOS PAULISTA INDÚSTRIA E COMÉRCIO LTDA.",
+ "approval_date": "2024-03-04",
+ "consolidated_amount": 37194177.99,
+ "modality": "Transação Individual",
+ "total_discount_pct": 51.51,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 55,
+ "down_payment_pct": 0.0,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens ou direitos com propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais relativos à Dívida Transacionada para desistência e confissão irrevogável"
+ ],
+ "special_clauses": [
+  "Não haverá oferta de garantia vinculada à presente Transação (item 3.1)",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e base de cálculo negativa da CSLL, limitado a 16,22% do saldo da dívida após descontos"
+ ],
+ "sector": "Indústria (materiais refratários)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.85,
+  "discounts": 0.2,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.3,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 37.194.177,99 (Trinta e sete milhões, cento e noventa e quatro mil, setecentos e setenta e sete reais e noventa e nove centavos).",
+  "total_discount_pct": "ocasionando um desconto global médio de 51,51% (cinquenta e um inteiros e cinquenta e um centésimos por cento), na forma do Anexo II",
+  "installments": "Pagamento da Dívida Transacionada, tanto a de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\"), quanto a de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 55 (cinquenta e cinco) prestações mensais iguais e sucessivas, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "sector",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "7af3e0ece5ec",
+ "title": "Termo de Transação Individual - Refratários Paulista Indústria e Comércio LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRefratriosPaulistaIndstriaeComrcioLTDATarajado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRefratriosPaulistaIndstriaeComrcioLTDATarajado.pdf",
+ "sha256": "c45a8b55c3afa13470b69993dd78df95ed63ad92dbb13a46cf43a41c1d26dd81",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

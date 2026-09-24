@@ -1,0 +1,84 @@
+{
+ "taxpayer": "LBS LABORASA INDUSTRIA FARMACEUTICA LTDA",
+ "approval_date": "2023-10-26",
+ "consolidated_amount": 24731225.92,
+ "modality": "Transação Tributária Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 96,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de matrícula nº [tarjado] do Ofício de Registro de Imóveis da Comarca de Itaquaquecetuba/SP, de propriedade da Requerente (cláusula 3.1.1)",
+  "Imóvel de matrícula nº [tarjado] do Ofício de Registro de Imóveis da Comarca de Itaquaquecetuba/SP, de propriedade de Antônio Sarac e Ana Maria Lobo Sarac (cláusula 3.1.2)",
+  "Imóvel de matrícula nº [tarjado] do Ofício de Registro de Imóveis da Comarca de Itaquaquecetuba/SP, de propriedade da Requerente (cláusula 3.1.3)",
+  "Imóvel de matrícula nº [tarjado] do 9º Cartório de Registro de Imóveis de São Paulo/SP, com alienação fiduciária à Caixa Econômica Federal, devedor fiduciante Thiago Lobo Sarac (cláusula 3.1.4)",
+  "Imóvel de matrícula nº [tarjado] do 3º Cartório de Registro de Imóveis de São Paulo/SP, com alienação fiduciária ao Banco Daycoval S.A., devedores fiduciantes Antônio Sarac e Ana Maria Lobo Sarac (cláusula 3.1.5)",
+  "Contrato Padrão de Fornecimento de Produto Acabado - RD Marcas, datado de 07/10/2021 (cláusula 3.1.6)",
+  "Fianças pessoais dos sócios Antônio Sarac e Thiago Lobo Sarac (cláusula 3.1.7)",
+  "Maquinário da Requerente, conforme Laudo Técnico de Equipamentos (cláusula 3.1.8)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Apresentar à PGFN, até o final de todo mês de janeiro, notas fiscais referentes à execução do contrato indicado na cláusula 3.1.6",
+  "Substituir a garantia da cláusula 3.1.6 em 60 dias caso o contrato seja extinto ou deixe de prover faturamento anual mínimo de R$ 8.271.163,31",
+  "Notificar a PGFN sobre nova alienação ou oneração de imóveis dos fiadores",
+  "Formalizar a penhora das garantias no prazo de até 45 dias",
+  "Constituir as alienações fiduciárias supervenientes no prazo de até 90 dias",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo",
+  "Manter durante 5 anos os livros e documentos exigidos pelas normas fiscais",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da Transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor de R$ 3.427.244,22 para amortização do saldo devedor",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal e CSLL fica suspensa até confirmação pela autoridade competente, dentro do prazo legal de 5 anos",
+  "Possibilidade de alienação dos imóveis dados em garantia mediante prévia anuência da Fazenda Nacional (cláusula 4.1)",
+  "Retomada estimada da propriedade dos imóveis fiduciários pelos devedores fiduciantes em 19/08/2026 e 29/08/2025"
+ ],
+ "sector": "Indústria farmacêutica",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.7,
+  "approval_date": 0.95,
+  "modality": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.75,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "As inscrições em DAU transacionadas estão especificadas no Anexo I do Termo, e alcançam, hoje, a quantia de R$ 24.731.225,92, não considerados os benefícios concedidos pela Transação.",
+  "total_discount_pct": "Na modalidade DEMAIS, desconto máximo de até 65% (sessenta e cinco por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 96 (noventa e seis) prestações mensais e sucessivas, conforme Anexo II, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "73cdfa56baa9",
+ "title": "Termo de Transação Individual - LBS Laborasa Industria Farmacêutica",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualLBSLaborasaIndustriaFarmacuticaLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualLBSLaborasaIndustriaFarmacuticaLTDA.pdf",
+ "sha256": "e69f52e0ee0672e8434a9fa894ade23ca1a311daeecf7f82c76858e633e8d1b8",
+ "extracted_at": "2026-07-22T14:22:46+00:00",
+ "simulated": false
+}

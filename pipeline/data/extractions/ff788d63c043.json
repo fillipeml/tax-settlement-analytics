@@ -1,0 +1,57 @@
+{
+ "taxpayer": "B2W Companhia Digital (grupo Lojas Americanas/Americanas S/A)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 856284810.56,
+ "modality": "Transação individual (em Recuperação Judicial)",
+ "total_discount_pct": 35.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Seguro ou fiança"
+ ],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Varejo/E-commerce",
+ "confidence": {
+  "taxpayer": 0.7,
+  "sector": 0.4,
+  "modality": 0.6,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.9,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL 856.284.810,56 Previdenciária 11.713.505,13 Demais Débitos 844.571.305,43",
+  "total_discount_pct": "DESCONTO EFETIVO MÉDIO - PGFN TOTAL 35% Previdenciária 36,9% Demais Débitos 33,2%",
+  "installments": "NÚMERO DE PARCELAS - PGFN Previdenciária 01 Demais Débitos 01; Parcelas - PGFN: Parcela única"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "modality",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "ff788d63c043",
+ "title": "Sumário - Americanas SA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/SumrioAmericanasSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/SumrioAmericanasSA.pdf",
+ "sha256": "38f0a9c84838ee3f557a256de54c38170958f69b74a890404bb9fb8a9419b881",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

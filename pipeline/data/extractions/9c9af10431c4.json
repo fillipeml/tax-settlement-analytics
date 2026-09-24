@@ -1,0 +1,75 @@
+{
+ "taxpayer": "MARITUCS ALIMENTOS LIMITADA",
+ "approval_date": "2024-10-25",
+ "consolidated_amount": 34917837.32,
+ "modality": "Transação Individual",
+ "total_discount_pct": 48.85,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança dos sócios (Onofre Gabriel da Silva, Daniel da Silva, Eliseu da Silva, Jussara da Silva Santos, Marcos da Silva)",
+  "Manutenção de gravames de arrolamento de bens, medida cautelar fiscal e garantias já prestadas"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos",
+  "Desistência de impugnações, PRDIs e ações judiciais relativas à Dívida Transacionada",
+  "Peticionar nos processos judiciais em até 60 dias após assinatura",
+  "Regularizar débitos supervenientes em até 90 dias",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Não alienar bens que reduzam capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter livros e documentos fiscais por 5 anos",
+  "Manter-se optante pelo lucro real durante vigência do acordo (em caso de uso de prejuízo fiscal/CSLL negativa)",
+  "Autorizar acesso da Fazenda Nacional a declarações e escritas fiscais",
+  "Declarar veracidade de informações cadastrais, patrimoniais e econômico-fiscais"
+ ],
+ "special_clauses": [
+  "Utilização de crédito decorrente de Prejuízo Fiscal e base de cálculo negativa da CSLL, limitado a 70% do saldo da dívida após aplicação dos descontos, de aproximadamente R$ 2.515.222,24",
+  "Desconto máximo de aproximadamente 48,85% a cada uma das CDAs, vedada a redução do montante principal, aplicado proporcionalmente sobre acréscimos legais",
+  "Incorporação de débitos da empresa Trans-Kuky Transporte Rodoviário de Cargas LTDA (CNPJ 61.957.775/0001-44)"
+ ],
+ "sector": "Alimentos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "As inscrições em DAU transacionadas estão especificadas no Anexo I do Termo e alcançam a quantia de aproximadamente R$ 34.917.837,32, não considerados os benefícios concedidos pela Transação, bem como os débitos descritos nas cláusulas 1.2 e 1.3 do Termo.",
+  "total_discount_pct": "Desconto máximo de aproximadamente 48,85% (quarenta e oito inteiros e oitenta e cinco centésimos por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Pagamento da Dívida Transacionada, de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\"), em 60 (sessenta) prestações mensais iguais e sucessivas, na forma discriminada no Anexo II;"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "9c9af10431c4",
+ "title": "Termo de Transação Individual - Maritucs Alimentos LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMaritucsAlimentosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMaritucsAlimentosLTDATarjado.pdf",
+ "sha256": "151f88a7f167bdb8fc28dc70ca5a182ec8ff6278b7bf87718bbfb32628d62c5d",
+ "extracted_at": "2026-07-22T14:22:47+00:00",
+ "simulated": false
+}

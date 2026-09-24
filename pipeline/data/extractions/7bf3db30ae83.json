@@ -1,0 +1,73 @@
+{
+ "taxpayer": "INSTITUTO DE EXCELÊNCIA EM SAÚDE PÚBLICA – INSTITUTO ESPERANÇA",
+ "approval_date": "2024-12-18",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 32.11,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": 3.0,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar, sob as penas da lei, que preenchem os requisitos da Lei 13.988/2020 para gozo dos benefícios específicos da presente modalidade de transação",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, os débitos que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento",
+  "Manter-se regular e em dia com as Transações e Parcelamentos em curso, quitando mensalmente as parcelas devidas",
+  "Manter, durante 5 anos, os livros e os documentos exigidos pelas normas fiscais",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo, em caso de utilização de prejuízo fiscal"
+ ],
+ "special_clauses": [
+  "Não houve o oferecimento de garantias pela Proponente, porque inexistente",
+  "A Requerente possui a natureza jurídica de organização social sem fins lucrativos, regida pela Lei nº 9.637/1998",
+  "A consolidação das contas será realizada de forma manual, e o cálculo dos descontos possíveis realizado de acordo com a nova capacidade de pagamento (CAPAG revisada)"
+ ],
+ "sector": "Saúde pública / organização social",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "discounts": 0.0,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Descontos máximo de 32,11% a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada (\"Dívida Transacionada – Demais Débitos\") em 60 (sessenta) prestações, sendo a entrada de 3% sobre o valor da dívida consolidada (antes da aplicação dos descontos), dividida em 12 prestações e o restante em 48 meses",
+  "down_payment_pct": "sendo a entrada de 3% sobre o valor da dívida consolidada (antes da aplicação dos descontos), dividida em 12 prestações e o restante em 48 meses"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "discounts",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "7bf3db30ae83",
+ "title": "Termo de Transação Individual - Instituto de Excelência em Saúde Pública - Instituto Esperança",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualInstitutodeExcelnciaemSadePblicaInstitutoEsperanaTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualInstitutodeExcelnciaemSadePblicaInstitutoEsperanaTarjado.pdf",
+ "sha256": "ef250790cff544d159ccb949cf577c81e9299315ffebc68fbe3eb5e928f4cb54",
+ "extracted_at": "2026-07-22T14:22:44+00:00",
+ "simulated": false
+}

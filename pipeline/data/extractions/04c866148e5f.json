@@ -1,0 +1,67 @@
+{
+ "taxpayer": "AVOA TRANSPORTES LTDA e AUTO DE VIAÇÃO OURINHOS ASSIS LTDA",
+ "approval_date": "2025-06-30",
+ "consolidated_amount": null,
+ "modality": "Transação individual (Termo Aditivo - repactuação) - modalidades DEMAIS e PREV",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Vedada a desistência ou resilição unilateral da Transação",
+  "Vedada a redução do montante principal das CDAs",
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor"
+ ],
+ "special_clauses": [
+  "Repactuação de transação vigente firmada em julho de 2023 sob a Portaria PGFN 6.757/2022",
+  "Desconto de até 70% previsto no art. 21, I da Portaria PGFN 2.382/2021 por presumida irrecuperabilidade em razão de recuperação judicial",
+  "Utilização de crédito de R$ 4.026.484,92 a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor",
+  "Flexibilização das hipóteses de rescisão (art. 26 da Portaria PGFN 2.382/2021) para falta de pagamento de 6 parcelas consecutivas ou 9 alternadas, ou 1 a 5 parcelas se as demais estiverem pagas",
+  "Manutenção das disposições da transação vigente quanto a garantias, condições negociadas e causas de rescisão, no que não for conflitante"
+ ],
+ "sector": "Transporte",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.7,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "fazendo jus ao desconto de 70% previsto no art. 21, I da Portaria PGFN 2.382/2021",
+  "installments": "Parcelamento do saldo devido, após o pagamento da entrada, na modalidade DEMAIS em até 108 (cento e oito) prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "sector"
+ ],
+ "id": "04c866148e5f",
+ "title": "Repactuação -  AVOA TRANSPORTES LTDA - EM RECUPERAÇÃO JUDICIAL",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/RepactuaoAVOATRANSPORTESLTDAEMRECUPERAOJUDICIAL.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/RepactuaoAVOATRANSPORTESLTDAEMRECUPERAOJUDICIAL.pdf",
+ "sha256": "fc3a486a70a451daa45c36dc7a1cbb6fa0e1864339a3b8b07399a10d22a41840",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

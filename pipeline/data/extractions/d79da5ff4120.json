@@ -1,0 +1,76 @@
+{
+ "taxpayer": "VIAÇÃO PLANETA LTDA",
+ "approval_date": "2023-10-07",
+ "consolidated_amount": 32192076.95,
+ "modality": "Transação Individual",
+ "total_discount_pct": 61.57,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Precatório (Requisição de pagamento nº 22510014439)",
+  "Precatório (Requisição de pagamento nº 22510046445)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessa irrevogável e irretratavelmente os débitos relacionados no ANEXO",
+  "Renuncia a quaisquer alegações de direito sobre os créditos relacionados no ANEXO",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa no prazo máximo de 90 dias",
+  "Manter as garantias oferecidas até o integral cumprimento das condições",
+  "Informar previamente à PGFN a alienação e/ou disposição de bens e direitos",
+  "Utilizar créditos líquidos, certos e exigíveis como reforço do plano de amortização",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Anuir com eventual modificação da competência relativa para reunião de processos",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Não utilizar pessoa natural ou jurídica interposta para ocultar ou dissimular origem de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Declarar que não possui precatório federal do qual seja credor, exceto o indicado",
+  "Autorizar compensação de valores relativos a precatórios federais",
+  "Desistir de impugnações e recursos administrativos e ações judiciais no prazo de 30 dias"
+ ],
+ "special_clauses": [
+  "Nos termos da Nota SEI nº 5/2022/PGDAU-CGR/PGDAU/PGFN-ME, fica autorizado o não reconhecimento das demais pessoas apontadas como integrantes do grupo de fato nos autos da Execução Fiscal nº 0019504-79.2018.4.01.3400, em contrapartida ao pagamento à vista da dívida",
+  "Pagamento mediante utilização de crédito de Precatório (Requisição de pagamento nº 22510014439) com Valor Líquido Disponível Certificado de R$ 11.446.205,91"
+ ],
+ "sector": "Transporte",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.8,
+  "discounts": 0.0,
+  "guarantees": 0.8,
+  "judicial_recovery": 0.0,
+  "obligations": 0.95,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam R$ 32.192.076,95, atualizado no mês de dezembro de 2023",
+  "total_discount_pct": "a presente transação envolve a concessão de descontos limitados ao máximo de 61,57% (setenta por cento), vedada a incidência sobre o principal do débito",
+  "installments": "PARCELA ÚNICA - DÉBITOS NÃO PREVIDENCIÁRIOS R$ 75.707,42 / DÉBITOS PREVIDENCIÁRIOS R$ 11.556.176,05"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "d79da5ff4120",
+ "title": "TermodeTransaoIndividualViaoPlanetaLTDA.pdf",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualViaoPlanetaLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualViaoPlanetaLTDA.pdf",
+ "sha256": "aba675ca4d8ebb274bbded6afbb78f864f745fc40a1210c04fd637de0a96d4c5",
+ "extracted_at": "2026-07-22T14:22:25+00:00",
+ "simulated": false
+}

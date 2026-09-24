@@ -1,0 +1,74 @@
+{
+ "taxpayer": "ARM ENERGIA E SERVIÇOS DE ENGENHARIA LTDA – RM ENERGIA",
+ "approval_date": "2024-03-20",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": 6.0,
+ "guarantees": [
+  "Manutenção de gravames de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente (Cláusula 11)",
+  "Manutenção de penhoras existentes nos executivos fiscais em trâmite (Cláusula 12)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após a formalização do acordo",
+  "Apresentar demonstrações contábeis e patrimoniais anualmente ou quando solicitado pela PGFN",
+  "Manter regime de tributação pelo lucro real e manter livros/documentos por 5 anos (uso de créditos de prejuízo fiscal e base negativa de CSLL)",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relacionadas aos débitos do ANEXO I",
+  "Peticionar nos processos judiciais em até 60 dias após a assinatura, noticiando a celebração do acordo",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Individualizar valores recolhidos nas contas vinculadas do FGTS, quando for o caso",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal acumulado e de base de cálculo negativa da CSLL para quitação de até 70% do saldo devedor, respeitado o limite solicitado pela empresa, não podendo ultrapassar R$ 6.157.555,16 (Cláusula 3, item e)",
+  "Possibilidade de inclusão de débitos ainda não inscritos em dívida ativa por meio de repactuação (Cláusula 1, Parágrafo Único)",
+  "Contas independentes de transação (PREVI e DEMAIS) com inadimplência de qualquer uma implicando rescisão total sem desconto (Cláusula 4)"
+ ],
+ "sector": "Energia/Engenharia",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.3,
+  "down_payment_pct": 0.9,
+  "installments": 0.6,
+  "discounts": 0.2,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "judicial_recovery": 0.2,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "down_payment_pct": "Entrada de 6% do valor consolidado sem desconto em 12 parcelas nas contas previdenciária e não previdenciária",
+  "installments": "Pagamento do remanescente da dívida transacionada de natureza não previdenciária em 108 (cento e oito) prestações mensais e lineares, após o pagamento da entrada",
+  "total_discount_pct": "Desconto máximo de até 65% em cada uma das inscrições, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa juros e encargo legal), conforme cálculo do sistema"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "installments",
+  "sector",
+  "judicial_recovery"
+ ],
+ "id": "90d5351e3486",
+ "title": "Termo de Transação Individual - ARM Energia e Serviços de Engenharia LTDA RM Energia",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualARMEnergiaeServiosdeEngenhariaRMEnergiatarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualARMEnergiaeServiosdeEngenhariaRMEnergiatarjado.pdf",
+ "sha256": "7c71150760ece7e447dfd8d530d98fa2b3be1230c56946bbdeaaeefad2d8b83d",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

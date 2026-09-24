@@ -1,0 +1,67 @@
+{
+ "taxpayer": "PRT Prestação de Serviços Ltda",
+ "approval_date": "2024-06-25",
+ "consolidated_amount": 30067329.31,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Renunciar a quaisquer alegações de direito sobre ações/recursos/impugnações relativas aos créditos incluídos na transação",
+  "Pagar eventual saldo remanescente após o uso dos depósitos judiciais",
+  "Antecipar a quitação do parcelamento FGRS201901125 (FGTS) em até 90 dias da assinatura do termo",
+  "Peticionar nos processos judiciais e administrativos noticiando a celebração do acordo, no prazo máximo de 60 dias",
+  "Manter o recolhimento das obrigações tributárias correntes e obrigações acessórias"
+ ],
+ "special_clauses": [
+  "Pagamento em parcela única (quitação em parcela única das três contas abertas), com aproveitamento de valores bloqueados em processos judiciais e reembolso da Receita Federal reunidos na Execução Fiscal 50581379220114047100",
+  "Na ação cautelar fiscal 50019626320204047100, não serão cobrados honorários sucumbenciais por conta de sua futura extinção"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.2,
+  "modality": 1.0,
+  "approval_date": 0.9,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O total da dívida ativa consolidada para regularização na presente transação, em junho de 2024, é de R$30.067.329,31 (trinta milhões, sessenta e sete mil, trezentos e vinte e nove reais e trinta e um centavos).",
+  "installments": "Quitação em parcela única das três contas abertas. Serão aproveitados todos os valores bloqueados em nome dos devedores correlacionados em processos judiciais, além do reembolsado pela Receita Federal, todos reunidos na Execução Fiscal 50581379220114047100."
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "4d2b009ea8f3",
+ "title": "Termo de Transação Individual - PRT Prestação de Serviços LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualPRTPrestaodeServiosLTDATarajado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualPRTPrestaodeServiosLTDATarajado.pdf",
+ "sha256": "43a38a39272196d2dde41bbfc39322a30b47f800c8ee68be5a150ef34b14e09d",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

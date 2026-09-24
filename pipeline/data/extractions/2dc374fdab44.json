@@ -1,0 +1,85 @@
+{
+ "taxpayer": "C S SCHNEIDER CASAS DE TINTAS LTDA - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-11-11",
+ "consolidated_amount": 2023554.67,
+ "modality": "Transação Individual",
+ "total_discount_pct": 50.99,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção das garantias existentes (indisponibilidades/penhoras/bloqueios) nos processos relacionados aos créditos negociados"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens",
+  "Declarar não alienação/oneração de bens para frustrar recuperação de créditos",
+  "Cumprir exigências da Portaria PGFN 6.757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Manter-se optante do regime de tributação pelo lucro real durante a negociação (uso de créditos de prejuízo fiscal e base negativa de CSLL)",
+  "Não desistir unilateralmente do acordo",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relacionadas aos débitos",
+  "Peticionar em processos judiciais no prazo de 30 dias noticiando a transação",
+  "Quitar custas processuais pendentes e despesas de cancelamento de leilões",
+  "Substituir ou reforçar garantia em caso de depreciação significativa",
+  "Apresentar situação econômico-financeira quando demandado pela Fazenda Nacional",
+  "Recolher obrigações tributárias correntes",
+  "Adimplir emolumentos de protesto cartorário"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para amortização (R$ 304.750,00), com compromisso de manutenção no regime de lucro real",
+  "Capacidade de pagamento classificada como D",
+  "Nomeação da União como procuradora do devedor com cláusula em causa própria em caso de desapropriação de bens dados em garantia"
+ ],
+ "sector": "Comércio (casas de tintas)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.75,
+  "installments": 0.85,
+  "down_payment_pct": 0.2,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Os débitos tributários (demais débitos e débitos previdenciários) alcançam em outubro de 2024 o valor consolidado de R$ 2.023.554,67 (dois milhões, vinte e três mil, quinhentos e cinquenta e quatro reais e sessenta e sete centavos).",
+  "total_discount_pct": "O desconto global na modalidade DEMAIS DÉBITOS (outubro/2024) autorizado ficou em 50,99%. Na modalidade DÉBITOS PREVIDENCIÁRIOS (outubro 2024) atingiu o desconto 49,08%.",
+  "installments": "Quantidade Máxima de Prestações: 120"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "total_discount_pct",
+  "special_clauses",
+  "guarantees"
+ ],
+ "id": "2dc374fdab44",
+ "title": "Termo de Transação Individual - C S Schneider Casas de Tintas LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCSSchneiderCasasdeTintasLTDATarajado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCSSchneiderCasasdeTintasLTDATarajado.pdf",
+ "sha256": "3c3bfea7940153fc08919b5ee9f1173f9ac89b1ee3459e6115ed56bf8581fbf5",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

@@ -1,0 +1,78 @@
+{
+ "taxpayer": "UTC PARTICIPAÇÕES S/A, UTC ENGENHARIA S/A, CONSTRAN S/A - CONSTRUÇÕES E COMÉRCIO e CONSÓRCIO FERROVIA DE INTEGRAÇÃO - todas em Recuperação Judicial",
+ "approval_date": "2023-04-25",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (FGTS) no âmbito de Recuperação Judicial",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, de medida cautelar fiscal e das garantias prestadas administrativamente ou nas ações de execução fiscal ou em qualquer outra ação judicial (item 3.2). As Requerentes informaram não possuir garantias específicas para a formalização da transação (item 3.1)."
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar origem/destinação de bens",
+  "Declarar não ter alienado ou onerado bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Individualizar os valores recolhidos nas contas vinculadas dos trabalhadores (art. 15 da Lei 8.036/1990)",
+  "Peticionar nos processos judiciais em até 60 dias após assinatura para noticiar a celebração da Transação, desistir de impugnações/recursos/ações e renunciar aos direitos, confessando a dívida"
+ ],
+ "special_clauses": [
+  "Pagamento da totalidade dos débitos de contribuição de FGTS rescisório deverá ser realizado na primeira prestação, assim como débitos de contribuições mensais devidas a trabalhadores com vínculos rescindidos (item 2.1.6)",
+  "É vedada a redução do montante principal do débito ou a redução de valores devidos aos trabalhadores (item 2.1.5)",
+  "Descontos e prazos de parcelamento diferenciados por Requerente (UTC Participações: desconto máx. 34,97% em até 80 meses; UTC Engenharia: desconto máx. 55,26% em até 55 meses; Constran: desconto máx. 46,38% em até 65 meses; Consórcio Ferrovia de Integração: desconto máx. 23,25% à vista)",
+  "Créditos que as Requerentes venham a dispor por precatório ou levantamento de depósito judicial poderão ser direcionados para adimplemento dos saldos devedores (item 2.3)",
+  "Vedação de nova transação por 2 anos em caso de rescisão (item 7.3)"
+ ],
+ "sector": "Construção civil/engenharia e infraestrutura",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.6,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "discount_UTC_Participacoes": "desconto máximo de 34,97% e o saldo devido parcelado em até 80 (oitenta) meses",
+  "discount_UTC_Engenharia": "desconto máximo de 55,26% e o saldo devido parcelado em até 55 (cinquenta e cinco) meses",
+  "discount_Constran": "desconto máximo de 46,38% e o saldo devido parcelado em até 65 (sessenta e cinco) meses",
+  "discount_Consorcio_Ferrovia": "desconto máximo de 23,25% e o saldo devido à vista"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "sector",
+  "guarantees"
+ ],
+ "id": "e2e02b633939",
+ "title": "Termo de Transação Individual - UTC Participações",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualUTCParticipaesSAEmrecuperaoJudicial.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualUTCParticipaesSAEmrecuperaoJudicial.pdf",
+ "sha256": "6cd9a4644077b343a075478717c7983e14bc51bdaeb16dcb6e8e7de7067b586a",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

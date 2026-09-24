@@ -1,0 +1,65 @@
+{
+ "taxpayer": "VALE NORTE CONSTRUTORA LTDA.",
+ "approval_date": "2022-04-28",
+ "consolidated_amount": 52047408.09,
+ "modality": "Transação Individual",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienar bens ou direitos sem proceder à devida comunicação à Fazenda Nacional",
+  "Apresentar demonstrações contábeis (balanço patrimonial, demonstração de resultados acumulados, demonstração do resultado desde o último exercício social, relatório gerencial de fluxo de caixa e projeção)",
+  "Manter o recolhimento das obrigações tributárias correntes",
+  "Cumprir as obrigações acessórias dependentes da obrigação principal",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo de transação individual",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil apurado"
+ ],
+ "special_clauses": [
+  "Transação individual formalizada com anuência do administrador da recuperação judicial",
+  "Confissão irrevogável e irretratável da dívida com efeitos do art. 174, parágrafo único, IV, do CTN",
+  "Desistência de impugnações e recursos administrativos e ações judiciais relacionadas aos débitos",
+  "Rescisão da transação em caso de esvaziamento patrimonial, falência, prevaricação, dolo, fraude ou inobservância das normas"
+ ],
+ "sector": "Construção civil",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.3,
+  "discounts": 0.2,
+  "guarantees": 0.3,
+  "obligations": 0.8,
+  "judicial_recovery": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$ 52.047.408,09",
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 50% (cinquenta por cento), não implicando, a negociação, a redução do montante principal do crédito inscrito em dívida ativa da União",
+  "installments": "para pagamento no prazo de até 84 (oitenta e quatro) meses, da dívida não-previdenciária, e no prazo de até 60 (sessenta meses), da dívida previdenciária"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "guarantees"
+ ],
+ "id": "cc862f77b0a2",
+ "title": "Termo de Transação Individual - Vale Norte Construtora LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualValeNorteConstrutoraLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualValeNorteConstrutoraLTDAtarjado.pdf",
+ "sha256": "8d79970c889d46008b013462e6514385292fa5ab6ef2bc1fc9acb8e99e2c2846",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

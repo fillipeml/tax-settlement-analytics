@@ -1,0 +1,73 @@
+{
+ "taxpayer": "GEOSISTEMAS ENGENHARIA E PLANEJAMENTO LTDA.",
+ "approval_date": "2025-06-19",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Lote de terreno próprio nº 15, Rua Ricardo Salazar, Bairro do Prado, Recife/PE, matrícula nº 27.968, avaliado em R$ 6.000.000,00",
+  "Casa nº 83, Rua Ricardo Salazar, Bairro do Prado, Recife/PE, matrícula nº 27.967, avaliada em R$ 3.595.197,13 (avaliado no termo como R$ 6.000.000,00)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a Transação",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da Transação e desistir/renunciar",
+  "Formalizar garantia mediante registro de hipoteca em 60 dias",
+  "Manter regular o parcelamento já contratado relativo às inscrições FGPE202300152 e FGPE202300125",
+  "Não alienar bens que reduzam capacidade de pagamento sem comunicação prévia",
+  "Autorizar acesso da Fazenda Nacional a declarações e escritas fiscais"
+ ],
+ "special_clauses": [
+  "Créditos de precatórios de terceiros adquiridos pela Requerente (CVLD nº 12/2025 e CVLD nº 13/2025 - TRF3) deverão ser imputados na conta de transação dos Demais Débitos, em ordem crescente das parcelas",
+  "Garantia mediante hipoteca de dois imóveis específicos listados na cláusula 7.2"
+ ],
+ "sector": "Engenharia/Construção",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.95,
+  "modality": 0.9,
+  "sector": 0.5,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Demais Débitos será adimplido em 120 (cento e vinte) prestações mensais sucessivas, escalonadas de acordo com os seguintes percentuais",
+  "discounts_max": "Concede-se o desconto máximo de 65% (sessenta e cinco por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "installments",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "54b88195a283",
+ "title": "Termo de Transação Individual - Geosistemas Engenharia e Planejamento LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualGeosistemasEngenhariaePlanejamentoLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualGeosistemasEngenhariaePlanejamentoLTDA.pdf",
+ "sha256": "6b6a13a1a553e92c8c639ff226063e3a4c53be5507b9383a41edc4ee064c6559",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

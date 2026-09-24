@@ -1,0 +1,58 @@
+{
+ "taxpayer": "VB TRANSPORTES E TURISMO LTDA. e outras (grupo econômico \"Belarmino\" - VB Transportes e Turismo Ltda, Auto Viação Brasil Luxo Ltda, Viação Campos do Ouros Ltda, Viação Transguarulhense Ltda, Construtora Boanova Ltda, Embralixo Empresa Bragantina de Varrição Coleta de Lixo Ltda, Nossa Senhora de Fátima Auto Ônibus Ltda, Rápido Luxo Campinas Ltda, Rápido Sumaré Ltda, Sambaíba Transportes Urbanos Ltda, Empresa São José Ltda, Urca Urbano de Campinas Ltda, Vallesul Transportes e Turismo Ltda, VB Transportes de Cargas Ltda, Via Norte Transportes Urbanos Ltda, Viação Atual Ltda, Viação Avante Ltda, Viação Boa Vista Ltda, Viação Lira Ltda, Auto Viação Ouro Verde Ltda, Viação São Paulo Ltda, Vila Real Transportes e Serviços Ltda, West Side Viagens e Turismo Ltda, Empresa Auto Ônibus São Jorge Ltda, Tuca Transportes Urbanos Campinas Ltda, Transportes Capellini Ltda, Viação Itu Ltda)",
+ "approval_date": "2025-01-20",
+ "consolidated_amount": 2142057649.49,
+ "modality": "Transação Individual (PGFN - art. 171 do CTN, Lei 13.988/2020 e Portaria PGFN nº 6.757/2022)",
+ "total_discount_pct": 50.577,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 30,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Contrato nº 021/19 (SEI nº 6020.2019/0002396-8), celebrado pela Prefeitura do Município de São Paulo com Sambaíba Transportes Urbanos Ltda, no valor de R$ 3.135.223.280,00, a ser oferecido à penhora nos autos das execuções fiscais nº 805936.2016.403.6130, nº 780478.2016.403.6130, nº 50077897720234036130 e nº 719383.2016.403.6144",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal ou outra ação judicial"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar preenchimento dos requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não ter alienado/onerado bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar capacidade de pagamento sem comunicar à Fazenda Nacional",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos exigidos, inclusive comprobatórios de prejuízo fiscal e base negativa de CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Manter-se optante pelo lucro real durante toda a vigência do acordo",
+  "Desistir de discussões judiciais pendentes vinculadas aos depósitos em até 30 dias",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação, desistir de impugnação/recurso/ação e renunciar aos direitos, confessando a dívida"
+ ],
+ "special_clauses": [
+  "Desconto máximo de 65% a cada CDA, vedada redução do montante principal, aplicado proporcionalmente sobre acréscimos legais (multa, juros e encargos)",
+  "Utilização de crédito de Prejuízo Fiscal e base de cálculo negativa de CSLL limitado a 29,802% do saldo da dívida após descontos",
+  "Cobrança do saldo liquidado com PF/BCN ficará suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo de 5 anos",
+  "Débitos redirecionados da empresa VIAÇÃO CAMPOS ELÍSEOS S.A. (CNPJ 45.998.135/0001-26) incluídos no acordo em razão de decisões de redirecionamento em Execuções Fiscais específicas",
+  "Eventuais créditos por precatório ou depósito judicial das Requerentes deverão ser direcionados para adimplemento dos saldos devedores da Transação, ainda que reduza o montante de PF/BCN utilizado",
+  "Garantia vinculada a contrato de concessão de serviço público municipal de transporte (Sambaíba/SP) no valor de R$ 3.135.223.280,00"
+ ],
+ "sector": "Transporte coletivo de passageiros (ônibus urbano/rodoviário) e serviços correlatos (construção civil, coleta de lixo, cargas)",
+ "confidence": {},
+ "source_excerpts": {},
+ "review_fields": [],
+ "id": "58b1f260fd1f",
+ "title": "Termo de Transação Individual - VB Transportes e Turismo LTDA, Auto Viação Brasil Luxo LTDA, Transportes Capellini LTDA, Viação Campos do Ouros LTDA,Viação Transguarulhense Ltda, Construtora Boa Nova LTDA, Embralixo Empresa Bragantina de Varrição Coleta de Lixo LTDA, Embralixo Empresa Bragantina de Varrição Coleta de Lixo LTDA, Nossa Senhora de Fátima Auto Ônibus LTDA, Rápido Luxo Campinas LTDA, Rápido Sumaré LTDA, Sambaíba Transportes Urbanos LTDA, Empresa São José LTDA, Urca Urbano de Campinas LTDA, Vallesul Transportes e Turismo LTDA, VB Transportes de Cargas LTDA, Via Norte Transportes Urbanos LTDA, Viação Atual Ltda, Viação Avante LTDA, Viação Boa Vista LTDA, Viação Lira LTDA, Auto Viação Ouro Verde LTDA, Viação São Paulo LTDA, Vila Real Transportes e Serviços LTDA, West Side Viagens E Turismo LTDA, Empresa Auto Ônibus São Jorge LTDA, Tuca Transportes Urbanos Campinas LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/copy_of_TermodeTransaoIndividualVBTransporteseTurismoLTDAAutoViaoBrasilLuxoLTDATransportesCapelliniLTDAViaoCamposdoOurosLTDAViaoTransguarulhenseLtdaConstrutoraBoaNovaLTDAEmbrali.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/copy_of_TermodeTransaoIndividualVBTransporteseTurismoLTDAAutoViaoBrasilLuxoLTDATransportesCapelliniLTDAViaoCamposdoOurosLTDAViaoTransguarulhenseLtdaConstrutoraBoaNovaLTDAEmbrali.pdf",
+ "sha256": "ceeffa20ee68142ad3ffa963d5fcd56a1a94b2a383501b10f435a32ca4ecafee",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

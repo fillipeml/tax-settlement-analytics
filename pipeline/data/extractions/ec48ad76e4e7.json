@@ -1,0 +1,76 @@
+{
+ "taxpayer": "Fundação Novo Milênio (e grupo econômico: Associação de Ensino Superior de Campo Grande LTDA, Domus Assessoria e Consultoria de Projetos LTDA, Universo de Ensino Novo Milênio LTDA, Centro Capixaba de Ensino Superior, União de Ensino do Espírito Santo LTDA, e pessoas físicas Sebastião Estevam Receputi, Jeferson Santos Valadares, Priscilla Coelho Siqueira de Araújo)",
+ "approval_date": "2025-03-18",
+ "consolidated_amount": 30884657.04,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 73,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel constituído de terreno com construção de dois prédios comerciais situado na Avenida Santa Leopoldina, n. 840 – Faculdade Novo Milênio, Praia de Itaparica – Vila Velha-ES, com área total de 10.650,98m², objeto de matrícula, avaliado em 12/06/2018"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Permanecer no regime de apuração de IRPJ pela modalidade de lucro real até a extinção da Dívida Transacionada",
+  "Pagamento regular de todos os tributos federais, estaduais e municipais que incidam sobre o imóvel dado em garantia",
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar/dissimular origem ou destinação de bens",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Regularizar débitos relativos ao FGTS no prazo de 90 dias",
+  "Manter regularidade perante a Receita Federal do Brasil regularizando débitos que se tornarem exigíveis em até 90 dias",
+  "Desistência de impugnações, recursos e ações judiciais/administrativas relativas à Dívida Transacionada",
+  "Renúncia às alegações de direito sobre os débitos transacionados"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação de até 61,47% do saldo remanescente das inscrições após incidência dos descontos",
+  "Possibilidade de alienação do bem dado em garantia mediante prévia anuência da CREDORA, com destinação integral do valor à quitação das parcelas vincendas",
+  "Compensação de valores de precatórios federais e restituições/ressarcimentos reconhecidos pela RFB com as prestações do acordo"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.8,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "1.2.1. Das inscrições não previdenciárias, constantes do ANEXO I, totalizando R$ 12.834.079,25, atualizados em 11/2024. 1.2.2. Das inscrições previdenciárias, constantes do ANEXO II, totalizando R$ 18.050.577,79, atualizados em 11/2024.",
+  "total_discount_pct": "2.1.1. Concessão do desconto máximo de 70% (setenta por cento) – art. 11, §4º, inciso II da Lei 13.988/2020 - incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "2.1.3. Pagamento do saldo remanescente dos débitos não previdenciários a ser efetuado em 73 (setenta e três) prestações mensais e sucessivas."
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "installments",
+  "judicial_recovery",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "ec48ad76e4e7",
+ "title": "Termo de Transação Individual - Fundação Novo Milênio",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualFundaoNovoMilnioTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualFundaoNovoMilnioTarjado.pdf",
+ "sha256": "8491378d1b98e2f20b91ff3c87c6ff9caf8314dedfb63217e05e69862b778cd5",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

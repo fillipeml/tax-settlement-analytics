@@ -1,0 +1,69 @@
+{
+ "taxpayer": "GRUPO INBRA (INBRAFILTRO INDÚSTRIA E COMÉRCIO DE FILTROS LTDA e outras empresas do grupo)",
+ "approval_date": "2024-06-07",
+ "consolidated_amount": 358823553.36,
+ "modality": "Transação Individual",
+ "total_discount_pct": 54.8,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 42,
+ "down_payment_pct": 2.1,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienaram ou oneraram bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais são verdadeiras",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Reconhecer a responsabilidade solidária pela totalidade dos débitos transacionados",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Não haverá oferta de garantia vinculada à Transação, considerando a redução significativa do prazo para adimplemento e o reconhecimento do grupo econômico de fato (Grupo INBRA) com responsabilidade solidária",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 55,04% do saldo da dívida após descontos",
+  "Reconhecimento expresso administrativo do grupo econômico de fato formado pelas empresas - Grupo INBRA",
+  "Transformação de valores bloqueados/penhorados judicialmente em pagamento definitivo, sem descontos, como parte da entrada"
+ ],
+ "sector": "Indústria/comércio (filtros, blindados, defesa, materiais de segurança, vidros, têxtil, tecnologia/defesa, aeroespacial) e imobiliário",
+ "confidence": {
+  "taxpayer": 0.9,
+  "approval_date": 0.95,
+  "modality": 0.95,
+  "sector": 0.6,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.95,
+  "installments": 0.9,
+  "judicial_recovery": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada — Total de R$ 358.823.553,36 (Trezentos e cinquenta e oito milhões, oitocentos e vinte e três mil, quinhentos e cinquenta e três reais e trinta e seis centavos)",
+  "total_discount_pct": "o que implica numa média concedida aproximada de 54,80% (cinquenta e quatro vírgula oitenta por cento) no presente acordo",
+  "installments": "Pagamento da Dívida Transacionada, tanto a de natureza não previdenciária (\"Dívida Transacionada - Demais Débitos\"), quanto a de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 42 (quarenta e duas) prestações mensais iguais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "judicial_recovery"
+ ],
+ "id": "c9fb7afacb51",
+ "title": "Termo de Transação Individual - Inbrafiltro Indústria e Comércio de Filtros LTDA,  Inbrablindados LTDA,  Inbradefesa Comércio de Materiais de Segurança LTDA,  Inbra-Glass Comércio LTDA,  Inbra-Textil Indústria e Comércio LTDA,  Inbra-Tecnologia E Defesa Indústria e Comércio LTDA,  Inbra Aerospace Indústria e Comércio de Compostos Aeronáuticos,  JCLC Empreendimentos Imobiliários LTDA,  JCLC Participações LTDA,  Lourival Cândido",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualInbrafiltroIndstriaeComrciodeFiltrosLTDAInbrablindadosLTDAInbradefesaComrciodeMateriaisdeSeguranaLTDAInbraGlassComrcioLTDAInbraTextilIndstriaeComrcio.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualInbrafiltroIndstriaeComrciodeFiltrosLTDAInbrablindadosLTDAInbradefesaComrciodeMateriaisdeSeguranaLTDAInbraGlassComrcioLTDAInbraTextilIndstriaeComrcio.pdf",
+ "sha256": "b79a72564253ff7d9aace48783e6fc56176f365b485d06c3811c4cdcfda8416a",
+ "extracted_at": "2026-07-22T14:22:44+00:00",
+ "simulated": false
+}

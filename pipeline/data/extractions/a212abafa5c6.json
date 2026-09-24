@@ -1,0 +1,72 @@
+{
+ "taxpayer": "MIRANDA COMÉRCIO E CONSTRUÇÕES LTDA",
+ "approval_date": "2023-02-20",
+ "consolidated_amount": 67636990.13,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": 0.0,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à Procuradoria-Geral da Fazenda Nacional conhecer sua situação econômica ou eventuais fatos que impliquem a rescisão do acordo",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar de qualquer forma a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores, seus reais interesses ou a identidade dos beneficiários de seus atos, em prejuízo da Fazenda Pública Federal",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União, reconhecidos em decisão judicial transitada em julgado, ou precatórios federais expedidos em favor do contribuinte",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas à administração tributária são verdadeiras e que não foram omitidas informações quanto à propriedade de bens, direitos e valores",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 (noventa) dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos neste termo, sem proceder à devida comunicação à Fazenda Nacional"
+ ],
+ "special_clauses": [
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 70% do saldo da dívida após a aplicação dos descontos, nos termos dos artigos 35 a 39 da Portaria PGFN nº 6.757/2022",
+  "A cobrança do saldo liquidado com uso de créditos decorrentes de prejuízo fiscal e de base de cálculo negativa da CSLL ficará suspensa até a confirmação dos créditos utilizados pela autoridade competente, dentro do prazo legal de cinco anos da sua utilização",
+  "Não haverá oferta de garantia vinculada à presente Transação, considerando que a negociação teve como objetivo a redução considerável do prazo para pagamento"
+ ],
+ "sector": "Comércio e construção",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.4,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "installments": 1.0,
+  "down_payment_pct": 1.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.95,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada — Total de R$ 67.636.990,13 (sessenta e sete milhões, seiscentos e trinta e seis mil, novecentos e noventa reais e treze centavos)",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada, tanto a de natureza não previdenciária (\"Dívida Transacionada — Demais Débitos\"), quanto a de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 36 (trinta e seis) prestações mensais iguais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "a212abafa5c6",
+ "title": "Termo de Transação Individual - Miranda Comércio e Construções e Construções LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMirandaComrcioeConstrueseConstruesLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMirandaComrcioeConstrueseConstruesLTDA.pdf",
+ "sha256": "99164feb20067844f3a19a4bc9d833150540e51b3418258693870d7401e08332",
+ "extracted_at": "2026-07-22T14:22:48+00:00",
+ "simulated": false
+}

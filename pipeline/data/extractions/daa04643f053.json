@@ -1,0 +1,79 @@
+{
+ "taxpayer": "BRASINCA ADMINISTRAÇÃO E SERVIÇOS S/A",
+ "approval_date": "2024-06-03",
+ "consolidated_amount": 61783423.19,
+ "modality": "Transação individual (DEMAIS e PREV - Previdenciário)",
+ "total_discount_pct": 89.42,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações judiciais",
+  "Fiança concedida pelo Presidente da Companhia, Sr. Gil Moura Neto"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Declarar preenchimento dos requisitos da Lei 13.988/2020",
+  "Não utilizar a Transação de forma abusiva",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos",
+  "Declarar não alienação/oneração de bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Manter-se optante pelo regime de lucro real durante a vigência do acordo",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional"
+ ],
+ "special_clauses": [
+  "Utilização de crédito decorrente de prejuízo fiscal e base de cálculo negativa de CSLL, limitado a 70% do saldo da dívida após aplicação dos descontos",
+  "Depósito vinculado à execução fiscal nº 0047910-28.2013.4.03.6182 imputado no débito CDA nº 80.2.13.004680-63 sem aplicação de descontos",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de 5 anos"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.6,
+  "installments": 0.85,
+  "down_payment_pct": 0.3,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "guarantees": 0.8,
+  "obligations": 0.9,
+  "judicial_recovery": 0.3,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL 52.430.361,23 (Demais) e TOTAL 9.639.829,81 (Previdenciário) - Anexo I",
+  "total_discount_pct": "Desconto médio 89,42% - Anexo II (Demais e Previdenciário)",
+  "installments": "em até 84 prestações mensais e sucessivas (DEMAIS) - cláusula 2.1.3; Parcelamento do saldo devido na modalidade PREV em 60 prestações mensais e sucessivas - cláusula 2.1.5"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "total_discount_pct"
+ ],
+ "id": "daa04643f053",
+ "title": "Termo de Transação Individual - Brasinca Administração e Serviços SA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualBrasincaAdministraoeServiosSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualBrasincaAdministraoeServiosSATarjado.pdf",
+ "sha256": "bb4eafe7b587bcadc0408225e5e91d52685788cff077ea792772158669110ea0",
+ "extracted_at": "2026-07-22T14:22:36+00:00",
+ "simulated": false
+}

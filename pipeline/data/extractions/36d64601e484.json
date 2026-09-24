@@ -1,0 +1,74 @@
+{
+ "taxpayer": "MECÂNICA E FUNDICAO IRMAOS GAZZOLA S A",
+ "approval_date": "2024-05-16",
+ "consolidated_amount": 27938299.96,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à Procuradoria-Geral da Fazenda Nacional conhecer suas situações econômicas",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas à administração tributária são verdadeiras",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 (noventa) dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 70% do saldo da dívida após a aplicação dos descontos",
+  "Considerando a momentânea iliquidez do débito FGSP200003367, a Requerente se compromete a, tão logo a dívida esteja líquida, realizar a regularização de todo o passivo de FGTS no prazo de 60 dias, sob pena de rescisão integral desta transação individual",
+  "Não haverá oferta de garantia vinculada a presente Transação"
+ ],
+ "sector": "Metalurgia/Fundição",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.6,
+  "discounts.fine_pct": 0.3,
+  "discounts.interest_pct": 0.3,
+  "discounts.charges_pct": 0.3,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.3,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "PASSIVO FISCAL CONSOLIDADO | R$ 27.938.299,96",
+  "total_discount_pct": "PERCENTUAL DE DESCONTO MÉDIO | 65%",
+  "installments": "PRAZO PARA PAGAMENTO | 36 MESES"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "36d64601e484",
+ "title": "Termo de Transação Individual - Mecânica e Fundição Irmãos Gazzola SA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMecnicaeFundioIrmosGazzolaSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMecnicaeFundioIrmosGazzolaSA.pdf",
+ "sha256": "fc9e5af2b0b7a8cbbab9813f79aa47b3ec581f2e9e07f99b96340bfb5148cb51",
+ "extracted_at": "2026-07-22T14:22:48+00:00",
+ "simulated": false
+}

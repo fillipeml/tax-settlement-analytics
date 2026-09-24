@@ -1,0 +1,57 @@
+{
+ "taxpayer": "GRUPO EDUCACIONAL CEV LTDA",
+ "approval_date": "Not identified",
+ "consolidated_amount": 140192177.99,
+ "modality": "Transação Individual - Modalidade nº 6",
+ "total_discount_pct": 52.06,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantém eventuais garantias existentes",
+  "Imóvel novo oferecido para compor garantias"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [
+  "Parcelas Lineares para conta Previdenciária",
+  "Parcelas Escalonadas para conta Não Previdenciária",
+  "Crédito de PF/BCN utilizado no valor de R$24.939.266,23 (Previdenciária)"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.7,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.5,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$140.192.177,99 R$96.913.370,72 R$36.625.218,75 EX R$4.851.346,39",
+  "total_discount_pct": "52,06% 52,68% 51,44% 0 Modalidade nº 6.",
+  "installments": "Previdenciária 60 | Demais Débitos 145 | Simples Nacional 0"
+ },
+ "review_fields": [
+  "approval_date",
+  "down_payment_pct",
+  "installments",
+  "sector"
+ ],
+ "id": "fa8b441ab139",
+ "title": "Sumário - Grupo Educacional Cev LTDA, Grupo Educacional Superior Cev LTDA, TF3 Participaçõess.A e Vortex Educacao LTDA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/SumrioGrupoEducacionalCevLTDAGrupoEducacionalSuperiorCevLTDATF3Participaess.AeVortexEducacaoLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/SumrioGrupoEducacionalCevLTDAGrupoEducacionalSuperiorCevLTDATF3Participaess.AeVortexEducacaoLTDA.pdf",
+ "sha256": "9a39042c6a04a5b31b98564221ee93d8e58e487c880581102d1dcf1ecea99894",
+ "extracted_at": "2026-07-21T19:01:33+00:00",
+ "simulated": false
+}

@@ -1,0 +1,78 @@
+{
+ "taxpayer": "SOCIBRA DISTRIBUIDORA LTDA",
+ "approval_date": "2024-07-02",
+ "consolidated_amount": 20336093.79,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em execuções fiscais",
+  "Compensação do Precatório expedido nos autos nº 12436-88.2013.4.01.4100"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos relacionados no ANEXO",
+  "Renúncia expressa a quaisquer alegações de direito e questionamentos sobre os débitos",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa após a assinatura, no prazo máximo de 90 dias",
+  "Informar previamente à PGFN a alienação e/ou disposição de bens e direitos que possam impactar a solvabilidade",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não constituir nova pessoa jurídica em benefício próprio ou de terceiros que diminua garantias",
+  "Anuir com eventual modificação da competência relativa para reunião de processos",
+  "Efetuar tempestivamente os pagamentos referentes às amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Não utilizar pessoa interposta para ocultar origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Autorizar compensação de valores de precatórios federais",
+  "Autorizar compensação de valores de restituições/ressarcimentos/reembolsos da RFB",
+  "Regularizar toda dívida exigível dos componentes do Grupo Econômico de Fato"
+ ],
+ "special_clauses": [
+  "Reconhecimento de Grupo de Fato (Cláusula 5ª) incluindo ACINOX EMPREENDIMENTOS E PARTICIPACOES LTDA e MEDICAL DA AMAZONIA EIREL, com obrigação de regularizar dívida exigível de todos os componentes",
+  "Exclusão da obrigação de comunicação prévia para atos de natureza puramente comercial (Parágrafo 4º)",
+  "Autorização de compensação de precatório específico (autos nº 12436-88.2013.4.01.4100) com a dívida transacionada"
+ ],
+ "sector": "Distribuição/Comércio",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.4,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.75,
+  "discounts": 0.3,
+  "guarantees": 0.6,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizam R$ 20.336.093,79 (vinte milhões, trezentos e trinta e seis mil, noventa e três reais, e setenta e nove centavos), atualizado no mês de junho de 2024",
+  "total_discount_pct": "a presente transação envolve concessão de desconto de até 65% (sessenta e cinco por cento), vedada a incidência sobre o principal do débito",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (demais) é de 120 (cento e vinte) meses e de 60 meses para os previdenciários"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "0fb823fbad8d",
+ "title": "Termo de Transação Individual - Socibra Distribuidora LTDA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualSocibraDistribuidoraLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualSocibraDistribuidoraLTDATarjado.pdf",
+ "sha256": "e697445f4f538743df82de110e4f982549d461ab36778fea49877056094ddc11",
+ "extracted_at": "2026-07-22T14:22:24+00:00",
+ "simulated": false
+}

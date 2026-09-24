@@ -1,0 +1,60 @@
+{
+ "taxpayer": "Not identified",
+ "approval_date": "Not identified",
+ "consolidated_amount": 17450163.01,
+ "modality": "TRANSACAO INDIVIDUAL (DEPENDE DE PREVIA APROVACAO DO PDA DA REGIAO) - Modalidades: 0166 - DEMAIS DEBITOS -PJ- DEMAIS- ATE 120 MESES -ENT- REDUCAO DE ATE 65% - 3/3-F; 0183 - DEBITOS PREVIDENCIARIOS -PJ- DEMAIS- ATE 60 MESES -ENTRADA -REDUCAO DE ATE 65% - 3/3-F",
+ "total_discount_pct": 56.03,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.0,
+  "approval_date": 0.0,
+  "modality": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.0,
+  "obligations": 0.0,
+  "special_clauses": 0.0,
+  "judicial_recovery": 0.0,
+  "sector": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor da dívida global na data da adesão: 17.450.163,01",
+  "total_discount_pct": "Percentual máximo de desconto possível*: 56,03% ... Desconto a ser aplicado: 56,03%"
+ },
+ "review_fields": [
+  "taxpayer",
+  "approval_date",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "obligations",
+  "special_clauses",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "5993b23f2ecf",
+ "title": "Anexo I - Tecnotok Indústria de Máquinas  LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/AnexoITecnotokIndstriadeMquinasLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/AnexoITecnotokIndstriadeMquinasLTDA.pdf",
+ "sha256": "eb236a29fa1cc18cc1a3eb9f0dd00c9af8473c3dca114b6d688c59e1ffefd843",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

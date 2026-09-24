@@ -1,0 +1,81 @@
+{
+ "taxpayer": "Transmatic Transporte e Comércio Ltda.",
+ "approval_date": "2025-04-04",
+ "consolidated_amount": 24746970.77,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção das penhoras já realizadas nas ações de execução fiscal",
+  "Bem imóvel pertencente à empresa 3 M G Empreendimentos Imobiliários Ltda (CNPJ nº 18.177.095/0001-89)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens",
+  "Declarar não ter alienado ou onerado bens para frustrar a recuperação dos créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação de bens do ativo não circulante",
+  "Cumprir exigências da Portaria PGFN 6757/22",
+  "Renunciar a alegações de direito sobre ações judiciais relativas aos créditos incluídos",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Individualizar valores recolhidos nas contas vinculadas do FGTS",
+  "Não desistir unilateralmente da transação",
+  "Permanecer no regime de tributação pelo lucro real até cumprimento integral do acordo",
+  "Declarar não possuir créditos líquidos e certos ou precatórios em desfavor da União",
+  "Manter por 5 anos livros e documentos comprobatórios de prejuízo fiscal e BCN da CSLL",
+  "Apresentar situação econômico-financeira sempre que a PGFN reputar oportuno",
+  "Manter em dia pagamento de taxas sobre bens dados em garantia",
+  "Promover atos necessários à formalização da garantia (indicação de bens, documentos, avaliações)"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de Prejuízo Fiscal (PF) e Base de Cálculo Negativa da CSLL (BCN) no valor nominal de R$ 3.400.000,00 na amortização do saldo devedor",
+  "Inclusão de débitos de FGTS e contribuições sociais no mesmo acordo de transação individual",
+  "Oferecimento de bem imóvel de terceiro (3 M G Empreendimentos Imobiliários Ltda) como garantia"
+ ],
+ "sector": "Transporte",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.9,
+  "modality": 0.9,
+  "sector": 0.5,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.3,
+  "down_payment_pct": 0.2,
+  "installments": 0.6,
+  "discounts": 0.3,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.7,
+  "judicial_recovery": 0.2
+ },
+ "source_excerpts": {
+  "consolidated_amount": "cujo montante totaliza, em março/2025, R$ 24.746.970,77 (vinte e quatro milhões, setecentos e quarenta e seis mil, novecentos e setenta reais, setenta e sete centavos)",
+  "installments": "o saldo restante será objeto de plano de pagamento em 120 (cento e vinte) amortizações escalonadas, mensais e sucessivas, conforme os valores estipulados no Anexo III"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "fc51169b4f61",
+ "title": "Termo de Transação Individual - Transmatic Transporte e Comércio LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualTransmaticTransporteeComrcioLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualTransmaticTransporteeComrcioLTDA.pdf",
+ "sha256": "b2ca3bd7050777c8f84f7a6c786ecb521e46a9f0defc4e8d86326931dcf7f523",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

@@ -1,0 +1,76 @@
+{
+ "taxpayer": "SARANTOPOULOS HOTÉIS E IMÓVEIS LTDA, BLACK STREAM HOTEL S/A e BUFFET BLACK TIE LTDA",
+ "approval_date": "2022-03-23",
+ "consolidated_amount": 18120229.46,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel da Rua General Osório, nº 850, Centro, Ribeirão Preto/SP, matrícula nº 4.644 do 2º Registro de Imóveis, ou as unidades de apartamento e áreas comuns a serem individualizadas"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar/dissimular bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar o cumprimento da transação sem comunicação prévia",
+  "Concordar com compensação de ofício da Dívida Transacionada",
+  "Concluir em 180 dias o desmembramento da matrícula nº 4.644 em matrículas individuais",
+  "Levar à homologação judicial, em 30 dias, o termo de negócio jurídico processual",
+  "Peticionar em 30 dias nos processos judiciais para noticiar a transação, desistir de impugnações/recursos e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Conversão do empreendimento hoteleiro em condomínio residencial com venda de unidades de apartamento para pagamento da dívida",
+  "Rateio por igual entre Fazenda Nacional e proprietária devedora da receita da venda das primeiras 15 unidades de apartamento",
+  "Substituição da penhora do imóvel matrícula 4.644 por penhoras das unidades individualizadas",
+  "Alienação das unidades condicionada à anuência da Fazenda Nacional como interveniente no contrato de compra e venda",
+  "Negócio Jurídico Processual (art. 190 CPC) regulando alienação por iniciativa particular (art. 880 CPC) do imóvel penhorado"
+ ],
+ "sector": "Hotelaria/imobiliário (conversão para residencial) e buffet/eventos",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.2,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Atualmente, as dívida inscritas, todas elegíveis à transação, perfazem o valor total de R$ 18.120.229,46 (dezoito milhões, cento e vinte mil, duzentos e vinte e nove reais e quarenta e seis centavos)",
+  "total_discount_pct": "Desconto máximo de até 70% (setenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 145 (cento e quarenta e cinco) prestações mensais, escalonadas na forma discriminada no Anexo I"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "eb4052205df8",
+ "title": "Termo de Transação Individual - Sarantopoulos Hoteis e Imóveis LTDA, Black Stream Hotel S/A, Buffet Black Tie LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSarantopoulosHoteiseImveisLTDABlackStreamHotelSABuffetBlackTieLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSarantopoulosHoteiseImveisLTDABlackStreamHotelSABuffetBlackTieLTDA.pdf",
+ "sha256": "13af4aedb0ae20d4e7aaa9831afaee8c0ee681e303b5395c231e5aeef92ab508",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

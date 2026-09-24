@@ -1,0 +1,74 @@
+{
+ "taxpayer": "CONFEDERAÇÃO BRASILEIRA DE CANOAGEM",
+ "approval_date": "2022-06-03",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Plano de Pagamento Parcelado",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens já penhorados nas Execuções Fiscais nº 5015440-02.2010.404-7000 e 5079672-81.2014.404.7000"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos",
+  "Cumprir exigências e obrigações da Portaria PGFN 9.917/20",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Confessar de forma irrevogável e irretratável a dívida objeto da transação",
+  "Apresentar situação econômico-financeira anualmente por demonstrações de resultados",
+  "Manter recolhimento de obrigações tributárias correntes e acessórias",
+  "Adimplir emolumentos de protesto cartorário das inscrições abrangidas"
+ ],
+ "special_clauses": [
+  "Cláusula 8ª §1º - Sub-rogação da União como procuradora em caso de desapropriação dos bens dados em garantia",
+  "Cláusula 9ª §4º - Rescisão implica vedação de nova transação por 2 anos",
+  "Cláusula 11 - Certidão positiva com efeitos de negativa nos termos do art. 206 CTN"
+ ],
+ "sector": "esporte/entretenimento",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "sendo concedido o desconto máximo de até 70% por inscrição, conforme simulação anexa e observados os limites do §3º do art. 11 da Lei n. 13.988/20 conforme determina o art. 8º da Lei 14.073/2020",
+  "installments": "O plano relativo às inscrições indicadas no Anexo II prevê o pagamento em 145 (cento e quarenta e cinco) parcelas mensais, escalonadas e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "39a315f6cf0f",
+ "title": "Termo de Transação Individual - Confederação Brasileira de Canoagem",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualConfederaoBrasileiradeCanoagem.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualConfederaoBrasileiradeCanoagem.pdf",
+ "sha256": "3bc147e83f73da7fbc753d62f0a93a2e33a5657343b16af9ec2e30e586c6e62b",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

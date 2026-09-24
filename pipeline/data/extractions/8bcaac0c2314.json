@@ -1,0 +1,62 @@
+{
+ "taxpayer": "COMPANHIA ACUCAREIRA CENTRAL SUMAUMA; PENEDO AGRO INDUSTRIAL S/A; COMPANHIA ACUCAREIRA USINA CAPRICHO; IBERIA INDUSTRIAL E COMERCIAL LTDA (todas em recuperação judicial, exceto Iberia)",
+ "approval_date": "2024-08-27",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Primeiro Termo Aditivo (inclusão de novos débitos previdenciários e não previdenciários)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "O DEVEDOR dá-se por ciente de que mensalmente deverá recolher os DARFs relativos a cada uma das contas formalizadas no sistema informatizado",
+  "Todas as contas compõem uma transação única, de forma que eventual inadimplência constatada para qualquer dessas contas implicará a inadimplência de toda a transação"
+ ],
+ "special_clauses": [
+  "Inclusão de novos débitos não previdenciários (DEMAIS) e previdenciários mediante duas novas contas SISPAR, com as mesmas condições de desconto e prazo restante de parcelamento das contas já criadas",
+  "Concessão do aproveitamento de prejuízo fiscal e base de cálculo negativa da CSLL para pagamento do saldo remanescente, autorizado no montante de até 50% do total da dívida após aplicação dos descontos",
+  "O montante de prejuízo fiscal e base de cálculo negativa da CSLL será utilizado para liquidar 70% da dívida previdenciária após aplicação dos descontos, devendo o saldo remanescente ser utilizado na quitação da conta demais débitos da pessoa jurídica",
+  "Inclusão do crédito não inscrito nº 40 2 024 000025-30, relativo a honorários advocatícios, com descontos incidindo apenas sobre multa, juros e honorários incidentes sobre os próprios honorários, dívida paga de forma parcelada linearmente pelo prazo restante de cumprimento da transação originária",
+  "Inclusão dos créditos de FGTS FGAL202400115 e Contribuição Social da Lei Complementar nº 110/2002 CSAL202300048 e CSAL202400116, conforme simulações em anexo"
+ ],
+ "sector": "Agronegócio/sucroalcooleiro",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.8,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "judicial_recovery": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.8,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees"
+ ],
+ "id": "8bcaac0c2314",
+ "title": "1º aditivo - Companhia Açucareira Central Sumaúma",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/1aditivoCompanhiaAucareiraCentralSumamaTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/1aditivoCompanhiaAucareiraCentralSumamaTarjado.pdf",
+ "sha256": "31d24b1b718f7d3f7c57c40d8833159fa6f070b8abc83361dc6a08a837a90a36",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

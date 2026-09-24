@@ -1,0 +1,79 @@
+{
+ "taxpayer": "FLUMINENSE FOOTBALL CLUB",
+ "approval_date": "2022-10-17",
+ "consolidated_amount": 31953198.02,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Contrato de cessão de direitos de captação, fixação, edição, exibição, em TV Aberta e Internet, dos Sons e Imagens do Campeonato Brasileiro de Clubes da Série A – Temporadas de 2019 a 2024, celebrado com a GLOBO COMUNICAÇÃO E PARTICIPAÇÕES S.A",
+  "Penhora nas execuções fiscais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Renunciar a impugnações, recursos e ações administrativas ou judiciais sobre a dívida transacionada",
+  "Peticionar nos processos judiciais em 30 dias para noticiar a transação e requerer formalização da penhora",
+  "Confessar de forma irrevogável e irretratável os débitos",
+  "Substituir as garantias por novos contratos de cessão de direitos de transmissão enquanto não houver quitação integral",
+  "Apresentar novos contratos de garantia à CREDORA até 6 meses antes do fim da vigência do contrato de garantia",
+  "Permanecer nos parcelamentos já aderidos",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União em até 90 dias",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não alienar bens sem comunicação à Fazenda Nacional",
+  "Autorizar compensação de restituições, ressarcimentos, reembolsos e precatórios com as prestações do acordo"
+ ],
+ "special_clauses": [
+  "Substituição de garantias por novos contratos de cessão de direitos de transmissão de campeonatos de futebol enquanto não houver quitação integral (cláusula 3.3)",
+  "Garantia formalizada através de penhora de contrato de direitos de transmissão televisiva (cláusula 3.1.1)",
+  "Adesão à Transação regulada pela Portaria PGFN nº 7917/2021 (PERSE) mencionada nos considerandos"
+ ],
+ "sector": "futebol/entretenimento",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.9,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.5,
+  "total_discount_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.3,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizando R$ 31.725.794,09 (trinta e um milhões, setecentos e vinte e cinco mil, setecentos e noventa e quatro reais e nove centavos) a título de débito de FGTS e R$ 227.403,93 (duzentos e vinte e sete mil, quatrocentos e três reais e noventa e três centavos) a título de Contribuição Social",
+  "discounts_fgts": "será concedido desconto de 33,32%",
+  "discounts_cs": "será concedido desconto de 50%",
+  "installments_fgts": "Número de parcelas: 105",
+  "installments_cs": "Número de parcelas: 20"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "installments",
+  "judicial_recovery"
+ ],
+ "id": "8f95f60559fc",
+ "title": "Termo de Transação Individual -  Fluminense Football Club",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualFluminenseFootballClubTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualFluminenseFootballClubTarjado.pdf",
+ "sha256": "b7c4020892bafaee7ba507e4beb2663d80ff057dc443847515391feb112105c0",
+ "extracted_at": "2026-07-22T14:22:29+00:00",
+ "simulated": false
+}

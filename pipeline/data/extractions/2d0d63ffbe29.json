@@ -1,0 +1,65 @@
+{
+ "taxpayer": "CLUBE DE REGATAS DO FLAMENGO",
+ "approval_date": "2024-07-01",
+ "consolidated_amount": null,
+ "modality": "Negócio Jurídico Processual (art. 190 CPC) - Adesão ao parcelamento especial da Lei 13.155/2018 (PROFUT)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis matriculados junto ao 3º RGI do Rio de Janeiro sob os números 51469A,9143A, 9158A,9260A, 9786A, 9806A, 9285A, 51473A, 9168A, 51474A, 9846A, 53723A, 11059A, 9886A, 58009A, 51476-A, substituídos por bens imóveis matriculados junto ao 9º RGI do Rio de Janeiro sob os números 135.275 e 135.274"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Comprovar no prazo de 30 dias, contados da assinatura do termo, o protocolo do pedido de penhora judicial perante os Juízos das Varas Judiciais em que tramitam as Execuções Fiscais indicadas na cláusula 1",
+  "Não requerer nova substituição de penhora até a extinção por liquidação do parcelamento especial previsto na Lei 13.155/2015 e objeto do procedimento administrativo nº 11707.721502/2015-21",
+  "Manter as garantias já realizadas na forma do presente negócio jurídico processual, independentemente de regulamentação específica de novos programas de parcelamento ou transação",
+  "Efetuar o pagamento regular de todos os tributos federais, estaduais e municipais que incidam ou venham incidir sobre os imóveis matriculados junto ao 9º RGI do Rio de Janeiro sob os números 135.275 e 135.274",
+  "Cumprir todas as demandas/comprovações exigidas por este termo através da apresentação de requerimento administrativo via portal REGULARIZE, com expressa menção ao processo SEI nº 19726.009183/2024-57"
+ ],
+ "special_clauses": [
+  "Substituição de bens imóveis dados em garantia nas Execuções Fiscais nºs 0504742-66.2005.4.02.5101, 0508936-12.2005.4.02.5101, 0521851-59.2006.4.02.5101, 0504741-81.2005.4.02.5101, 0502029-21.2005.4.02.5101, por outros imóveis (matrículas 135.275 e 135.274 do 9º RGI)",
+  "Alienação dos bens matriculados sob os números 135.275 e 135.274 condicionada à prévia anuência da CREDORA, inclusão desta como anuente no contrato de compra e venda e destinação integral do valor obtido à quitação das parcelas vincendas do parcelamento especial",
+  "Em caso de rescisão do parcelamento especial (PROFUT), a CREDORA poderá promover a retomada do curso da cobrança dos créditos, com a imediata execução das garantias prestadas",
+  "Em caso de execução das garantias, faculta-se à CREDORA requerer judicialmente a adjudicação dos bens ou promover a alienação por sua própria iniciativa através da plataforma 'COMPREI' ou por intermédio de corretor ou leiloeiro público credenciado",
+  "Em caso de desapropriação total ou parcial dos imóveis oferecidos como garantia, a CREDORA fica nomeada e constituída procuradora do(s) proprietário(s) para receber do poder desapropriante a indenização devida, aplicando-a na amortização ou liquidação da transação"
+ ],
+ "sector": "Futebol/entretenimento",
+ "confidence": {
+  "taxpayer": 1.0,
+  "approval_date": 0.95,
+  "modality": 0.85,
+  "sector": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "2d0d63ffbe29",
+ "title": "Termo de Transação Individual -  Clube de Regatas do Flamengo",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualClubedeRegatasdoFlamengoTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualClubedeRegatasdoFlamengoTarjado.pdf",
+ "sha256": "fb11336f2d2b710cc4fd11d9bc9200a09eb465a31cbf9e20f17db94a1098ab43",
+ "extracted_at": "2026-07-22T14:22:29+00:00",
+ "simulated": false
+}

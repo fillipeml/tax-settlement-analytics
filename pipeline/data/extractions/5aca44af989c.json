@@ -1,0 +1,84 @@
+{
+ "taxpayer": "RADIO E TELEVISAO BANDEIRANTES S/A e REDE 21 COMUNICAÇÕES S/A",
+ "approval_date": "2023-09-17",
+ "consolidated_amount": 67113015.12,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção das garantias existentes até a quitação integral (sem novas garantias exigidas)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/valores",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam reduzir capacidade de pagamento sem comunicação prévia",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Solicitar à RFB em até 60 dias o envio para inscrição em Dívida Ativa dos débitos do Anexo III",
+  "Comunicar à Fazenda Nacional a efetivação da inscrição em Dívida Ativa dos débitos do Anexo III",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Manter-se optante pelo lucro real durante toda a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir de recursos/ações"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, limitado a 61% do saldo da dívida não previdenciária e 37% da dívida previdenciária após descontos",
+  "Cobrança do saldo liquidado com PF/BCN fica suspensa até confirmação dos créditos pela autoridade competente (prazo de 5 anos)",
+  "Débitos do Anexo III (ainda em cobrança na RFB) serão consolidados após inscrição em Dívida Ativa, aplicando-se as mesmas condições",
+  "Obrigação de manter-se no regime de lucro real durante toda vigência do acordo devido ao uso de PF/BCN"
+ ],
+ "sector": "Radiodifusão/Televisão (entretenimento/mídia)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.5,
+  "total_discount_pct": 0.75,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.6,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL R$ 67.113.015,12 (Anexo I - 1.1 Débitos Previdenciários)",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza previdenciária e não previdenciária em 36 prestações mensais iguais e sucessivas."
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "5aca44af989c",
+ "title": "Termo de Transação Individual - Radio e Televisão Bandeirantes",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRadioeTelevisoBandeirantesSAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRadioeTelevisoBandeirantesSAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "35b938bf1c91fa547f01c92e9283608f594679c27d842f45549e6094677710ca",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

@@ -1,0 +1,87 @@
+{
+ "taxpayer": "GRUPO MKJ/MR GLOBAL (MKJ Importação & Comércio Ltda - Em Recuperação Judicial e outras empresas do grupo)",
+ "approval_date": "2024-06-27",
+ "consolidated_amount": 172583756.53,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis descritos nos Anexos XIII a XVIII, objeto de penhora nas execuções fiscais",
+  "Manutenção de indisponibilidades/penhoras/bloqueios já existentes",
+  "Penhora sobre recursos financeiros relativos a cotas sociais indisponibilizadas (juros sobre capital próprio, distribuição de lucros e dividendos, rateios de sobras e empréstimos)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens ou valores",
+  "Declarar não alienação/oneração de bens para frustrar recuperação de créditos",
+  "Cumprir exigências da Portaria PGFN 6.757/22",
+  "Declarar veracidade das informações cadastrais e patrimoniais",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após o acordo",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "MKJ manter-se optante do regime de lucro real durante toda a negociação (em razão de créditos de prejuízo fiscal e base negativa de CSLL)",
+  "Não desistir unilateralmente do acordo",
+  "Peticionar nos executivos fiscais concordando com inclusão no polo passivo de corresponsáveis",
+  "Quitar custas processuais pendentes e despesas de cancelamento de leilões",
+  "Apresentar situação econômico-financeira sempre que demandado",
+  "Manter recolhimento das obrigações tributárias correntes",
+  "Adimplir emolumentos de protesto cartorário anterior",
+  "Peticionar em até 30 dias para desistência de impugnações/recursos administrativos e ações judiciais (Cláusula 7ª)",
+  "Formalizar penhora dos imóveis em garantia em até 180 dias"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para amortização, com compromisso de permanência no lucro real (Cláusula 2ª, XII)",
+  "Uso de valores depositados judicialmente na Cautelar Fiscal nº 5005927-84.2013.4.04.7200 para amortização escalonada dos débitos (Cláusula 5ª, §2º)",
+  "Utilização de PF/BCN (Prejuízo Fiscal/Base de Cálculo Negativa) no valor de R$ 93.000.000,00 do total disponível de R$ 102.000.000,00 (Cláusula 5ª, f)",
+  "Supressão temporária de depósitos judiciais de dividendos/distribuição de lucros a partir do pagamento da entrada, mantendo a penhora sobre tais recursos (Cláusula 10, §1º)",
+  "Possibilidade de alienação dos imóveis dados em garantia com destinação do produto ao pagamento das parcelas, mediante prévia concordância da PGFN (Cláusula 12, §4º e §5º)",
+  "Antecipação de parcelas específicas (24, 48, 72, 96, 120 para demais débitos; 24, 48, 60 para previdenciários) com recursos de eventuais alienações de imóveis (Cláusula 12, §8º)",
+  "Tratamento diferenciado para o crédito do Cumprimento de Sentença nº 50160485920224047200, negociado em 100 parcelas lineares com desconto limitado a 65% (Cláusula 5ª, §7º)",
+  "Penhora sobre direitos de aquisição (promessa de compra e venda não registrada) ao invés de propriedade plena sobre imóvel de matrícula específica em Barueri/SP (Cláusula 12, §3º)"
+ ],
+ "sector": "Importação e comércio",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.8,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Aplicando-se os descontos previstos na Lei Federal nº 13.988/2020 de acordo com a capacidade de pagamento do grupo considerada as contas tributárias totalizam R$ 172.583.756,53, divididos em R$ 142.153.697,01 (demais débitos) e R$ 30.430.059,52 (débitos previdenciários)",
+  "total_discount_pct": "sendo concedido o desconto até 65,00%, conforme simulações anexas e observados os limites dos §§ 2º e 3º do art. 11 da Lei n. 13.988/20",
+  "installments": "a) 120 (cento e vinte) pagamentos mensais para os DEMAIS DÉBITOS; 60 (sessenta) pagamentos mensais para os DÉBITOS PREVIDENCIÁRIOS, prestações sucessivas e escalonadas"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "17ed0ad7c469",
+ "title": "Termo de Transação Individual - MKJ Importação e Comércio LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualMKJImportaoeComrcioLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualMKJImportaoeComrcioLTDATarjado.pdf",
+ "sha256": "857e99a45b3995b1092afa0ca08714f28c7b7c5d1689e389e07058118fea4927",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

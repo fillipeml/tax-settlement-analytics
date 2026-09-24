@@ -1,0 +1,83 @@
+{
+ "taxpayer": "SPILTAG INDUSTRIAL LTDA",
+ "approval_date": "2024-03-13",
+ "consolidated_amount": null,
+ "modality": "Transação individual (modalidades DEMAIS e PREV)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel matriculado sob o número 68.973 (2º Cartório de Registro de Imóveis de Marília/SP) - Av. Carlos Tosin, 1083, Distrito Industrial, Marília/SP",
+  "Imóvel matriculado sob o número 15.959 (2º Cartório de Registro de Imóveis de Marília/SP) - Chácara Fagulas, Rua José Castelo Teixeira, nº 154",
+  "Máquinas, equipamentos, móveis, utensílios e veículos de propriedade da Requerente"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Declarar que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos futuros inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter-se regular e em dia com as parcelas devidas",
+  "Manter livros e documentos fiscais por 5 anos, incluindo comprovação de prejuízo fiscal e base negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Reconhecimento de grupo econômico entre Proponente e Interveniente Anuente, com corresponsabilização em caso de rescisão (item 1.3)",
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor de R$13.912.630,00 para amortização do saldo devedor",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas",
+  "Anuência com utilização do Sistema COMPREI da PGFN para eventual alienação dos imóveis dados em garantia"
+ ],
+ "sector": "Industrial",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.5,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em 120 (cento e vinte) prestações mensais e sucessivas",
+  "credito_pf_csll": "Utilização de crédito no valor de R$13.912.630,00 (treze milhões, novecentos e doze mil, seiscentos e trinta reais), a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "c79e44a09460",
+ "title": "Termo de Transação Individual - Spiltag Industrial LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSpiltagIndustrialLTDATarajado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSpiltagIndustrialLTDATarajado.pdf",
+ "sha256": "5b501c4f87e7e8d3e8462a6ad5d9f1874c8c51956df35780032a94d0aa568b2f",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

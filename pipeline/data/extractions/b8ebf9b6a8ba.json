@@ -1,0 +1,59 @@
+{
+ "taxpayer": "URBANA COMPANHIA DE SERVICOS URBANOS DE NATAL",
+ "approval_date": "2022-03-23",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Termo Aditivo) - Demais Débitos",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Regularizar a dívida previdenciária até 30.06.2022, sob pena de rescisão do acordo",
+  "Regularização de todo o passivo da empresa, nos termos do art. 15 da Portaria PGFN nº 9.917/2020"
+ ],
+ "special_clauses": [
+  "Prorrogação de prazo para regularização da dívida previdenciária até 30.06.2022, sob pena de rescisão do acordo",
+  "Município de Natal assume corresponsabilidade na negociação por ser acionista majoritário da devedora, em razão do interesse público na continuidade do serviço de limpeza e conservação"
+ ],
+ "sector": "Serviços urbanos/limpeza e conservação",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.95,
+  "modality": 0.85,
+  "sector": 0.6,
+  "judicial_recovery": 0.5,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "sector",
+  "judicial_recovery",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "guarantees"
+ ],
+ "id": "b8ebf9b6a8ba",
+ "title": "Termo Aditivo - Urbana",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermoAditivoURBANA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermoAditivoURBANA.pdf",
+ "sha256": "8e40373ba6ae99c1aaafe3c41e8073160294e17c29d6deba484b13e28debac0e",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

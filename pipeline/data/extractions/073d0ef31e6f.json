@@ -1,0 +1,82 @@
+{
+ "taxpayer": "José Gualberto de Freitas Almeida (Fazenda São Paulo Ltda., Fazenda Milano S.A., Fazenda Pérsico S.A., Fazenda Agropart S.A.)",
+ "approval_date": "2020-06-04",
+ "consolidated_amount": 961525.76,
+ "modality": "Convenção/Transação Individual (art. 190 CPC/2015, Portarias PGFN 360/2018, 742/2018, Lei 13.988/2020, Portarias PGFN 9917/20 e 9924/20)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Depósito judicial vinculado ao processo nº 0800335-20.1997.4.05.8308"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Renúncia a todas as discussões administrativas e/ou judiciais existentes sobre os débitos listados",
+  "Apresentação nos autos das demandas judiciais de termos de renúncia, requerendo extinção dos feitos (art. 487, III, 'c' do CPC)",
+  "Comprovação dos atos em até 30 dias após assinatura da convenção (ou 30 dias após retomada do Judiciário, para processos físicos)",
+  "Fazenda Milano: providenciar desistência do Mandado de Segurança nº 0800412-23.2020.4.05.8308",
+  "Fazenda Milano: pagamento do pedágio para inclusão dos débitos no PERT com valores do depósito judicial",
+  "Fazenda Milano: quitar saldo remanescente com créditos de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Fazenda Agropart: apresentar certidões narrativas ou cópias de processos em até 90 dias após retomada do Judiciário",
+  "Fazenda Agropart: aderir à transação ou parcelamento caso inscrições não estejam extintas, em até 90 dias",
+  "Regularização de novos débitos supervenientes em até 30 dias da notificação da PGFN",
+  "Peticionar nos processos de execução fiscal para comunicar a celebração do acordo",
+  "Sustar ajuizamento de demandas similares sobre as inscrições mencionadas",
+  "Não litigar por condenação em honorários para a União"
+ ],
+ "special_clauses": [
+  "Reconhecimento de corresponsabilidade solidária entre as quatro pessoas jurídicas e o devedor, em razão de interesse comum nos fatos geradores (Cláusula Décima Sétima)",
+  "Utilização de valores de depósito judicial (processo nº 0800335-20.1997.4.05.8308) para pagamento e parcelamento dos débitos",
+  "Reconhecimento definitivo pela União da possibilidade de inclusão de débitos previdenciários da Fazenda Milano no PERT, inclusive com uso de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Exclusão expressa de certas inscrições da negociação (Cláusulas Segunda e Quarta)",
+  "Levantamento imediato de R$ 700.000,00 do depósito judicial pela Fazenda São Paulo",
+  "Possibilidade de ingresso em parcelamento ou forma de quitação mais favorável futuramente (Cláusula Décima Quinta)"
+ ],
+ "sector": "Agronegócio",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.7,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Os débitos acima listados perfazem a soma de R$ 961.525,76",
+  "installments": "Sobre tais créditos incidirá desconto de 30%, admitindo-se o pagamento em até 60 prestações."
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "073d0ef31e6f",
+ "title": "Termo de Transação Individual - Fazenda Milano SA e Outros",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-fazenda-milano-sa-e-outros-inf-suprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-fazenda-milano-sa-e-outros-inf-suprimidas.pdf",
+ "sha256": "fabcff44a4b53f32080748963b73656c6a664bf47317c169af4ee67580f692bf",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

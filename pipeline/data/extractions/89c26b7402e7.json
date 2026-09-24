@@ -1,0 +1,79 @@
+{
+ "taxpayer": "EXPRESS TRANSPORTES URBANOS LTDA",
+ "approval_date": "2021-06-09",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (nos termos das condições da Transação Excepcional art. 9º, II, a, da Portaria PGFN 14.402/2020, aplicada via art. 37-B da Portaria PGFN 9.917/2020)",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": 100.0,
+  "interest_pct": 100.0,
+  "charges_pct": 100.0
+ },
+ "installments": 36,
+ "down_payment_pct": 0.334,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos inscritos listados no item 1.1, renovada a cada pagamento periódico",
+  "Renunciar a quaisquer alegações de direito, atuais ou futuras, no prazo de 30 dias, sobre ações judiciais/recursos relativos aos créditos incluídos na transação",
+  "Adimplemento do plano de pagamento dos débitos incluídos na transação",
+  "Reconhecimento da incidência de juros Selic sobre as parcelas",
+  "Reconhecimento do prazo máximo de pagamento de 48 meses",
+  "Efetuar pagamentos das parcelas mensais via REGULARIZE",
+  "Compromisso de, no prazo de 90 dias, pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União e/ou do FGTS",
+  "Compromisso de manter regularidade perante o FGTS",
+  "Autorização de acesso à Fazenda Nacional às declarações e escritas fiscais",
+  "Compromisso de comunicar abertura de novas pessoas jurídicas controladas ou coligadas ao DEVEDOR",
+  "Declarar que não alienará bens ou direitos sem comunicação prévia à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens ou valores",
+  "Declarar não ter alienado ou onerado bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Peticionar nos processos judiciais em 10 dias para noticiar a celebração do acordo",
+  "Desistir de ações/recursos contrários aos pedidos de redirecionamento em 30 dias",
+  "Digitalizar processos judiciais relativos aos débitos transacionados em 30 dias"
+ ],
+ "special_clauses": [
+  "Transação Individual observando as mesmas condições da modalidade Excepcional (art. 9º, II, a, da Portaria PGFN 14.402/2020) devido a problemas técnicos na adesão via Portal Regularize",
+  "Eventuais créditos que o DEVEDOR venha a dispor (precatório, levantamento de depósito judicial) deverão ser direcionados para a Execução Fiscal nº 0047991-74.2013.4.03.6182",
+  "Depósitos efetuados nas execuções fiscais serão utilizados para pagamento das últimas parcelas desta transação"
+ ],
+ "sector": "Transporte urbano",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.8,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.9,
+  "discounts.interest_pct": 0.9,
+  "discounts.charges_pct": 0.9,
+  "guarantees": 0.6,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "total_discount_pct": "será concedido desconto de 50% (cinquenta por cento) sobre a dívida consolidada após o pagamento da entrada",
+  "down_payment_pct": "pagamento, a título de entrada, de valor mensal equivalente a 0,334% (trezentos e trinta e quatro centésimos por cento) do valor consolidado dos créditos transacionados, durante 12 (doze) meses",
+  "installments": "em até 36 (trinta e seis) parcelas mensais e sucessivas"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "judicial_recovery",
+  "sector",
+  "guarantees"
+ ],
+ "id": "89c26b7402e7",
+ "title": "Termo de Transação Individual - Express Viação",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-express-viacao-x.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-express-viacao-x.pdf",
+ "sha256": "cb82097ec1232c9285079813dd5137712da40926de4f0790c45102f6f586ef65",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

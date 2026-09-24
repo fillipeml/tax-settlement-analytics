@@ -1,0 +1,73 @@
+{
+ "taxpayer": "PRODUTOS ALIMENTÍCIOS CRISPETES LTDA",
+ "approval_date": "2021-10-22",
+ "consolidated_amount": 45353347.56,
+ "modality": "Transação Individual",
+ "total_discount_pct": 45.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 50.0
+ },
+ "installments": 84,
+ "down_payment_pct": 1.15,
+ "guarantees": [
+  "Hipoteca sobre imóveis matriculados sob números 200 e 6.444 junto ao 2º Cartório de Registro de Imóveis de São Caetano do Sul, SP"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter-se em dia com o recolhimento de tributos federais, quitando, parcelando ou garantindo integralmente débitos inscritos após a assinatura, no prazo de 90 dias",
+  "Manter regularidade dos recolhimentos ao FGTS",
+  "Manter escrituração contábil e fiscal regulares e observar prazos de obrigações acessórias",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar/falsear a livre concorrência",
+  "Não alienar bens ou direitos próprios ou de controladores/administradores/gestores sem comunicação à Fazenda Nacional, salvo fomento mercantil",
+  "Apresentar semestralmente (janeiro e julho) contratos de fomento mercantil e cópias de borderôs",
+  "Não utilizar pessoa natural ou jurídica interposta para ocultar/dissimular bens, direitos ou valores",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Apresentar semestralmente (janeiro e julho) cópia dos extratos bancários de todas as contas",
+  "Apresentar relação de bens particulares dos controladores/administradores/gestores/representantes legais",
+  "Recompor em até 12 meses o número de vínculos empregatícios informados no CAGED em 31/12/2019"
+ ],
+ "special_clauses": [
+  "Entrada de 100% do valor devido a título de FGTS e 1,15% do valor consolidado dos débitos previdenciários e demais débitos, dividida em 6 parcelas, sendo a primeira concentrando toda a dívida de FGTS",
+  "Descontos sobre acréscimos legais (juros, multa e encargo legal) até o limite de 50% do valor consolidado da dívida, conforme ANEXO II, imputados proporcionalmente entre as rubricas",
+  "Descontos não incidem sobre valores devidos ao FGTS ou sobre o valor principal dos tributos",
+  "Prazo máximo de 60 meses para débitos previdenciários e 84 meses para demais débitos",
+  "Créditos que a REQUERENTE venha a dispor (precatório, depósito judicial etc.) deverão ser direcionados para adimplemento antecipado dos saldos devedores"
+ ],
+ "sector": "Alimentício",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "down_payment_pct": 1.0,
+  "installments": 0.9,
+  "total_discount_pct": 0.9,
+  "discounts": 0.7,
+  "guarantees": 1.0,
+  "obligations": 1.0,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "A transação abrangerá todo o passivo fiscal descrito no ANEXO I no total de R$ 45.353.347,56.",
+  "installments": "O prazo máximo previsto para pagamento das dívidas transacionadas descritas no item 1.1 será de 60 (sessenta) meses para os débitos previdenciários e 84 (oitenta e quatro) meses para os demais débitos",
+  "total_discount_pct": "Serão concedidos descontos sobre os acréscimos legais a título de juros, multa e encargo legal, até o limite de 50% (cinquenta por cento) do valor consolidado da dívida, na forma do ANEXO II"
+ },
+ "review_fields": [
+  "sector",
+  "judicial_recovery",
+  "discounts.fine_pct",
+  "discounts.interest_pct"
+ ],
+ "id": "016e4c0f083c",
+ "title": "Termo de Transação Individual - Produtos Alimentícios Crispetes LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-produtos-alimenticios-crispetes-ltda.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-produtos-alimenticios-crispetes-ltda.pdf",
+ "sha256": "c4b38b00173d95241c26fb445085945e52860a7717d42b8ba71d7c157c983315",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

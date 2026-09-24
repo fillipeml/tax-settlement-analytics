@@ -1,0 +1,75 @@
+{
+ "taxpayer": "COMESUL BEEF AGRO INDUSTRIAL EIRELI",
+ "approval_date": "2023-12-13",
+ "consolidated_amount": 36037365.35,
+ "modality": "Transação Individual",
+ "total_discount_pct": 47.06,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens constritos na Execução Fiscal nº 5000620-65.2021.4.04.7105 (Auto de Penhora/Avaliação, evento 68) no valor de R$ 11.478.680,31",
+  "Liberação do bem imóvel penhorado (evento 42, avaliado em R$ 160.000,00) e de dois veículos, mantendo garantia integral pelos demais bens"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de bens do ativo não circulante",
+  "Cumprir exigências e obrigações previstas na Portaria PGFN 6757/22 e na proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito e ações judiciais sobre os créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Regularizar em 90 dias débitos inscritos em dívida ativa após a formalização do acordo",
+  "Permanecer no regime de tributação pelo lucro real até cumprimento integral do acordo (sob pena de rescisão)",
+  "Declarar não possuir créditos líquidos e certos ou precatórios em desfavor da União",
+  "Manter durante 5 anos os livros e documentos comprobatórios dos créditos de PF/BCN utilizados"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal (IRPJ) e base de cálculo negativa de CSLL (BCN) no valor nominal de R$ 8.125.000,00",
+  "Flexibilização das regras de garantia com base no art. 8º, IV, da Portaria PGFN nº 6757/22, liberando bem imóvel e dois veículos mantendo-se garantia integral pelos bens já constritos",
+  "Parcela nº 60 configurada como 'parcela balão' (aporte maior) na CONTA PREVIDENCIÁRIA, cuja falta de pagamento gera rescisão"
+ ],
+ "sector": "Agronegócio",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.6,
+  "installments": 0.6,
+  "down_payment_pct": 0.3,
+  "discounts": 0.3,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "cujo montante totaliza, em dezembro/2023, R$ 36.037.365,35 (trinta e seis milhões, trinta e sete mil, trezentos e sessenta e cinco reais e trinta e cinco centavos)",
+  "total_discount_pct": "Sobre as inscrições indicadas no Anexo I que totalizam em dezembro/2023 o montante de R$ 35.006.846,88 (...) será aplicado desconto médio de 47,06%",
+  "installments": "o saldo devedor será pago em 120 (cento e vinte) parcelas escalonadas, mensais e sucessivas, conforme os valores estipulados no Anexo III"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts"
+ ],
+ "id": "24abcaed98e7",
+ "title": "Termo de Transação Individual - Comesul Beef Agro Industrial Eireli",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualComesulBeefAgroIndustrialEireliTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualComesulBeefAgroIndustrialEireliTarjado.pdf",
+ "sha256": "53fc1044582c63ddbdfe142765f2f0f148a7fa6f90e75df88fb4536ebc1828d5",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

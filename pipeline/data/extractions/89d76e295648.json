@@ -1,0 +1,58 @@
+{
+ "taxpayer": "Lenita Comércio, Importação, Exportação de Confecções Ltda.",
+ "approval_date": "2025-01-23",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Aditivo - Plano de Regularização Fiscal)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 119,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [],
+ "special_clauses": [
+  "CLÁUSULA 1ª. Fica adicionado termo de transação formalizado entre as partes, conta de SIMPLES NACIONAL especificamente para incorporar à Transação Individual a inscrição em Dívida Ativa da União n. 30 4 16 00 3660-93, débito de origem do SIMPLES NACIONAL, não capturado pelas contas previdenciárias e não previdenciárias já em vigor.",
+  "CLÁUSULA 3ª. Ficam mantidas e ratificadas todas as demais cláusulas, condições, obrigações e consequências constantes do Termo de Transação Individual aditado, produzindo regular efeito de direito."
+ ],
+ "sector": "Comércio/Importação/Exportação de Confecções",
+ "confidence": {
+  "taxpayer": 1.0,
+  "approval_date": 1.0,
+  "total_discount_pct": 0.0,
+  "discounts": 0.0,
+  "down_payment_pct": 0.0,
+  "guarantees": 0.3,
+  "modality": 0.8,
+  "installments": 0.9,
+  "obligations": 0.2,
+  "judicial_recovery": 0.0,
+  "sector": 0.5,
+  "consolidated_amount": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "FAIXA 1: PARCELA INICIAL 1, PARCELA FINAL 60, QTD. PRESTAÇÕES 60; FAIXA 2: PARCELA INICIAL 61, PARCELA FINAL 118, QTD. PRESTAÇÕES 58; FAIXA 3: PARCELA INICIAL 119, PARCELA FINAL 119, QTD. PRESTAÇÕES 1; TOTAL 119"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "discounts",
+  "down_payment_pct",
+  "guarantees",
+  "judicial_recovery",
+  "sector",
+  "consolidated_amount",
+  "obligations"
+ ],
+ "id": "89d76e295648",
+ "title": "Termo de Transação Individual - Lenita Comércio, Importação, Exportação de Confecções LTDA - Segundo Termo Aditivo - Tarjado",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualLenitaComrcioImportaoExportaodeConfecesLTDASegundoTermoAditivoTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualLenitaComrcioImportaoExportaodeConfecesLTDASegundoTermoAditivoTarjado.pdf",
+ "sha256": "0e598e8beb102acf246d66faea603409360f0958335ee67088fa4ade9e02b1e9",
+ "extracted_at": "2026-07-22T14:22:46+00:00",
+ "simulated": false
+}

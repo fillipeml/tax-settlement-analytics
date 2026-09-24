@@ -1,0 +1,75 @@
+{
+ "taxpayer": "SARANTOPOULOS HOTÉIS E IMÓVEIS LTDA., BLACK STREAM HOTEL S/A e BUFFET BLACK TIE LTDA.",
+ "approval_date": "2022-03-23",
+ "consolidated_amount": 18120229.46,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel da Rua General Osório, nº 850, Centro, Ribeirão Preto, SP, matrícula nº 4.644 do 2º Registro de Imóveis"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à Fazenda Nacional",
+  "Não utilizar a Transação de forma abusiva",
+  "Declarar que não utiliza pessoa interposta para ocultar bens",
+  "Declarar que não alienou ou onerou bens para frustrar recuperação de créditos",
+  "Declarar veracidade de informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos novos inscritos em Dívida Ativa",
+  "Não alienar bens que reduzam capacidade de pagamento sem comunicação prévia",
+  "Concordar com compensação de ofício da Dívida Transacionada"
+ ],
+ "special_clauses": [
+  "Projeto de conversão do ramo hoteleiro para residencial mediante venda de unidades de apartamento",
+  "Desmembramento da matrícula nº 4.644 em matrículas individuais para venda das unidades",
+  "Receita da alienação das primeiras 15 unidades de apartamento rateada por igual entre a Fazenda Nacional e a devedora"
+ ],
+ "sector": "hotelaria/imóveis",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.6,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Atualmente, as dívida inscritas, todas elegíveis à transação, perfazem o valor total de R$ 18.120.229,46 (dezoito milhões, cento e vinte mil, duzentos e vinte e nove reais e quarenta e seis centavos)",
+  "total_discount_pct": "Desconto máximo de até 70% (setenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 145 (cento e quarenta e cinco) prestações mensais, escalonadas na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "658d89b0675e",
+ "title": "Termo de Transação Individual - Sarantopoulos Hotéis e Imóveis",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSarantopolosHotiseImveisLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSarantopolosHotiseImveisLTDA.pdf",
+ "sha256": "687a304f39fdbd5b506f039d1e4696a834a5d5bfe2a805a3e49df9f0386add3e",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

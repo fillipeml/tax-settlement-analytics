@@ -1,0 +1,74 @@
+{
+ "taxpayer": "SMH SOCIEDADE MEDICO-HOSPITALAR LTDA.",
+ "approval_date": "2024-09-18",
+ "consolidated_amount": 68479475.13,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "3 imóveis, compostos por 6 matrículas imobiliárias constantes do Anexo IV"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter os livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios dos montantes de prejuízo fiscal e de base de cálculo negativa da CSLL",
+  "Manter o regime de apuração de IRPJ pela modalidade de lucro real até a extinção da Dívida Transacionada",
+  "Dar ciência à CREDORA de quaisquer alterações em sua natureza jurídica ou formatação societária, no prazo de 30 dias",
+  "Não alienar bens ou direitos próprios ou de seus controladores sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens, direitos e valores",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Renunciar a alegações de direito e desistir de ações/impugnações relativas à dívida transacionada",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União no prazo de 90 dias",
+  "Manter regularidade perante o FGTS e individualizar valores recolhidos"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação de até 42,46% do saldo remanescente das inscrições",
+  "Adesão ao sistema COMPREI para eventual alienação de bens já penhorados em Execuções Fiscais",
+  "Pagamento previdenciário em 60 meses e não previdenciário em 120 meses, com percentuais escalonados por faixas"
+ ],
+ "sector": "Saúde (médico-hospitalar)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.75,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.75,
+  "installments": 0.8,
+  "down_payment_pct": 0.0,
+  "discounts": 0.2,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Das inscrições previdenciárias, constantes do ANEXO I, totalizando R$ 46.872.558,15 (...) atualizados em junho/2024. Das inscrições não previdenciárias, constantes do ANEXO II, totalizando R$ 21.606.916,98 (...) atualizados em junho/2024",
+  "total_discount_pct": "Concessão do desconto máximo de 65% de desconto incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento do saldo remanescente dos débitos de natureza não previdenciária efetuado em 120 (cento e vinte) meses, por meio de parcelas escalonadas da seguinte forma"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "805f5bd14cca",
+ "title": "Termo de Transação Individual -  SMH Sociedade Medico-Hospitalar LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualSMHSociedadeMedicoHospitalarLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualSMHSociedadeMedicoHospitalarLTDATarjado.pdf",
+ "sha256": "200a8f19905d452d4ad0fe7c353638868511f446ae4e90cb5de626ce1bff4871",
+ "extracted_at": "2026-07-22T14:22:31+00:00",
+ "simulated": false
+}

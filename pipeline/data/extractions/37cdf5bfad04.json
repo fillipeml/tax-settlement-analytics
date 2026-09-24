@@ -1,0 +1,69 @@
+{
+ "taxpayer": "IBI INDUSTRIA DE BEBIDAS IMPERATRIZ LTDA",
+ "approval_date": "2024-06-17",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Débitos FGTS",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Renunciar a alegações de direito sobre ações judiciais/recursos relacionados aos créditos incluídos na transação, com extinção do processo com resolução de mérito",
+  "Manter regularidade fiscal perante a União, inclusive perante o FGTS",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas do FGTS dos respectivos trabalhadores"
+ ],
+ "special_clauses": [
+  "Modalidade 63: Desconto de 30,30% sobre PRINCIPAL (DEP+JAM), 80 parcelas, valor a parcelar R$886.023,32, 1ª parcela R$181.801,76, demais parcelas R$8.914,20",
+  "Modalidade 6: Desconto de 50,00%, 20 parcelas, valor a parcelar R$34.345,85, valor da parcela R$1.717,29",
+  "O montante devido aos trabalhadores, nos termos do art. 3º da RCC974/2021, não sofrerá descontos"
+ ],
+ "sector": "Bebidas/Indústria",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.4,
+  "modality": 0.9,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "modalidade_63_discount": "Desconto: 30,30% / Valor do Desconto: 385.143,03",
+  "modalidade_63_parcelas": "Nº Parcelas: 80 / Valor a Parcelar: 886.023,32 / Valor da 1ª Parcela: 181.801,76 / Valor Demais Parcelas: 8.914,20",
+  "modalidade_6_discount": "Desconto: 50,00% / Valor do Desconto: 34.345,85",
+  "modalidade_6_parcelas": "Nº Parcelas: 20 / Valor a Parcelar: 34.345,85 / Valor da Parcela: 1.717,29"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "37cdf5bfad04",
+ "title": "Termo de Transação Individual - IBI Indústria de Bebidas Imperatriz LTDA FGTS",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualIBIIndstriadeBebidasImperatrizLTDAFGTStarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualIBIIndstriadeBebidasImperatrizLTDAFGTStarjado.pdf",
+ "sha256": "ea55eaa38316f38de0cb693d84ae4f7c58cb6381ec2a48f5ed4f28708d3b1a7b",
+ "extracted_at": "2026-07-22T14:22:23+00:00",
+ "simulated": false
+}

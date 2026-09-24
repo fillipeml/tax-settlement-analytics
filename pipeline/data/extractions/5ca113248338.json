@@ -1,0 +1,81 @@
+{
+ "taxpayer": "AGS MECÂNICA E RENOVADORA DE PNEUS LTDA.",
+ "approval_date": "2023-05-23",
+ "consolidated_amount": 15095700.81,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis de propriedade do DEVEDOR registrados no Ofício do Registro de Imóveis da Comarca de Marau, RS, avaliados em R$ 11.222.396,20"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de bens do ativo não circulante",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria PGFN/ME nº 6757/2022",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais quando envolver capacidade de pagamento",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação, com extinção de processos com resolução de mérito",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Fornecer informações bancárias e empresariais quando solicitado",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após o acordo",
+  "Manter, por 5 anos, livros e documentos comprobatórios dos montantes de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Manter em dia o pagamento de impostos, taxas e tributos incidentes sobre os bens dados em garantia",
+  "Apresentar situação econômico-financeira sempre que solicitado pela PGFN",
+  "Nomear à penhora os imóveis dados em garantia no prazo de 60 dias"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de Prejuízo Fiscal (IRPJ) e Base de Cálculo Negativa de CSLL para abatimento do saldo devedor",
+  "Desconto médio de 53,63% sobre as 39 inscrições previdenciárias (Anexo I), com saldo em 60 amortizações mensais",
+  "Desconto médio de 55,68% sobre as 40 inscrições não previdenciárias (Anexo II), com saldo em 120 amortizações mensais",
+  "Manutenção de conta SISPAR de transação excepcional (débitos previdenciários) fora desta transação",
+  "Cláusula em causa própria para a União como procuradora em caso de desapropriação de bens dados em garantia"
+ ],
+ "sector": "Comércio/serviços automotivos (renovadora de pneus)",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.75,
+  "judicial_recovery": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O DEVEDOR possui em aberto os débitos tributários relacionados nos Anexos I e II, que totalizam, em maio/2023, R$ 15.095.700,81 (quinze milhões, noventa e cinco mil, setecentos reais e oitenta e um centavos)"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "special_clauses"
+ ],
+ "id": "5ca113248338",
+ "title": "Termo de Transação Individual - AGS Mecânica e Renovadora de Pneus LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualAGSMecanicaeRenovadoradePneusLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualAGSMecanicaeRenovadoradePneusLTDA.pdf",
+ "sha256": "6103969335a0d2eeebf45c591b04e31d9a225e119bfd8191f3f0b8d5f3cc1d5d",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

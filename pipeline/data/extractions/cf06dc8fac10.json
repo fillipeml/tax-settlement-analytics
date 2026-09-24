@@ -1,0 +1,84 @@
+{
+ "taxpayer": "TRANS APUCARANA TRANSPORTES RODOVIÁRIOS LTDA",
+ "approval_date": "2024-12-19",
+ "consolidated_amount": 28429626.93,
+ "modality": "Transação Individual (modalidades DEMAIS e PREV)",
+ "total_discount_pct": 42.29,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 100,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal/judicial",
+  "Manutenção das garantias dos débitos eventualmente existentes até a quitação integral do saldo devedor"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/valores",
+  "Declarar que não alienou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a transação",
+  "Não alienar bens que reduzam capacidade de pagamento sem comunicação à Fazenda",
+  "Manter-se regular com outras Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos fiscais, inclusive comprobatórios de prejuízo fiscal e base negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Manter-se optante pelo lucro real durante toda a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir de ações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor de R$ 2.242.378,91 para amortização do saldo devedor",
+  "Cobrança do saldo liquidado com créditos de PF/BCN fica suspensa até confirmação pela autoridade competente, dentro do prazo de 5 anos",
+  "Rating D da Requerente considerado na concessão das condições",
+  "Créditos de precatórios/depósitos judiciais devem ser direcionados para amortização da dívida transacionada",
+  "Juros SELIC acumulados mensalmente sobre as amortizações mensais, mais 1% no mês do pagamento"
+ ],
+ "sector": "Transporte rodoviário",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.9,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.9,
+  "judicial_recovery": 0.3,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total | R$ 16.407.934,03 ... PRINCIPAL R$ 14.413.268,21 ENCARGOS R$ 11.097.684,11 TOTAL R$ 25.510.952,32 (DEMAIS) e PRINCIPAL R$ 1.994.665,82 ENCARGOS R$ 924.008,79 TOTAL R$ 2.918.674,61 (PREV)",
+  "total_discount_pct": "Desconto efetivo MÉDIO 42,29%",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 100 (cem meses) prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "consolidated_amount"
+ ],
+ "id": "cf06dc8fac10",
+ "title": "Termo de Transação Individual - Trans Apucarana Transportes Rodoviários LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTransApucaranaTransportesRodoviriosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTransApucaranaTransportesRodoviriosLTDATarjado.pdf",
+ "sha256": "57d982eb2185ca6446efe52c333e54373707378642ac73deb6ac46f62fa6ea57",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

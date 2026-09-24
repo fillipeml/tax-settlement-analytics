@@ -1,0 +1,79 @@
+{
+ "taxpayer": "SALES MATERIAL DE CONSTRUÇÃO LTDA. – EM RECUPERAÇÃO JUDICIAL (CNPJ 15.082.514/0001-00)",
+ "approval_date": "2023-03-21",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Portaria PGFN nº 6.757/2022)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas administrativamente ou em execuções fiscais/ações judiciais"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Confissão irrevogável e irretratável da dívida",
+  "Desistência de impugnações, recursos administrativos e ações judiciais relativas aos débitos incluídos",
+  "Peticionar nos processos judiciais em até 60 dias após a assinatura, noticiando a celebração do acordo",
+  "Fornecer informações sobre bens, direitos, valores e transações sempre que solicitado pela PGFN",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em até 90 dias os débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após o acordo",
+  "Individualizar os valores recolhidos nas contas vinculadas dos trabalhadores, quando for o caso",
+  "Não alienar bens ou direitos sem comunicação prévia à Fazenda Nacional",
+  "Manter livros e documentos comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL por 5 anos",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil ou quando solicitado pela PGFN",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias",
+  "Verter para pagamento da dívida quaisquer créditos a receber via precatório ou outro meio contra União, Estados ou Municípios",
+  "Autorizar compensação de restituições, ressarcimentos, reembolsos e precatórios federais com prestações do acordo"
+ ],
+ "special_clauses": [
+  "Autorização de utilização de créditos de prejuízo fiscal acumulado e base de cálculo negativa da CSLL para quitação de até R$ 224.318,86 do saldo devedor (conta DEMAIS), respeitando o desconto máximo da CAPAG",
+  "Desconto máximo de até 70% sobre acréscimos legais em razão da condição de Recuperação Judicial, vedada redução do principal",
+  "Confissão de dívida produz efeitos de interrupção/suspensão do prazo prescricional a cada pagamento efetuado (art. 174, parágrafo único, IV, CTN)",
+  "Utilização de créditos oriundos de precatórios/ações contra entes federados prefere à utilização de créditos de prejuízo fiscal e CSLL"
+ ],
+ "sector": "Comércio de materiais de construção",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "approval_date": 0.95,
+  "modality": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.3,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.6,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "Pagamento da dívida transacionada de natureza não previdenciária em 120 (cento e vinte) prestações mensais, conforme indicado no ANEXO II",
+  "discount_total_pct_ref": "Desconto máximo de até 70% a cada uma das inscrições, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa juros e encargo legal)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "guarantees"
+ ],
+ "id": "34f593fdabf4",
+ "title": "TERMODETRANSAOINDIVIDUALSALESMATERIALDECONSTRUOLTDA.pdf",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TERMODETRANSAOINDIVIDUALSALESMATERIALDECONSTRUOLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TERMODETRANSAOINDIVIDUALSALESMATERIALDECONSTRUOLTDA.pdf",
+ "sha256": "2ab64e339581dee3d319d50563d2fc5b13660c0f593559efb77325716476dcde",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

@@ -1,0 +1,78 @@
+{
+ "taxpayer": "FORTE BOI - INDUSTRIA DE ALIMENTOS LTDA",
+ "approval_date": "2023-04-10",
+ "consolidated_amount": 98147936.33,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel em Montanha/ES - Fazenda Boi Gordo",
+  "Imóvel em Montanha/ES - Fazenda Tranquilidade",
+  "Imóvel em Montanha/ES - Fazenda São Domingos",
+  "Imóvel em Linhares/ES - Fazenda Bela Vista",
+  "Imóvel em Linhares/ES - Fazenda Dona Zilda",
+  "Imóvel em Linhares/ES - Fazenda Progresso",
+  "Imóvel em Linhares/ES - Fazenda Pantanal",
+  "Penhora na execução fiscal nº 50252667420194025001"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos inscritos listados no ANEXO I",
+  "Peticionar nos processos judiciais em até 30 dias para noticiar a celebração do acordo e confessar os débitos",
+  "Manter regularidade perante o FGTS",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa em até 90 dias",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos, valores e transações sempre que solicitado",
+  "Declarar não utilizar pessoa interposta para ocultar bens",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Manter livros e documentos comprobatórios dos créditos de prejuízo fiscal e base negativa de CSLL"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação de até 15% do saldo remanescente não previdenciário",
+  "Corresponsabilidade dos sócios Valmir Pandolfi e Renan Massarioli Simmer, com inclusão de CPF como corresponsável nos sistemas da Dívida Ativa",
+  "Transformação imediata em pagamento definitivo dos depósitos judiciais realizados em execuções fiscais específicas",
+  "Levantamento das restrições gravadas nos registros de automóveis listados no ANEXO II"
+ ],
+ "sector": "Alimentos/Agroindústria (frigorífico)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.7,
+  "guarantees": 0.75,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "os débitos inscritos em Dívida Ativa da União discriminados no ANEXO I, que totalizam R$ 98.147.936,33 referente ao mês de março de 2023",
+  "total_discount_pct": "Concessão de desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a Dívida Transacionada",
+  "installments": "o prazo máximo de pagamento das dívidas objeto desta transação individual será de 120 (cento e vinte) meses para os débitos não previdenciários e de 60 (sessenta) meses para os previdenciários"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "judicial_recovery",
+  "discounts"
+ ],
+ "id": "d1ade37ccfc1",
+ "title": "Termo de Transação Individual - Forte Boi Indústria de Alimentos LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualForteBoiIndstriadeAlimentosLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualForteBoiIndstriadeAlimentosLTDAtarjado.pdf",
+ "sha256": "e071b305f256904dd296a195243ce189d550d354cd150cf38b327218301e4012",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

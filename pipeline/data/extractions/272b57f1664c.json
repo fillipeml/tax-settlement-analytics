@@ -1,0 +1,80 @@
+{
+ "taxpayer": "PESQUEIRA PIONEIRA DA COSTA S.A. EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2023-09-21",
+ "consolidated_amount": 2141955.3,
+ "modality": "Transação Individual",
+ "total_discount_pct": 64.89,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel matriculado sob o n° do Registro de Imóveis de Florianópolis/SC, titularizado pela empresa Biterra Empreendimentos Imobiliários Ltda"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de bens do ativo não circulante",
+  "Cumprir exigências das Portarias PGFN/ME 6757/2022 e 2382/2021",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos relativos aos créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União",
+  "Manter o Certificado de Regularidade do FGTS",
+  "Fornecer informações bancárias e empresariais sempre que solicitado",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não distribuir lucros ou dividendos a sócios/acionistas até aprovação do plano de recuperação judicial",
+  "Manter em dia tributos incidentes sobre bens dados em garantia",
+  "Manter livros e documentos fiscais por 5 anos em razão da utilização de créditos de PF/BCN",
+  "Peticionar em processos judiciais no prazo de 60 dias comunicando a transação",
+  "Postular reunião de execuções fiscais no prazo de 30 dias buscando unidade de garantia",
+  "Apresentar situação econômico-financeira sempre que solicitado pela PGFN"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de Prejuízo Fiscal (PF) e Base de Cálculo Negativa de CSLL (BCN) para amortização do saldo devedor, sob condição resolutória de homologação pela RFB em até 5 anos",
+  "Garantia mediante imóvel de empresa interveniente-garante (Biterra Empreendimentos Imobiliários Ltda), com indicação à penhora em execução fiscal específica",
+  "Destinação obrigatória de precatórios federais liquidados no curso da transação para quitação de saldos devedores (FGTS, Dívida Previdenciária, Demais Débitos)",
+  "Cláusula de desapropriação com nomeação da União como procuradora do proprietário para receber indenização"
+ ],
+ "sector": "Pesca/Agronegócio",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.95
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Consolidado: 2.141.955,30",
+  "total_discount_pct": "Percentual efetivo de reduções: 64,89%",
+  "installments": "Quantidade de Prestações: 120"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "272b57f1664c",
+ "title": "Termo de Transação Individual - Pesqueira Pioneira da Costa SA em recuperação judicial",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualPesqueiraPioneiradaCostaSAemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualPesqueiraPioneiradaCostaSAemrecuperaojudicialtarjado.pdf",
+ "sha256": "a4438d54df06dee85bed66e72fc66ddff49ed159a72744438d6621d498d02543",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

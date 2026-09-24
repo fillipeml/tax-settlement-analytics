@@ -1,0 +1,57 @@
+{
+ "taxpayer": "IRMANDADE DA SANTA CASA DE MISERICORDIA DE SAO PAULO",
+ "approval_date": "Not identified",
+ "consolidated_amount": 311526210.89,
+ "modality": "Not identified",
+ "total_discount_pct": 33.51,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantém eventuais garantias existentes",
+  "Imóveis",
+  "Precatórios"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [
+  "Parcelas lineares",
+  "Sem exigência de entrada"
+ ],
+ "sector": "Saúde/Hospitalar (entidade filantrópica)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.0,
+  "modality": 0.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "installments": 0.5,
+  "down_payment_pct": 0.9,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.85,
+  "sector": 0.4
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$ 311.526.210,89 R$ 127.062.406,00 R$ 184.463.804,89",
+  "total_discount_pct": "33,51% 33,50% 33,52%",
+  "installments": "Previdenciária 60 Demais Débitos 145"
+ },
+ "review_fields": [
+  "approval_date",
+  "modality",
+  "installments",
+  "sector"
+ ],
+ "id": "00be52325bf0",
+ "title": "Sumário - Irmandade da Santa Casa de Misericórdia de São Paulo",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioIrmandadedaSantaCasadeMisericrdiadeSoPaulo.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioIrmandadedaSantaCasadeMisericrdiadeSoPaulo.pdf",
+ "sha256": "a760b7e4dacb297a8f77fefa028d683e96022f3e492f86e94c5a026940aa042e",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

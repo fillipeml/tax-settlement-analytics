@@ -1,0 +1,61 @@
+{
+ "taxpayer": "JOSE FORNIELES ROBLES (ESPOLIO)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 18732968.0,
+ "modality": "Transação individual - Pagamento a vista MP-899/2019",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 70.0
+ },
+ "installments": null,
+ "down_payment_pct": 5.0,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Instruir requerimento com comprovante de pagamento do DARF adesão acompanhado deste termo de transação individual devidamente firmado pelo representante legal do espólio devedor",
+  "Apresentar, no prazo máximo de 60 dias, cópia de petição, com devida chancela de protocolo nos autos judiciais, de requerimento de desistência de ações, impugnações ou recursos relativos aos créditos transacionados com pedido de extinção do respectivo processo com resolução de mérito, nos termos da alínea 'c' do inciso III do caput do art. 487 da Lei nº 13.105, de 16 de março de 2015 - Código de Processo Civil",
+  "Proceder o pagamento das custas processuais, multas e demais encargos processuais, acaso devidos, em igual prazo"
+ ],
+ "special_clauses": [],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.85,
+  "approval_date": 0.1,
+  "consolidated_amount": 0.6,
+  "down_payment_pct": 0.9,
+  "installments": 0.3,
+  "total_discount_pct": 0.5,
+  "discounts.charges_pct": 0.85,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "judicial_recovery": 0.2,
+  "special_clauses": 0.4
+ },
+ "source_excerpts": {
+  "consolidated_amount": "pagamento do valor de R$ 936.648,40, correspondente a entrada de 5% do valor consolidado das inscrições elegíveis à transação, sem reduções (pedágio)",
+  "total_discount_pct": "aplicando-se, neste terceiro pagamento, redução de 70% (setenta por cento) sobre os acréscimos legais que incidem sobre o débito",
+  "down_payment_pct": "pagamento do valor de R$ 936.648,40, correspondente a entrada de 5% do valor consolidado das inscrições elegíveis à transação"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "installments",
+  "total_discount_pct",
+  "consolidated_amount",
+  "judicial_recovery",
+  "special_clauses",
+  "guarantees"
+ ],
+ "id": "daa337ce3783",
+ "title": "Termo de Transação Individual - Jose Fornieles",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-jose-fornieles-inf-suprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-jose-fornieles-inf-suprimidas.pdf",
+ "sha256": "06cf9a060cd4037017437a21f702b43b5eb236134e091be23e9056a92c18c087",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

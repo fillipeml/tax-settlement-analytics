@@ -1,0 +1,78 @@
+{
+ "taxpayer": "A.V.M. INCORPORACAO DE EMPREENDIMENTOS IMOBILIARIOS LTDA - EM RECUPERACAO JUDICIAL (grupo econômico com ATRIUM EMPREENDIMENTOS, INCORPORACAO E CONSTRUCAO SPE LTDA e ENGECON CONSTRUCOES E COMERCIO LTDA)",
+ "approval_date": "2025-05-06",
+ "consolidated_amount": 15746589.53,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel situado à Rua Voluntários da Pátria, 500, Loja 03, Pelinca, Campos dos Goytacazes, matrícula nº 034694 do 7º Ofício de Campos/RJ",
+  "Imóvel situado à Rua Voluntários da Pátria, 500, Loja 01, Pelinca, Campos dos Goytacazes, matrícula nº 035295 do 7º Ofício de Campos/RJ",
+  "Imóvel situado à Rua Voluntários da Pátria, 487, Loja 01, Pelinca, Campos dos Goytacazes, matrícula nº 030945 do 7º Ofício de Campos/RJ"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Peticionar nos autos das Execuções Fiscais no prazo de 30 dias para noticiar a celebração da Transação e requerer a formalização da penhora judicial dos imóveis dados em garantia",
+  "Apresentar, no prazo de 90 dias, laudo de avaliação dos imóveis dados em garantia, devidamente atualizado",
+  "Efetuar pagamento regular de todos os tributos federais, estaduais e municipais que incidam sobre os imóveis dados em garantia",
+  "Desistir das impugnações, recursos e ações judiciais/administrativas relativas à Dívida Transacionada, no prazo de 30 dias",
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa natural ou jurídica interposta para ocultar ou dissimular bens, direitos e valores",
+  "Dar ciência à CREDORA de qualquer alteração na natureza jurídica ou formatação societária, no prazo de 30 dias",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores e transações",
+  "Permanecer nos parcelamentos já aderidos, honrando os pagamentos até completa quitação das CDAs",
+  "Regularizar, no prazo de 90 dias, novos débitos constituídos definitivamente após a formalização do acordo",
+  "Manter regularidade perante o FGTS e individualizar valores recolhidos dos trabalhadores",
+  "Recolher obrigações tributárias correntes, inclusive obrigações acessórias"
+ ],
+ "special_clauses": [
+  "Reconhecimento de grupo econômico de fato entre as DEVEDORAS e corresponsabilidade entre elas (cláusula 1.3)",
+  "Autorização de utilização de valores de restituições/ressarcimentos da Receita Federal e de precatórios federais para pagamento das prestações (cláusulas 4.5 e 4.6)",
+  "Possibilidade de alienação dos imóveis dados em garantia mediante prévia anuência da CREDORA, com destinação do valor obtido à quitação das parcelas vincendas (cláusula 3.5)",
+  "CREDORA nomeada procuradora do proprietário para receber indenização em caso de desapropriação do imóvel dado em garantia (cláusula 3.7)"
+ ],
+ "sector": "Construção civil/incorporação imobiliária",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.85,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "1.2.1. Das inscrições previdenciárias, constantes do ANEXO I, totalizando R$ 7.324.412,85 ... 1.2.2. Das inscrições não previdenciárias, constantes do ANEXO II, totalizando R$ 8.422.176,68 (oito milhões quatrocentos e vinte e dois mil cento e setenta e seis mil e sessenta e oito centavos) atualizados até 02/2025.",
+  "total_discount_pct": "2.1.1. Concessão do desconto máximo de 70% (setenta por cento) incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "2.1.3. Pagamento do saldo remanescente dos débitos de natureza não previdenciária a ser efetuado em 108 (cento e oito) prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "21d242501ad7",
+ "title": "Termo de Transação Individual - A. V. M. Incorporação de Empreendimentos Imobilíarios LTDA, Atrium Empreendimentos, Incorporação e Construção SPE LTDA, Engecon Construções e Comércio LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualA.V.M.IncorporaodeEmpreendimentosImobiliariosLTDAAtriumEmpreendimentosIncorporacaoeConstrucaoSPELTDAEngeconConstrueseComrcioLTDAcompactado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualA.V.M.IncorporaodeEmpreendimentosImobiliariosLTDAAtriumEmpreendimentosIncorporacaoeConstrucaoSPELTDAEngeconConstrueseComrcioLTDAcompactado.pdf",
+ "sha256": "c3373eb45a01b2cf5b82299eba0453757abed77e88ce5d8236f7e7db0904b2b7",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

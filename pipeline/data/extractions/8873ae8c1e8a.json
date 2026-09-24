@@ -1,0 +1,82 @@
+{
+ "taxpayer": "Farmácia Roval de Manipulações Ltda.",
+ "approval_date": "2025-05-19",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal, penhoras ou garantias prestadas administrativamente",
+  "Garantias vinculadas à utilização de créditos de PF/BCN mantidas até confirmação dos créditos e integral quitação da Transação"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não utilizar a Transação de forma abusiva",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Autorizar acesso da Fazenda Nacional a declarações e escritas fiscais",
+  "Não alienar bens que reduzam capacidade de pagamento sem comunicação prévia",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando débitos exigíveis em até 90 dias",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir/renunciar",
+  "Manter livros e documentos fiscais/contábeis para comprovação de PF/BCN por 5 anos",
+  "Promover baixa dos montantes de PF/BCN utilizados nos livros contábeis",
+  "Manter regime de apuração do IRPJ pelo lucro real durante vigência da Transação (para valores com PF/BCN)",
+  "Individualizar valores recolhidos nas contas vinculadas do FGTS dos trabalhadores"
+ ],
+ "special_clauses": [
+  "Concessão de desconto máximo de 65% sobre acréscimos legais (multa, juros e encargos), vedada redução do principal",
+  "Uso de créditos de Prejuízo Fiscal e Base de Cálculo Negativa de CSLL (PF/BCN) no valor máximo de R$ 4.866.359,85, distribuído entre Dívida Previdenciária (até R$ 4.366.359,85) e Demais Débitos (até R$ 500.000,00)",
+  "PF/BCN não pode amortizar percentual superior a 70% do saldo devedor apurado após descontos",
+  "Saldo devedor remanescente pago em 1 (uma) prestação, sem possibilidade de prorrogação",
+  "Aditivo incorporou inscrição do SIMPLES NACIONAL (40 4 23 085220-17) à transação, com pagamento em 1 parcela e sem aproveitamento de PF/BCN nessa conta",
+  "Débitos garantidos por depósito judicial e inscrição incluída em parcelamento especial 12996 foram excluídos do regime de transação individual conforme Cláusula 2ª do Aditivo"
+ ],
+ "sector": "Farmácia/Manipulação (comércio varejista de produtos farmacêuticos)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.9,
+  "modality": 0.95,
+  "sector": 0.6,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.3,
+  "down_payment_pct": 0.0,
+  "installments": 0.75,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "O saldo devedor remanescente da Dívida Transacionada – Previdenciária e Não Previdenciária será adimplido em 01 (uma) prestação.",
+  "discount_total_pct_ref_multa_juros_encargos": "Concede-se o desconto máximo de 65% (sessenta e cinco por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector",
+  "guarantees",
+  "approval_date"
+ ],
+ "id": "8873ae8c1e8a",
+ "title": "Termo de Transação Individual - Farmácia Roval de Manipulações LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualFarmciaRovaldeManipulaesLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualFarmciaRovaldeManipulaesLTDA.pdf",
+ "sha256": "78b498d2ddbd52cf50d9b372769367e5e2ee5b0c36f72f35bc455650ef4faf69",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

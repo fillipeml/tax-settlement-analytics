@@ -1,0 +1,82 @@
+{
+ "taxpayer": "BIMETAL INDÚSTRIA METALÚRGICA LTDA, MAVI ENGENHARIA E CONSTRUÇÕES LTDA, BIPAR INVESTIMENTOS E PARTICIPAÇÕES S/A e BIPAR ENERGIA TELECOMUNICACAO E INDUSTRIA METALURGICA S.A (Grupo Bipar)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 142760365.78,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "IMÓVEL - Matrícula 97.046, 2º CRI de Cuiabá/MT, avaliado em R$ 42.066.818,38, proprietário BIMETAL INDÚSTRIA METALÚRGICA LTDA",
+  "IMÓVEL - Matrícula 55.297, 2º CRI de Cuiabá/MT, avaliado em R$ 91.811.221,60, proprietário BIPAR INVESTIMENTOS E PARTICIPAÇÕES S/A",
+  "Penhora de imóveis para garantia da Dívida Ativa do FGTS (Cláusula 12 e §5º da Cláusula 4ª)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos do ANEXO I",
+  "Renúncia a alegações de direito sobre os créditos relacionados",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa em até 90 dias",
+  "Manter a garantia oferecida até integral cumprimento das condições",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado",
+  "Anuir com modificação de competência para reunião de processos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou para prejudicar livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Manter em dia impostos e taxas sobre imóveis dados em garantia",
+  "Desistir de impugnações, recursos e ações judiciais no prazo de 30 dias",
+  "Manter permanência no Regime do Lucro Real durante a vigência da transação"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Flexibilização das regras de aceitação, avaliação, substituição e liberação de garantias",
+  "Flexibilização das regras para constrição ou alienação de bens",
+  "Possibilidade de utilização de créditos líquidos e certos decorrentes de decisões transitadas em julgado (art. 100, §11, CF)",
+  "Rating D - dívida considerada de difícil recuperação pela PGFN",
+  "Desconto vedado sobre o principal do débito, incidindo apenas sobre multa, juros e encargos legais",
+  "Opção de venda de imóveis dados em garantia com destinação do produto ao pagamento do plano (Cláusula 17)"
+ ],
+ "sector": "Metalurgia/Industrial (com intervenientes em mineração)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.8,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts": 0.3,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam R$ 142.760.365,78, atualizado no mês de MARÇO de 2024",
+  "total_discount_pct": "a presente transação envolve a concessão de descontos limitados ao máximo de até 65% (sessenta e cinco por cento), vedada a incidência sobre o principal do débito",
+  "installments": "A presente transação terá prazo de vigência de até 120 (cento e vinte) meses.",
+  "down_payment_pct": "Não identificado - documento menciona 'pagamento da entrada' na Cláusula 39 sem especificar percentual"
+ },
+ "review_fields": [
+  "approval_date",
+  "down_payment_pct",
+  "judicial_recovery",
+  "discounts",
+  "sector"
+ ],
+ "id": "88c0a3588e08",
+ "title": "Termo de Transação Individual - Bimetal Indústria Metalúrgica LTDA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualBimetalIndstriaMetalrgicaLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualBimetalIndstriaMetalrgicaLTDAtarjado.pdf",
+ "sha256": "f1319144ff78a9dbb5679a78d7a979c3a9d625d9cc3fc576765115f8ec1712b9",
+ "extracted_at": "2026-07-21T19:11:12+00:00",
+ "simulated": false
+}

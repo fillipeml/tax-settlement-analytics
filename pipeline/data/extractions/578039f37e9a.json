@@ -1,0 +1,75 @@
+{
+ "taxpayer": "Esporte Clube Bahia e Esporte Clube Bahia S/A",
+ "approval_date": "2023-05-23",
+ "consolidated_amount": 26444058.78,
+ "modality": "Transação Individual - pagamento à vista com desconto (Modalidade 24)",
+ "total_discount_pct": 32.11,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessa de forma irrevogável e irretratável os débitos relacionados no ANEXO I",
+  "Renuncia a alegações de direito e questionamentos sobre os créditos incluídos na transação",
+  "Compromisso de manter regularidade das obrigações para com o FGTS e tributárias federais correntes",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa ou que se tornarem exigíveis",
+  "Autoriza compensação de valores de restituições, ressarcimentos ou reembolsos reconhecidos pela Receita Federal",
+  "Autoriza compensação de valores relativos a precatórios federais de que seja credor",
+  "Obriga-se a fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Declara que a transação envolve capacidade de pagamento e que as informações prestadas são verdadeiras",
+  "Declara que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos",
+  "Obriga-se a não utilizar a transação de forma abusiva",
+  "Declara que não utiliza pessoa interposta para ocultar ou dissimular bens, direitos ou valores",
+  "Compromisso de cumprir exigências e obrigações adicionais previstas na Portaria, Edital ou proposta",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas dos trabalhadores",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados ou balanço contábil",
+  "Adimplemento dos emolumentos decorrentes de protesto cartorário das inscrições abrangidas"
+ ],
+ "special_clauses": [
+  "Cláusula 7ª: recursos provenientes do Timemania poderão ser usados para abatimento de débitos parcelados inscritos em dívida ativa da união",
+  "Cláusula 14ª: a transação não pode implicar redução do montante dos créditos inscritos em percentual maior do que o previsto no termo, nem renúncia às garantias e privilégios do crédito"
+ ],
+ "sector": "Futebol/entretenimento",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.7,
+  "modality": 0.9,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.5,
+  "judicial_recovery": 0.3,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "As inscrições indicadas no Anexo I totalizam a quantia TOTAL SEM descontos de R$ 26.444.058,78 (vinte e seis milhões e quatrocentos e quarenta e quatro mil e cinquenta e oito reais e setenta e oito centavos) atualizada até maio de 2023.",
+  "total_discount_pct": "TOTAL A PAGAR SEM DESCONTO R$ 26.444.058,78 / TOTAL A PAGAR COM DESCONTO R$ 17.955.167,72",
+  "installments": "PARÁGRAFO ÚNICO. A transação versará sobre o plano de amortização do débito fiscal relativo ao FGTS na condição à vista. / Valor a pagar à vista: R$ 16.644.940,90 ... Valor TOTAL a ser pago à vista com desconto: R$ 17.955.167,72"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "578039f37e9a",
+ "title": "Termo de Transação Individual - Esporte Clube Bahia",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualEsporteClubeBahia.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualEsporteClubeBahia.pdf",
+ "sha256": "ce008e69d17f3ab173d053ccb7b33030dd3e947aafa9d9778ded50b3c0e2bc93",
+ "extracted_at": "2026-07-22T14:22:22+00:00",
+ "simulated": false
+}

@@ -1,0 +1,81 @@
+{
+ "taxpayer": "Carbonífera Catarinense Ltda (CCL) e outras empresas do grupo econômico (Mineração Ouro Negro Ltda ME, Mineração Castelo Branco Eireli, Comércio de Carvão Criciumense Ltda, Inccol Indústria e Comércio de Coque Ltda)",
+ "approval_date": "2024-05-20",
+ "consolidated_amount": 163558216.14,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis relacionados no Anexo I (5 imóveis registrados no 1º Ofício de Registro de Imóveis de Criciúma/SC, descrições tarjadas)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado pela PGFN",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear/prejudicar a livre concorrência",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade nos programas de parcelamentos anteriores",
+  "Manter regularidade com tributos correntes",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Declarar não utilização de pessoa interposta para ocultar bens/valores",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais e patrimoniais",
+  "Declarar não possuir precatórios ou créditos líquidos e certos em desfavor da União",
+  "Manter as garantias associadas aos débitos transacionados",
+  "Manter regime de tributação de lucro real durante o cumprimento do acordo",
+  "Reconhecer grupo econômico e responsabilidade solidária pelos débitos",
+  "Autorizar compensação de restituições/ressarcimentos com prestações vencidas ou vincendas",
+  "Autorizar compensação de precatórios federais"
+ ],
+ "special_clauses": [
+  "Consolidação das contas sem uso do PF/BCN, com sistemática específica de pagamento de entrada, aplicação de descontos legais, uso de valores depositados em ações judiciais e remodelamento com abatimentos de prejuízo fiscal e base de cálculo negativa de CSLL",
+  "Liberação de valores existentes no processo 5008945-28.2018.4.04.7204 (Embargos 500779-55.2013.4.04.7204), descontados honorários advocatícios, para pagamento de parcelas vincendas",
+  "Reconhecimento de grupo econômico entre as devedoras com responsabilidade solidária pelos débitos",
+  "Manutenção do regime de tributação sobre lucro real vinculado a créditos de prejuízo fiscal e base negativa de CSLL",
+  "Extinção da Medida Cautelar Fiscal (Processo 5002213-31.2018.4.04.7204/SC) com transferência de constrição de bens para execução fiscal"
+ ],
+ "sector": "Mineração/carvão (mineração e comércio de carvão e coque)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.6,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.4,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total da dívida ativa consolidada em maio de 2024 (Sispar), considerando os débitos que entram na negociação: R$19.219.439,02 (demais), R$143.214.384,63 (previdenciário) e R$1.124.393,49 (FGTS)."
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "fde6aa58b4f7",
+ "title": "Termo de Transação Individual - Carbonífera Catarinense LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCarbonferaCatarinenseLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCarbonferaCatarinenseLTDATarjado.pdf",
+ "sha256": "eac101f38ffa1c1a0db9c769eaf2f77a59c5443d6c51940fb4a9bdf80fc39e6c",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

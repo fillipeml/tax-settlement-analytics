@@ -1,0 +1,62 @@
+{
+ "taxpayer": "VIAÇÃO GRACIOSA LTDA (e corresponsáveis: VIAÇÃO MARUMBI LTDA, GRACIOSA TRANSPORTE E TURISMO LTDA, EMPRESA CURITIBA CERRO AZUL LTDA)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 81821396.51,
+ "modality": "Transação Individual (FGTS - Modalidade nº 63)",
+ "total_discount_pct": 50.05,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Transporte (rodoviário/turismo)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.5,
+  "modality": 0.75,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.95,
+  "installments": 0.6,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.85,
+  "obligations": 0.0,
+  "special_clauses": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "DÍVIDA TRANSACIONADA - PGFN TOTAL 81.821.396,51 Previdenciária 20.035.067,21 Demais Débitos 60.645.625,39 Simples Nacional —- FGTS 1.140.703,91",
+  "total_discount_pct": "DESCONTO EFETIVO MÉDIO - PGFN (em percentual %) TOTAL 50,05 Previdenciária 49,90% Demais Débitos 46,17%",
+  "installments": "NÚMERO DE PARCELAS - PGFN Previdenciária 60 Demais Débitos 120 Simples Nacional"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "modality",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "b781cbcd2b0e",
+ "title": "Sumário - Viação Graciosa LTDA, Viação Marumbi LTDA, Graciosa Transporte e Turismo LTDA, Empresa Curitiba Cerro Azul LTDA, Eluiza Helena Schaedler, Lidia Beatriz Schaedler Alves Pereira",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/SumrioViaoGraciosaLTDAViaoMarumbiLTDAGraciosaTransporteeTurismoLTDAEmpresaCuritibaCerroAzulLTDAEluizaHelenaSchaedlerLidiaBeatrizSchaedlerAlvesPereira.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/SumrioViaoGraciosaLTDAViaoMarumbiLTDAGraciosaTransporteeTurismoLTDAEmpresaCuritibaCerroAzulLTDAEluizaHelenaSchaedlerLidiaBeatrizSchaedlerAlvesPereira.pdf",
+ "sha256": "7b87ebcd0e2314f09b5896998f22dae7147da27e46eda51a0dee35e477b46694",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

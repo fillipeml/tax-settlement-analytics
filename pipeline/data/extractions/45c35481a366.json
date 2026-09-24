@@ -1,0 +1,69 @@
+{
+ "taxpayer": "CENTRO DE EDUCACAO RELIGIOSA JUDAICA",
+ "approval_date": "2024-06-21",
+ "consolidated_amount": 36041997.63,
+ "modality": "Transação Individual",
+ "total_discount_pct": 69.43,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular bens",
+  "Declarar que não alienou ou onerou bens ou direitos com propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em Dívida Ativa"
+ ],
+ "special_clauses": [],
+ "sector": "Educação/Religioso",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "guarantees": 0.3,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.2
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total R$ 11.751.806,13 Desconto efetivo MÉDIO 69,43%",
+  "total_discount_pct": "Total R$ 11.751.806,13 Desconto efetivo MÉDIO 69,43%",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\" em 120 (cento e vinte) prestações mensais"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery",
+  "down_payment_pct",
+  "special_clauses"
+ ],
+ "id": "45c35481a366",
+ "title": "Termo de Transação Individual - Centro de Educação Religiosa Judaica",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCentrodeEducaoReligiosaJudaicaTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCentrodeEducaoReligiosaJudaicaTarjado.pdf",
+ "sha256": "cfe70a78d413be2ebc5e62e9a1b7921dc3ccfd0ec5dc4c69b8f9b7873fec2eb5",
+ "extracted_at": "2026-07-22T14:22:38+00:00",
+ "simulated": false
+}

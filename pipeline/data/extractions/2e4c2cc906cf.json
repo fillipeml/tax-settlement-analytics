@@ -1,0 +1,72 @@
+{
+ "taxpayer": "Massa Falida da Companhia de Fiação e Tecidos Ernesto Deocleciano",
+ "approval_date": "2020-03-18",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": 50.0,
+ "guarantees": [],
+ "judicial_recovery": false,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência ou livre iniciativa econômica",
+  "Renunciar a quaisquer alegações de direito sobre as quais se fundem ações judiciais ou recursos referentes aos créditos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em dívida ativa ou que se tornarem exigíveis após a formalização do acordo",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens, direitos e valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Não alienar bens ou direitos sem comunicação prévia à Fazenda Nacional enquanto não extintas todas as inscrições em DAU"
+ ],
+ "special_clauses": [
+  "Cumprimento fiel das negociações já realizadas por adesão nas modalidades TRANSAÇÃO – DEMAIS – PAGAMENTO VISTA (SISPAR 3389943) e TRANSAÇÃO DÉBITOS PREVIDENCIÁRIOS – PAGAMENTO A VISTA (3389971)",
+  "Vedação de transação envolvendo multas do §1º art.44 Lei 9.430/1996 e §6º art.80 Lei 4.502/1964, créditos do Simples Nacional, FGTS e créditos não inscritos em DAU"
+ ],
+ "sector": "Têxtil",
+ "confidence": {
+  "taxpayer": 1.0,
+  "approval_date": 0.9,
+  "modality": 1.0,
+  "sector": 0.6,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.9,
+  "installments": 0.6,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.9,
+  "judicial_recovery": 0.7,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "DESCONTO DE 50 % PARA TODAS AS INSCRIÇÕES LISTADAS, CONFORME VALORES DISCRIMINADOS NO ANEXO I, DEVIDAMENTE ATUALIZADOS PELA TAXA SELIC ATÉ O DIA DO EFETIVO PAGAMENTO.",
+  "down_payment_pct": "Efetuar o pagamento de entrada única, no valor de R$ 464.741,02 (quatrocentos e sessenta e quatro mil, setecentos e quarenta e um mil reais e dois centavos), DEVIDAMENTE CORRIGIDO PELA TAXA SELIC ATÉ O DIA DO EFETIVO PAGAMENTO, correspondente a 50% do valor do desconto concedido.",
+  "installments": "Efetuar o pagamento de entrada única, no valor de R$ 464.741,02 (...)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "installments",
+  "guarantees",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "2e4c2cc906cf",
+ "title": "Termo de Transação Individual - Massa F...cidos Ernesto Deocleciano",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-massa-f-cidos-ernesto-deocleciano-inf-suprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-massa-f-cidos-ernesto-deocleciano-inf-suprimidas.pdf",
+ "sha256": "abd2daed13ab3169bcea69bebedbad77f3433165c3e16511da652a52c3afe028",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

@@ -1,0 +1,72 @@
+{
+ "taxpayer": "Guimaraes Indústria e Comércio de Doces Eireli",
+ "approval_date": "2022-09-27",
+ "consolidated_amount": 25550024.12,
+ "modality": "Transação Individual",
+ "total_discount_pct": 42.92,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca sobre 50% de terreno de cultura em Costa da Miraguaia, 2º distrito de Santo Antônio da Patrulha-RS, com área de 80.000 m², avaliado em R$ 4.465.000,00, incluindo casa de moradia",
+  "Hipoteca sobre 50% de área de terras de campo em Rincão do Alberto e Miraguaia, 2º distrito, com área superficial de 1.265.062,66 m², área do R-3/19.042 correspondente a 359.353,33 m², avaliada em R$ 1.125.000,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "não utilizar a transação individual de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou destinação de bens, direitos e valores",
+  "declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "demonstrar a ausência de prejuízo ao cumprimento das obrigações contraídas em caso de alienação ou oneração de bens ou direitos do ativo não circulante",
+  "cumprir as exigências e obrigações adicionais previstas na Portaria PGFN nº 6.757/2022 e na proposta",
+  "declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "renunciar a quaisquer alegações de direito sobre as ações judiciais ou recursos que tenham por objeto os créditos incluídos na transação",
+  "manter regularidade fiscal perante a União e manter o Certificado de Regularidade Fiscal do FGTS",
+  "regularizar, no prazo de 90 dias, os débitos que vierem a ser inscritos em dívida ativa ou que se tornarem exigíveis após a formalização do acordo",
+  "apresentar situação econômico-financeira anualmente por meio de balanço contábil apurado"
+ ],
+ "special_clauses": [
+  "Garantia constituída mediante lavratura de escritura pública de hipoteca sobre 50% dos imóveis titularizados pelos intervenientes garantes",
+  "Possibilidade de utilização de créditos líquidos e certos em desfavor da União, reconhecidos em decisão judicial transitada em julgado, ou precatórios federais, próprios ou de terceiros, para amortizar ou liquidar saldo devedor transacionado",
+  "Obrigação dos intervenientes garantes limitada exclusivamente aos bens referidos, não configurando reconhecimento de corresponsabilidade tributária"
+ ],
+ "sector": "Alimentos/Doces",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.3,
+  "discounts": 0.2,
+  "judicial_recovery": 0.3,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "tendo-se em conta o valor consolidado (anterior aos descontos) dos créditos tributários, atualizados até setembro de 2022, no montante de R$ 25.550.024,12 (vinte e cinco milhões, quinhentos e cinquenta mil, vinte e quatro reais e doze centavos)",
+  "total_discount_pct": "O desconto médio, no caso concreto, ficou em 42,92% (SEI 27959246)",
+  "installments": "as inscrições indicadas serão objeto de plano de pagamento em 145 (cento e quarenta e cinco) amortizações mensais e sucessivas (DEMAIS DÉBITOS)"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "aa0bbb380ca3",
+ "title": "Termo de Transação Individual - Guimarães Indústria e Comércio de Doces LTDA - 2022 - PRNF4",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualGuimaresIndstriaeComrciodeDocesLTDA2022PRNF4InformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualGuimaresIndstriaeComrciodeDocesLTDA2022PRNF4InformaesSigilosasSuprimidas.pdf",
+ "sha256": "8f3905c0c9a88448d503d39d2279b123c7bb3f64992a914d4ae9f314e41a477b",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

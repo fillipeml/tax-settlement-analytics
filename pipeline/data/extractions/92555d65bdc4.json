@@ -1,0 +1,91 @@
+{
+ "taxpayer": "AELBRA EDUCAÇÃO SUPERIOR - GRADUAÇÃO E PÓS GRADUAÇÃO S.A.",
+ "approval_date": "2024-05-17",
+ "consolidated_amount": 6159973971.33,
+ "modality": "Transação individual - plano de pagamento parcelado do débito fiscal - empresa em recuperação judicial",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção das penhoras já existentes nas Execuções Fiscais",
+  "Hipoteca de imóvel (endereço tarjado)",
+  "Hipoteca futura sobre demais imóveis da devedora (procedimento em etapas)",
+  "Carta de Fiança nº 1905692, emitida por Banco Voiter S/A, em 05/07/2024, no valor de R$ 125.060.946,68"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilização de interpostas pessoas para ocultar bens",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de ativo não circulante",
+  "Cumprir exigências da Portaria PGFN 6.757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais e econômico-fiscais",
+  "Renunciar a alegações de direito e desistir de ações/recursos relativos aos créditos incluídos",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos após o acordo",
+  "Não distribuir lucros ou dividendos até aprovação do plano de recuperação judicial",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Declarar inexistência de créditos líquidos e certos ou precatórios de sua titularidade",
+  "Permanecer no regime de lucro real durante a vigência da transação",
+  "Manter livros e documentos comprobatórios de PF/BCN por 5 anos",
+  "Peticionar nos processos judiciais abrangidos, comunicando a transação e desistindo das ações, em até 30 dias",
+  "Apresentar comprovação de protocolo das petições em até 10 dias via Regularize",
+  "Apresentar situação econômico-financeira anualmente (balanço/DRE)",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal (PF) e base de cálculo negativa de CSLL (BCN) até o limite de 70% do saldo após descontos, sob condição resolutória de homologação pela RFB em até 5 anos",
+  "Desconto médio de 67,43% sobre débitos não previdenciários e 66,70% sobre débitos previdenciários",
+  "Parcelamento diferenciado: 60 parcelas para débitos previdenciários e 145 meses para débitos não previdenciários",
+  "Formalização escalonada de hipotecas sobre demais imóveis, condicionada à liquidação da Transação FGTS e amortização integral dos créditos da Classe I",
+  "Alocação de eventuais recursos disponíveis da recuperação judicial (item 5.2 do plano) como antecipação de parcelas, da mais remota para a mais próxima",
+  "Manutenção das garantias mesmo em caso de rescisão da transação",
+  "Cláusula de vedação a interpretação que reduza créditos além do previsto nas cláusulas 5ª e 6ª ou implique renúncia a garantias/privilégios do crédito tributário"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.85,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.3,
+  "installments": 0.6,
+  "down_payment_pct": 0.2,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "A devedora possui em aberto os débitos tributários relacionados no Anexo I, que totalizam em maio de 2024 o montante de R$ 4.125.932.837,96 (...) relativamente aos débitos não previdenciários (...), e R$ 2.034.041.133,37 (...) relativamente aos débitos previdenciários inscritos em Dívida Ativa da União",
+  "installments": "sendo o restante objeto de plano de pagamento em 60 (sessenta) amortizações mensais e sucessivas, relativamente aos débitos previdenciários, e 145 meses, relativamente aos débitos não previdenciários"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "92555d65bdc4",
+ "title": "Termo de Transação Individual - Alebra Educação Superior Graduação e Pós Graduação SA em recuperação judicial (PGFN)",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAlebraEducaoSuperiorGraduaoePsGraduaoSAemrecuperaojudicialPGFN.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAlebraEducaoSuperiorGraduaoePsGraduaoSAemrecuperaojudicialPGFN.pdf",
+ "sha256": "cfc2a3602c7b13808a85c95a03bc99b00d3ef9fd8c63b0b84d3c277e0fe91ec2",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

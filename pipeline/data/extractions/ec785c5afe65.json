@@ -1,0 +1,80 @@
+{
+ "taxpayer": "ISOTERM INDÚSTRIA E COMÉRCIO DE EMBALAGENS LTDA",
+ "approval_date": "2024-09-23",
+ "consolidated_amount": 208028169.5,
+ "modality": "Transação Individual (modalidades DEMAIS e PREV)",
+ "total_discount_pct": 57.09,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança dos sócios (fiança fidejussória)",
+  "Manutenção de gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar capacidade de pagamento sem comunicação prévia",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos fiscais, inclusive comprobatórios de prejuízo fiscal e base negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor de R$ 34.025.219,05 (aproximadamente 38,12%) para amortização do saldo devedor após descontos",
+  "Cobrança do saldo liquidado com uso de créditos de PF/BCN fica suspensa até confirmação pela autoridade competente, dentro do prazo legal de 5 anos",
+  "Fiadores renunciam ao benefício de ordem do art. 827 do Código Civil, responsabilizando-se solidariamente pelo total da dívida"
+ ],
+ "sector": "Indústria e comércio de embalagens",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.9,
+  "installments": 1.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.95,
+  "judicial_recovery": 0.3,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "PASSIVO FISCAL CONSOLIDADO | R$ 208.028.169,50",
+  "total_discount_pct": "PERCENTUAL DE DESCONTO MÉDIO | 57,09%",
+  "installments": "PRAZO PARA PAGAMENTO | 60 meses",
+  "down_payment_pct": "ENTRADA | N"
+ },
+ "review_fields": [
+  "sector",
+  "judicial_recovery",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "ec785c5afe65",
+ "title": "Termo de Transação Individual - Indústria Mangotex LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIsotermIndstriaeComrciodeEmbalagensLTDATarajado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIsotermIndstriaeComrciodeEmbalagensLTDATarajado.pdf",
+ "sha256": "0a071048c2a2ddefa36cc54a96d1ba62adebb74f6b838e911bf0912de53d1554",
+ "extracted_at": "2026-07-22T14:22:45+00:00",
+ "simulated": false
+}

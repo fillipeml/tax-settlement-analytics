@@ -1,0 +1,74 @@
+{
+ "taxpayer": "CPQ BRASIL S.A",
+ "approval_date": "2023-05-12",
+ "consolidated_amount": 38990761.95,
+ "modality": "Transação individual",
+ "total_discount_pct": 37.6,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Fiança - fiador Sr. Alberto Carneiro Neto, sócio da empresa Requerente"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à Procuradoria-Geral da Fazenda Nacional conhecer sua situação econômica",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar de qualquer forma a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação prévia à Fazenda Nacional",
+  "Peticionar nos processos judiciais em até 60 dias para noticiar a celebração da Transação, desistir de impugnações/recursos e renunciar aos direitos"
+ ],
+ "special_clauses": [
+  "Desconto máximo de 41% a cada CDA, vedada a redução do montante principal, aplicado proporcionalmente sobre acréscimos legais (multa, juros e encargos)",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 29,4% do saldo da dívida após descontos",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/BCN ficará suspensa até confirmação pela autoridade competente, dentro do prazo legal de cinco anos",
+  "Fiador renuncia ao benefício de ordem (art. 827, parágrafo único, c/c art. 828, I, do Código Civil), respondendo solidariamente pelo total da dívida consolidada sem reduções"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.3,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.9,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.2,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada — Total de R$ 38.990.761,95 (trinta e oito milhões, novecentos e noventa mil, setecentos e sessenta e um reais e noventa e cinco centavos)",
+  "total_discount_pct": "Desconto máximo de 41% (quarenta e um por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), o que implica numa média concedida aproximada de 37,60% no presente acordo",
+  "installments": "Pagamento da Dívida Transacionada, tanto a de natureza não previdenciária (\"Dívida Transacionada — Demais Débitos\"), quanto a de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 60 (sessenta) prestações mensais iguais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "a389a2516eb8",
+ "title": "Termo de Transação Individual - CPQ Brasil S.A",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCPQBrasilS.A.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCPQBrasilS.A.pdf",
+ "sha256": "50397dbc818a12412dd3a761e3ac4850c57663f14333e4e1c1451495a01d0051",
+ "extracted_at": "2026-07-22T14:22:37+00:00",
+ "simulated": false
+}

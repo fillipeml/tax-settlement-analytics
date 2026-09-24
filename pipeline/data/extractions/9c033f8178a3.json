@@ -1,0 +1,85 @@
+{
+ "taxpayer": "VIAÇÃO OURO E PRATA S/A",
+ "approval_date": "2025-02-21",
+ "consolidated_amount": null,
+ "modality": "Transação individual (Programa Emergencial de Regularização Fiscal de Apoio ao Rio Grande do Sul - Transação SOS-RS)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Marca da empresa - INPI nº 900679018, bem incorpóreo avaliado em R$ 225.512.000,00",
+  "Penhora a ser formalizada nas execuções fiscais",
+  "Manutenção de gravames existentes (arrolamento de bens, medida cautelar fiscal, penhoras ou garantias já prestadas)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Cumprir exigências da Portaria PGFN nº 6757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos relativos aos créditos incluídos na transação",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando em 90 dias débitos que se tornarem exigíveis",
+  "Declarar que não possui créditos/precatórios federais líquidos e certos em desfavor da União",
+  "Manter-se optante do regime de tributação pelo lucro real durante toda a negociação (em razão do uso de créditos de prejuízo fiscal e base negativa de CSLL)",
+  "Não desistir do acordo, sob pena de rescisão",
+  "Peticionar nos processos judiciais em até 60 dias noticiando a transação e desistindo de embargos/exceções de pré-executividade",
+  "Providenciar formalização de penhora em até 90 dias",
+  "Apresentar situação econômico-financeira (balanço contábil) sempre que a PGFN solicitar",
+  "Manter recolhimento das obrigações tributárias correntes"
+ ],
+ "special_clauses": [
+  "Uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para abatimento de aproximadamente 52% do valor devido nas inscrições previdenciárias (Anexo I)",
+  "Garantia mediante bem incorpóreo (marca registrada no INPI), com necessidade de ajuizamento de crédito(s) para possibilitar a averbação da garantia",
+  "Depósitos judiciais anteriores à assinatura serão convertidos em pagamento definitivo, sem descontos, conforme Lei 14.973/2024",
+  "Cláusula de não desistência do acordo (item XIV), com efeito de rescisão automática e vedação de nova transação por 2 anos"
+ ],
+ "sector": "Transporte (rodoviário de passageiros)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.85,
+  "installments": 0.5,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "installments_annex_I": "sendo o restante pago em 60 (sessenta) amortizações mensais escalonadas",
+  "installments_annex_II": "será pago em 120 (sessenta) amortizações mensais escalonadas",
+  "down_payment_pct": "do DEVEDOR não se exigirá entrada sem descontos",
+  "garantia_marca": "Ficará em garantia dos créditos aqui negociados, nos termos do art. 7º da Portaria PGFN nº 6757/22, a marca da empresa - INPI nº 900679018 -, bem incorpóreo avaliado em R$ 225.512.000,00 (duzentos e vinte e cinco milhões, quinhentos e doze mil reais)."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "discounts",
+  "sector",
+  "judicial_recovery"
+ ],
+ "id": "9c033f8178a3",
+ "title": "Termo de Transação Individual - Viação Ouro e Prata SA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualViaoOuroePrataSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualViaoOuroePrataSA.pdf",
+ "sha256": "7f1d3d80a2efd77f39378d130a177d016f8b5f7df83bb12b748619c1334cc600",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

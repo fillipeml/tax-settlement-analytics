@@ -1,0 +1,75 @@
+{
+ "taxpayer": "CHEF FOODS INDÚSTRIA E COMÉRCIO DE PRODUTOS ALIMENTÍCIOS LTDA e V.H.D. INDUSTRIA E COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
+ "approval_date": "Not identified",
+ "consolidated_amount": null,
+ "modality": "Transação individual - Empresas em processo de recuperação judicial",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal, penhoras ou garantias prestadas administrativamente"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitadas",
+  "Autorizar o acesso da Fazenda Nacional a declarações e escritas fiscais",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando débitos supervenientes em até 90 dias",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a Transação e desistir das ações",
+  "Não distribuir lucros ou dividendos até aprovação do plano de recuperação judicial",
+  "Peticionar em até 60 dias no processo de recuperação judicial noticiando a Transação",
+  "Manter regime de apuração do IRPJ pelo lucro real durante a vigência da Transação (em razão do uso de PF/BCN)",
+  "Individualizar valores recolhidos nas contas vinculadas de FGTS dos trabalhadores"
+ ],
+ "special_clauses": [
+  "Uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) limitado a até 51,50% do saldo devedor previdenciário e até 30,00% do saldo devedor não-previdenciário, com limite máximo de R$ 2.621.058,49",
+  "Descontos específicos para débitos de FGTS (24,70%) e contribuição social LC 110/2001 (46,83%), com pagamento pelas Modalidades 37 e 7 da CEF",
+  "Possibilidade de alienação de bens dados em garantia mediante anuência prévia da Fazenda Nacional, inclusive via Plataforma Comprei",
+  "Condições estabelecidas com base na presunção de irrecuperabilidade (art. 11, §5º, Lei 13.988/2020)"
+ ],
+ "sector": "Indústria alimentícia",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.3,
+  "installments": 0.6,
+  "discounts": 0.3,
+  "judicial_recovery": 1.0,
+  "guarantees": 0.6,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Demais Débitos será adimplido com pagamento de entrada de 3% em 12 (doze) prestações mensais e saldo em 108 (cento e oito) prestações mensais sucessivas e lineares.",
+  "discounts_encargos": "Concede-se o desconto máximo de 70% (setenta por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal."
+ },
+ "review_fields": [
+  "approval_date",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts",
+  "sector",
+  "guarantees"
+ ],
+ "id": "323efab3c8c5",
+ "title": "Termo de Transação Individual - Chef Foods Indústria e Comércio de Produtos Alimentícios LTDA, V.H.D. Indústria, Comércio de Produtos Alimentícios  LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualChefFoodsIndstriaeComrciodeProdutosAlimentciosLTDAV.H.D.IndustriaComerciodeProdutosAlimenticiosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualChefFoodsIndstriaeComrciodeProdutosAlimentciosLTDAV.H.D.IndustriaComerciodeProdutosAlimenticiosLTDA.pdf",
+ "sha256": "f47a0e4ec9e635abe253b28631ef5c36a2449dffbed03d6346f1c0ec60cfea7a",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

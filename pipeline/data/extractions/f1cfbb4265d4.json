@@ -1,0 +1,78 @@
+{
+ "taxpayer": "SINDICATO DOS EMPREGADOS NO COMÉRCIO DO RIO DE JANEIRO",
+ "approval_date": "2024-11-26",
+ "consolidated_amount": 87877925.57,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhoras já existentes nos autos das execuções fiscais (Anexo III)",
+  "Imóveis oferecidos pelo DEVEDOR (Anexo IV)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações administrativas ou judiciais relativas à dívida transacionada",
+  "Confissão irrevogável e irretratável dos débitos",
+  "Peticionar nos autos das execuções fiscais em 30 dias para noticiar a transação",
+  "Manter regularidade perante PGFN e RFB",
+  "Manter regularidade perante o FGTS e individualizar valores recolhidos dos trabalhadores",
+  "Pagar tributos incidentes sobre os imóveis dados em garantia",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Autorizar acesso da CREDORA a declarações e escrituração fiscal",
+  "Comprovar cumprimento das obrigações via portal REGULARIZE"
+ ],
+ "special_clauses": [
+  "Transformação de valores bloqueados/depositados judicialmente em pagamento definitivo sem desconto (cláusula 2.1.1)",
+  "Possibilidade de alienação dos imóveis dados em garantia via plataforma COMPREI até a 24ª parcela (cláusula 3.4)",
+  "Créditos de precatório, ressarcimento ou outro meio perante a União devem ser direcionados ao saldo devedor (cláusula 2.5 e 4.4)",
+  "CREDORA nomeada procuradora do DEVEDOR para receber indenização em caso de desapropriação de imóvel penhorado (cláusula 3.8)",
+  "Migração para modalidade de parcelamento especial ou transação por adesão mais benéfica permitida sem migrar os benefícios desta transação (cláusula 5.3)"
+ ],
+ "sector": "Sindical/Serviços (representação de trabalhadores no comércio)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal do DEVEDOR objeto da presente transação, que totaliza R$ 87.877.925,57 (oitenta e sete milhões, oitocentos e setenta e sete mil, novecentos e vinte e cinco reais e cinquenta e sete centavos)",
+  "installments": "Pagamento do saldo remanescente, tanto em relação aos débitos previdenciários (Anexo I) quanto em relação aos demais débitos (Anexo II), em 60 (sessenta) prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "f1cfbb4265d4",
+ "title": "Termo de Transação Individual - Sindicato dos Empregados no Comércio do Rio de Janeiro",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualSindicatodosEmpregadosnoComrciodoRiodeJaneiroTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualSindicatodosEmpregadosnoComrciodoRiodeJaneiroTarjado.pdf",
+ "sha256": "e15c452dd1087ef2322cd34080e6224c2ee2fddeab8a38828737ab43a59e8f9a",
+ "extracted_at": "2026-07-22T14:22:31+00:00",
+ "simulated": false
+}

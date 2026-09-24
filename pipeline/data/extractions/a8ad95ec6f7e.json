@@ -1,0 +1,72 @@
+{
+ "taxpayer": "ISAR TECNOLOGIA E INFORMAÇÃO LTDA.",
+ "approval_date": "2023-11-13",
+ "consolidated_amount": 16596019.68,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": 65.0,
+  "interest_pct": 65.0,
+  "charges_pct": 65.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Corresponsabilização da empresa E-XYON LEGAL SOFTWARE LTDA. (CNPJ 39.872.381/0001-34) pelos débitos transacionados"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Peticionar nos autos das Execuções Fiscais em até 30 dias para noticiar a celebração da Transação",
+  "Requerer transformação em pagamento definitivo de valores bloqueados nas execuções fiscais",
+  "Desistir de impugnações, recursos e ações administrativas/judiciais e renunciar a alegações de direito sobre a Dívida Transacionada",
+  "Formalizar a desistência e renúncia por petição em até 30 dias",
+  "Manter regularidade perante o FGTS e individualização dos valores recolhidos",
+  "Dar ciência à CREDORA de alterações na natureza jurídica ou societária em até 30 dias",
+  "Não alienar bens ou direitos próprios ou de controladores sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar/dissimular origem ou destinação de bens",
+  "Fornecer informações sobre bens, direitos, valores, transações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa em até 30 dias",
+  "Autorizar a CREDORA a ter acesso a declarações e escritas fiscais e informações financeiras"
+ ],
+ "special_clauses": [
+  "Corresponsabilização de terceira empresa (E-XYON LEGAL SOFTWARE LTDA.) como garantia dos débitos transacionados, com anuência do sócio Hyon Participações e Consultoria S/A",
+  "Possibilidade de inclusão futura de créditos do ANEXO III (fase administrativa) mediante inscrição em dívida ativa, com aplicação dos mesmos descontos sem extensão do prazo",
+  "Compensação de valores de restituições, ressarcimentos, reembolsos e precatórios federais com prestações do acordo"
+ ],
+ "sector": "Tecnologia da informação",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.8,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.95,
+  "installments": 0.7,
+  "down_payment_pct": 0.9,
+  "discounts": 0.9,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.6
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Das inscrições previdenciárias, constantes do ANEXO I, totalizando R$11.873.450,62 (onze milhões, oitocentos e setenta e três mil, quatrocentos e cinquenta reais e sessenta e dois centavos), atualizados em 08/2023. ... Das inscrições não previdenciárias, constantes do ANEXO II, totalizando R$4.722.569,06 (quatro milhões, setecentos e vinte e dois mil, quinhentos e sessenta e nove reais e seis centavos), atualizados em 08/2023.",
+  "total_discount_pct": "Concessão do desconto de 65% incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Pagamento do saldo remanescente dos débitos de natureza não previdenciária efetuado em 120 (cento e vinte) meses, por meio de parcelas escalonadas da seguinte forma"
+ },
+ "review_fields": [
+  "sector",
+  "installments",
+  "judicial_recovery",
+  "approval_date"
+ ],
+ "id": "a8ad95ec6f7e",
+ "title": "Termo de Transação Individual - E-xyon Legal Software LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualExyonLegalSoftwareLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualExyonLegalSoftwareLTDATarjado.pdf",
+ "sha256": "89a8b4c6eafa10b362a46c9ae82c4676fb1f092a72937ccbbf75ca46e5a9b9cc",
+ "extracted_at": "2026-07-22T14:22:29+00:00",
+ "simulated": false
+}

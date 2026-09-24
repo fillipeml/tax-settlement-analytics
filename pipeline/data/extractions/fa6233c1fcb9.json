@@ -1,0 +1,63 @@
+{
+ "taxpayer": "MASSA FALIDA DE BERNARD KRONE DO BRASIL",
+ "approval_date": "2022-04-29",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Plano de Pagamento à Vista",
+ "total_discount_pct": 35.72,
+ "discounts": {
+  "fine_pct": 35.72,
+  "interest_pct": 35.72,
+  "charges_pct": 35.72
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": false,
+ "obligations": [
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas à administração tributária são verdadeiras",
+  "Renunciar a quaisquer alegações de direito sobre créditos incluídos na transação, com requerimento de extinção do processo com resolução de mérito",
+  "Manter regularidade fiscal perante a União, inclusive perante o FGTS",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas do FGTS dos respectivos trabalhadores",
+  "Peticionar nos processos judiciais noticiando a celebração da transação e desistindo das ações no prazo de 30 dias",
+  "Comprovar via sistema Regularize o protocolo das petições em até 20 dias após os protocolos"
+ ],
+ "special_clauses": [
+  "Considerando a situação falimentar da devedora, os documentos e declarações requeridos pelo art. 36 da Portaria PGFN n. 9.917/20 foram exigidos considerando o estado falimentar",
+  "O montante devido aos trabalhadores não sofrerá descontos (art. 3º da RCC974/2021)"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.95,
+  "discounts": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "guarantees": 0.6,
+  "obligations": 0.85,
+  "special_clauses": 0.7,
+  "judicial_recovery": 0.6
+ },
+ "source_excerpts": {
+  "total_discount_pct": "compromete-se a efetuar a regularização das inscrições relacionadas na cláusula 1 mediante pagamento à vista, com desconto de 35,72% que incidirá sobre os juros, multa e encargos.",
+  "installments": "pagamento à vista"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "fa6233c1fcb9",
+ "title": "Termo de Transação Individual - Massa Falida de Bernard Krone do Brasil",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualMassaFalidadeBernardKronedoBrasilTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualMassaFalidadeBernardKronedoBrasilTarjado.pdf",
+ "sha256": "c598c6f4077af97159faf7898fa61650ef3e75dec43af52ebd87dc15a147674c",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

@@ -1,0 +1,72 @@
+{
+ "taxpayer": "AJ VIAGENS E TURISMO LTDA.",
+ "approval_date": "2021-08-17",
+ "consolidated_amount": 30423048.22,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações administrativas ou judiciais relativas à dívida transacionada, no prazo de 10 dias contados da assinatura do Acordo",
+  "Adimplir a transação, observadas as condições previstas nos itens 3.1 a 3.7",
+  "Promover o pagamento de eventual saldo devedor",
+  "Não alienar bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos na transação, sem proceder à devida comunicação à Fazenda Nacional",
+  "Pagar, parcelar ou garantir, por meio de depósito, carta de fiança, seguro garantia ou outra garantia suficiente e idônea, no prazo de 90 dias, contados da comunicação da inscrição, débitos inscritos em Dívida Ativa após a formalização da transação",
+  "Manter a regularidade perante o FGTS",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à Fazenda Nacional conhecer sua situação econômica",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Realizar todas as comunicações exigidas no Acordo através de requerimento administrativo via SICAR/REGULARIZE, com expressa menção ao Processo SEI 19608.100175/2021-48"
+ ],
+ "special_clauses": [
+  "Levantamento pela REQUERENTE do valor de R$ 516.218,16 depositado nos autos da execução fiscal nº 0004397-52.2011.403.6126, imediatamente após a assinatura do Termo de Transação",
+  "Impedimento de incluir as inscrições em Dívida Ativa listadas no Anexo I em outra transação ou Negócio Jurídico Processual que tenha por finalidade plano de amortização"
+ ],
+ "sector": "Turismo/Viagens",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "approval_date": 0.9,
+  "modality": 0.95,
+  "consolidated_amount": 0.8,
+  "total_discount_pct": 0.0,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "prevê o recolhimento em parcela única, à vista, no valor total de R$ 9.261.717,35 (nove milhões, duzentos e sessenta e um mil, setecentos e dezessete reais e trinta e cinco centavos)",
+  "installments": "prevê o recolhimento em parcela única, à vista"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery",
+  "consolidated_amount"
+ ],
+ "id": "6f1fa40c296d",
+ "title": "Termo de Transação Individual - AJ Viagens e Turismo LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAJViagenseTurismoLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAJViagenseTurismoLTDAtarjado.pdf",
+ "sha256": "d8973d05fb4990bf80d085e2a3a63cf5ae5dc3dbd6ea9aaadb98347200735e43",
+ "extracted_at": "2026-07-22T14:22:35+00:00",
+ "simulated": false
+}

@@ -1,0 +1,78 @@
+{
+ "taxpayer": "PCG Tecnologia e Gestão da Informação Ltda.",
+ "approval_date": "2024-06-06",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Plano de Regularização Fiscal - Portaria PGFN nº 6.757/2022, com termos da Portaria PGFN nº 2.382/2020 para eventual recuperação judicial)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens já penhorados ou porventura descritos no termo como garantia (não detalhados individualmente no corpo do texto)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Apresentar situação econômico-financeira anualmente (balanço contábil) ou quando solicitado pela PGFN",
+  "Pagar regularmente os tributos correntes",
+  "Manter, por 5 anos, livros e documentos comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL, se utilizados",
+  "Permanecer no regime de tributação pelo lucro real (ou retornar a ele) caso utilize créditos de PF/BCN",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos incluídos",
+  "Comprovar existência, regularidade escritural e disponibilidade de créditos de prejuízo fiscal/BCN por profissional contábil"
+ ],
+ "special_clauses": [
+  "Autorização de uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para quitação do saldo remanescente (Cláusula 4ª), limitado a 70% da dívida remanescente",
+  "Cláusula de venda de bens condicionada à aquiescência da Fazenda Nacional (Cláusula 6ª)",
+  "Alienação de bens penhorados via sistema COMPREI em caso de rescisão, com regras específicas de leilão e parcelamento (Cláusula 7ª)",
+  "Reconhecimento de grupo econômico entre os integrantes da PARTE DEVEDORA, com corresponsabilidade solidária (§2º da Cláusula 2ª)"
+ ],
+ "sector": "Tecnologia da informação",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.75,
+  "judicial_recovery": 0.2,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "percentual_max_discount_social_security": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 65% (débitos previdenciários)",
+  "percentual_max_discount_nao_social_security": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 65% (débitos não previdenciários)",
+  "prazo_social_security": "PAGAMENTO PARCELADO EM ATÉ (MESES) 60 (débitos previdenciários)",
+  "prazo_nao_social_security": "PAGAMENTO PARCELADO EM ATÉ (MESES) 120 (débitos não previdenciários)",
+  "fgts_modalidade63": "Modalidade 63: Desconto: 43,03% Valor do Desconto: 212.410,66 Nº Parcelas: 80 Valor a Parcelar: 281.199,33 Valor da Parcela: 3.514,99"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "805165bf0905",
+ "title": "Termo de Transação Individual - PCG Tecnologia e Gestão da Informação LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualPCGTecnologiaeGestodaInformaoLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualPCGTecnologiaeGestodaInformaoLTDATarjado.pdf",
+ "sha256": "feb41ba484ac1dfab8ff0cc2ca7f9bbc0d868bde80e4a6d7126eb2fa9a538489",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

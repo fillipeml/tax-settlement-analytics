@@ -1,0 +1,78 @@
+{
+ "taxpayer": "COSTA VERDE TRANSPORTES LTDA.",
+ "approval_date": "2025-02-20",
+ "consolidated_amount": 30911451.36,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": 0.25,
+ "guarantees": [
+  "Garagem localizada na Rua Vinte e Quatro de Fevereiro, nº 35/39/45-F/57 e 59, Bonsucesso, Rio de Janeiro/RJ, avaliada em R$ 8.300.000,00",
+  "Garagem localizada na Rua Azevedo e Souza, nº 16, Jardim Balneário, Angra dos Reis/RJ, avaliada em R$ 5.200.000,00",
+  "42 ônibus componentes da frota da DEVEDORA, avaliados em R$ 30.350.000,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações administrativas ou judiciais relativas à Dívida Transacionada",
+  "Confissão irrevogável e irretratável da dívida",
+  "Manutenção da regularidade perante PGFN, RFB e FGTS",
+  "Comunicação prévia à Fazenda Nacional antes de alienar bens ou direitos",
+  "Apresentação periódica (a cada 2 anos) de lista atualizada da frota de ônibus e nova avaliação",
+  "Apresentação de laudo de avaliação atualizado dos imóveis em 90 dias",
+  "Petição nas Execuções Fiscais em 30 dias para noticiar a transação e formalizar penhora dos bens",
+  "Permanecer no regime de apuração de IRPJ pelo lucro real até extinção da dívida",
+  "Manter livros e documentos comprobatórios dos créditos de prejuízo fiscal e base negativa da CSLL",
+  "Pagamento regular dos tributos incidentes sobre os imóveis dados em garantia"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidar até 25% do saldo remanescente após descontos",
+  "Utilização de depósitos judiciais convertidos em pagamento definitivo sem incidência de descontos",
+  "Possibilidade de alienação dos imóveis dados em garantia mediante anuência da CREDORA, com destinação do valor à quitação das parcelas vincendas",
+  "Autorização de compensação de precatórios federais e restituições/ressarcimentos da RFB com as parcelas do acordo"
+ ],
+ "sector": "Transporte (transporte rodoviário/ônibus)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.3,
+  "discounts.fine_pct": 0.3,
+  "discounts.interest_pct": 0.3,
+  "discounts.charges_pct": 0.3,
+  "down_payment_pct": 0.4,
+  "installments": 0.95,
+  "judicial_recovery": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Inscrições previdenciárias constantes do ANEXO I, totalizando R$ 1.696.750,56 ... Inscrições não previdenciárias constantes do ANEXO I, totalizando R$29.214.700,80",
+  "installments": "Pagamento do saldo remanescente da Dívida Transacionada de natureza previdenciária e não previdenciária efetuado em 60 (sessenta) prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery",
+  "consolidated_amount"
+ ],
+ "id": "610c1b4e0664",
+ "title": "Termo de Transação Individual - Costa verde Transportes LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualCostaverdeTransportesLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualCostaverdeTransportesLTDA.pdf",
+ "sha256": "6086ed2d481c88c10b88964b4cf47004e91fe3eff6a0b7fa01ed96a4017e8cec",
+ "extracted_at": "2026-07-22T14:22:29+00:00",
+ "simulated": false
+}

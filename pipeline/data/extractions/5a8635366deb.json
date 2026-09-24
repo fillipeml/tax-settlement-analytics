@@ -1,0 +1,75 @@
+{
+ "taxpayer": "FÁBRICA DE MANÔMETROS RECORD S.A",
+ "approval_date": "2023-09-13",
+ "consolidated_amount": 22093977.79,
+ "modality": "Transação Individual",
+ "total_discount_pct": 52.12,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": 0.0,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à Procuradoria-Geral da Fazenda Nacional conhecer sua situação econômica ou eventuais fatos que impliquem a rescisão do acordo",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar de qualquer forma a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas à administração tributária são verdadeiras",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 (noventa) dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos",
+  "Peticionar nos processos judiciais relativos à Dívida Transacionada em até 60 dias para noticiar a celebração da Transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 36% do saldo da dívida após a aplicação dos descontos",
+  "Não haverá oferta de garantia vinculada à presente Transação, considerando a redução do prazo de pagamento",
+  "Com relação à desistência e à renúncia aos Embargos à Execução ns. 5008624-06.2023.4.03.6182 e 5005921-10.2020.4.03.6182, as partes concordam com a não condenação em honorários advocatícios, eximindo a Requerente de seu pagamento",
+  "Débitos inscritos em DAU 35.555.250-7, 35.555.252-3, 35.649.697-0, 55.671.277-3, 80.3.08.000665-08 e 80.7.08.003748-64, discutidos em execuções fiscais específicas, caso venham a se tornar exigíveis, serão incluídos na presente Transação Tributária"
+ ],
+ "sector": "Industrial (fabricação de instrumentos/manômetros)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.4,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.85,
+  "down_payment_pct": 0.9,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.3,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada — Total de R$ 22.093.977,79 (vinte e dois milhões, noventa e três mil, novecentos e setenta e sete reais e setenta e nove centavos)",
+  "total_discount_pct": "o que implica numa média concedida aproximada de 52,12% no presente acordo",
+  "installments": "Pagamento da Divida Transacionada, tanto a de natureza não previdenciária (\"Dívida Transacionada — Demais Débitos\"), quanto a de natureza previdenciária (\"Divida Transacionada - Previdenciária\") em 48 (trinta e seis) prestações mensais iguais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "5a8635366deb",
+ "title": "Termo de Transação Individual - Fábrica de Manômetros Record S.A",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualFbricadeManmetrosRecordS.A.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualFbricadeManmetrosRecordS.A.pdf",
+ "sha256": "d429d09d61d605b27182c02f85231833236acfba16d247d7224580ea804727cc",
+ "extracted_at": "2026-07-22T14:22:42+00:00",
+ "simulated": false
+}

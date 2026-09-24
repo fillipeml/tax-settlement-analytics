@@ -1,0 +1,71 @@
+{
+ "taxpayer": "MUNICIPIO DE FLORES",
+ "approval_date": "2025-04-07",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens penhorados ou porventura descritos no termo, alienáveis via sistema COMPREI em caso de inadimplência",
+  "Não liberação de garantias já existentes no âmbito judicial/administrativo"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Recolhimento das obrigações tributárias correntes",
+  "Cumprimento das obrigações acessórias dependentes da obrigação principal",
+  "Apresentação anual de demonstrações de resultados (balanço contábil)",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Verter eventuais direitos creditórios supervenientes (precatórios/restituições) para a transação"
+ ],
+ "special_clauses": [
+  "Dedução dos valores devidos dos montantes a serem repassados relacionados às cotas nos Fundos de Participação (Parágrafo 2º, Cláusula 1ª)",
+  "Possibilidade de aditamento excepcional da transação para inclusão de novas inscrições em dívida ativa, sob condições específicas (Cláusula 15)",
+  "Venda de bens condicionada à aquiescência da Fazenda Nacional (Cláusula 5ª)"
+ ],
+ "sector": "Administração pública municipal",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.8,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "judicial_recovery": 0.6,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de até 65% na inscrição negociada, limitado ao valor da capag conforme extrato da conta de transação que integrará o presente documento como, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa juros e encargo legal), conforme cálculo do sistema",
+  "installments": "Pagamento da dívida transacionada de natureza previdenciária em 120 meses;"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "c8809c88ddf4",
+ "title": "Termo de Transação Individual - Município de Flores",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMunicpiodeFloresTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMunicpiodeFloresTarjado.pdf",
+ "sha256": "8e9ea018814c66b9f3fce3b66199f95d5f15a4c136c51a14b907b9dc25b40a82",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

@@ -1,0 +1,74 @@
+{
+ "taxpayer": "CHEBLI MITRE ABOU NABHAN FILHO LTDA (PURAMANIA CONFECÇÕES LTDA) - CNPJ: 01.937.920/0001-01 e P.L. INDÚSTRIA DE CONFECÇÕES LTDA (EIRELI) - CNPJ: 07.853.960/0001-43",
+ "approval_date": "2023-09-20",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis descritos no Anexo IV, avaliados em R$ 8.999.790,00",
+  "Marca PURAMANIA, avaliada em R$ 15.063.575,02"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta",
+  "Declarar que não alienaram ou oneraram bens com o propósito de frustrar a recuperação dos créditos",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria PGFN nº 6757/22",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Manter livros e documentos fiscais por 5 anos em razão de uso de créditos de PF/BCN",
+  "Providenciar formalização da penhora dos bens em garantia no prazo de 90 dias",
+  "Peticionar nos processos judiciais em até 30 dias após assinatura, desistindo de embargos e exceções de pré-executividade"
+ ],
+ "special_clauses": [
+  "Uso de créditos de prejuízo fiscal (PF) e base de cálculo negativa de CSLL (BCN) para abatimento do saldo",
+  "Rating de classificação de recuperabilidade 'D'",
+  "Possibilidade de amortização mediante créditos líquidos e certos ou precatórios federais",
+  "Cláusula em causa própria em favor da União para receber indenização em caso de desapropriação dos bens em garantia"
+ ],
+ "sector": "Confecções/Vestuário",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.5,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "o saldo devedor será pago em 120 (cento e vinte) parcelas escalonadas, mensais e sucessivas, conforme os valores estipulados no anexo III"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "6c8fe645bce3",
+ "title": "Termo de Transação Individual - Puramania Confecções LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualPuramaniaConfeccoesLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualPuramaniaConfeccoesLTDA.pdf",
+ "sha256": "377a523a84aaef095d5ad17e03f6fc48e6e0fe7722aae61a029f9f30363a3708",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

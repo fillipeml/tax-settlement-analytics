@@ -1,0 +1,86 @@
+{
+ "taxpayer": "COMPANHIA DE ÁGUAS E ESGOTOS DE RONDÔNIA - CAERD",
+ "approval_date": "2024-09-20",
+ "consolidated_amount": 1515961816.52,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Responsabilidade subsidiária do Estado de Rondônia (GARANTIDOR)",
+  "Retenção e repasse de valores do Fundo de Participação dos Estados (FPE)",
+  "Penhora sobre percentual de faturamento (5% da receita bruta da Companhia)",
+  "Manutenção de gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas administrativamente ou em execuções fiscais"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Confessar irrevogável e irretratavelmente os débitos relacionados no ANEXO",
+  "Renunciar a alegações de direito e questionamentos administrativos e judiciais sobre os débitos",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa após a assinatura, no prazo de 90 dias",
+  "Informar previamente à PGFN alienação ou disposição de bens que impactem a solvabilidade",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou valor dos pagamentos",
+  "Anuir com eventual modificação da competência para reunião de processos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Autorizar compensação de valores de precatórios federais e restituições/ressarcimentos com as prestações",
+  "Apresentar renúncia e desistência de ações/recursos judiciais e administrativos no prazo de 30 dias",
+  "Manter livros e documentos comprobatórios dos créditos de prejuízo fiscal e BCN da CSLL",
+  "Permanecer no regime do lucro real durante a vigência da transação",
+  "Apresentar situação econômico-financeira anualmente ou quando solicitado pela PGFN"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal (PF) e base de cálculo negativa da CSLL (BCN), limitado a 70% do saldo após desconto",
+  "Garantia fidejussória do Estado de Rondônia como GARANTIDOR com responsabilidade subsidiária",
+  "Retenção de valores no FPE para repasse à União como mecanismo de garantia de pagamento",
+  "Penhora sobre 5% do faturamento bruto da Companhia em caso de rescisão",
+  "Suspensão da cobrança do saldo liquidado com créditos de PF/BCN até confirmação pela Receita Federal",
+  "Cláusula de não constituição de nova pessoa jurídica que diminua garantias (cláusula anti-elisiva)"
+ ],
+ "sector": "Saneamento básico (águas e esgotos)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "modality": 0.9,
+  "sector": 0.85,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts_multa": 0.0,
+  "discounts_juros": 0.0,
+  "discounts_encargos": 0.0,
+  "judicial_recovery": 0.6,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal da DEVEDORA inscrito em dívida ativa da União, parte desta transação, é composto por todos os seus créditos fiscais relacionados no ANEXO, que totalizam R$1.515.961.816,52 (um bilhão, quinhentos e quinze milhões, novecentos e sessenta e um mil, oitocentos e dezesseis reais e cinquenta e dois centavos), atualizado no mês de agosto de 2024",
+  "total_discount_pct": "a presente transação envolve concessão de desconto de até 65% (sessenta e cinco por cento), vedada a incidência sobre o principal do débito, uma vez que as dívidas são consideradas irrecuperáveis pela PGFN, em razão da capacidade de pagamento da DEVEDORA",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (demais) será de 120 (cento e vinte) meses e de 60 meses para os previdenciários"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "8ca50f2d4233",
+ "title": "Termo de Transação Individual - Companhia de Águas e Esgotos de Rondônia - CAERD",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualCompanhiadeguaseEsgotosdeRondniaCAERDTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualCompanhiadeguaseEsgotosdeRondniaCAERDTarjado.pdf",
+ "sha256": "06889c059949c379a55d3d3019549231a99aaa7d4c2cf551acbf8a7274d9bccc",
+ "extracted_at": "2026-07-22T14:22:22+00:00",
+ "simulated": false
+}

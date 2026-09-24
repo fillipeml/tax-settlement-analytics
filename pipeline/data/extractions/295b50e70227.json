@@ -1,0 +1,73 @@
+{
+ "taxpayer": "D'PRADO DECORACOES LIMITADA - EPP / CARPETÃO DECORAÇÕES LTDA / MON LINE COMERCIO DE TAPETES",
+ "approval_date": "2025-03-17",
+ "consolidated_amount": 14163377.02,
+ "modality": "Transação Individual",
+ "total_discount_pct": 32.35,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, de medida cautelar fiscal e das garantias prestadas administrativamente ou nas ações de execução fiscal ou em qualquer outra ação judicial"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens ou direitos com propósito de frustrar recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a formalização",
+  "Não alienar bens/direitos próprios que possam inviabilizar ou reduzir capacidade de pagamento sem comunicação prévia à Fazenda Nacional",
+  "Peticionar nos processos judiciais em até 60 dias para noticiar a celebração da Transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [],
+ "sector": "Decoração/comércio de tapetes e carpetes",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.5
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total R$5.669.607,75 (Após Descontos, PRINCIPAL) + R$5.669.607,75 (ENCARGOS)... Saldo a pagar PREV (acrescer SELIC) R$2.084.965,07 ... Saldo a pagar DEMAIS (acrescer SELIC) R$6.408.938,93",
+  "total_discount_pct": "Desconto máximo de 32,35% (trinta e dois inteiros e trinta e cinco centésimos por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos); ... Descontos pela CAPAG 32,35% ... Desconto efetivo MÉDIO 32,35%",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 145 (cento e quarenta e cinco) prestações mensais, escalonadas na forma discriminada no Anexo II; Pagamento da Dívida Transacionada de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 60 (sessenta) prestações mensais e lineares na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector",
+  "consolidated_amount"
+ ],
+ "id": "295b50e70227",
+ "title": "Termo de Transação Individual - D'Prado Decorações Limitada",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualDPradoDecoraesLimitadaTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualDPradoDecoraesLimitadaTarjado.pdf",
+ "sha256": "ec4b8d50ac7ee68d306ea34d9e5abaf795147b16937f848912806525ce572310",
+ "extracted_at": "2026-07-22T14:22:40+00:00",
+ "simulated": false
+}

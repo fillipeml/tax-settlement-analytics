@@ -1,0 +1,77 @@
+{
+ "taxpayer": "Nova Pack Fabricação de Plásticos Eirelli em rec. Judicial",
+ "approval_date": "2022-05-04",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Plano de Pagamento Parcelado do Débito Fiscal - Empresa em Recuperação Judicial",
+ "total_discount_pct": 53.36,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhora sobre imóvel matrícula (tarjada) do Registro de Imóveis da Comarca de Bento Gonçalves-RS, terreno urbano na Rua Arlindo Franklin Barbosa nº 2074, Bento Gonçalves, área de 89.538,00m², com construções de aprox. 18.000m² (9.926,52m² averbados)",
+  "Imóvel vinculado pela Interveniente Garante Mastter Imóveis e Locações Ltda: terreno na Praia de Fora, distrito da Enseada do Brito, município da Palhoça, Rua Arcanjo Cândido da Silva nº 800, área de 22.137,12m², com edificação de 2.990,50m²"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/valores",
+  "Declarar não ter alienado ou onerado bens para frustrar a recuperação dos créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de ativos não circulantes",
+  "Cumprir exigências da Portaria PGFN 9.917/20 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos referentes aos créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União e Certificado de Regularidade do FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após o acordo",
+  "Não distribuir lucros ou dividendos a sócios e acionistas até a aprovação do plano de recuperação judicial",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil ou demonstrações de resultado, quando solicitado pela PGFN",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias"
+ ],
+ "special_clauses": [
+  "Interveniente Garante (Mastter Imóveis e Locações Ltda) vincula imóvel ao pagamento dos créditos transacionados, com obrigação limitada exclusivamente ao bem referido, sem configurar corresponsabilidade/solidariedade (Cláusula 7.1)",
+  "Reconhecimento pela Interveniente Garante de que a aquisição do imóvel de Palhoça se deu em fraude à execução, renunciando a embargos de terceiro ou ação sobre a matéria",
+  "Renúncia da proponente ao direito de futura execução de sentença decorrente de Mandados de Segurança nºs 5005028-93.2021.4.04.7107 e 500011534.2022.4.04.7107",
+  "Desistência de Embargos à Execução nºs 5004685-55.2016.4.04.7113 e 5005719-65.2016.4.04.7103",
+  "Percentuais de juros/encargos escalonados por faixa de parcelas (1-12: 4%/ano; 13-24: 6%/ano; 25-36: 8%/ano; 37-84: 10%/ano; 85-96: 12%/ano; 97-108: 14%/ano; 109-120: 16%/ano)"
+ ],
+ "sector": "Indústria de plásticos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "sendo concedido o desconto médio de 53,36% (conforme simulação anexa - 03/03/2022)",
+  "installments": "As inscrições indicadas serão objeto de plano de pagamento em 120 (cento e vinte) amortizações mensais e sucessivas, conforme valores estipulados no Anexo I"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "74a6ce263bd7",
+ "title": "Termo de Transação Individual - Nova Pack",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualNovaPack.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualNovaPack.pdf",
+ "sha256": "188969e08880dd1d54aaa6a617f0a5fcfa2fa5c853c4cc067304d1374f32fd7b",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

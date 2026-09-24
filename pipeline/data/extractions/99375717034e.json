@@ -1,0 +1,66 @@
+{
+ "taxpayer": "MUNICIPIO DE GURUPI",
+ "approval_date": "2023-09-28",
+ "consolidated_amount": 2278847.15,
+ "modality": "Transação Individual Tributária - Modalidade 63 (débitos com FGTS)",
+ "total_discount_pct": 28.85,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 80,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações judiciais/recursos relativos aos créditos incluídos na transação, com requerimento de extinção do processo com resolução de mérito (art. 487, III, 'c', CPC)",
+  "Manter regularidade fiscal perante a União, inclusive perante o FGTS",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas do FGTS dos respectivos trabalhadores",
+  "Peticionar nos processos judiciais noticiando a celebração da transação e desistindo das ações, no prazo máximo de 30 dias da assinatura",
+  "Apresentar comprovação do protocolo das petições via sistema Regularize no prazo de 10 dias após os protocolos",
+  "Recolher obrigações correntes eventualmente devidas, mesmo com a transação celebrada"
+ ],
+ "special_clauses": [
+  "Montante devido aos trabalhadores (art. 3º da RCC 974/2021) não sofrerá descontos (cláusula 5.2)",
+  "Transação não interfere em outras inscrições no CADIN ou Cadastro de Inadimplentes com o FGTS alheias ao objeto do acordo (cláusula 12)",
+  "Redução do montante dos créditos não pode exceder o previsto na cláusula 5 (itens 5.1 e 5.2), nem haver renúncia às garantias e privilégios do crédito do Fundo (cláusula 13)"
+ ],
+ "sector": "Administração pública municipal",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor a Parcelar: 2.278.847,15",
+  "total_discount_pct": "CONCESSÃO DE DESCONTO DE 28,85%, E PARCELAMENTO EM 80 MESES",
+  "installments": "Nº Parcelas: 80"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "99375717034e",
+ "title": "Termo de Transação Individual - Município de Gurupi FGTS",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualMunicipiodeGurupiFGTStarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualMunicipiodeGurupiFGTStarjado.pdf",
+ "sha256": "b1497edc2c0a1456cb49c7be98f07fc1113275cd1eda4565186174db271bdd43",
+ "extracted_at": "2026-07-22T14:22:24+00:00",
+ "simulated": false
+}

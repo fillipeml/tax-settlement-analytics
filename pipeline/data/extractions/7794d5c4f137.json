@@ -1,0 +1,80 @@
+{
+ "taxpayer": "Supermercado Pague Menos Ltda.",
+ "approval_date": "2023-12-27",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhoras em execuções fiscais mantidas até a plena quitação",
+  "Possibilidade de alienação de ativos com prévia autorização da PGFN"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não alienar bens dados em garantia sem concordância da Fazenda Nacional",
+  "Não alienar bens sem reservar ativos suficientes para créditos da Fazenda Nacional",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de ativos",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Autorizar compensação de precatórios federais ou estaduais",
+  "Apresentar situação econômico-financeira anualmente por demonstrações de resultados",
+  "Manter livros e documentos fiscais por 5 anos"
+ ],
+ "special_clauses": [
+  "Utilização de até 70% do crédito de Prejuízo Fiscal (PF) e Base de Cálculo Negativa (BCN) da CSLL para pagamento, limitado à Capacidade de Pagamento da devedora",
+  "Formalização de 2 contas independentes de transação (Previdenciária e Não Previdenciária), sendo que inadimplência de qualquer delas implica rescisão de toda a transação",
+  "Relatório analítico de PF/BCN certificado por profissional contábil (CRC 0178760-8) integra o Termo",
+  "Verter para pagamento da dívida qualquer crédito monetizado a ser recebido por precatório ou depósito judicial (Cláusula 20)"
+ ],
+ "sector": "Varejo/Supermercados",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.9,
+  "modality": 0.95,
+  "sector": 0.6,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.3,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "total_discount_pct": "concessão nas contas PREVIDENCIÁRIAS (PREV) e NÃO PREVIDENCIÁRIAS (NÃO PREV) um desconto efetivo de até 67,81% e 69,89%, respectivamente"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector",
+  "total_discount_pct",
+  "special_clauses"
+ ],
+ "id": "7794d5c4f137",
+ "title": "Termo de Transação Individual - Supermercado Pague Menos LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualSupermercadoPagueMenosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualSupermercadoPagueMenosLTDATarjado.pdf",
+ "sha256": "53901b12331f7e67673a014df6d66a949b9a350c70b99069f2f51bbbcb88c5e2",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

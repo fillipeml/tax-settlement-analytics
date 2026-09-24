@@ -1,0 +1,93 @@
+{
+ "taxpayer": "CLUB DE REGATAS VASCO DA GAMA / SOCIEDADE VASCO DA GAMA SOCIEDADE ANÔNIMA DE FUTEBOL",
+ "approval_date": "2023-07-11",
+ "consolidated_amount": 38540493.35,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Rua São Januário, 891 - matrícula 26.906",
+  "Rua São Januário, 907 - matrículas 59.870/59.871/59.872/59.873",
+  "Rua São Januário, 977 - matrículas 26.796/0050960/0050961/0053464/0044502/50980",
+  "Avenida Roberto Dinamite, 10 (antiga Rua Gal. Américo Moura, 131) - matrícula 52.064",
+  "Rua São Januário, 953 - matrícula 0051845",
+  "Rua São Januário, 927 - matrícula 20.448",
+  "Rua São Januário, 943 - matrículas 22323/0044209/0050593/41.787",
+  "Rua Dom Carlos, 6 - matrícula 9.732",
+  "Rua Dom Carlos, 8 - matrícula 9.732",
+  "Rua São Januário, 1003 - matrícula 0051847",
+  "Rua São Januário, 1009 - matrícula 15427",
+  "Rua São Januário, 1015 - matrícula 53605",
+  "Rua São Januário, 1021 - matrícula 23.802",
+  "Rua São Januário, 1027 - matrículas 0051240/0051241/51.846",
+  "Rua São Januário, 1033 - matrícula 26.444",
+  "Rua São Januário, 877 - matrícula 31.088",
+  "Rua São Januário, 913 - matrícula 0044119",
+  "Rua São Januário, 961 - matrícula 0051846",
+  "Rua São Januário, 997 - matrícula 15.952",
+  "Sede Calabouço - matrícula 20.999"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Apresentar certidões de ônus reais atualizadas dos imóveis em garantia no prazo de 60 dias",
+  "Peticionar nos processos judiciais em 30 dias para noticiar a Transação, desistir de impugnações/recursos/ações e confessar a dívida",
+  "Efetuar pagamento regular de tributos federais, estaduais e municipais sobre os imóveis dados em garantia",
+  "Não alienar bens/direitos sem comunicação à Fazenda Nacional durante a vigência do acordo",
+  "Permanecer nos parcelamentos e transações já aderidos",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União no prazo de 90 dias",
+  "Fornecer informações sobre bens, direitos, valores e operações sempre que solicitado",
+  "Individualizar os valores recolhidos nas contas vinculadas dos trabalhadores no prazo de 30 dias contados do recolhimento da guia GRDE",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias"
+ ],
+ "special_clauses": [
+  "Possibilidade de direcionamento de créditos de precatório ou depósito judicial para abatimento do saldo devedor (cláusula 2.3)",
+  "Suspensão da exigibilidade das dívidas enquanto perdurar o acordo (cláusula 2.4)",
+  "Possibilidade de substituição de garantia por outra de igual ou maior valor mediante anuência da Credora (cláusula 3.5)",
+  "Interveniente (SAF-VG) assume responsabilidade solidária e subsidiária sobre a dívida transacionada",
+  "Vedação de nova transação pelo DEVEDOR por 2 anos em caso de rescisão"
+ ],
+ "sector": "futebol/entretenimento",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.9,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.75,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizando R$ 38.540.493,35 (trinta e oito milhões, quinhentos e quarenta mil, quatrocentos e noventa e três reais, trinta e cinco centavos), referente ao mês de maio/2023"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "417c196cbfd6",
+ "title": "Termo de Transação Individual - Club de Regatas Vasco da Gama",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualClubdeRegatasVascodaGama.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualClubdeRegatasVascodaGama.pdf",
+ "sha256": "0c7b37554c9a7ebe48edeb0cfcf51a1f7ab1ce68327ece5a929aa212a34999ae",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

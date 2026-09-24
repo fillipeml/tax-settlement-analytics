@@ -1,0 +1,75 @@
+{
+ "taxpayer": "TRANSFER TRANSPORTADORA FERROVIÁRIA DE VEÍCULOS AUTOMOTORES LTDA",
+ "approval_date": "2024-11-13",
+ "consolidated_amount": 19848607.66,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal ou qualquer outra ação judicial"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar sob as penas da lei que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva",
+  "Declarar não utilização de pessoa interposta para ocultar bens",
+  "Declarar não ter alienado bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais e fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos futuros inscritos em Dívida Ativa",
+  "Regularizar em 30 dias saldo decorrente de reconsolidação de conta em EM COBRANÇA",
+  "Não alienar bens que reduzam capacidade de pagamento sem comunicação",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter durante 5 anos livros e documentos comprobatórios de prejuízo fiscal e base negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Manter-se optante pelo lucro real durante toda vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor após descontos, em 70% para DEMAIS DÉBITOS e PREVIDENCIÁRIO",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL negativa ficará suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de 5 anos"
+ ],
+ "sector": "Transporte/logística (transporte ferroviário de veículos automotores)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.2,
+  "guarantees": 0.8,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$ 19.848.607,66 100% do Passivo Fiscal consolidado em 11/2024",
+  "total_discount_pct": "Nas modalidades DEMAIS DÉBITOS e PREVIDENCIÁRIOS, desconto máximo de até 65% (sessenta por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS DÉBITOS e PREVIDENCIÁRIOS em até 36 prestações mensais e sucessivas, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "7c7cee6d3b99",
+ "title": "Termo de Transação Individual - Transfer Transportadora Ferroviária de Veículos Automotores LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/copy2_of_TermodeTransaoIndividualTransferTransportadoraFerroviriadeVeculosAutomotoresLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/copy2_of_TermodeTransaoIndividualTransferTransportadoraFerroviriadeVeculosAutomotoresLTDAtarjado.pdf",
+ "sha256": "b8cbf738bb8f5df5ea9e0ca9997505739c9bfececf0f65c0149da41b444f77c3",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

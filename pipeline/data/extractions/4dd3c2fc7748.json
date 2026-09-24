@@ -1,0 +1,74 @@
+{
+ "taxpayer": "USINA CAROLO S/A AÇÚCAR E ÁLCOOL EM RECUPERAÇÃO JUDICIAL; AGROPECUÁRIA SANTA CATARINA EM RECUPERAÇÃO JUDICIAL; PLANALTO AGROINDUSTRIAL LTDA EM RECUPERAÇÃO JUDICIAL (Grupo Proponente)",
+ "approval_date": "2023-07-13",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal",
+  "Manutenção das penhoras formalizadas indicadas no Anexo VI",
+  "Anuência com utilização do Sistema COMPREI para eventual alienação de imóveis já penhorados"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Promover a desistência de impugnações, recursos e ações administrativas/judiciais relativas à Dívida Transacionada no prazo de 30 dias",
+  "Adimplir a Transação conforme cláusula 3",
+  "Promover o pagamento de eventual saldo devedor",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Pagar, parcelar ou garantir débitos inscritos em Dívida Ativa após a formalização da Transação, no prazo de 90 dias",
+  "Manter regular a situação dos parcelamentos vigentes",
+  "Manter regularidade perante o FGTS",
+  "Renunciar a alegações de direito sobre ações judiciais relativas à Dívida Transacionada",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Realizar comunicações via SICAR/REGULARIZE mencionando o dossiê nº 10265.215946/2023-16"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL no limite de 70% após incidência dos descontos",
+  "Direcionamento de eventuais créditos (precatórios, depósitos judiciais) para adimplemento dos saldos devedores",
+  "Utilização de crédito líquido e certo de R$4.936.215,00 a receber da RFB para pagamento da transação",
+  "Disponibilização de valores a receber em ações judiciais específicas (autos nºs 5004148-39.2021.403.6102 e 5008645-96.2021.403.6102) para pagamento"
+ ],
+ "sector": "Agronegócio (açúcar e álcool)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 1.0,
+  "discounts": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "judicial_recovery": 1.0,
+  "guarantees": 0.8,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a Dívida Transacionada, vedada a redução do montante principal sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos) (Anexo III).",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações;"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "discounts",
+  "down_payment_pct",
+  "sector",
+  "installments"
+ ],
+ "id": "4dd3c2fc7748",
+ "title": "Termo de Transação Individual - Usina Carolo S/A Açúcar e Álcool",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualUsinaCaroloSAAcarelcoolInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualUsinaCaroloSAAcarelcoolInformaesSigilosasSuprimidas.pdf",
+ "sha256": "80fdf95a0944968f4aadecd2289b7afbe0dc15b6e11057bd12209d30ad9b7303",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

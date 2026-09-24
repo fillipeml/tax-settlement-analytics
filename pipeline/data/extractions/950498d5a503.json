@@ -1,0 +1,59 @@
+{
+ "taxpayer": "TNS TRANSPORTES & LOGISTICA LTDA",
+ "approval_date": "2023-07-14",
+ "consolidated_amount": null,
+ "modality": "Transação individual (termo aditivo)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 115,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Regularizar os débitos inscritos ou que se tornarem exigíveis posteriormente à formalização da transação",
+  "Pagamento das Guias de Pagamento relativas às contas originais e da nova Guia decorrente do Termo Aditivo"
+ ],
+ "special_clauses": [
+  "Abertura de duas novas contas de transação para inclusão de novas inscrições (CDAs) por serem posteriores à abertura das contas já existentes, preservando-se os mesmos termos do acordo original (percentual de desconto e prazos)",
+  "Abatimento de 05 (cinco) parcelas vencidas desde o acordo original"
+ ],
+ "sector": "Transporte e logística",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "approval_date": 0.9,
+  "modality": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "preservados os mesmos termos do acordo, inclusive quanto ao percentual de desconto de até 65% (sessenta e cinco por cento)",
+  "installments": "o prazo para pagamento de até 115 (cento e quinze) meses, relativos às dívidas não-previdenciárias, e 55 (cinquenta e cinco) meses, relativos às dívidas previdenciárias, uma vez que já abatidas 05 (cinco) parcelas vencidas, desde o acordo original."
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "judicial_recovery",
+  "guarantees",
+  "installments"
+ ],
+ "id": "950498d5a503",
+ "title": "Termo de Transação Individual -  Primeiro Termo Aditivo - TNS Transportes & Logistica LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualAditivo1TNSTransportesLogsticaLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualAditivo1TNSTransportesLogsticaLTDA.pdf",
+ "sha256": "a096d5bba3c71ecd5eb60f36d91d0905e64c050ad20f3f76605e0445c69c7198",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

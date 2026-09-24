@@ -1,0 +1,69 @@
+{
+ "taxpayer": "JETLOG SERVIÇOS LTDA",
+ "approval_date": "2020-09-23",
+ "consolidated_amount": 61753226.05,
+ "modality": "Transação Individual - Plano de Recuperação Fiscal",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": false,
+ "obligations": [
+  "Fornecer demonstrações contábeis dos 3 últimos exercícios sociais (balanço patrimonial, DRE, demonstração do resultado desde o último exercício, relatório gerencial de fluxo de caixa, descrição das sociedades do grupo)",
+  "Fornecer relação nominal completa dos credores",
+  "Fornecer relação de bens e direitos de propriedade do requerente com laudo econômico-financeiro",
+  "Fornecer extratos atualizados das contas do devedor e aplicações financeiras",
+  "Fornecer descrição das operações realizadas com instituições financeiras",
+  "Fornecer relação dos bens particulares dos controladores, administradores, gestores e representantes legais",
+  "Fornecer relação de ações judiciais em que figure como parte",
+  "Declarar que não alienará bens ou direitos sem comunicação à Fazenda Nacional durante o cumprimento da transação",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar a recuperação dos créditos",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados/balanço contábil",
+  "Manter recolhimento das obrigações tributárias correntes"
+ ],
+ "special_clauses": [
+  "Cláusula 4ª - Antecipação de julgamento de recurso administrativo no CARF: débito pendente de recurso especial da PGFN (Processo Administrativo nº 16095.720038/2015-15) excluído do acordo por não estar inscrito em DAU, com compromisso do devedor de formular nova transação individual quando houver trânsito em julgado e inscrição em DAU, mantendo-se os mesmos descontos deferidos",
+  "§2º da Cláusula 4ª - Antecipação de pagamentos na conta administrativa no valor de R$ 400.000,00, atualizados pela SELIC, para amortização e ajuste da parcela global quando julgado o recurso administrativo pendente"
+ ],
+ "sector": "Logística",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.95,
+  "installments": 1.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.9,
+  "judicial_recovery": 0.6,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL R$ 61.753.226,05",
+  "total_discount_pct": "cujo pagamento da dívida se dará no número máximo de 84 (oitenta e quatro) parcelas iguais, após aplicação do desconto de 50% (cinquenta por cento)",
+  "installments": "no número máximo de 84 (oitenta e quatro) parcelas iguais"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "16c3a05014b0",
+ "title": "Termo de Transação Individual - Jetlog",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-jetlog",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-jetlog",
+ "sha256": "c1e1f874d577d6b086ed8f061a9594ec346e54b4ae15f9b2e2f6155722db7713",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

@@ -1,0 +1,88 @@
+{
+ "taxpayer": "GRUPO INTERMARINE (TOPFIBER DO BRASIL LTDA, FALCON ESTALEIROS DO BRASIL LTDA, ORYX EMPREENDIMENTOS E PARTICIPAÇÕES LTDA, VELLROY ESTALEIROS DO BRASIL LTDA, VELLROY NÁUTICA SOCIEDADE SIMPLES LTDA, YAGUAR EMPREENDIMENTOS E PARTICIPAÇÕES LTDA)",
+ "approval_date": "2024-08-20",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 58.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis (relação no Anexo III, total avaliado em R$ 309.229.400,00)",
+  "Rendimentos de aluguéis de imóveis locados (Anexo IV, total mensal R$ 419.791,03)",
+  "Moldes de embarcações (relação no Anexo V/laudos, total avaliado em R$ 55.109.215,00)",
+  "Marca 'INTERMARINE YACHTS' registrada no INPI"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar sob as penas da lei que preenchem os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utilizam pessoa interposta para ocultar bens ou valores",
+  "Declarar que não alienaram ou oneraram bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que reduzam significativamente capacidade de pagamento sem comunicação",
+  "Manter-se regular e em dia com as parcelas devidas",
+  "Manter por 5 anos livros e documentos comprobatórios de prejuízo fiscal e base negativa de CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo",
+  "Peticionar em até 15 dias nos processos judiciais para noticiar a transação e desistir de impugnações/recursos",
+  "Formalizar ou reafirmar penhoras dos imóveis, marca e moldes em até 30 dias",
+  "Averbar a garantia da marca no INPI em até 60 dias"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL no limite de R$ 35.879.760,00 (FALCON ESTALEIROS)",
+  "Transformação de depósitos judiciais vinculados (total R$ 31.236.519,29) em pagamento definitivo",
+  "Reconhecimento de corresponsabilidade solidária entre as Devedoras/Proponentes como mesmo grupo econômico (GRUPO INTERMARINE)",
+  "Débitos da TOPFIBER DO BRASIL LTDA (inscrições específicas) permanecem em Transação Excepcional separada",
+  "Possibilidade de alienação de bens dados em garantia com até 20% de deságio via Sistema COMPREI",
+  "Inclusão futura de débitos do Procedimento Administrativo 19613.728010/2024-17 mediante requerimento em 60 dias"
+ ],
+ "sector": "Náutico/Estaleiros (construção e comércio de embarcações)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "approval_date": 0.95,
+  "modality": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "O desconto médio aplicado à transação é de aproximadamente 58% (cinquenta e oito por cento), em respeito à vedação de redução do montante principal, sendo aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais;"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "da98ba46e76f",
+ "title": "Termo de Transação Individual - Falcon Estaleiros do Brasil LTDA, Vellroy Estaleiros do Brasil LTDA, Vellroy Náutica Sociedade Simples LTDA, Atthena Embarcações LTDA, Falcon Holding LTDA, Interboat Center Serviços Administrativos LTDA, Dilan Gestão LTDA, Alya Participações LTDA, Yaguar Empreendimentos e Participações LTDA, Oryx Empreendimentos e Participações LTDA, Roberta de Almeida Ramalho, Espólio de Gilberto Botelho de Almeida Ramalho ( representado por Roberta de Almeida Ramalho)",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualFalconEstaleirosdoBrasilLTDAVellroyEstaleirosdoBrasilLTDAVellroyNuticaSociedadeSimplesLTDAAtthenaEmbarcaesLTDAFalconHoldingLTDAInterboatCenterServiosAdminis.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualFalconEstaleirosdoBrasilLTDAVellroyEstaleirosdoBrasilLTDAVellroyNuticaSociedadeSimplesLTDAAtthenaEmbarcaesLTDAFalconHoldingLTDAInterboatCenterServiosAdminis.pdf",
+ "sha256": "cd286dadc1ed901f8e2ffe4a1bdf04ae635b8969ba899b883a2cdcea5260534e",
+ "extracted_at": "2026-07-22T14:22:42+00:00",
+ "simulated": false
+}

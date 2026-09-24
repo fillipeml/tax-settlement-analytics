@@ -1,0 +1,79 @@
+{
+ "taxpayer": "MASSUCATO INDUSTRIA E COMERCIO LTDA",
+ "approval_date": "2025-02-10",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança dos sócios Alcides Roberto Massucato e Amadeu Francisco Massucato, com responsabilidade solidária pelo total da dívida consolidada (sem descontos)",
+  "Manutenção de gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou/onerou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a formalização",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Manter-se optante pela tributação pelo lucro real durante a vigência do acordo (em caso de uso de prejuízo fiscal/BC negativa da CSLL)"
+ ],
+ "special_clauses": [
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 70% do saldo da dívida após descontos, no valor aproximado de R$1.598.681,21",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL ficará suspensa até confirmação pela autoridade competente, dentro do prazo legal de 5 anos"
+ ],
+ "sector": "Industrial",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de aproximadamente 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada, de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\"), em 60 (sessenta) prestações mensais, sendo as 10 primeiras em valor aproximado de R$78.000,00 (setenta e oito mil reais) e as demais em parcelas iguais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "c5f70205ae7f",
+ "title": "Termo de Transação Individual - Massicato Indústria e Comércio LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMassicatoIndstriaeComrcioLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMassicatoIndstriaeComrcioLTDATarjado.pdf",
+ "sha256": "2449a05914c49db615cdc39c73a139dcd1c5dcc639657b9c9cdfb23848c2be51",
+ "extracted_at": "2026-07-22T14:22:47+00:00",
+ "simulated": false
+}

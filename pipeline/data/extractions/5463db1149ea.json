@@ -1,0 +1,82 @@
+{
+ "taxpayer": "Grupo Casarin (CASARIN COMERCIO DE ALIMENTOS LTDA. e outros - grupo econômico de fato)",
+ "approval_date": "2022-11-21",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Plano de Pagamento Parcelado",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Integralidade dos bens móveis e imóveis do Grupo, já objeto de indisponibilidade e constrição no âmbito das Cautelares Fiscais e executivos movidos pela União (1ª Vara Federal de Pelotas/RS)",
+  "Totalidade dos valores já bloqueados nos processos judiciais",
+  "Acervo garantidor que supera a cifra de R$ 180.000.000,00, conforme Laudos Avaliativos"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utilizam pessoa interposta para ocultar bens/valores",
+  "Declarar que não alienaram ou oneraram bens com o propósito de frustrar a recuperação dos créditos",
+  "Cumprir exigências da Portaria PGFN n. 6.757/22",
+  "Declarar veracidade de informações cadastrais, patrimoniais e econômico-fiscais",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Manter em dia pagamento de impostos, taxas e tributos sobre bens dados em garantia",
+  "Apresentar situação econômico-financeira anualmente via balanço contábil",
+  "Diligenciar junto ao juízo competente para obter autorizações de venda de bens e liberações de recursos"
+ ],
+ "special_clauses": [
+  "Reconhecimento de formação de grupo econômico de fato e responsabilidade solidária por todas as dívidas (Cláusula 3ª)",
+  "Confissão irrevogável e irretratável da dívida com efeitos do art. 174, parágrafo único, IV do CTN (Cláusula 4ª)",
+  "Previsão de 'parcelas balões' (aportes maiores) nas parcelas 12, 24, 36, 48 e 60 da Conta Previdenciária e 72, 84, 96, 108 e 120 da Conta Demais Débitos (§3º Cláusula 9ª)",
+  "Possibilidade de alienação progressiva dos bens penhorados/indisponibilizados para pagamento das parcelas balões, mediante anuência da União e autorização judicial (§§3º e 4º Cláusula 9ª)",
+  "Valores de depósitos judiciais serão canalizados para as contas de transação, amortizando parcelas finais (§8º Cláusula 6ª)",
+  "União nomeada procuradora em causa própria para receber indenização em caso de desapropriação de bens dados em garantia (Cláusula 13)"
+ ],
+ "sector": "Agronegócio/Cerealista e Comércio (alimentos, veículos, cereais, construção)",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "total_discount_pct": "sendo concedido o desconto máximo de até 65% por inscrição, conforme simulações anexas e observados os limites do §2º do art. 11 da Lei n. 13.988/20",
+  "installments": "O plano relativo às inscrições indicadas no Anexo II prevê o pagamento em 120 (cento e vinte) parcelas mensais e sucessivas, conforme os valores estipulados no Anexo III (parcelas escalonadas e aportes maiores/balões)"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "consolidated_amount",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "5463db1149ea",
+ "title": "Termo de Transação Individual - Casarin Comércio de Alimentos LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualCasarinComerciodeAlimentosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualCasarinComerciodeAlimentosLTDA.pdf",
+ "sha256": "2e26ae0d2b48d745d5ce98c60579a3fdfdb7b392f86f2a13b011dd07a97fe8b1",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

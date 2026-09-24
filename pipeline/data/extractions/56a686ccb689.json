@@ -1,0 +1,70 @@
+{
+ "taxpayer": "ITAURB – Empresa de Desenvolvimento de Itabira Ltda.",
+ "approval_date": "2022-02-02",
+ "consolidated_amount": 50268335.21,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Corresponsabilidade do Município de Itabira (INTERVENIENTE ANUENTE), com retenção no Fundo de Participação dos Municípios (FPM) em caso de rescisão"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Regularizar, no prazo de 90 dias, a dívida do FGTS, mantendo a regularidade enquanto durar o acordo",
+  "Manter a regularidade das obrigações tributárias federais correntes a partir da assinatura da transação",
+  "Pagar ou parcelar, no prazo de 90 dias, débitos que vierem a ser inscritos em dívida ativa após a formalização do acordo",
+  "Efetuar os pagamentos referentes às parcelas mensais acordadas",
+  "Informar previamente à Fazenda Pública Federal a alienação e/ou disposição de bens e direitos",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos incluídos",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo, no prazo de 15 dias"
+ ],
+ "special_clauses": [
+  "Corresponsabilidade do Município de Itabira como INTERVENIENTE ANUENTE, com garantia via retenção no FPM em caso de rescisão",
+  "Possibilidade de migração para programa de parcelamento extraordinário ou transação por adesão mais benéfica (Cláusula 17)",
+  "Prazos diferenciados de parcelamento: 84 parcelas para dívida não previdenciária e 60 parcelas para dívida previdenciária"
+ ],
+ "sector": "Desenvolvimento urbano/empresa pública municipal",
+ "confidence": {
+  "taxpayer": 0.99,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Os débitos relacionados no ANEXO 2, cujo valor total perfaz o importe de R$ 50.268.335,21 (cinquenta milhões, duzentos e sessenta e oito mil, trezentos e trinta e cinco reais e vinte e um centavos), atualizado até janeiro/2022",
+  "installments": "o valor resultante será pago em 84 (oitenta e quatro) parcelas mensais e consecutivas para a dívida não previdenciária e 60 (sessenta) parcelas mensais e consecutivas para a dívida previdenciária"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "56a686ccb689",
+ "title": "Termo de Transação Individual - ITAURB",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-itaurb_.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-itaurb_.pdf",
+ "sha256": "a975b2305aca19ae35cc8ba547bbb09ff345bbaf09edfbe7028ce9845532a1c3",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

@@ -1,0 +1,88 @@
+{
+ "taxpayer": "AUTO VIAÇÃO MARECHAL LTDA",
+ "approval_date": "2024-11-26",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": 3.0,
+ "guarantees": [
+  "Imóveis descritos no Anexo IV - MAXIPAR ADMINISTRADORA DE BENS E IMÓVEIS (matrículas 43105069 e 43105863) avaliados em R$ 94.500.000,00",
+  "Imóveis descritos no Anexo IV - CONSTRUTORA MOGNO LTDA (matrículas 43105621 e 43105990) avaliados em R$ 45.000.000,00",
+  "Bens já penhorados nas execuções fiscais",
+  "Garantia administrativa por hipoteca (caso não seja possível concretizar penhora)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não alienação/oneração de bens com propósito de frustrar recuperação de créditos",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos da RFB com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Cumprir exigências da Portaria PGFN 6757/22 e da proposta",
+  "Declarar veracidade de informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos referentes aos créditos incluídos",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Declarar não possuir créditos/precatórios líquidos e certos em desfavor da União",
+  "Manter-se optante do regime de lucro real durante a negociação (uso de créditos de prejuízo fiscal e CSLL)",
+  "Adotar e manter medidas de ESG (ações sociais, redução de poluentes, treinamento de funcionários, redução de desigualdade de gênero, sustentabilidade)",
+  "Não desistir do acordo sob pena de rescisão",
+  "Peticionar nos processos judiciais em até 60 dias após assinatura, noticiando a transação e desistindo de embargos/exceções/ações correlatas",
+  "Apresentar situação econômico-financeira (balanço contábil e DRE) quando solicitado pela PGFN",
+  "Recolher obrigações tributárias correntes e acessórias"
+ ],
+ "special_clauses": [
+  "Uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para abatimento de 65% do saldo (Anexo I - previdenciárias) e 50% do saldo (Anexo II - demais)",
+  "Compromisso de adoção de medidas ESG (ambiental, social e governança) como condição do acordo (art. 18-A da Portaria PGFN 6757/22)",
+  "Nomeação da União como procuradora dos proprietários dos imóveis em causa própria, com poderes para receber indenização em caso de desapropriação",
+  "Garantias prestadas por terceiros (MAXIPAR e CONSTRUTORA MOGNO), não apenas pela devedora principal",
+  "Desistência de ação ordinária nº 5031200-97.2024.404.7000 com acordo de ausência de honorários sucumbenciais",
+  "Possibilidade de substituição da penhora por hipoteca administrativa caso não seja possível formalizar a penhora no prazo"
+ ],
+ "sector": "Transporte (rodoviário/coletivo de passageiros)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "approval_date": 0.9,
+  "modality": 0.9,
+  "sector": 0.5,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.85,
+  "installments": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "down_payment_pct": "a DEVEDORA pagará uma entrada no montante de 3% do valor do devido sem descontos, em 12 prestações mensais sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "a7db0a3f1c07",
+ "title": "Termo de Transação Individual - Auto Aviação Marechal LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAutoAviaoMarechalLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAutoAviaoMarechalLTDA.pdf",
+ "sha256": "90c32d7da860a833547d4b4f9bc5e9eed65798524521c6dcfac40f847c3ccf79",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

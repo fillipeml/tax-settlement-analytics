@@ -1,0 +1,71 @@
+{
+ "taxpayer": "R.P.L ENGENHARIA E SERVICOS LTDA EM RECUPERACAO JUDICIAL",
+ "approval_date": "2023-08-14",
+ "consolidated_amount": 52925586.16,
+ "modality": "Transação Individual (Portaria PGFN nº 6.757/2022, com aplicação da Portaria PGFN nº 2.382/2020 por recuperação judicial)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 104,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Apresentar situação econômico-financeira anualmente (balanço contábil/DRE)",
+  "Manter, por 5 anos, livros e documentos comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL utilizados",
+  "Individualizar valores recolhidos a título de FGTS nas contas vinculadas dos trabalhadores, se houver débitos dessa natureza",
+  "Comprovar existência, regularidade escritural e disponibilidade dos créditos de prejuízo fiscal/CSLL, com atestado de profissional contábil",
+  "Recolher obrigações tributárias correntes e obrigações acessórias dependentes da obrigação principal",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos incluídos"
+ ],
+ "special_clauses": [
+  "Autorização de utilização de prejuízo fiscal e base de cálculo negativa da CSLL para quitação do saldo devedor remanescente, limitado a R$ 4.768.680,50, integralmente aproveitado na conta de débitos previdenciários",
+  "Direito creditório superveniente, incluindo precatórios, será vertido para pagamento da transação, mesmo para antecipação de parcelas não vencidas",
+  "Anuência do administrador judicial da recuperação judicial na assinatura do termo",
+  "Não liberação de garantias anteriormente existentes em âmbito judicial ou administrativo"
+ ],
+ "sector": "Engenharia/Construção",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.2,
+  "installments": 0.65,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.3,
+  "obligations": 0.8,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Totais: 12.305.619,18 ... 40.619.966,58",
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 70% (setenta por cento)",
+  "installments": "para adimplemento da dívida não-previdenciária (demais débitos), em até 104 (cento e quatro) meses, e do débito previdenciário, em até 16 (dezesseis) meses"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees"
+ ],
+ "id": "4e0991142214",
+ "title": "Termo de Transação Individual - R.P.L Engenharia e Serviços LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualR.P.LEngenhariaeServiosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualR.P.LEngenhariaeServiosLTDA.pdf",
+ "sha256": "3b00e2e7c52c8096fea86446d32ee98a27e3d82709cccc0fd0917e8832834ff9",
+ "extracted_at": "2026-07-22T14:35:18+00:00",
+ "simulated": false
+}

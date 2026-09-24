@@ -1,0 +1,76 @@
+{
+ "taxpayer": "Luminar Montagens Elétricas Ltda. e Luminar Comércio Indústria Ltda. (grupo econômico de fato)",
+ "approval_date": "2022-07-22",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel urbano com área total de 5.462,75m², situado em Barreiros, São José/SC (alienação em venda direta na execução fiscal nº 5003610-53.2017.4.04.7207)",
+  "Bens imóveis e benfeitorias listados no ANEXO VI do termo",
+  "Imóvel registrado em nome da devedora Luminar Comércio e Indústria Ltda. junto ao Registro de Imóveis de São José/SC"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar/dissimular origem ou destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria PGFN 9.917/20",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Apresentar petição na execução fiscal informando a formalização da transação em 5 dias",
+  "Manter em dia pagamento de impostos, taxas e tributos incidentes sobre bens dados em garantia",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados"
+ ],
+ "special_clauses": [
+  "Reconhecimento de grupo econômico de fato entre as DEVEDORAS com responsabilidade solidária pelas dívidas",
+  "Alienação em venda direta de imóvel penhorado por R$ 11.200.000,00, cujo produto será usado para liquidação/amortização de parcelamentos como parcela de entrada",
+  "Possibilidade de desconto máximo de 65% por inscrição para demais débitos, respeitados os limites do art. 11 da Lei 13.988/20",
+  "Autorização para venda de outros imóveis dados em garantia para amortização de parcelamentos via Portal REGULARIZE",
+  "Plano de pagamento previdenciário em até 60 parcelas para débitos remanescentes dos ANEXOS II e IV, com desconto de até 65%"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.2,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.1,
+  "installments": 0.75,
+  "down_payment_pct": 0.2,
+  "total_discount_pct": 0.1,
+  "discounts": 0.7,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.1,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "as DEVEDORAS poderão estabelecer novo plano de pagamento, na modalidade de transação individual, em até 120 (cento e vinte) amortizações mensais e sucessivas",
+  "discounts.charges_pct": "sendo possível a concessão de um desconto máximo de 65% (sessenta e cinco por cento) por inscrição, observados os limites do §2º do art. 11 da Lei n. 13.988/20"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "sector",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "0cf91938a4b2",
+ "title": "Termo de Transação Individual - Luminar Montagens Elétricas LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualLuminarMontagensEletricasLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualLuminarMontagensEletricasLTDA.pdf",
+ "sha256": "35f636954e1f976d4b05e7f9cc4c0e402a060b9cfdcacd0e46d6a30d72a5c305",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

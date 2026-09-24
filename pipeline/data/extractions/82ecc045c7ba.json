@@ -1,0 +1,80 @@
+{
+ "taxpayer": "FRIGORÍFICO NORTE PIONEIRO",
+ "approval_date": "2024-08-13",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 55.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 6.0,
+ "guarantees": [
+  "Imóvel matrícula 2307, registrado perante o CRI de Ribeirão do Pinhal/PR, avaliado em R$ 47.950.000,00",
+  "Fiança pessoal de Ítalo Cândido Fiates, respondendo pelo montante integral negociado, sem descontos"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utilizam pessoa interposta para ocultar/dissimular bens, direitos ou valores",
+  "Declarar que não alienaram ou oneraram bens com propósito de frustrar a recuperação dos créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de bens do ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN nº 6757/22",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos referentes aos créditos incluídos na transação",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não desistir do acordo (sob pena de rescisão)",
+  "Peticionar nos processos judiciais em até 30 dias, noticiando a transação e desistindo de embargos/exceções",
+  "Providenciar formalização de penhora do imóvel dado em garantia em até 90 dias",
+  "Apresentar situação econômico-financeira anualmente via balanço contábil",
+  "Manter regime de tributação do lucro real até cumprimento integral da transação"
+ ],
+ "special_clauses": [
+  "Fiança pessoal do interveniente Ítalo Cândido Fiates respondendo pelo montante integral sem descontos, com renúncia ao benefício de ordem",
+  "União nomeada procuradora com poderes em causa própria para receber indenização em caso de desapropriação do imóvel dado em garantia",
+  "Vedação de opção por regime de tributação diverso do lucro real durante a vigência da transação, sob pena de rescisão"
+ ],
+ "sector": "Frigorífico/Agroindústria",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.85,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.7,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "total_discount_pct": "sobre o saldo apurado após entrada incidirá o desconto médio de 55%, observando os limites do §2º do art. 11 da Lei n. 13.988/20",
+  "down_payment_pct": "o DEVEDOR pagará entrada de 6% do montante total devido sem descontos, em 12 prestações mensais",
+  "installments": "em 12 prestações mensais; ... este saldo final será pago em 108 (cento e oito) amortizações mensais lineares"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "82ecc045c7ba",
+ "title": "Termo de Transação Individual - Frigorífico Norte Pioneiro, Maria Sirlene Cândido Fiates, Lourival Fiates, Luar Sertão Agropecuária Sociedade Civil LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualFrigorficoNortePioneiroMariaSirleneCndidoFiatesLourivalFiatesLuarSertoAgropecuriaSociedadeCivilLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualFrigorficoNortePioneiroMariaSirleneCndidoFiatesLourivalFiatesLuarSertoAgropecuriaSociedadeCivilLTDA.pdf",
+ "sha256": "e8090dc15ac31135fa7da048c841eedde5bdec81076e2b85c8a4d3d36fcaff62",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

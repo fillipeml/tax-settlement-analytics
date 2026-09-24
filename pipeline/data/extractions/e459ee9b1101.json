@@ -1,0 +1,81 @@
+{
+ "taxpayer": "FTI LOGISTICA LTDA EM RECUPERACAO JUDICIAL, FTI SERVIÇOS DE TRANSPORTES LTDA e FANTINATI LOGÍSTICA E TRANSPORTES LTDA",
+ "approval_date": "2025-02-11",
+ "consolidated_amount": null,
+ "modality": "Transação individual (recuperação judicial)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança dos sócios Sidnei Lopes Fantinatti e Roberto Lopes Fantinati, com renúncia ao benefício de ordem e responsabilidade solidária pelo total da dívida consolidada (sem descontos)",
+  "Manutenção dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas administrativamente ou em execuções fiscais"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Declarar preenchimento dos requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não ter alienado ou onerado bens para frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a formalização",
+  "Não alienar bens/direitos que reduzam capacidade de pagamento sem comunicação à Fazenda",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter livros e documentos por 5 anos, incluindo comprovatórios de prejuízo fiscal e base negativa da CSLL",
+  "Manter-se optante pelo lucro real durante a vigência do acordo, em caso de utilização de prejuízo fiscal/CSLL negativa",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da Transação e desistir de impugnações/recursos/ações"
+ ],
+ "special_clauses": [
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 70% do saldo da dívida após descontos, no valor aproximado de R$2.097.545,16",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL negativa ficará suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de 5 anos",
+  "Cumprimento do plano de recuperação judicial nos autos do processo n.º 1000569-14.2022.8.26.0260 como desiderato da transação",
+  "Eventuais créditos que as Requerentes venham a dispor perante a União (precatório, depósito judicial etc.) deverão ser direcionados para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Logística e transportes",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.8,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.7,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de aproximadamente 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Pagamento da Dívida Transacionada, de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\"), em 60 (sessenta) prestações mensais iguais e sucessivas, na forma discriminada no Anexo II; ... Pagamento da Dívida Transacionada, de natureza previdenciária (\"Dívida Transacionada – Previdenciária\"), em 60 (sessenta) prestações mensais iguais e sucessivas, na forma discriminada no Anexo II;"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "total_discount_pct"
+ ],
+ "id": "e459ee9b1101",
+ "title": "Termo de Transação Individual - FTI Logística LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualFTILogisticaLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualFTILogisticaLTDATarjado.pdf",
+ "sha256": "df26e713a4814c2729774ebad13e64caf83c4cbe7ff2b7b63eea136c96093481",
+ "extracted_at": "2026-07-22T14:22:41+00:00",
+ "simulated": false
+}

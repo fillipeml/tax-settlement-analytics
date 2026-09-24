@@ -1,0 +1,76 @@
+{
+ "taxpayer": "CANASVIEIRAS TRANSPORTES LTDA. - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2022-12-06",
+ "consolidated_amount": 16550370.48,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis matriculados sob nºs 100.517, 56.623 e 48.166, do 2º Ofício de Registro de Imóveis de Florianópolis/SC e nº 11.955, do 1º Ofício de Registro de Imóveis de Florianópolis/SC, avaliados em R$ 40.000.000,00, com penhoras já existentes nas execuções fiscais nºs 50252258620184047200 e 50252319320184047200"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilização de interposta pessoa para ocultar bens/direitos/valores",
+  "Declarar não alienação/oneração de bens com propósito de frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de ativo não circulante",
+  "Cumprir exigências das Portarias PGFN/ME nº 6757/2022 e 2382/2021 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos referentes aos créditos transacionados",
+  "Manter regularidade fiscal perante a União",
+  "Manter o Certificado de Regularidade do FGTS",
+  "Fornecer informações bancárias e empresariais quando solicitado",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não distribuir lucros ou dividendos a sócios/acionistas até aprovação do plano de recuperação judicial",
+  "Manter em dia tributos e emolumentos incidentes sobre os bens dados em garantia",
+  "Manter livros e documentos fiscais por 5 anos em razão do uso de créditos de PF/BCN",
+  "Apresentar situação econômico-financeira sempre que solicitado pela PGFN",
+  "Peticionar nos processos judiciais em até 60 dias noticiando a transação"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de Prejuízo Fiscal (IRPJ) e Base de Cálculo Negativa de CSLL (PF/BCN) no valor nominal de R$ 7.173.661,00, exclusivamente para amortização das inscrições previdenciárias, sob condição resolutória de homologação pela RFB em até 5 anos",
+  "Exclusão de valor de R$ 25.151.412,10 relativo a inscrição com exigibilidade suspensa por decisão judicial nº 91 4 21 078442-07",
+  "Garantia com bens imóveis formando complexo empresarial avaliado em R$ 40.000.000,00, mantendo penhoras já existentes"
+ ],
+ "sector": "Transporte",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.95,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "total_discount_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 1.0,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "VALOR DA TRANSAÇÃO 16.550.370,48"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct"
+ ],
+ "id": "f668baa6f169",
+ "title": "Termo de Transação Individual - Canasveiras Transportes LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCanasveirasTransportesLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCanasveirasTransportesLTDATarjado.pdf",
+ "sha256": "a75958f02b49508e619ce21ed3a7b90b4ea3c30f6a59eaecf10d6d7780fa4ed4",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

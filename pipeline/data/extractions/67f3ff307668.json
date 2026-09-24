@@ -1,0 +1,74 @@
+{
+ "taxpayer": "HDA INDUSTRIA E COMERCIO DE COMPONENTES ELETRÔNICOS LTDA",
+ "approval_date": "2022-05-31",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Marca HDA ILUMINAÇÃO LED, registrada no INPI sob o n. 908670958, oferecida à penhora nos autos da Execução Fiscal n. 50011760220204047138"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/valores",
+  "Declarar que não alienou/onerou bens para frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de ativo não circulante",
+  "Cumprir exigências da Portaria PGFN 9917/20 e da proposta",
+  "Declarar veracidade das informações cadastrais/patrimoniais/econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos referentes aos créditos incluídos",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em até 90 dias débitos novos inscritos em dívida ativa",
+  "Peticionar nos processos judiciais noticiando a transação em até 60 dias",
+  "Protocolar petição de oferecimento de garantia em até 60 dias",
+  "Apresentar situação econômico-financeira anualmente (balanço contábil)",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições"
+ ],
+ "special_clauses": [
+  "Desconto máximo de até 50% por inscrição, observados os limites do §2º do art. 11 da Lei 13.988/20",
+  "Oferecimento de marca registrada (ativo intangível) como garantia, em vez de bem imóvel/fiança tradicional",
+  "Juros SELIC acumulados mensalmente + 1% no mês do pagamento"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.3,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.3,
+  "installments": 0.95,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.8,
+  "down_payment_pct": 0.0
+ },
+ "source_excerpts": {
+  "installments": "serão objeto de plano de pagamento em 84 (oitenta e quatro) amortizações mensais e sucessivas",
+  "total_discount_pct": "sendo concedido o desconto máximo de até 50% por inscrição, observados os limites do §2º do art. 11 da Lei n. 13.988/20"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "judicial_recovery",
+  "down_payment_pct"
+ ],
+ "id": "67f3ff307668",
+ "title": "Termo de Transação Individual - HDA Indústria e Comércio de Componentes Eletrônicos",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualHDAIndustriaeComerciodeComponentesEletronicos.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualHDAIndustriaeComerciodeComponentesEletronicos.pdf",
+ "sha256": "8fd67e1fe29564fbdb1593462308dfc5de431c934752657af9f04c89bf4c8803",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

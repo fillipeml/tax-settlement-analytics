@@ -1,0 +1,71 @@
+{
+ "taxpayer": "SOPROVAL EMBALAGENS PLASTICAS LTDA – EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2025-06-05",
+ "consolidated_amount": null,
+ "modality": "Transação individual (empresa em recuperação judicial)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante a PGFN e a Secretaria da Receita Federal do Brasil, regularizando em até 90 dias débitos que se tornarem exigíveis após a Transação",
+  "Em até 60 dias da assinatura, peticionar em todos os processos judiciais que tenham por objeto a Dívida Transacionada, noticiando a Transação e desistindo/renunciando conforme art. 487, III, 'c' do CPC",
+  "Não distribuir lucros ou dividendos a sócios e acionistas até a aprovação do plano de recuperação judicial",
+  "Em até 60 dias da assinatura, peticionar no processo de recuperação judicial noticiando a celebração da Transação",
+  "Fornecer informações sobre bens, direitos, valores e situação econômica sempre que solicitado",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Não alienar bens ou direitos que possam reduzir a capacidade de pagamento sem comunicação prévia",
+  "Manter livros e documentos fiscais/contábeis relativos a PF/BCN por 5 anos ou até liquidação integral da Transação",
+  "Manter regime de apuração do IRPJ pelo lucro real durante toda a vigência da Transação, quando utilizados créditos de PF/BCN"
+ ],
+ "special_clauses": [
+  "Uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) para amortização da Dívida Transacionada, limitado a 70% do saldo devedor após descontos, e ao montante máximo de R$54.936.267,71",
+  "Desconto máximo de 65% sobre acréscimos legais (multa, juros e encargos), vedada redução do principal",
+  "Pagamento em duas dívidas segregadas: Previdenciária (60 parcelas) e Demais Débitos (120 parcelas), com escalonamento por faixas",
+  "Depósitos judiciais vinculados à Dívida Transacionada convertidos em pagamento definitivo sem desconto",
+  "Créditos de precatórios federais e restituições/ressarcimentos da RFB destinados obrigatoriamente ao pagamento das prestações"
+ ],
+ "sector": "Embalagens plásticas / Indústria",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.3,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.9,
+  "judicial_recovery": 1.0,
+  "guarantees": 0.5,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Concede-se o desconto máximo de 65% (sessenta e cinco por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal.",
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Demais Débitos será adimplido em 120 (cento e vinte) prestações mensais sucessivas"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "sector",
+  "guarantees",
+  "total_discount_pct",
+  "installments"
+ ],
+ "id": "e5d5523600ef",
+ "title": "Termo de Transação Individual - Soproval Embalagens Plásticas",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSoprovalEmbalagensPlsticas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSoprovalEmbalagensPlsticas.pdf",
+ "sha256": "e52fc7e267251c1b49074de9d0a501a93ce28f7a112b277a4fe193cdd8b4c86d",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

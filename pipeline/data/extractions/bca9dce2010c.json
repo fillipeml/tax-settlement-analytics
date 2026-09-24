@@ -1,0 +1,79 @@
+{
+ "taxpayer": "COMPANHIA PAULISTA DE FORÇA E LUZ (CPFL PAULISTA)",
+ "approval_date": "2022-12-27",
+ "consolidated_amount": 1288173845.79,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Apólices de Seguro Garantia",
+  "Carta de Fiança"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável os débitos relacionados no Anexo II",
+  "Renunciar expressamente a quaisquer alegações de direito e questionamentos, pelas vias administrativas e judicial, dos débitos relacionados no Anexo II",
+  "Manter a regularidade das obrigações de FGTS e tributárias federais correntes, vencidas a partir da data da assinatura da transação",
+  "Para débitos inscritos em dívida ativa exigíveis: pagar, iniciar garantia ou parcelar no prazo máximo de 90 dias",
+  "Manter as garantias oferecidas e relacionadas no Anexo V até o integral cumprimento das condições previstas na transação",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Anuir com eventual modificação da competência relativa para reunião de processos",
+  "Efetuar tempestivamente os pagamentos referentes às amortizações mensais acordadas",
+  "Não utilizar pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Não alienar ou onerar bens ou direitos com propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais"
+ ],
+ "special_clauses": [
+  "Possibilidade de utilização de precatórios próprios ou de terceiros para amortização dos débitos, nos termos da Portaria PGFN nº 10.826/2022",
+  "Aproveitamento de depósitos judiciais realizados no âmbito das execuções fiscais nºs 0014813-89.2004.4.03.6105 e 0015425-17.2010.4.03.6105, sem descontos e na data em que realizados",
+  "Dispensa do pagamento de eventuais multas processuais (litigância de má-fé) impostas nos autos dos processos indicados no Anexo IV e V",
+  "Possibilidade de alteração no valor das garantias indicadas nos Anexos IV e V, com autorização prévia da Fazenda Nacional, na proporção do que for amortizado do débito",
+  "Débitos consubstanciados nos Processos Administrativos nº 10830.721136/2013-61 e 10830.725780/2011-46 não estão abrangidos pela presente transação"
+ ],
+ "sector": "Energia elétrica",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.9,
+  "modality": 1.0,
+  "approval_date": 0.95,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 1.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal da REQUERENTE transacionado é composto por todos os créditos tributários relacionados no ANEXO II, totalizando, em novembro de 2022, a importância de R$ 1.288.173.845,79.",
+  "installments": "o valor remanescente, indicado pelo Setor de Cálculos da Procuradoria Regional da Fazenda Nacional na 3ª Região (PRFN3) em R$ 1.022.047.655,35 para novembro de 2022, será parcelado em até 60 vezes"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "bca9dce2010c",
+ "title": "Termo de Transação Individual - Companhia Paulista de Força e Luz",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCompanhiaPaulistadeForaeLuzInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCompanhiaPaulistadeForaeLuzInformaesSigilosasSuprimidas.pdf",
+ "sha256": "015f188188f3189d20b28bb8ca625b80fc63007d5b5c57495d296b6bdc91b66a",
+ "extracted_at": "2026-07-22T14:22:39+00:00",
+ "simulated": false
+}

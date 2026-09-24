@@ -1,0 +1,56 @@
+{
+ "taxpayer": "AGROPECUÁRIA VITAMAIS LTDA EM RECUPERAÇÃO JUDICIAL / ECOFERTIL AGROPECUARIA LTDA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "Not identified",
+ "consolidated_amount": 14486911.09,
+ "modality": "Transação individual - Modalidade nº.29",
+ "total_discount_pct": 35.28,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantém eventuais garantias existentes"
+ ],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Agronegócio",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "approval_date": 0.0,
+  "modality": 0.75,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.9,
+  "discounts": 0.3,
+  "guarantees": 0.85,
+  "obligations": 0.0,
+  "special_clauses": 0.0,
+  "judicial_recovery": 0.95
+ },
+ "source_excerpts": {
+  "consolidated_amount": "14.486.911,09 14.286.109,76 200.801,33 1.189,17 TOTAL Previdenciária Demais Débitos Simples Nacional FGTS",
+  "total_discount_pct": "35,28% 37,27% 33,30% Não se aplica Modalidade nº.29",
+  "installments": "Previdenciária Demais Débitos Simples Nacional 1 1 1"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "discounts",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "765ea9dfe036",
+ "title": "Sumário - Agropecuária Vitamais LTDA e Ecofertil Agropecuária LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/AgropecuriaVitamaisSumrio.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/AgropecuriaVitamaisSumrio.pdf",
+ "sha256": "10876181fa4c2e1f484d02482b99e6e91530e7e7cb5640545d4f90279443df73",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

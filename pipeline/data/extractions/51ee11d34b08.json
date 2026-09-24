@@ -1,0 +1,75 @@
+{
+ "taxpayer": "HENARES ADVOGADOS ASSOCIADOS",
+ "approval_date": "2023-08-24",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 51.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/valores",
+  "Declarar que não alienou ou onerou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de precatório federal (autos nº 5000558-20.2018.4.03.6115) no valor de R$ 7.476.447,65 para liquidação integral dos débitos transacionados após aplicação dos descontos",
+  "Liberação de penhoras/arrestos vinculadas a execuções fiscais para uso integral do precatório no pagamento da transação",
+  "Exigibilidade suspensa até efetiva liberação do valor do precatório",
+  "Desconto de aproximadamente 51% aplicado individualmente a cada CDA, vedada redução do montante principal, incidindo sobre acréscimos legais (multa, juros e encargos)"
+ ],
+ "sector": "Serviços jurídicos/advocacia",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "guarantees": 0.3,
+  "judicial_recovery": 0.3,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto de aproximadamente 51% (cinquenta e um por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "51ee11d34b08",
+ "title": "Termo de Transação Individual - Henares Advogados Associados",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualHenaresAdvogadosAssociados.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualHenaresAdvogadosAssociados.pdf",
+ "sha256": "482661805a9cd6841f1bf23cdb067dd83ac0ab4183752a6084261aadca199d93",
+ "extracted_at": "2026-07-22T14:22:43+00:00",
+ "simulated": false
+}

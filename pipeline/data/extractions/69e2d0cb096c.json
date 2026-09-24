@@ -1,0 +1,76 @@
+{
+ "taxpayer": "Grupo econômico GRANCURSOS (JW GRANJEIRO CONSULTORIA E TREINAMENTO LTDA ME; VERITAD CORPORATION CURSOS E TREINAMENTO EIRELI ME; BRASÍLIA CORPORATION CONSULTORIA E ASSESSORIA LTDA; CEILÂNDIA CURSOS E CONCURSOS EIRELI EPP; GRAN COMUNICACAO LTDA EPP; GRAN CURSOS E CONCURSOS LTDA; HUDSON TREINAMENTOS LTDA (antiga PLEIADE TREINAMENTOS CURSOS E CONCURSOS LTDA); TAGUATINGA CURSOS E CONCURSOS LTDA; JW EDITORA LTDA; LUZ DA LUA TREINAMENTOS LTDA – EPP (antiga SAO PAULO TREINAMENTOS CURSOS E CONCURSOS LTDA EPP); GRAN SERVICOS TECNOLOGIA DA INFORMACAO EIRELI ME; GG EDUCACIONAL LTDA; MG CONSULTORES ASSOCIADOS EIRELI; JOSÉ WILSON GRANJEIRO OLIVEIRA; IVONETE ARAUJO CARVALHO LIMA GRANJEIRO; GABRIEL VINÍCIUS CARVALHO GRANJEIRO; MATHEUS CARVALHO GRANJEIRO; RODRIGO TELES CALADO)",
+ "approval_date": "2020-11-04",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": 10.0,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistir dos parcelamentos fiscais vigentes que abrangem os débitos arrolados no ANEXO em até 5 dias corridos da assinatura",
+  "Manter vigentes os parcelamentos fiscais anteriores que não englobem os débitos arrolados no ANEXO",
+  "Fornecer informações sobre bens, direitos, valores e transações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Regularizar em 90 dias as dívidas com o FGTS e manter regularidade durante a transação",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa após o acordo",
+  "Efetuar pagamentos de entrada e parcelas mensais conforme Cláusulas 8ª e 9ª",
+  "Informar previamente alienação/disposição de bens e direitos, recebimento de precatório ou levantamento de depósito judicial",
+  "Apresentar relação de bens particulares, inclusive das pessoas físicas signatárias",
+  "Não alienar bens ou direitos sem comunicação prévia à Fazenda Nacional"
+ ],
+ "special_clauses": [
+  "Descontos diferenciados: até 70% para devedor principal instituição de ensino, microempresa ou EPP; até 50% para demais devedores (Cláusula 7ª)",
+  "Parcelamento em 60 meses para dívida previdenciária (Cláusula 8ª) e 84 meses para dívida não previdenciária (Cláusula 9ª)",
+  "Confissão irretratável da dívida com corresponsabilidade solidária de empresas, sócios-administradores e pessoas físicas (Cláusula 6ª, I)",
+  "Rescisão adicional específica: declaração de inaptidão de GG EDUCACIONAL LTDA ou MG CONSULTORES ASSOCIADOS EIRELI no CNPJ (Cláusula 11, XII)",
+  "Vedação de nova transação por 2 anos em caso de rescisão (Cláusula 19)"
+ ],
+ "sector": "Educação (cursos preparatórios e treinamentos)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.8,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.85,
+  "down_payment_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "O saldo remanescente colhido após os descontos aplicados na forma da CLÁUSULA 7ª será parcelado em 84 (oitenta e quatro) meses para a dívida de natureza não previdenciária... será parcelado em 60 (sessenta) meses para a dívida de natureza previdenciária",
+  "down_payment_pct": "com entrada mínima no patamar de 10% (dez por cento)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "guarantees",
+  "sector"
+ ],
+ "id": "69e2d0cb096c",
+ "title": "Termo de Transação Individual - Gran Concursos",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-gran-concursos",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-gran-concursos",
+ "sha256": "1d960138f71b660973643e278e62f2318fda4aa347ee9910a0c0bab0b37b4a74",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

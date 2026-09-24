@@ -1,0 +1,72 @@
+{
+ "taxpayer": "AGROPECUARIA VITAMAIS LTDA EM RECUPERACAO JUDICIAL e ECOFERTIL AGROPECUARIA LTDA EM RECUPERACAO JUDICIAL",
+ "approval_date": "2025-05-30",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Empresa(s) em processo de recuperação judicial",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 70.0
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não distribuir lucros ou dividendos a sócios e acionistas até a aprovação do plano de recuperação judicial",
+  "Manter a regularidade perante o FGTS",
+  "Manter a regularidade perante a PGFN e a Secretaria da Receita Federal do Brasil, regularizando no prazo de 90 dias os débitos que se tornarem exigíveis após a formalização da Transação",
+  "Em até 60 dias da assinatura do Acordo, peticionar nos processos judiciais relativos à Dívida Transacionada, noticiando a celebração da Transação e desistindo de ações/impugnações/recursos",
+  "Em até 60 dias da assinatura do Acordo, peticionar no processo de recuperação judicial noticiando a celebração da Transação",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Autorizar o acesso da Fazenda Nacional a declarações e escritas fiscais",
+  "Manter livros e documentos fiscais e contábeis relativos ao uso de PF/BCN por 5 anos ou até liquidação integral da Transação",
+  "Promover a baixa dos montantes de PF/BCN utilizados nos livros e escriturações contábeis próprias",
+  "Manter o regime de apuração do IRPJ pelo lucro real durante toda a vigência da Transação (para requerentes com uso de PF/BCN)"
+ ],
+ "special_clauses": [
+  "Uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN), no valor máximo de R$ 11.609.588,43, para amortização da Dívida Transacionada, podendo amortizar até 55,02% do saldo devedor da Dívida Transacionada Previdenciária e até 52,17% da Dívida Transacionada Demais Débitos, nunca superior a 70% do saldo devedor apurado após descontos",
+  "Cobrança do valor liquidado com uso de créditos de PF/BCN ficará suspensa até confirmação dos créditos pela autoridade competente (prazo de 5 anos, sob pena de homologação tácita)",
+  "Não se aplica exigência de garantias (Anexo VI)"
+ ],
+ "sector": "Agronegócio",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.85,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.charges_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Previdenciária e Demais será adimplido em 1 parcela",
+  "discounts.charges_pct": "Concede-se o desconto máximo de 70% (sessenta e cinco por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "sector"
+ ],
+ "id": "e536c35c80ae",
+ "title": "Termo de Transação Individual - Agropecuária Vitamais LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualAgropecuriaVitamaisLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualAgropecuriaVitamaisLTDATarjado.pdf",
+ "sha256": "948f0a60d8dc2e76666779542c86abe9e25284661ea6d16e32f225ec539406a8",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

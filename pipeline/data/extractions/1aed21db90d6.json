@@ -1,0 +1,66 @@
+{
+ "taxpayer": "INFINITI TECNOLOGIA EM FUNDIÇÃO LTDA",
+ "approval_date": "2023-02-02",
+ "consolidated_amount": 234192210.07,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": 100.0,
+  "interest_pct": 100.0,
+  "charges_pct": 100.0
+ },
+ "installments": 36,
+ "down_payment_pct": 0.334,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar ou dissimular bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais prestadas",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em Dívida Ativa ou se tornarem exigíveis",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicar a Fazenda Nacional",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos da RFB com prestações do acordo"
+ ],
+ "special_clauses": [
+  "Cada parcela será determinada pelo maior valor entre 1% da receita bruta do mês anterior e o valor correspondente à divisão do valor consolidado pela quantidade de prestações solicitadas",
+  "Eventuais créditos de precatório ou depósito judicial poderão ser direcionados para adimplemento dos saldos devedores"
+ ],
+ "sector": "Metalurgia/Fundição",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.9,
+  "discounts": 0.85,
+  "guarantees": 0.5,
+  "judicial_recovery": 0.3,
+  "obligations": 0.85,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "no valor de R$ 234.192.210,07 (duzentos e trinta e quatro milhões, cento e noventa e dois mil, duzentos e dez reais e sete centavos)",
+  "total_discount_pct": "com redução de até 100% (cem por cento) do valor dos juros, das multas e dos encargos-legais, observado o limite de até 65% (sessenta e cinco por cento) sobre o valor total da inscrição objeto da negociação",
+  "installments": "em até 36 (trinta e seis) parcelas mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "1aed21db90d6",
+ "title": "Termo de Transação Individual - Infiniti Tecnologia em Fundição LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualInfinitiTecnologiaemFundioLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualInfinitiTecnologiaemFundioLTDA.pdf",
+ "sha256": "da54aa045910a1c4dad0b4658a2537d1eb8bdc71a375fd65c4156bf7fcb0ed74",
+ "extracted_at": "2026-07-22T14:22:44+00:00",
+ "simulated": false
+}

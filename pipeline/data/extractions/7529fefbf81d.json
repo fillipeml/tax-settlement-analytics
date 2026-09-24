@@ -1,0 +1,73 @@
+{
+ "taxpayer": "GRUPO ITABOM (POLIFRIGOR S/A INDÚSTRIA E COMÉRCIO DE ALIMENTOS LTDA, ITABOM COMERCIAL E INDUSTRIAL LTDA, SOLCASA EMPREENDIMENTOS IMOBILIÁRIOS LTDA, LAJINHA AGROPECUÁRIA DE ITAPUÍ LTDA, ALLFRIGOR INDÚSTRIA E COMÉRCIO DE ALIMENTOS LTDA, REALY ADMINISTRADORA DE BENS LTDA)",
+ "approval_date": "2022-12-19",
+ "consolidated_amount": 8712219.42,
+ "modality": "Negócio Jurídico Processual (NJP) - Plano de amortização de débitos de FGTS, nos termos da Portaria PGFN nº 742/2018",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 5.0,
+ "guarantees": [
+  "Penhora sobre o faturamento mensal das empresas em atividade do Grupo Itabom, no percentual de 0,5% (meio por cento)",
+  "Possibilidade de substituição por bens imóveis/móveis, seguro-garantia, carta de fiança bancária ou precatórios"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Informar a realização do NJP nos autos das execuções fiscais",
+  "Promover todos os atos necessários à regularização das garantias oferecidas",
+  "Informar a CREDORA sobre qualquer ocorrência relacionada aos processos",
+  "Apresentar a cada 3 meses balanço patrimonial analítico visado por Contador e inventário",
+  "Registrar o contrato de garantia no Cartório de Títulos e Documentos",
+  "Desistência de impugnações, recursos administrativos e ações judiciais relativas aos débitos do Anexo I",
+  "Pagamento de honorários advocatícios e custas processuais devidos"
+ ],
+ "special_clauses": [
+  "Garantia por penhora sobre faturamento mensal (0,5%) com possibilidade de revisão do percentual em caso de queda de faturamento igual ou superior a 10%",
+  "Possibilidade de substituição da garantia ao longo da vigência do NJP",
+  "Não suspensão da exigibilidade dos créditos, mas suspensão das execuções fiscais durante a vigência do NJP",
+  "Entrada de 5% do valor total dividida em 5 parcelas mensais"
+ ],
+ "sector": "Agronegócio/Indústria de Alimentos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.9,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.6,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Considerando-se que o valor total dos débitos (ANEXO II) é de R$ 8.712.219,42 (oito milhões, setecentos e doze mil, duzentos e dezenove reais e quarenta e dois centavos)",
+  "installments": "As inscrições indicadas no Anexo I serão objeto de plano de amortização em 120 (cento e vinte) amortizações mensais e sucessivas",
+  "down_payment_pct": "A entrada corresponderá a 5% (cinco por cento) do valor total dos débitos, dividido em 5 (cinco) vezes"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "7529fefbf81d",
+ "title": "Termo de Transação Individual - Polifrigor S/A Indústria e Comércio de Alimentos LTDA, Itabom Comercial e Industrial LTDA, Solcasa Empreendimentos Imobiliários LTDA, Lajinha Agropecuária de Itapuí LTDA, Allfrigor Indústria e Comércio de Alimentos LTDA, Realy Administradora de Bens LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualPolifrigorSAIndstriaeComrciodeAlimentosLTDAItabomComercialeIndustrialLTDASolcasaEmpreendimentosImobiliriosLTDALajinhaAgropecuriadeItapuLTDAAllfrigorIndstria.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualPolifrigorSAIndstriaeComrciodeAlimentosLTDAItabomComercialeIndustrialLTDASolcasaEmpreendimentosImobiliriosLTDALajinhaAgropecuriadeItapuLTDAAllfrigorIndstria.pdf",
+ "sha256": "2be185067890c75df1335f040fb67b0001972c2703b5141d1360628e03d4bfab",
+ "extracted_at": "2026-07-22T14:22:49+00:00",
+ "simulated": false
+}

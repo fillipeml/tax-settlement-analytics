@@ -1,0 +1,77 @@
+{
+ "taxpayer": "FORTAL EMPREENDIMENTOS EIRELI e ELLO SERVIÇOS DE MÃO DE OBRA LTDA. (grupo econômico), com corresponsabilidade de MARÍLIA LOPES CRUZ ROLIM",
+ "approval_date": "2022-08-25",
+ "consolidated_amount": 387072610.34,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Listagem de contratos celebrados com órgãos da administração pública estadual e municipal do Ceará (tomadores de serviço), oferecidos à penhora nas Execuções Fiscais, conforme ANEXO II"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação prévia à Fazenda Nacional",
+  "Desistência de impugnações/recursos administrativos e ações judiciais relativas aos débitos incluídos",
+  "Peticionar nos processos judiciais em até 60 dias noticiando o acordo",
+  "Fornecer informações sobre bens, direitos, valores e transações sempre que solicitado",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil",
+  "Recolher obrigações tributárias correntes e obrigações acessórias",
+  "Oferecer novos contratos à penhora caso os anteriores se extingam, para manutenção das garantias",
+  "Verter para pagamento da dívida qualquer crédito que venha a dispor (precatório ou outro meio) em face da União, Estado ou Municípios"
+ ],
+ "special_clauses": [
+  "Reconhecimento de grupo econômico de fato entre FORTAL e ELLO, com corresponsabilidade e reconhecimento da sócia MARÍLIA LOPES CRUZ ROLIM como real beneficiária (Cláusula 3ª)",
+  "Condições de desconto da devedora com maior volume de débitos (FORTAL) podem ser aplicadas à devedora ELLO, em razão do grupo econômico (Parágrafo 3º da Cláusula 4ª)",
+  "Cláusula de sobrevivência de parcelamento mais benéfico (Cláusula 16), permitindo migração da transação para programa incentivado futuro"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.2,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Demais Débitos – Total de R$ 108.691.612,11 (FORTAL); Previdenciário – Total de R$ 166.421.148,12 (FORTAL); Demais Débitos – Total de R$ 37.640.167,86 (ELLO); Previdenciário – Total de R$ 74.319.682,25 (ELLO)",
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 65% (sessenta e cinco por cento)",
+  "installments": "para pagamento em 108 (cento e oito) meses para os débitos não previdenciários e em 60 (sessenta) meses para os débitos previdenciários"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "e82abb448d1d",
+ "title": "Termo de Transação Individual - Fortal Empreendimentos",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualFortalEmpreendimentosEIRELI2022PRFN5InformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualFortalEmpreendimentosEIRELI2022PRFN5InformaesSigilosasSuprimidas.pdf",
+ "sha256": "7ed73df437ba8196f56535e014e2678323762247aae7ed1989d04c050eff1cfe",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

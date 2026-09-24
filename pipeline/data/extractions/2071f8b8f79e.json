@@ -1,0 +1,75 @@
+{
+ "taxpayer": "ORTOPLAN COMÉRCIO DE IMPLANTES ORTOPÉDICOS LTDA",
+ "approval_date": "2023-09-15",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de arrolamento de bens",
+  "Medida cautelar fiscal",
+  "Penhoras existentes nos executivos fiscais em trâmite na Justiça Federal de Pernambuco"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Recolher obrigações tributárias correntes",
+  "Fornecer informações sobre bens, direitos e valores sempre que solicitado",
+  "Apresentar demonstrações de resultados anualmente",
+  "Permanecer no regime de tributação do Lucro Real enquanto vigente a transação",
+  "Manter livros e documentos comprobatórios de prejuízo fiscal e base negativa de CSLL por 5 anos",
+  "Não alienar bens ou direitos sem comunicar a Fazenda Nacional",
+  "Peticionar nos processos judiciais em até 60 dias após a assinatura noticiando o acordo"
+ ],
+ "special_clauses": [
+  "Autorização de utilização de créditos de prejuízo fiscal acumulado e base de cálculo negativa da CSLL para amortização do saldo devedor",
+  "Duas contas independentes de transação (PREVI e DEMAIS), sendo a inadimplência de qualquer delas causa de rescisão de toda a transação",
+  "Manutenção de gravames até confirmação dos créditos de prejuízo fiscal e base negativa de CSLL utilizados",
+  "Uso equânime de PF/BCN nas duas contas (respeitado limite de 70%)"
+ ],
+ "sector": "Comércio de produtos ortopédicos/saúde",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.98,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.8,
+  "discounts": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.8,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de até 65% em cada uma das inscrições, vedada a redução do montante principal",
+  "installments": "Pagamento da dívida transacionada de natureza não previdenciária em 120 (cento e vinte) prestações mensais (12 prestações iniciais no percentual de [tarjado] após descontos e uso de PF/BCN e remanescente em 108 parcelas iguais)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector",
+  "installments"
+ ],
+ "id": "2071f8b8f79e",
+ "title": "TermodeTransaoIndividualOrtoplanComrciodeImplantesOrtopedicosLTDA.pdf",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualOrtoplanComrciodeImplantesOrtopedicosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualOrtoplanComrciodeImplantesOrtopedicosLTDA.pdf",
+ "sha256": "215deec869d769f23d4bbd66fc5de802fd3b77d973d9d4bc7c60982b45bd6229",
+ "extracted_at": "2026-07-22T14:35:18+00:00",
+ "simulated": false
+}

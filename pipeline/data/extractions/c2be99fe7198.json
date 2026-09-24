@@ -1,0 +1,76 @@
+{
+ "taxpayer": "ASSOCIAÇÃO CHAPECOENSE DE FUTEBOL",
+ "approval_date": "2022-12-07",
+ "consolidated_amount": 17384634.22,
+ "modality": "Transação Individual - PERSE",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN quando solicitado",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar/dissimular origem ou destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar a recuperação dos créditos inscritos",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria PGFN 7917/2021 e 6757/2022",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais quando envolver capacidade de pagamento",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após a formalização do acordo",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos objeto da transação",
+  "Peticionar nos processos judiciais noticiando a celebração da transação, no prazo de 90 dias",
+  "Apresentar situação econômico-financeira sempre que a PGFN reputar oportuno",
+  "Recolher obrigações tributárias correntes e obrigações acessórias dependentes",
+  "Recolher custas e emolumentos cartorários de inscrições protestadas antes da formalização"
+ ],
+ "special_clauses": [
+  "Dispensa de apresentação de garantias reais ou fidejussórias, nos termos do §7º, inciso II, do art. 3º da Lei 14.148/21 (PERSE)",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente",
+  "Faculdade de requerer alienação por iniciativa particular de bens penhorados/oferecidos em garantia, nos termos do art. 880 do CPC"
+ ],
+ "sector": "futebol/entretenimento",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.9,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.5,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.6,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total sem reduções (A) 5.580.305,84 [Anexo III] + Total sem reduções (A) 11.804.329,11 [Anexo IV]"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "c2be99fe7198",
+ "title": "Termo de Transação Individual - Associação Chapecoense de Futebol",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAssociaoChapecoensedeFutebolTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAssociaoChapecoensedeFutebolTarjado.pdf",
+ "sha256": "a30b6a44bc1f2aa314c9274b164cf7e9eecd636f34b757de55553f24699689fe",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

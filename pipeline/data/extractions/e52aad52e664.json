@@ -1,0 +1,76 @@
+{
+ "taxpayer": "A ESPORTIVA COMERCIAL LTDA (e demais empresas do grupo: BRASPORTS COMÉRCIO DE ARTIGOS ESPORTIVOS LTDA EPP, POLISPORTS COMÉRCIO DE ARTIGOS ESPORTIVOS LTDA EPP, SPORTSMAX COMÉRCIO DE ARTIGOS ESPORTIVOS LTDA, TAUBATÉ COMÉRCIO DE ARTIGOS ESPORTIVOS LTDA) - todas em Recuperação Judicial",
+ "approval_date": "2024-11-27",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (modalidades DEMAIS e PREV)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": 70.0,
+  "interest_pct": 70.0,
+  "charges_pct": 70.0
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança pessoal do sócio Silvio Alves Duarte",
+  "Manutenção de gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em execuções fiscais",
+  "Direcionamento de valores do precatório nº 0324884-72.2023.8.26.0500 para adimplemento dos saldos devedores"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar não utilização de pessoa interposta para ocultar bens",
+  "Declarar não ter alienado bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis",
+  "Não alienar bens que possam inviabilizar capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter por 5 anos livros e documentos exigidos, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pelo regime de lucro real durante toda a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito no valor aproximado de R$ 7.640.264,01 a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, para amortização do saldo devedor após aplicação dos descontos, até o limite de 70% do saldo remanescente, a fim de que sejam concedidos benefícios na ordem de 85% dos débitos negociados",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL ficará suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de cinco anos",
+  "Compromisso de direcionar valores recebidos de precatório específico para adimplemento dos saldos devedores da Transação",
+  "Transação vinculada ao cumprimento do plano de recuperação judicial nos autos do processo nº 1017601-28.2019.8.26.0554"
+ ],
+ "sector": "Comércio de artigos esportivos",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.9,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 84 (oitenta e quatro) prestações, mensais e sucessivas",
+  "discounts": "Na modalidade DEMAIS, desconto máximo de até 70% (setenta por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "sector"
+ ],
+ "id": "e52aad52e664",
+ "title": "Termo de Transação Individual - A Esportiva Comercial LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAEsportivaComercialLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAEsportivaComercialLTDATarjado.pdf",
+ "sha256": "2702a18e4237afca682deed1bf46b4b7fcee5fe909a0d9fe09c08ce295f5be6b",
+ "extracted_at": "2026-07-22T14:22:35+00:00",
+ "simulated": false
+}

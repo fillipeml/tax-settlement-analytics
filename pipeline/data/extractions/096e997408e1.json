@@ -1,0 +1,75 @@
+{
+ "taxpayer": "JRA - Empreendimentos e Engenharia Ltda em Recuperação Judicial (e SPEs Residencial Vila Galli, UP Residencial Sorocaba, Residencial Vila dos Bandeirantes)",
+ "approval_date": "2024-09-24",
+ "consolidated_amount": null,
+ "modality": "Transação individual (recuperação judicial)",
+ "total_discount_pct": 44.07,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado (6.2.1)",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência (6.2.2)",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta para ocultar/dissimular origem ou destinação de bens (6.2.3)",
+  "Declarar que não alienaram ou oneraram bens com propósito de frustrar recuperação de créditos (6.2.4)",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais (6.2.5)",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais (6.2.6)",
+  "Manter regularidade perante o FGTS (6.2.7)",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal (6.2.8)",
+  "Regularizar em 90 dias os débitos que se tornarem exigíveis após a formalização (6.2.9)",
+  "Não alienar bens/direitos que possam inviabilizar ou reduzir a capacidade de pagamento, sem comunicação à Fazenda Nacional (6.2.10)",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União (6.2.11)",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação, desistir de impugnações/recursos/ações e confessar a dívida (3.4)"
+ ],
+ "special_clauses": [
+  "Responsabilidade solidária entre as empresas do grupo pelo pagamento integral do débito de cada uma (3.1)",
+  "Créditos por precatório ou levantamento de depósito judicial deverão ser direcionados ao adimplemento dos saldos devedores da Transação (2.5)",
+  "Depósitos judiciais vinculados serão convertidos em renda da União sem incidência de descontos (3.5)",
+  "Vedação de redução do montante principal do crédito inscrito em Dívida Ativa (2.1.1 e 8.3)"
+ ],
+ "sector": "Construção civil/incorporação imobiliária",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "judicial_recovery": 0.95,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de 44,07% (quarenta e quatro inteiros e sete centésimos por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "sector"
+ ],
+ "id": "096e997408e1",
+ "title": "Termo  de Transação Individual - JRA Empreendimentos e Engenharia LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualJRAEmpreendimentoseEngenhariaLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualJRAEmpreendimentoseEngenhariaLTDATarjado.pdf",
+ "sha256": "24cff9aee2a34f57fbf7e7205e2dba4b6dc1b0767aca1765d682835000b347a5",
+ "extracted_at": "2026-07-22T14:22:45+00:00",
+ "simulated": false
+}

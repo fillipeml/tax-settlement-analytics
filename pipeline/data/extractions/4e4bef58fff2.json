@@ -1,0 +1,87 @@
+{
+ "taxpayer": "COUROS BOM RETIRO LTDA (grupo econômico Harth/Couros Bom Retiro)",
+ "approval_date": "2025-02-26",
+ "consolidated_amount": 57888524.04,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel - Matrícula nº 5.822, Livro nº 2, Registro de Imóveis de Patrocínio Paulista-SP, avaliado em R$ 27.886.906,00, de propriedade de PV Empreendimentos Imobiliários e Participações Ltda",
+  "Imóvel - Matrícula nº 991, Livro nº 2, Ofício de Registros Públicos de Roca Sales/RS, Comarca de Encantado-RS, avaliado em R$ 33.660.620,00, de propriedade de PV Empreendimentos Imobiliários e Participações Ltda",
+  "Hipoteca extrajudicial (se indeferida a penhora judicial)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos",
+  "Declarar não alienação/oneração de bens para frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6757/22",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações judiciais relativas aos créditos incluídos",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não desistir do acordo sob pena de rescisão",
+  "Reconhecer expressamente o pedido no IDPJ 5008296-62.2024.4.04.7104",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos",
+  "Peticionar nos processos judiciais em até 30 dias após assinatura do termo",
+  "Pagamento das custas processuais pendentes nos executivos ajuizados"
+ ],
+ "special_clauses": [
+  "Reconhecimento de grupo econômico de fato composto por pessoas físicas e jurídicas objeto do Incidente de Desconsideração de Personalidade Jurídica nº 5008296-62.2024.4.04.7104, com confissão irrevogável e irretratável da dívida",
+  "Valor depositado no IDPJ 5008296-62.2024.4.04.7104 utilizado como última parcela (60ª) da Modalidade 0076, correspondendo a 51,662% da dívida, no valor nominal de R$ 9.732.186,86",
+  "Débitos com sentença extintiva em Embargos à Execução Fiscal nº 5009957-52.2019.4.04.7104/RS e débitos em negociações ativas no SISPAR foram excluídos da transação",
+  "Cláusula de nomeação da União como procuradora dos proprietários para receber indenização em caso de desapropriação dos bens dados em garantia",
+  "Obrigação de reforço ou substituição de garantia em caso de redução significativa (>25%) do valor do bem garantidor, sob pena de rescisão",
+  "Após registro das garantias e homologação do IDPJ, a Fazenda Nacional não se oporá ao levantamento de restrições patrimoniais impostas às empresas do grupo econômico"
+ ],
+ "sector": "Couros/Curtume",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "As DEVEDORAS possuem em aberto os débitos elegíveis relacionados no Anexo I que totalizam, em fevereiro/2025, o montante de R$ 57.888.524,04 (cinquenta e sete milhões, oitocentos e oitenta e oito mil, quinhentos e vinte e quatro reais e quatro centavos)"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "4e4bef58fff2",
+ "title": "Termo de Transação Individual - CBR Indústria e Comércio de Couros LTDA, Curtume Bagé LTDA, Curtume Korobras LTDA, Ardep  Empreendimentos e Participações LTDA, Serenity Participações Societárias S/S LTDA, PV Empreendimentos Imobiliários e Participações S/S LTDA, Gilmar Harth, Jeniffer Harth, Diovana Harth, Eli Harth, Medicouros Comércio de couros, San Diego Participações, AAJ Comércio de Couros LTDA, Future Indústria de Couros LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCourosBomRetiroLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCourosBomRetiroLTDA.pdf",
+ "sha256": "2efa032d57a297f12ed26da014b46c718623f3ba296fca80c193265200f24f2c",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

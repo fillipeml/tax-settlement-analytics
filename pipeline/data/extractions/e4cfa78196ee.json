@@ -1,0 +1,71 @@
+{
+ "taxpayer": "APETIT SERVIÇOS DE ALIMENTAÇÃO LTDA e outras (grupo econômico representado por MARCIA REGINA VIEIRA MOCELIN MANFRIN) - APETIT SERVIÇOS DE ALIMENTAÇÃO LTDA, APETIT SERVIÇOS DE MÃO DE OBRA LTDA, APETIT SUL RESTAURANTES CORPORATIVOS LTDA, CHEIRO VERDE SOLUÇÕES EM ALIMENTAÇÃO LTDA - EPP, DELA FOODS SERVIÇOS ADMINISTRATIVOS LTDA, MOCELIN & MANFRIN LTDA",
+ "approval_date": "2022-12-06",
+ "consolidated_amount": 39426700.95,
+ "modality": "Transação Individual (PERSE - Lei 14.148/21 e Portaria PGFN 6757/2022)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Cumprir exigências adicionais da Portaria PGFN 7917/21 (PERSE) e Portaria PGFN 6757/22",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis",
+  "Manter por 5 anos os livros e documentos comprobatórios de prejuízo fiscal e base de cálculo negativa de CSLL",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados/balanço contábil",
+  "Recolher obrigações tributárias correntes e obrigações acessórias",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições abrangidas"
+ ],
+ "special_clauses": [
+  "Dispensa de apresentação de garantias reais ou fidejussórias para devedores participantes de transações na modalidade PERSE, nos termos do §7º, inciso II, do art. 3º da Lei 14.148/21",
+  "Utilização de créditos de prejuízo fiscal (PF) e base de cálculo negativa de CSLL (BCN) no valor nominal de R$ 5.896.461,00, sob condição resolutória de homologação pela Receita Federal em 5 anos",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente (art. 33 da Portaria PGFN 7917/21)"
+ ],
+ "sector": "Alimentação/Restaurantes corporativos",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.3,
+  "discounts": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "cujo montante totaliza em novembro/2022: R$ 39.426.700,95 (trinta e nove milhões, quatrocentos e vinte e seis mil, setecentos reais e noventa e cinco centavos)"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "e4cfa78196ee",
+ "title": "Termo de Transação Individual - Apetit Serviços de Alimentação LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualApetitServiosdeAlimentaoLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualApetitServiosdeAlimentaoLTDATarjado.pdf",
+ "sha256": "2bd5822cbc1ca795f1bbe822c8d7d1d4ab8069296b8d1f87ea426bc4b9f78d58",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

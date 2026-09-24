@@ -1,0 +1,64 @@
+{
+ "taxpayer": "CLINICA DE REPOUSO EGO LTDA - ME",
+ "approval_date": "2024-06-06",
+ "consolidated_amount": 1360079.91,
+ "modality": "Transação Individual (FGTS) - Modalidade 14",
+ "total_discount_pct": 31.39,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 31.39
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Renunciar a quaisquer alegações de direito, atuais ou futuras, sobre ações judiciais relativas aos créditos incluídos na transação",
+  "Pagar, parcelar ou garantir, por meio de depósito judicial em dinheiro, carta de fiança bancária, seguro garantia ou outra garantia suficiente e idônea, novos débitos relativos ao FGTS e à contribuição social inscritos em Dívida Ativa após a formalização do acordo, no prazo de 90 dias",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à CREDORA conhecer sua situação econômica",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência ou iniciativa econômica",
+  "Manter a regularidade perante o FGTS e proceder à individualização dos valores recolhidos dos respectivos trabalhadores, quando for o caso"
+ ],
+ "special_clauses": [
+  "As inscrições listadas na cláusula 1.2 não poderão ser abrangidas por outra transação que tenha por finalidade plano de amortização, resguardada a possibilidade de migração para programa de parcelamento especial criado por lei",
+  "Rescindida a transação, é vedada, pelo prazo de 2 (dois) anos, a formalização de nova transação pela DEVEDORA, ainda que relativa a débitos distintos"
+ ],
+ "sector": "Saúde/Clínica de repouso",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.7,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "as quais totalizam R$ 1.360.079,91 (um milhão, trezentos e sessenta mil, setenta e nove reais e noventa e um centavos), atualizadas até o mês de maio/2024",
+  "total_discount_pct": "Desconto: 31,39%",
+  "installments": "Valor a pagar (à vista): 933.090,39"
+ },
+ "review_fields": [
+  "sector",
+  "installments",
+  "down_payment_pct",
+  "guarantees",
+  "judicial_recovery",
+  "discounts"
+ ],
+ "id": "44cbcfd2a9d0",
+ "title": "Termo de Transação Individual - Clínica de Repouso Ego LTDA ME",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualClnicadeRepousoEgoLTDAMEtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualClnicadeRepousoEgoLTDAMEtarjado.pdf",
+ "sha256": "9443629f9681fcbdd1f81a7cf9594776dc8774708e3f2b355498e1c7e5761a3f",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

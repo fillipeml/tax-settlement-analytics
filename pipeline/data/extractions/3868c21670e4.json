@@ -1,0 +1,71 @@
+{
+ "taxpayer": "HOSPITAL JARDIM AMÁLIA LTDA",
+ "approval_date": "2024-03-26",
+ "consolidated_amount": 90556950.53,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": 0.334,
+ "guarantees": [
+  "Imóvel na Rua Miguel Couto, n. 70, bairro Jardim Amália, Volta Redonda/RJ (Matrícula do 1º Ofício de Volta Redonda/RJ)",
+  "Imóvel na Rua Miguel Couto, n. 74, bairro Jardim Amália, Volta Redonda/RJ (Matrícula do 1º Ofício de Volta Redonda/RJ)",
+  "Penhora sobre 2,5% do faturamento mensal do REQUERENTE, em caso de rescisão do acordo"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter em dia o pagamento de todos os impostos e taxas federais, estaduais e municipais sobre os bens ofertados em garantia",
+  "Manter-se como optante do regime de apuração de IRPJ pela modalidade de lucro real até a extinção da dívida transacionada",
+  "Manter os livros e documentos exigidos pelas normas fiscais durante o período de análise dos créditos (cláusula 2.2.1)",
+  "Comunicar à Fazenda Nacional a superveniência de penhora ou novo gravame sobre os bens oferecidos em garantia",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Manter regularidade perante o FGTS",
+  "Regularizar débitos que vierem a ser inscritos em dívida ativa no prazo de 90 dias"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação de até 35,71% do saldo remanescente (cláusula 2.1.4)",
+  "Utilização de depósitos judiciais para pagamento definitivo em favor da União, sem incidência de descontos (cláusula 2.1.1)",
+  "Flexibilização de garantias mediante substituição de bens de igual ou maior valor (cláusula 3.6.2)",
+  "Possibilidade de desistência da transação em caso de novo parcelamento especial, mantidas as garantias (cláusula 5.5.1)"
+ ],
+ "sector": "Saúde/Hospitalar",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.95,
+  "installments": 0.8,
+  "down_payment_pct": 0.9,
+  "discounts": 0.3,
+  "guarantees": 0.95,
+  "judicial_recovery": 0.3,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "1.2.1. De 105 inscrições previdenciárias... totalizando R$57.253.553,57... 1.2.2. De 75 inscrições não previdenciárias... totalizando R$33.303.396,96",
+  "total_discount_pct": "2.1.3. Concessão do desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a dívida transacionada de natureza previdenciária e não-previdenciária, vedada a redução do montante principal",
+  "installments": "2.1.6. Pagamento do saldo remanescente dos débitos de natureza não previdenciária efetuado em 108 (cento e oito) meses, por meio de parcelas lineares, conforme percentuais discriminados no ANEXO I",
+  "down_payment_pct": "2.1.2. Pagamento, a título de entrada, de valor mensal equivalente a 0,334% (trezentos e trinta e quatro centésimos por cento) do valor consolidado dos débitos transacionados, sem descontos, durante 12 (doze) meses"
+ },
+ "review_fields": [
+  "sector",
+  "discounts",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "3868c21670e4",
+ "title": "Termo de Transação Individual - Hospital Jardim Amália LTDA (PGFN)",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualHospitalJardimAmliaLTDAPGFNtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualHospitalJardimAmliaLTDAPGFNtarjado.pdf",
+ "sha256": "a574ec98f3616d0cfe113281c425f6e4d3b907b89e66c33ccd5020e1e29f4618",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

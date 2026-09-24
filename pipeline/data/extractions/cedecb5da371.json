@@ -1,0 +1,76 @@
+{
+ "taxpayer": "TRIUNFO AGROINDUSTRIAL LTDA - EM RECUPERACAO JUDICIAL",
+ "approval_date": "2021-06-14",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Portaria PGFN nº 9.917/2020) - pagamento à vista",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bem imóvel de Matrícula nº 296, registrado no Cartório do Único Ofício da Comarca de Pilar/AL, livro 2-B, fl. 014, denominado Fazenda QUEBRA CARRO, incluindo suas acessões (plantações de cana-de-açúcar ou outras benfeitorias)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Apresentar demonstrações contábeis dos 3 últimos exercícios sociais (balanço patrimonial, DRE acumulada, DRE desde último exercício, relatório gerencial de fluxo de caixa e projeção)",
+  "Apresentar relação nominal completa dos credores, natureza, classificação e valor atualizado do crédito",
+  "Apresentar relação de bens e direitos de propriedade do requerente, com laudo econômico-financeiro e avaliação dos bens e ativos",
+  "Apresentar exposição de que o plano de recuperação observa as obrigações, exigências e concessões previstas na Portaria",
+  "Apresentar relação de bens e direitos que comporão as garantias do termo de transação",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar origem/destinação de bens, direitos e valores",
+  "Não alienar, onerar ou ocultar bens com propósito de frustrar recuperação dos créditos",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil ou documentos complementares",
+  "Diligenciar junto ao Juízo a disponibilização do numerário dentro do prazo de vencimento",
+  "Oferecer à penhora o bem imóvel no prazo de 10 dias após assinatura",
+  "Protocolar requerimento administrativo de antecipação de garantia no prazo de 10 dias via REGULARIZE",
+  "Obter despacho judicial no prazo de 90 dias homologando redução de honorários advocatícios para 10%"
+ ],
+ "special_clauses": [
+  "Redução dos honorários advocatícios relativos à Execução Fiscal nº 0501615-78.2007.8.02.0005 para 10% do valor da dívida",
+  "Liberação de saldo remanescente depositado em conta judicial (Banco do Brasil, Agência 3557, conta 3900104061123) à disposição do Juízo da Recuperação Judicial, diretamente à devedora, no que lhe caiba",
+  "Garantia oferecida não poderá ser incluída no plano de recuperação judicial, ficando o devedor autorizado desde já a sua execução regular",
+  "Pagamento mediante aproveitamento de parte do valor depositado em conta judicial à disposição do Juízo da 1ª Vara Cível de Maceió/AL, referente à recuperação judicial da devedora",
+  "Desconto máximo de 70% baseado na baixa capacidade de pagamento do devedor em Recuperação Judicial, não implicando redução do montante principal do crédito inscrito em dívida ativa"
+ ],
+ "sector": "Agroindústria/Agronegócio (usina de açúcar/cana-de-açúcar)",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.98,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "para pagamento À VISTA, com aproveitamento do desconto máximo de 70% (setenta por cento), conforme extrato anexo, baseado na baixa capacidade de pagamento do DEVEDOR, em Recuperação Judicial",
+  "installments": "Como se trata de transação para pagamento à vista e em parcela única, a quitação do DARF relativo às inscrições listadas no caput da cláusula 1ª"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "cedecb5da371",
+ "title": "Termo de Transação Individual - Triunfo",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-triunfo.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-triunfo.pdf",
+ "sha256": "2a55ef8fe5337631ffa7569f43e73705096b2faa7e41ff20a14a7aa2713bdc17",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

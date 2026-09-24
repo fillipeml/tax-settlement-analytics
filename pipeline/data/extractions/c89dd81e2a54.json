@@ -1,0 +1,78 @@
+{
+ "taxpayer": "GRUPO PROSIMULADOR (PROSIMULADOR TECNOLOGIA DE TRÂNSITO S/A, TECNOWISE TECNOLOGIA DE TRÂNSITO LTDA UNIPESSOAL, IMONITORE TECNOLOGIA E SEVIÇOS S.A., CL TECNOLOGIA S.A, APROCONDUTOR TECNOLOGIA DE TRÂNSITO E SERVIÇOS S.A)",
+ "approval_date": "2023-10-17",
+ "consolidated_amount": 191108763.25,
+ "modality": "Transação Individual",
+ "total_discount_pct": 51.77,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança - encargo recaindo sobre a pessoa do sócio Wagner Dutra de Lima"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta para ocultar/dissimular origem ou destinação de bens, direitos e valores",
+  "Declarar que não alienaram ou oneraram bens/direitos com propósito de frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Reconhecer responsabilidade solidária pela totalidade dos débitos transacionados",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da Transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 70% do saldo da dívida após aplicação dos descontos",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal ficará suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo de 5 anos",
+  "Sem entrada e sem garantia real, apenas fiança pessoal do sócio",
+  "Reconhecimento expresso administrativo do Grupo Econômico formado pelas empresas indicadas, evitando futuras discussões judiciais"
+ ],
+ "sector": "Tecnologia de trânsito/fiscalização eletrônica",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 191.108.763,25 (Cento e noventa e um milhões, cento e oito mil, setecentos e sessenta e três reais e vinte e cinco centavos).",
+  "total_discount_pct": "Percentual de desconto médio global máximo permitido: aproximadamente 51,77% (considerando os limites legais estabelecidos na Portaria 6.757/2022)",
+  "installments": "Pagamento da Dívida Transacionada, tanto a de natureza não previdenciária ('Dívida Transacionada – Demais Débitos'), quanto a de natureza previdenciária ('Dívida Transacionada - Previdenciária') em 60 (sessenta) prestações mensais iguais e sucessivas, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "c89dd81e2a54",
+ "title": "Termo de Transação Individual - Prosimulador Tecnologia de Trânsito SA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualProsimuladorTecnologiadeTrnsitoSATarjadocompactado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualProsimuladorTecnologiadeTrnsitoSATarjadocompactado.pdf",
+ "sha256": "260764a6a90d8be8d2c7fd1d0a7e97a2dc32d4ad71ce32c75d5c81ee7c98f7a7",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

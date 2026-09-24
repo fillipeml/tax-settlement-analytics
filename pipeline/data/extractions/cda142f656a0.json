@@ -1,0 +1,78 @@
+{
+ "taxpayer": "NORDON INDUSTRIAS METALURGICAS S/A",
+ "approval_date": "2024-11-03",
+ "consolidated_amount": 40971289.39,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal",
+  "Uso do sistema COMPREI para eventual alienação de bens já penhorados em Execuções Fiscais (imóveis penhorados nos autos 127893020014036126 e 119888020024036126)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Regularizar débitos que vierem a ser inscritos em Dívida Ativa ou tornarem-se exigíveis, no prazo de 90 dias",
+  "Regularizar saldo decorrente de reconsolidação de conta de transação individual, no prazo de 30 dias",
+  "Não alienar bens/direitos que reduzam capacidade de pagamento sem comunicação prévia",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter, durante 5 anos, livros e documentos exigidos, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Declarar boa-fé e veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Peticionar nos processos judiciais em até 60 dias após assinatura para noticiar a transação e desistir de impugnações/recursos/ações"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor após descontos, em 70% para DEMAIS DÉBITOS e PREVIDENCIÁRIO, limitado ao crédito disponível apresentado",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL ficará suspensa até confirmação pela autoridade competente, dentro do prazo de 5 anos",
+  "Adesão ao sistema COMPREI para alienação de bens penhorados"
+ ],
+ "sector": "Metalúrgico/Industrial",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.75,
+  "installments": 1.0,
+  "down_payment_pct": 0.3,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.85,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.3
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$ 40.971.289,39 100% do Passivo Fiscal consolidado em 10/2024",
+  "total_discount_pct": "Nas modalidades DEMAIS DÉBITOS e PREVIDENCIÁRIOS, desconto máximo de até 65% (sessenta por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS DÉBITOS e PREVIDENCIÁRIOS em até 36 prestações mensais e sucessivas, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "total_discount_pct",
+  "judicial_recovery"
+ ],
+ "id": "cda142f656a0",
+ "title": "Termo de Transação Individual - Nordon Indústrias Metalúrgicas SA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualNordonIndstriasMetalrgicasSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualNordonIndstriasMetalrgicasSATarjado.pdf",
+ "sha256": "f368cfc05240d17e42d06562e3ce2ff5e264d22be53c33e6da34ff977e0dfb02",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

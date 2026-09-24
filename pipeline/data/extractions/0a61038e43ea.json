@@ -1,0 +1,76 @@
+{
+ "taxpayer": "ASSOCIAÇÃO DE PROTEÇÃO À MATERNIDADE E À INFÂNCIA DE CUIABÁ – HOSPITAL GERAL DE CUIABÁ",
+ "approval_date": "2023-03-07",
+ "consolidated_amount": 49904591.35,
+ "modality": "Transação Individual",
+ "total_discount_pct": 53.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de área urbana com alta valorização comercial de 17.070,48 m² (terreno R$15.000.000,00 e edificação R$30.000.000,00, total R$45.000.000,00), com hipoteca já lavrada, registrada e averbada",
+  "94% do crédito a ser apurado no processo de cumprimento de sentença nº 0004605-54.2001.4.01.3600, movido em face da União, perícia preliminar apurou R$10.402.265,93"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos do ANEXO I",
+  "Renúncia a alegações de direito e questionamentos administrativos e judiciais",
+  "Manter regularidade das obrigações com FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa em até 90 dias",
+  "Manter as garantias oferecidas até integral cumprimento das condições",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos",
+  "Utilizar créditos líquidos e certos como reforço do plano de amortização",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não constituir nova pessoa jurídica para diminuir garantias/pagamentos",
+  "Não distribuir lucros enquanto não liquidado o ajuste, salvo reserva legal",
+  "Notificar a Fazenda sobre migração ou aquisição de atividades por outra pessoa jurídica",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Apresentar situação econômico-financeira anualmente"
+ ],
+ "special_clauses": [
+  "Cláusula 22: inscrição nº12.6.19.014588-99 excluída do acordo por estar sendo questionada em embargos à execução",
+  "Cláusula 24: débitos de FGTS ativos (FGMT202200295, FGMT202200112, CSMT202200296, CSMT202200113) no valor total de R$3.130.538,44 com compromisso de indicação de garantia",
+  "Cláusula 25: imóvel em Chapada dos Guimarães/MT objeto de esbulho, não estando na posse da devedora",
+  "Cláusula 19: 94% do proveito econômico do processo de cumprimento de sentença deverá ser utilizado para amortizar ou liquidar o saldo devedor"
+ ],
+ "sector": "Saúde/Hospitalar",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizam R$ 49.904.591,35 (quarenta e nove milhões, novecentos e quatro mil, quinhentos e noventa e um reais e trinta e cinco centavos), atualizado no mês de janeiro de 2023",
+  "total_discount_pct": "a presente transação envolve a concessão de descontos de até 53% (cinquenta e três por cento), vedada a incidência sobre o principal do débito",
+  "installments": "o prazo para pagamento dos débitos não previdenciários (demais) será de 145 (cento e quarenta e cinco) meses (§1º, inciso V, art.15, da Portaria PGFN 6757/22), enquanto que o prazo para os débitos previdenciários será de 60 (sessenta) meses"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "0a61038e43ea",
+ "title": "Termo de Transação Individual - HG de Cuiabá",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-hg-de-cuiaba.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-hg-de-cuiaba.pdf",
+ "sha256": "76f4c6277de46354bdb8b3bd13f39b62f42a0a6c89252024b442f3005d770374",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

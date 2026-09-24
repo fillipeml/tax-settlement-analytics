@@ -1,0 +1,72 @@
+{
+ "taxpayer": "RODOLIMA TRANSPORTES LTDA. ME. (e grupo econômico: JVA RJ TRANSPORTES LTDA., TRANSJIL CAXIAS TRANSPORTES EIRELI., MINERAJIL EXTRACAO DE AREIA LTDA. ME.)",
+ "approval_date": "2025-01-22",
+ "consolidated_amount": 3186869.5,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar/dissimular origem ou destinação de bens",
+  "Não alienar ou onerar bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar não possuir precatórios federais expedidos em seu favor",
+  "Dar ciência à Credora de alteração na natureza jurídica ou societária em 30 dias",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Permanecer nos parcelamentos já aderidos, honrando pagamentos até quitação das CDAs",
+  "Manter regularidade perante a Credora e a Receita Federal, regularizando débitos em 90 dias",
+  "Manter regularidade perante o FGTS e individualizar valores recolhidos"
+ ],
+ "special_clauses": [
+  "Reconhecimento de grupo econômico de fato entre as devedoras e corresponsabilidade entre elas (cláusula 1.3)",
+  "Autorização de uso de valores de restituições/ressarcimentos/reembolsos da Receita Federal para pagamento de parcelas (cláusula 3.5)",
+  "Autorização de uso de precatórios federais para pagamento de parcelas (cláusula 3.6)",
+  "Vedação à redução do montante principal, com desconto aplicado apenas sobre acréscimos legais (multa, juros e encargos) (cláusula 2.1.1)"
+ ],
+ "sector": "Transporte (e extração de areia)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.8,
+  "total_discount_pct": 0.85,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "judicial_recovery": 0.95,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "1.2.1. Das inscrições previdenciárias, constantes do ANEXO I, totalizando R$ 2.316.098,97 (Dois milhões, trezentos e dezesseis mil e noventa e oito reais e noventa e sete centavos) atualizado até 12.2024. 1.2.2. Das inscrições não previdenciárias, constantes do ANEXO II, totalizando R$ 870.770,53 (oitocentos e setenta mil, setecentos e setenta reais e cinquenta e três centavos) atualizado em 12.2024.",
+  "total_discount_pct": "2.1.1. Concessão do desconto máximo de 70% (setenta por cento) incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "2.1.2. Pagamento do saldo remanescente dos débitos de natureza previdenciária a ser efetuado em 60 (sessenta) prestações mensais e sucessivas, e de natureza não previdenciária a ser efetuado em 145 (cento e quarenta e cinco) prestações mensais e sucessivas."
+ },
+ "review_fields": [
+  "sector",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "guarantees"
+ ],
+ "id": "3548945d115a",
+ "title": "Termo de Transação Individual - Rodolima Transportes LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualRodolimaTransportesLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualRodolimaTransportesLTDATarjado.pdf",
+ "sha256": "9480185ca9529dbb67aa208801202ca338fd36dba7604e7165d20c59ef68ba65",
+ "extracted_at": "2026-07-22T14:22:31+00:00",
+ "simulated": false
+}

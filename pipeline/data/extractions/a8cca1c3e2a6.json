@@ -1,0 +1,77 @@
+{
+ "taxpayer": "ZINZANE COMÉRCIO E CONFECÇÃO DE VESTUÁRIO LTDA",
+ "approval_date": "2024-06-06",
+ "consolidated_amount": 377821135.53,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhoras existentes nas execuções fiscais (Anexo IV)",
+  "Fiança dos sócios administradores Claudia Maria Richa Villarinho Cavalcante e Renato Villarinho Cavalcante (100% do capital social)",
+  "6% dos recebíveis oriundos das vendas realizadas mediante cartões de crédito/débito, com valor mensal mínimo (tarjado)"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Manter regime de apuração do IRPJ e CSLL com base no Lucro Real durante 5 anos",
+  "Guardar livros e documentos comprobatórios de prejuízo fiscal e base negativa da CSLL",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Fornecer informações econômico-financeiras quando solicitado",
+  "Manter regularidade perante o FGTS e individualizar valores recolhidos",
+  "Pagar/parcelar/garantir novos débitos inscritos em Dívida Ativa no prazo de 90 dias",
+  "Desistir de impugnações, recursos e ações judiciais relativas à dívida transacionada",
+  "Peticionar nos autos das execuções fiscais para noticiar a transação e requerer inclusão dos fiadores"
+ ],
+ "special_clauses": [
+  "Transformação em pagamento definitivo dos depósitos judiciais, sem desconto",
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidar até 45% do saldo devedor",
+  "Penhora incidente sobre 6% dos recebíveis de cartões de crédito/débito via CIELO S/A, com valor mensal mínimo assegurado",
+  "Possibilidade de inclusão futura de débitos administrados pela RFB (Anexo III) mediante inscrição em Dívida Ativa",
+  "Renúncia ao benefício de ordem pelos fiadores"
+ ],
+ "sector": "Vestuário/Confecção",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.3,
+  "installments": 0.9,
+  "down_payment_pct": 0.3,
+  "discounts.charges_pct": 0.6,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "judicial_recovery": 0.5,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal da DEVEDORA objeto da presente transação, que totaliza R$ 377.821.135,53 (trezentos e setenta e sete milhões, oitocentos e vinte e um mil, cento e trinta e cinco reais e cinquenta e três centavos)",
+  "installments": "Pagamento do saldo remanescente, tanto em relação aos débitos previdenciários (Anexo I) quanto em relação aos demais débitos (Anexo II), em 36 (trinta e seis) prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "a8cca1c3e2a6",
+ "title": "Termo de Transação Individual - Zinzane Comércio e Confecção de Vestuário LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualZinzaneComrcioeConfecodeVesturioLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualZinzaneComrcioeConfecodeVesturioLTDATarjado.pdf",
+ "sha256": "86f025cef7c9b6e5a6b1bf5390aee3009f2f201f5c2329d075a8205e7f57d4ce",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

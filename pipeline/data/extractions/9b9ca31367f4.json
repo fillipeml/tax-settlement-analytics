@@ -1,0 +1,76 @@
+{
+ "taxpayer": "GMLOG TRANSPORTES - CNPJ: 92.521.475/0001-41",
+ "approval_date": "2024-04-23",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": 6.0,
+ "guarantees": [
+  "Imóveis dados em garantia à penhora (citados em obrigação de indicação nos processos judiciais)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos inscritos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de bens do ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de valores relativos a precatórios federais",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria PGFN 6757/22 e na proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais prestadas",
+  "Renunciar a alegações de direito sobre ações judiciais/recursos referentes aos créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após o acordo",
+  "Manter-se como optante do regime de tributação pelo lucro real por todo o prazo da negociação (uso de créditos de prejuízo fiscal e base negativa de CSLL)",
+  "Peticionar nos processos judiciais em até 60 dias após assinatura, noticiando a celebração do acordo e desistindo de embargos/exceções de pré-executividade",
+  "Apresentar situação econômico-financeira via demonstrações de resultado sempre que a PGFN reputar oportuno",
+  "Manter recolhimento das obrigações tributárias correntes e acessórias"
+ ],
+ "special_clauses": [
+  "Abatimento do saldo pós-entrada de créditos de prejuízo fiscal e base de cálculo negativa de CSLL de R$ 630.000,00 (seiscentos e trinta mil reais)",
+  "Manutenção de gravames existentes (arrolamento de bens, medida cautelar fiscal, penhora ou garantias prestadas)",
+  "Direcionamento de eventuais créditos por precatório ao adimplemento dos saldos devedores da transação"
+ ],
+ "sector": "Transporte/Logística",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.85,
+  "installments": 0.9,
+  "discounts": 0.0,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.4,
+  "obligations": 0.8,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "down_payment_pct": "a DEVEDORA pagará uma entrada no montante de 6% do valor do devido sem descontos, em 12 prestações mensais",
+  "installments": "sendo o restante do saldo pago em 48 (quarenta e oito) amortizações mensais lineares"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts",
+  "guarantees"
+ ],
+ "id": "9b9ca31367f4",
+ "title": "Termo de Transação Individual - Gmlog Transportes",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualGmlogTransportes.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualGmlogTransportes.pdf",
+ "sha256": "1e2f9949cb86305e5024934f105caee531f4450d1fbe273e22886533cffd7770",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

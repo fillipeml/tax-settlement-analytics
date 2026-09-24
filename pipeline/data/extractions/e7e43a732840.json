@@ -1,0 +1,61 @@
+{
+ "taxpayer": "AGROPECUARIA AGRITER LTDA - EPP (01.011.501/0001-36); AGRITER AGRONEGÓCIOS LTDA (22.678.553/0001-30); LUIZ ALBERTO BONI",
+ "approval_date": "Not identified",
+ "consolidated_amount": 111131048.41,
+ "modality": "Transação individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de eventuais garantias eventualmente existentes nos processos em curso",
+  "Imóveis"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Agronegócio",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "approval_date": 0.0,
+  "modality": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.5,
+  "special_clauses": 0.5,
+  "judicial_recovery": 0.95
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total: R$ 111.131.048,41",
+  "total_discount_pct": "Total: 70%",
+  "installments": "Demais débitos: 120"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "e7e43a732840",
+ "title": "Sumário - Agropecuaria Agriter LTDA - Epp, Agriter Agronegócios LTDA, Luiz Alberto Boni",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/SumrioAgropecuariaAgriterLTDAEppAgriterAgronegciosLTDALuizAlbertoBoni.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/SumrioAgropecuariaAgriterLTDAEppAgriterAgronegciosLTDALuizAlbertoBoni.pdf",
+ "sha256": "e497446073bde52cab98d2b7dde5d06cc6d2d3f0ee785807cdfcab70daac81fb",
+ "extracted_at": "2026-07-21T19:01:23+00:00",
+ "simulated": false
+}

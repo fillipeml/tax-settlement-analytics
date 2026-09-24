@@ -1,0 +1,88 @@
+{
+ "taxpayer": "FUNDAÇÃO ATTILA TABORDA",
+ "approval_date": "2024-08-23",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 143,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel descrito no item I da Cláusula 8ª (dados tarjados)",
+  "Imóvel descrito no item II da Cláusula 8ª - edificação denominada Anexo 01 (dados tarjados)",
+  "Penhora do imóvel indicado no item II a ser formalizada em até 90 dias",
+  "Hipoteca em favor da União (subsidiária, caso a penhora não se concretize)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e situação econômica sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens, direitos ou valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar a recuperação dos créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de bens do ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos da RFB com prestações do acordo",
+  "Autorizar compensação de precatórios federais com prestações do acordo",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN nº 6757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito e requerer extinção de processos judiciais/administrativos com resolução de mérito",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis",
+  "Não desistir unilateralmente do acordo",
+  "Peticionar nos processos judiciais em até 30 dias após assinatura, noticiando a transação e desistindo de embargos/exceções de pré-executividade",
+  "Providenciar penhora do imóvel de garantia em até 90 dias, ou hipoteca em até 120 dias adicionais caso a penhora não se perfectibilize",
+  "Substituir ou reforçar garantia em caso de perecimento/depreciação/deterioração significativa (>25%) no prazo de 30 dias da intimação",
+  "Apresentar situação econômico-financeira anualmente (balanço contábil) ou sempre que a PGFN reputar oportuno",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias",
+  "Adimplir emolumentos decorrentes de eventual protesto cartorário das inscrições abrangidas"
+ ],
+ "special_clauses": [
+  "Nomeação da União como procuradora com cláusula em causa própria para receber indenização em caso de desapropriação de bens dados em garantia (Cláusula 8ª, §3º)",
+  "Manutenção automática de gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas (Cláusula 9ª)",
+  "Vedação à celebração de nova transação por 2 anos em caso de desistência unilateral (Cláusula 10, XVII)",
+  "Vedação de redução do montante de créditos além do previsto no termo ou renúncia às garantias/privilégios do crédito tributário (Cláusula 21)"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 1.0,
+  "approval_date": 0.9,
+  "modality": 1.0,
+  "sector": 0.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.6,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Sobre as inscrições indicadas no Anexo I – demais débitos – será aplicado percentual de desconto de até 70%, observando os limites dos §2º e §3º do art. 11 da Lei n. 13.988/20",
+  "installments": "pagamento do saldo devedor em 143 (cento e quarenta e três) amortizações mensais escalonadas"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "da4a4bfb05fe",
+ "title": "Termo de Transação Individual - Fundação Atila Taborda",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualFundaoAtilaTabordaTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualFundaoAtilaTabordaTarjado.pdf",
+ "sha256": "a8d90d93bbb907198d7e84dbdf65a37de97599dab6740fd7fc8a2fd0efe86596",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

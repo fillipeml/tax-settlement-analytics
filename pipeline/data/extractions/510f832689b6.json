@@ -1,0 +1,74 @@
+{
+ "taxpayer": "VIRGOLINO DE OLIVEIRA S/A – AÇÚCAR E ÁLCOOL - EM RECUPERAÇÃO JUDICIAL (grupo econômico Virgolino de Oliveira)",
+ "approval_date": "2023-02-01",
+ "consolidated_amount": null,
+ "modality": "Transação individual (recuperação judicial)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "UPI Catanduva (imóvel/unidade produtiva isolada)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Promover a desistência de impugnações, recursos e ações judiciais/administrativas relativas à Dívida Transacionada, no prazo de 60 dias",
+  "Adimplir a Transação conforme cláusula 3",
+  "Promover o pagamento de eventual saldo devedor (cláusulas 3.4 e 3.5)",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento, sem comunicação à Fazenda Nacional",
+  "Pagar, parcelar ou garantir débitos inscritos após a formalização da Transação em até 90 dias",
+  "Manter regularidade perante o FGTS",
+  "Renunciar a alegações de direito sobre ações judiciais relativas à Dívida Transacionada",
+  "Fornecer informações sobre bens, direitos e valores sempre que solicitado",
+  "Não utilizar a Transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Realizar comunicações via SICAR/REGULARIZE"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL, limitada a 70% do saldo após descontos",
+  "Pagamento com créditos de IAA já depositados nos autos da recuperação judicial",
+  "Garantia consistente na alienação da UPI Catanduva no âmbito da Recuperação Judicial, com recursos destinados à quitação do saldo da Dívida Transacionada",
+  "Possibilidade de repactuação do saldo remanescente caso a UPI Catanduva seja alienada a prazo",
+  "Descontos diferenciados por CNPJ/modalidade para débitos de FGTS (Anexo, variando de 21,88% a 70%)",
+  "Pagamento à vista das Contribuições Sociais da LC 110/01 com descontos de 44,04%, 48,16% e 47,27% para três das requerentes",
+  "Utilização do Sistema COMPREI da PGFN para eventual alienação da UPI Catanduva"
+ ],
+ "sector": "Agronegócio (açúcar e álcool)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.8,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de 70% (setenta por cento) incidente sobre a Dívida Transacionada, exceto para os débitos de FGTS, vedada a redução do montante principal sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos) (Anexo II)."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "510f832689b6",
+ "title": "Termo de Transação Individual - Virgolino de Oliveira SA Açúcar e Álcool em recuperação judicial",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransacaoIndividualVirgolinodeOliveiraSAAcarelcoolemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransacaoIndividualVirgolinodeOliveiraSAAcarelcoolemrecuperaojudicialtarjado.pdf",
+ "sha256": "4d1c5beb9a5ad3bde7dcbbee0231bd97fb2111560e6b05547b6545c331633cc2",
+ "extracted_at": "2026-07-22T14:22:34+00:00",
+ "simulated": false
+}

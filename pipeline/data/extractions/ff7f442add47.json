@@ -1,0 +1,75 @@
+{
+ "taxpayer": "COMPESCAL COMÉRCIO DE PESCADO ARACATIENSE LTDA e CELM AQUICULTURA S/A",
+ "approval_date": "2025-01-27",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 6,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel matriculado sob o nº 156 – Cartório Jorge Almeida, 3º Ofício de Registro de Imóveis da comarca de Aracati/CE",
+  "Imóvel matriculado sob o nº 5.901 – Cartório Alexandre Gondim, 2º Ofício de Registro de Imóveis da comarca de Aracati/CE",
+  "Seguro garantia apólice n. 1007507038233 no valor de R$ 1.150.000,00 (débitos de FGTS excluídos)",
+  "Seguro garantia apólice n. 1007507038919 no valor de R$ 2.250.000,00 (débitos de FGTS excluídos)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos",
+  "Reconhecimento como grupo econômico e responsabilidade solidária",
+  "Pagamento regular dos tributos correntes",
+  "Apresentação anual de demonstrações de resultados (balanço contábil)",
+  "Manutenção no regime de tributação pelo lucro real durante a vigência da transação ou por até 5 anos",
+  "Não alienar bens sem comunicação à Fazenda Nacional",
+  "Desistência de impugnações, recursos administrativos e ações judiciais relativas aos débitos incluídos"
+ ],
+ "special_clauses": [
+  "Exclusão de débitos de FGTS (inscrições FGCE201600176, FGCE201600298, CSCE201600177, CSCE20160297) em razão de discussão judicial em curso, com garantia por seguro garantia",
+  "Autorização de utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para quitação de até 60% do saldo devedor remanescente",
+  "Cláusula de venda de bens mediante sistema COMPREI em caso de inadimplência, com leilão judicial ou particular",
+  "Foro eleito: Seção Judiciária de Pernambuco"
+ ],
+ "sector": "Pesca/Aquicultura",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.8,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "Pagamento da dívida transacionada de natureza previdenciária e não previdenciária após descontos e utilização do prejuízo fiscal e base de cálculo negativa da Contribuição Social sobre o Lucro Líquido (CSLL) em 6 parcelas iguais."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "ff7f442add47",
+ "title": "Termo de Transação Individual - Compescal Comércio de Pescado Aracatiense LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCompescalComrciodePescadoAracatienseLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCompescalComrciodePescadoAracatienseLTDATarjado.pdf",
+ "sha256": "e8a7a4d4f34d138e11a11b2aaf497c8e1d27a9d9e00d30ed3f51f851d83b1109",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

@@ -1,0 +1,83 @@
+{
+ "taxpayer": "AGROMAIA INDÚSTRIA E COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTOS AGROPECUÁRIOS LTDA e outras (grupo Maia/Agromaia)",
+ "approval_date": "2022-09-28",
+ "consolidated_amount": 47308430.94,
+ "modality": "Transação individual (recuperação judicial)",
+ "total_discount_pct": 50.13,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel residencial (casa) com 383,35 m²",
+  "Lote de terreno urbano com 384,15 m²",
+  "Lote de terreno com 480,36 m² (item c)",
+  "Lote de terreno com 480,36 m² (item d)",
+  "Lote de terreno com 480,36 m² (item e)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos e valores sempre que solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar que não utiliza pessoa interposta para ocultar bens",
+  "Declarar que não alienou ou onerou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos inscritos após a formalização da transação",
+  "Não alienar bens que possam inviabilizar pagamento sem comunicação à Fazenda Nacional",
+  "Concordar com compensação de ofício da dívida transacionada",
+  "Declarar inexistência ou esgotamento de outros créditos líquidos e certos em desfavor da União",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação dos imóveis dados em garantia mediante prévia anuência da Fazenda Nacional",
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL, limitado a 70% do saldo a pagar",
+  "Direcionamento de eventuais créditos de precatório ou depósito judicial para adimplemento dos saldos devedores",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens e medida cautelar fiscal"
+ ],
+ "sector": "Agronegócio",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.7,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.6,
+  "obligations": 0.9,
+  "judicial_recovery": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL R$ 47.308.430,94",
+  "total_discount_pct": "TOTAL ... 50,13% ... R$ 23.719.439,17 ... R$ 23.588.991,77",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 60 (sessenta) prestações mensais, lineares na forma discriminada no Anexo III; Pagamento da Dívida Transacionada de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 60 (sessenta) prestações mensais, lineares na forma discriminada no Anexo III"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "guarantees",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "a2639aa95363",
+ "title": "Termo de Transação Individual - Agromaia",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAgromaiaLTDA2022PRFN3InformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAgromaiaLTDA2022PRFN3InformaesSigilosasSuprimidas.pdf",
+ "sha256": "9143f3662f88c88225a34900259c87c734bfe368fe6e7eee325792ea1090b5a1",
+ "extracted_at": "2026-07-22T14:22:35+00:00",
+ "simulated": false
+}

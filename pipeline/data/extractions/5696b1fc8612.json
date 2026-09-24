@@ -1,0 +1,69 @@
+{
+ "taxpayer": "CASA DE SAÚDE SANTA EFIGÊNIA",
+ "approval_date": "2025-02-17",
+ "consolidated_amount": null,
+ "modality": "Transação individual (aditivo de repactuação)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Garantias já existentes preservadas (não especificadas)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Comprovar existência, regularidade escritural e disponibilidade dos créditos de prejuízo fiscal e base de cálculo negativa de CSLL, atestados por profissional contábil registrado no CRC",
+  "Apresentar relatórios analíticos da composição, origem e período dos créditos de PF/BCN",
+  "Permanecer no regime de tributação pelo lucro real, ou retornar a esse regime se dele tiver se retirado",
+  "Manter, durante 5 anos, livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios dos montantes de PF/BCN, promovendo a baixa dos valores nos livros fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União ou precatórios federais em seu favor",
+  "Pagamento de medida compensatória de R$ 3.000.000,00 até o último dia útil do mês em curso, para regularização das prestações em atraso e amortização do saldo devedor",
+  "Regularizar, no prazo de 90 dias, débitos que se tornarem exigíveis após a formalização do acordo"
+ ],
+ "special_clauses": [
+  "Revisão das contas de transação previdenciárias nº 6814888 e 7279685 para inclusão de pagamento de R$ 11.802.238,67 do saldo da dívida, após aplicação dos descontos, a título de uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL - PF/BCN",
+  "Limite de dedução de PF/BCN restrito à diferença entre o desconto efetivo obtido e o percentual máximo de 70% da dívida consolidada",
+  "Hipóteses de rescisão ajustadas em razão da recuperação judicial (art. 26 da Portaria 2.382/2021), incluindo falta de pagamento de 6 parcelas consecutivas ou 9 alternadas",
+  "Saldo excedente do pagamento da medida compensatória amortiza prioritariamente as prestações vincendas das contas previdenciárias a partir da parcela 37"
+ ],
+ "sector": "Saúde",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.3,
+  "total_discount_pct": 0.5,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.85,
+  "judicial_recovery": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "inclusão de pagamento de R$ 11.802.238,67 (onze milhões, oitocentos e dois mil, duzentos e trinta e oito reais e sessenta e sete centavos) do saldo da dívida, após a aplicação dos descontos, na data de sua consolidação",
+  "total_discount_pct": "estando a dedução limitada à diferença entre o desconto efetivo obtido e o percentual máximo de 70% (setenta por cento) da dívida consolidada, sem que possa ser ultrapassado também esse limite de 70% (setenta por cento) por conta de transação revisada",
+  "installments": "Not identified"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "guarantees"
+ ],
+ "id": "5696b1fc8612",
+ "title": "Termo de Transação Individual - Repactuação - Casa De Saúde Santa Efigênia",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualRepactuaoCasaDeSadeSantaEfignia.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualRepactuaoCasaDeSadeSantaEfignia.pdf",
+ "sha256": "124a6250c9a10279436cf562387f6ccf8de2d0fde85626983f3ac759008ba78f",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

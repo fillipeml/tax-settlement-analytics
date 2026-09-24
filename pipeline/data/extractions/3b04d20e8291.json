@@ -1,0 +1,78 @@
+{
+ "taxpayer": "COMPENSADOS TROMBETTAS LTDA EPP, CIS BENEFICIADOS DE MADEIRAS LTDA-EPP e COMPENSADOS ANGELA LTDA (grupo econômico Trombetta)",
+ "approval_date": "2020-12-11",
+ "consolidated_amount": null,
+ "modality": "Transação Individual Tributária",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": 4.0,
+ "guarantees": [
+  "Imóvel matriculado sob o nº 70.013 do Registro Imobiliário de Sinop-MT, oferecido à penhora pelos DEVEDORES e pelo INTERVENIENTE GARANTIDOR T.M. HOLDING LTDA",
+  "Valores depositados em juízo vinculados a ações de desapropriação (utilização de 37,5% do valor total atualizado dos depósitos, correspondente a R$ 3.122.411,91)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Renunciar a alegações de direito e desistir de ações/recursos que tenham por objeto os créditos transacionados",
+  "Regularizar em 90 dias dívidas com o FGTS e mantê-las regulares durante a transação",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa após o acordo",
+  "Efetuar pagamentos de entrada e parcelas mensais conforme Cláusula 8ª",
+  "Manter as garantias associadas aos créditos transacionados",
+  "Apresentar garantias reais ou fidejussórias, inclusive alienação fiduciária",
+  "Informar previamente alienação/disposição de bens e direitos, recebimento de precatório ou levantamento de depósito judicial",
+  "Manter em dia tributos e emolumentos incidentes sobre o imóvel dado em garantia",
+  "Protocolar petições nas Execuções Fiscais indicadas, dando-se por citadas e indicando o imóvel à penhora"
+ ],
+ "special_clauses": [
+  "Reconhecimento de alienação fraudulenta de imóvel (matrícula nº 70.013) pela devedora COMPENSADOS ANGELA LTDA, com oferecimento do bem pelo adquirente (T.M. HOLDING LTDA) como garantia para desfazer os efeitos do ato (Cláusula 5ª, IV)",
+  "Utilização de 37,5% do valor total atualizado de depósitos judiciais em ações de desapropriação (R$ 3.122.411,91) para quitação à vista de parcelas dos parcelamentos, na ordem: Trombettas, CIS, Angela (Cláusula 10)",
+  "Penhora do imóvel dado em garantia não se submete à ordem de preferência do art. 655 do CPC e art. 11 da Lei 6.830/80 (Cláusula 19, §1º)",
+  "Reunião de execuções fiscais em trâmite na Comarca de Cláudia-MT na execução fiscal mais antiga (nº 1266-86.2007.8.11.0101) (Cláusula 18)",
+  "Descontos diferenciados por devedora: até 70% para Trombettas e CIS; até 50% para Compensados Angela (Cláusula 8ª, II)"
+ ],
+ "sector": "Madeireiro/Compensados (industrial)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.9,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "down_payment_pct": "o pagamento da entrada (pedágio) correspondente a 4% do valor consolidado das inscrições elegíveis à transação, sem redução, parcelado em 12 meses",
+  "installments": "parcelado em 36 meses, com vencimento das prestações no último dia útil de cada mês a partir da assinatura do acordo"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "3b04d20e8291",
+ "title": "Termo de Transação Individual - Grupo Trombettas",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-grupo-trombettas",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-grupo-trombettas",
+ "sha256": "6d625eccffa8b8a7f28e07c673793a50995d11fa41eeebb9ef89823592d0aeea",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

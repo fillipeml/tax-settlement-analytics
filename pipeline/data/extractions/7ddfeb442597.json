@@ -1,0 +1,89 @@
+{
+ "taxpayer": "CARTONAGEM KAETE LTDA.",
+ "approval_date": "2023-12-14",
+ "consolidated_amount": null,
+ "modality": "Transação Individual Tributária",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 85,
+ "down_payment_pct": 38.0,
+ "guarantees": [
+  "Imóvel matrícula 6400, 1ª Cianorte-PR, valor 2.960.923,96",
+  "Imóveis matrículas 6.260 e 5.444, 1ª Cianorte-PR, valor 9.470.112,20",
+  "Imóvel matrícula 6.669, 1ª Cianorte-PR, valor 3.876.580,17",
+  "Imóvel matrícula 17.350, 1ª Cianorte-PR, valor 1.171.025,43",
+  "Imóvel matrícula 7.029, 1ª Cianorte-PR, valor 585.815,62",
+  "Imóvel matrícula 22.312, 1ª Cianorte-PR, valor 398.125,00",
+  "Imóvel matrícula 8.460, 1ª Cianorte-PR, valor 418.125,00",
+  "Imóvel matrícula 8.617, 1ª Cianorte-PR, valor 418.125,00",
+  "Imóvel matrícula 22.248, 2ª Cianorte-PR, valor 233.435,00",
+  "Imóvel matrícula 555, 1ª Cianorte-PR, valor 418.125,00",
+  "Imóvel matrícula 27.764, 1ª Cianorte-PR, valor 465.162,50",
+  "Imóvel matrícula 2.046, 1ª Cianorte-PR, valor 572.000,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de bens do ativo não circulante",
+  "Cumprir exigências da Portaria PGFN nº 6.757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante RFB, PGFN e FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Desistir de impugnações e recursos administrativos e ações judiciais relacionadas aos débitos",
+  "Apresentar situação econômico-financeira anualmente"
+ ],
+ "special_clauses": [
+  "Entrada de 38% do valor negociado mediante levantamento de valores bloqueados em Medida Cautelar Fiscal 5015000-45.2020.4.04.7003",
+  "Decréscimo não menor a 53,49% nas 12 primeiras parcelas dos débitos não previdenciários, diluído para acréscimo nas parcelas remanescentes",
+  "Reconhecimento de grupo econômico e interesse comum entre as devedoras, com responsabilidade solidária",
+  "Suspensão das execuções fiscais enquanto cumpridas as cláusulas do termo",
+  "Liberação escalonada dos imóveis dados em garantia mediante quitação dos débitos"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.9,
+  "installments": 0.85,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "down_payment_pct": "Será oferecida uma parcela de entrada, no importe de 38% do valor total negociado, consubstanciado no levantamento e alocação dos valores em espécie bloqueados na Medida Cautelar Fiscal 5015000-45.2020.4.04.7003",
+  "installments": "As inscrições indicadas serão objeto de plano de pagamento em 85 (oitenta e cinco) amortizações mensais e sucessivas, relativamente aos débitos não previdenciários (demais débitos), sendo concedido o desconto médio de 51,38%, e plano de pagamento em 60 (sessenta) amortizações mensais e sucessivas, relativamente aos débitos previdenciários, sendo concedido o desconto médio de 52,04%"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "7ddfeb442597",
+ "title": "Termo de Transação Individual - Cartonagem Kaete LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCartonagemKaeteLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCartonagemKaeteLTDAtarjado.pdf",
+ "sha256": "17d45407e2aecc49153196c1c2c49b5307c9d7d76093045c39cf5c8aa0bf1cec",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

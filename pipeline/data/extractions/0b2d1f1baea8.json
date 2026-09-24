@@ -1,0 +1,82 @@
+{
+ "taxpayer": "Not identified",
+ "approval_date": "2021-06-17",
+ "consolidated_amount": 24278073.87,
+ "modality": "Transação Individual (excepcional)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Aeronaves relacionadas no ANEXO IV (hipoteca adicional)",
+  "Fiança dos sócios/fiadores",
+  "Bens imóveis indisponibilizados por medida judicial na Execução Fiscal nº 0016112-25.2018.4.01.3500 (ANEXO IV)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos do ANEXO I",
+  "Renúncia a alegações de direito e questionamentos sobre os débitos",
+  "Reconhecimento do grupo econômico GRUPO SETE e corresponsabilidade solidária",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes a partir da assinatura",
+  "Garantir ou parcelar novos débitos inscritos em dívida ativa no prazo máximo de 90 dias",
+  "Manter as garantias oferecidas até integral cumprimento",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou valor de pagamentos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais e anuais",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Desistir de impugnações e recursos administrativos e judiciais relativos aos débitos do ANEXO I, no prazo de 30 dias",
+  "Apresentar demonstrações de resultados/balanço contábil anualmente ou quando solicitado pela PGFN",
+  "Efetuar pedido de registro de alienação fiduciária/gravame sobre bens do ANEXO IV em 45 dias"
+ ],
+ "special_clauses": [
+  "Cláusula 39ª: possibilidade de suspensão dos pagamentos em caso de programa de parcelamento extraordinário mais benéfico, com transferência de garantias",
+  "Cláusula 7ª: utilização de valores bloqueados judicialmente (R$ 1.356.190,04) para pagamento de parcelas do primeiro ano",
+  "Celebração simultânea de Termo de Negócio Jurídico Processual (Apêndice A) para débitos não incluídos na transação"
+ ],
+ "sector": "Aviação/transporte aéreo",
+ "confidence": {
+  "taxpayer": 0.1,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.0,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Apenas parte do passivo fiscal do GRUPO SETE supracitado será objeto da presente Transação Tributária Individual, seleção elencada no ANEXO II, totalizando R$ 24.278.073,87, atualizados para o mês de junho de 2021",
+  "installments": "O prazo para pagamento dos débitos previdenciários será de 60 (sessenta) meses e para os débitos não previdenciários de 84 (oitenta e quatro) meses.",
+  "validity": "A presente transação terá prazo de vigência de 84 meses."
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "0b2d1f1baea8",
+ "title": "Termo de Transação Individual - GRUPO SETE",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-grupo-sete.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-grupo-sete.pdf",
+ "sha256": "2939f4f3ecf3edbf28b9fc0e75c0fa118a8a5e27a4b21f571dcd472a08479274",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

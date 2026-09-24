@@ -1,0 +1,75 @@
+{
+ "taxpayer": "PESCATA DISTRIBUIDORA DE ALIMENTOS LTDA - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2023-11-21",
+ "consolidated_amount": 3999868.61,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Cumprir exigências e obrigações previstas na Portaria PGFN nº 6757/22 e na proposta",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Regularizar em até 90 dias débitos inscritos em dívida ativa que vierem a surgir",
+  "Permanecer no regime de tributação pelo lucro real até cumprimento integral do acordo",
+  "Declarar não possuir créditos líquidos e certos ou precatórios em desfavor da União",
+  "Renunciar a alegações de direito e recursos sobre os créditos incluídos na transação",
+  "Manter por 5 anos os livros e documentos comprobatórios dos créditos de PF e BCN utilizados"
+ ],
+ "special_clauses": [
+  "Dispensa de garantia em razão de recuperação judicial e impossibilidade real, nos termos do art. 8º, IV da Portaria PGFN 6757/22",
+  "Utilização de créditos de prejuízo fiscal (PF) e base de cálculo negativa da CSLL (BCN) no valor nominal de R$ 737.500,00",
+  "Sujeição a condição resolutória de homologação dos créditos de PF/BCN pela Receita Federal no prazo de 5 anos",
+  "Parcela balão (aporte maior) na parcela nº 60 da Conta Previdenciária",
+  "Contribuinte em processo de Recuperação Judicial (RJ nº 5026316-22.2020.8.24.0033 - 2ª VC de Itajaí/SC)"
+ ],
+ "sector": "Distribuição de alimentos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.7,
+  "judicial_recovery": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "cujo montante totaliza, em novembro/2023, R$ 3.999.868,61 (três milhões, novecentos e noventa e nove mil, oitocentos e sessenta e oito reais e sessenta e um centavos)",
+  "installments": "o saldo devedor será pago em 120 (cento e vinte) parcelas escalonadas, mensais e sucessivas, conforme os valores estipulados no Anexo III"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "2f3980cdde83",
+ "title": "Termo de Transação Individual - Pescata Distribuidora de Alimentos LTDA em recuperação judicial",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualPescataDistribuidoradeAlimentosLTDAemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualPescataDistribuidoradeAlimentosLTDAemrecuperaojudicialtarjado.pdf",
+ "sha256": "7dd2f03c81e002e1abad19dc1e0d15f2c2ad3ce99ce105996798eaa9387444a3",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

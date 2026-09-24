@@ -1,0 +1,80 @@
+{
+ "taxpayer": "GRUPO FRINORTE (FRINORTE - ALIMENTOS LTDA, AGROPECUARIA SANTA VITORIA LTDA, FRINORTE FRIGORIFICO NORTE LTDA, MATADOURO FRIGORIFICO MONTE CARMELO LTDA, MARCELIA 3 EMPREENDIMENTOS E PARTICIPACOES S/A, RENATO MAURO MENEZES COSTA)",
+ "approval_date": "2024-06-03",
+ "consolidated_amount": 380498443.76,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de matrícula nº 7.142 (penhora)",
+  "Manutenção de gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável os débitos do ANEXO I",
+  "Renunciar a alegações de direito sobre ações judiciais relativas aos créditos do ANEXO I",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes a partir da assinatura",
+  "Regularizar novos débitos inscritos em dívida ativa após a assinatura, no prazo de 90 dias",
+  "Manter as garantias oferecidas até integral cumprimento das condições",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos",
+  "Utilizar créditos líquidos e certos como reforço do plano de amortização",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Anuir com eventual modificação de competência para reunião de processos",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Desistir de impugnações e recursos administrativos e ações judiciais no prazo de 30 dias",
+  "Ofertar o imóvel em penhora no prazo de 30 dias",
+  "Manter obrigações tributárias correntes e acessórias"
+ ],
+ "special_clauses": [
+  "Pagamento à vista da dívida transacionada (Parágrafo 4º, Cláusula 5ª)",
+  "Não reconhecimento das demais pessoas apontadas como integrantes do grupo de fato nos autos do IDPJ nº 1006398-41.2021.4.01.4301",
+  "Flexibilização das regras para constrição ou alienação de bens (Cláusula 1ª, item III)",
+  "Liberação dos bens constritos na cautelar fiscal nº 1006957-95.2021.4.01.4301 somente após quitação integral do acordo (Cláusula 30ª)",
+  "FGTS com valor de desconto a ser confirmado por simulação da Caixa Econômica Federal (pagamento separado, em conta própria)"
+ ],
+ "sector": "Frigorífico/Agropecuária (alimentos)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal do DEVEDOR inscrito em dívida ativa da União e do FGTS, parte desta transação, é composto por todos os seus créditos fiscais relacionados no ANEXO I, que totalizam R$ 380.498.443,76, atualizado no mês de outubro de 2023",
+  "total_discount_pct": "Conforme autorizado pelo Art. 8ª, I, da Portaria PGFN nº 6.757/2022, a presente transação envolve a concessão de descontos limitados ao máximo de até 70% (setenta por cento), vedada a incidência sobre o principal do débito, considerando a capacidade de pagamento do DEVEDOR (Rating D)",
+  "installments": "Nos termos da Nota SEI n° 5/2022/PGDAU-CGR/PGDAU/PGFN-ME, tendo em vista que o presente acordo prevê o pagamento à vista da dívida transacionada... Será concedido o prazo de 60 (sessenta) dias... para o pagamento à vista dos valores informados na cláusula 5ª deste termo"
+ },
+ "review_fields": [
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "0f087f4d3f72",
+ "title": "Termo de Transação Individual - Frinorte Alimentos LTDA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualFrinorteAlimentosLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualFrinorteAlimentosLTDAtarjado.pdf",
+ "sha256": "5cc41c9ec0d144aa0c66a18432fd194ee32dbe032cad766471987524aed97a93",
+ "extracted_at": "2026-07-22T14:22:22+00:00",
+ "simulated": false
+}

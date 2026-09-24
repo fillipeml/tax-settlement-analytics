@@ -1,0 +1,83 @@
+{
+ "taxpayer": "Not identified",
+ "approval_date": "2023-05-08",
+ "consolidated_amount": 1283719018.38,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Responsabilidade subsidiária do Estado do Pará (GARANTIDOR)",
+  "Retenção e repasse de valores do Fundo de Participação dos Estados (FPE)",
+  "Penhora sobre percentual de faturamento (5% da receita bruta da Companhia)",
+  "Manutenção de gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos relacionados no ANEXO I",
+  "Renúncia a alegações de direito e questionamentos administrativos e judiciais",
+  "Manutenção da regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularização de novos débitos inscritos em dívida ativa no prazo máximo de 90 dias",
+  "Informar previamente à PGFN a alienação e/ou disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não constituir nova pessoa jurídica que possa diminuir garantias ou pagamentos",
+  "Anuir com eventual modificação de competência para reunião de processos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Não utilizar pessoa natural ou jurídica interposta para ocultar bens/valores",
+  "Autorizar compensação de valores de precatórios federais e restituições/ressarcimentos",
+  "Apresentar renúncia e desistência de defesas/processos judiciais e administrativos em 30 dias",
+  "Apresentar situação econômico-financeira anualmente ou quando solicitado pela PGFN"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e de base de cálculo negativa da CSLL, limitado a 70% do saldo a ser pago após aplicação do desconto (Parágrafo 2º, Cláusula 5ª)",
+  "Garantia fidejussória do Estado do Pará como acionista majoritário (Cláusula 14)",
+  "Penhora sobre percentual de faturamento em complemento à garantia fidejussória (Cláusula 17)",
+  "Cobrança do saldo liquidado com uso de créditos de PF/BCN fica suspensa até confirmação dos créditos (Cláusula 7ª)",
+  "Vedação de formalização de nova transação pela DEVEDORA por 2 anos em caso de rescisão (Parágrafo 4º, Cláusula 25)"
+ ],
+ "sector": "Saneamento básico",
+ "confidence": {
+  "taxpayer": 0.3,
+  "sector": 0.9,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.4,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal da DEVEDORA inscrito em dívida ativa da União, parte desta transação, é composto por todos os seus créditos fiscais relacionados no ANEXO I, que totalizam R$ 1.283.719.018,38 (Um bilhão, duzentos e oitenta e três milhões, setecentos e dezenove mil, dezoito reais e trinta e oito centavos), atualizado no mês de março de 2023",
+  "total_discount_pct": "a presente transação envolve concessão do desconto máximo possível de 65% (sessenta e cinco por cento), vedada a incidência sobre o principal do débito",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (demais) é de 120 (cento e vinte) meses e de 60 meses para os previdenciários"
+ },
+ "review_fields": [
+  "taxpayer",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "e0fdf7ad1c19",
+ "title": "Termo Transação Individual - Cosanpa",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermoTransaoIndividualCosanpaInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermoTransaoIndividualCosanpaInformaesSigilosasSuprimidas.pdf",
+ "sha256": "743472588480115e8a62b5961dd4f750c5fc21b6fa72220f3ebfed99ed079f77",
+ "extracted_at": "2026-07-21T19:07:51+00:00",
+ "simulated": false
+}

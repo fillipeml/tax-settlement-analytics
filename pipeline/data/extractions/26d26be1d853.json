@@ -1,0 +1,72 @@
+{
+ "taxpayer": "POLYUTIL S/A INDÚSTRIA E COMÉRCIO DE MATERIAS PLÁSTICAS",
+ "approval_date": "2024-04-03",
+ "consolidated_amount": 20047953.08,
+ "modality": "Transação Individual (Plano de Regularização Fiscal - Portaria PGFN nº 6.757/2022, com aplicação da Portaria PGFN nº 2.382/2020 para devedores em recuperação judicial)",
+ "total_discount_pct": 89.16,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel industrial com 35.200m², localizado na margem da BR 101, km 02 - Bairro Distrito Industrial - João Pessoa/PB, avaliado em R$ 33.740.708,45, matrícula 64967 (Cartório Carlos Ulisses - Serviço Notarial e Registral Imobiliário da Zona Sul)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil ou demonstrações complementares",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Manter regularidade de tributos correntes",
+  "Peticionar em execuções ajuizadas informando a oferta de bens em garantia",
+  "Peticionar noticiando aos juízos a celebração do acordo de transação individual",
+  "Permanecer no regime de tributação pelo lucro real (em razão do aproveitamento de créditos de prejuízo fiscal e base de cálculo negativa de CSLL), mantendo livros e documentos exigidos por 5 anos"
+ ],
+ "special_clauses": [
+  "Cláusula 16ª: qualquer direito creditório superveniente monetizado em favor da devedora, inclusive de processos judiciais específicos (cumprimento de sentença TJPB nº 0031662-65.2001.4.01.3400 e precatório TJPB nº 0805400-07.2019.815.0000), será vertido para adimplemento de parcelas vencidas ou vincendas",
+  "Cláusula 17ª: possibilidade de aditamento da transação para inclusão de débitos em cobrança administrativa não inscritos em DAU, desde que requerida desistência do parcelamento/impugnação em até 30 dias da assinatura",
+  "Cláusula 8ª: em caso de rescisão, alienação dos bens dados em garantia via sistema COMPREI, com limite mínimo de 50% do valor de avaliação"
+ ],
+ "sector": "Indústria de plásticos",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.3,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Totais: 20.047.953,08 ... 20.047.953,08",
+  "total_discount_pct": "Totais: ... 89,16%",
+  "installments": "Quantidade Máxima de Prestações: 120 Prestações selecionadas: 120"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "consolidated_amount",
+  "total_discount_pct"
+ ],
+ "id": "26d26be1d853",
+ "title": "Termo de Transação Individual - Polyutil S/A Indústria e Comércio de Matérias Plásticas",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualPolyutilSAIndstriaeComrciodeMatriasPlsticastarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualPolyutilSAIndstriaeComrciodeMatriasPlsticastarjado.pdf",
+ "sha256": "3a04f1a5ed0da712f46be2c305ccfd430c3eb7b2b5dd132ce6697ac47e4a9476",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

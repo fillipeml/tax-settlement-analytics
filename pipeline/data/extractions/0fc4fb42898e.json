@@ -1,0 +1,74 @@
+{
+ "taxpayer": "MUNICÍPIO DE AUTAZES/AM",
+ "approval_date": "2024-01-25",
+ "consolidated_amount": 88202812.54,
+ "modality": "Transação Individual com Ente Público (Plano de Regularização Fiscal)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Dedução de valores devidos dos montantes a serem repassados às cotas no Fundo de Participação de Municípios (FPM) ou aos precatórios federais, nos termos do art. 160, §2º, da Constituição Federal",
+  "Manutenção de eventuais gravames prestados administrativamente ou em ações de execução fiscal"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos relacionados no ANEXO I",
+  "Renúncia expressa a alegações de direito e questionamentos administrativos e judiciais dos débitos do ANEXO I",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes a partir da assinatura",
+  "Regularizar novos débitos inscritos em dívida ativa após a assinatura no prazo máximo de 90 dias",
+  "Informar previamente à PGFN o recebimento de precatório",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Anuir com eventual modificação de competência para reunião de processos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Não realizar operações que reduzam significativamente a capacidade de pagamento",
+  "Autorizar compensação de valores de precatórios federais e restituições/ressarcimentos da RFB",
+  "Apresentar renúncia e desistência de defesas em processos judiciais/administrativos no prazo de 30 dias",
+  "Apresentar situação econômico-financeira sempre que solicitado pela PGFN"
+ ],
+ "special_clauses": [
+  "Desconto máximo possível de 65% sobre o principal do débito vedado, por serem dívidas consideradas irrecuperáveis pela PGFN em razão da capacidade de pagamento do CONTRIBUINTE (art. 24, IV, da Portaria PGFN nº 6757/2022)",
+  "Prazo de 120 meses para débitos não previdenciários e 60 meses para débitos previdenciários",
+  "Tratamento prioritário por se tratar de Ente de Direito Público"
+ ],
+ "sector": "Administração pública municipal",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam R$ 88.202.812,54 (oitenta e oito milhões e duzentos e dois mil e oitocentos e doze reias e cinquenta e quatro centavos), estimados para o mês de janeiro de 2024",
+  "total_discount_pct": "a presente transação envolve concessão do desconto máximo possível de 65% (sessenta e cinco por cento), vedada a incidência sobre o principal do débito",
+  "installments": "A presente transação terá prazo de vigência de até 120 (cento e vinte) meses."
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "0fc4fb42898e",
+ "title": "Termo de Transação Individual - Município de Autazes AM",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualMunicpiodeAutazesAMtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualMunicpiodeAutazesAMtarjado.pdf",
+ "sha256": "9a3955d20f3e2ec262e9836b65bae949ee35eb00522afdf571cc14213a1e07b0",
+ "extracted_at": "2026-07-22T14:22:24+00:00",
+ "simulated": false
+}

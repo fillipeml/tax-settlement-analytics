@@ -1,0 +1,71 @@
+{
+ "taxpayer": "CASA DE SAUDE SANTA RITA SA",
+ "approval_date": "2024-06-03",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": 45.63,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 45.63
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à Procuradoria-Geral da Fazenda Nacional conhecer sua situação econômica",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas à administração tributária são verdadeiras",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo",
+  "Regularizar, no prazo de 90 dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Regularizar, no prazo de 30 dias, em uma única parcela, os débitos em situação 'EM COBRANÇA' na RFB",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação prévia à Fazenda Nacional",
+  "Peticionar nos processos judiciais relativos à Dívida Transacionada em até 60 dias após a assinatura, para desistir de impugnação, recurso ou ação e renunciar aos direitos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL para pagamento de até 36,48% do saldo da dívida após a aplicação dos descontos",
+  "Pagamento à vista em 1 (uma) prestação, sem oferta de garantia vinculada à Transação"
+ ],
+ "sector": "Saúde",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.8,
+  "approval_date": 0.95,
+  "modality": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.6,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de até 45,63% a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos).",
+  "installments": "Pagamento da Dívida Transacionada, tanto a de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\"), quanto a de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 1 (uma) prestação à vista."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "judicial_recovery",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "2c14020020fe",
+ "title": "Termo de Transação Individual - Casa de Saúde Santa Rita SA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCasadeSadeSantaRitaSAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCasadeSadeSantaRitaSAtarjado.pdf",
+ "sha256": "60e3df2c9fed05818796e1397d1405d1e619153ec24b0e27584377aefd88a992",
+ "extracted_at": "2026-07-22T14:22:37+00:00",
+ "simulated": false
+}

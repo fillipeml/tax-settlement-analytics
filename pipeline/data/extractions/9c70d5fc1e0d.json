@@ -1,0 +1,78 @@
+{
+ "taxpayer": "GRUPO HABBIB'S (VOX LINE – CONTACT CENTER INTERMEDIARIO DE PEDIDOS LTDA.; GRUPO GENNIUS BRASIL PRODUÇÃO E COMERCIALIZAÇÃO DE ALIMENTOS S.A; GENNIUS BRASIL HOLDING DE PARTICIPAÇÕES E EMPREENDIMENTOS S.A.; MERCATO EXPRESS HOLDING DE PARTICIPAÇÃO LTDA)",
+ "approval_date": "2024-03-11",
+ "consolidated_amount": 96608732.84,
+ "modality": "Transação Individual",
+ "total_discount_pct": 38.32,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer suas situações econômicas",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou destinação de bens, direitos e valores",
+  "Declarar que não alienaram ou oneraram bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em Dívida Ativa após a formalização da Transação",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Reconhecer a responsabilidade solidária pela totalidade dos débitos transacionados",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Vedada a redução do montante principal, com desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 70% do saldo da dívida após aplicação dos descontos",
+  "Cobrança do saldo liquidado com uso de créditos decorrentes de prejuízo fiscal e base de cálculo negativa da CSLL ficará suspensa até confirmação dos créditos, dentro do prazo legal de cinco anos",
+  "Não haverá oferta de garantia vinculada à Transação, considerando reconhecimento formal de responsabilidade tributária solidária do grupo empresarial",
+  "Reconhecimento expresso do grupo econômico formado pelas empresas Requerentes",
+  "Débitos do Anexo IV serão consolidados na mesma conta das inscrições do Anexo I, gerando saldo devedor a ser quitado no prazo de 30 dias"
+ ],
+ "sector": "Alimentação/Franquia (fast-food)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.6,
+  "discounts.fine_pct": 0.1,
+  "discounts.interest_pct": 0.1,
+  "discounts.charges_pct": 0.1,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.2,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 96.608.732,84 (Noventa milhões, seiscentos e oito mil, setecentos e trinta e dois reais e oitenta e quatro centavos)",
+  "total_discount_pct": "o que implica numa média concedida aproximada de 38,32% (trinta e oito inteiros e trinta e dois centésimos por cento) no presente acordo",
+  "installments": "Pagamento da Dívida Transacionada... em 36 (trinta e seis) prestações mensais iguais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "9c70d5fc1e0d",
+ "title": "Termo de Transação Individual - Vox Line - Contact Center Intermediario de Pedidos LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualVoxLineContactCenterIntermediariodePedidosLTDATarjadocompactado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualVoxLineContactCenterIntermediariodePedidosLTDATarjadocompactado.pdf",
+ "sha256": "f4680611198161147043b3ff14bf942ac3d6cba8aa1281487e61e24bb2db8f14",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

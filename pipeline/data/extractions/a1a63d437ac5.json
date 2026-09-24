@@ -1,0 +1,78 @@
+{
+ "taxpayer": "TERMARI COMERCIAL IMPORTADORA E EXPORTADORA LTDA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-02-29",
+ "consolidated_amount": 12328824.95,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": 6.0,
+ "guarantees": [
+  "Ficam mantidas as demais garantias associadas aos débitos transacionados, conforme determina o art. 7º, II, da Portaria PGFN nº 6.757/2022"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações judiciais relativas à dívida transacionada",
+  "Renúncia a alegações de direito sobre a dívida transacionada",
+  "Confissão irrevogável e irretratável da dívida",
+  "Peticionar nos processos judiciais e na Recuperação Judicial nº 000032-75.2016.8.08.0024 (TJ/ES) no prazo de 30 dias",
+  "Manter livros e documentos comprobatórios dos créditos de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Permanecer no regime de apuração de IRPJ pela modalidade de lucro real até a extinção da dívida transacionada",
+  "Dar ciência à CREDORA de qualquer alteração societária no prazo de 30 dias",
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Permanecer nos parcelamentos já aderidos, honrando pagamentos até quitação das CDAs",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União no prazo de 90 dias",
+  "Manter regularidade perante o FGTS"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e de base de cálculo negativa da CSLL para liquidação de até 25% do saldo remanescente",
+  "Autorização de utilização de valores de restituições, ressarcimentos ou reembolsos da Receita Federal para pagamento de prestações",
+  "Autorização de utilização de precatórios federais para pagamento de prestações"
+ ],
+ "sector": "Comércio importador e exportador",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.95,
+  "installments": 0.7,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.6,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Das inscrições previdenciárias, constantes do ANEXO I, totalizando R$ 792.486,97 (...) atualizados em 02.2024. Das inscrições não previdenciárias, constantes do ANEXO II, totalizando R$ 11.536.337,98 (...) atualizados em 02.2024.",
+  "total_discount_pct": "Concessão do desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento do saldo remanescente dos débitos de natureza não previdenciária a ser efetuado em 108 (cento e oito) prestações mensais e sucessivas.",
+  "down_payment_pct": "Pagamento de entrada correspondente a 6% do valor consolidado do débito, sem desconto, em 12 (doze) parcelas mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees"
+ ],
+ "id": "a1a63d437ac5",
+ "title": "Termo de Transação Individual - Termari Comercial Importadora e Exportadora LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualTermariComercialImportadoraeExportadoraLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualTermariComercialImportadoraeExportadoraLTDATarjado.pdf",
+ "sha256": "389e93b0d81e25bfb1afbf9109e57c6455c2a79dc56c938bd3b7e45f9a6462cb",
+ "extracted_at": "2026-07-22T14:22:31+00:00",
+ "simulated": false
+}

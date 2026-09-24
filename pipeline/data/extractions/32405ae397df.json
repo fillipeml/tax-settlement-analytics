@@ -1,0 +1,71 @@
+{
+ "taxpayer": "IMETAL INDÚSTRIA E COMÉRCIO DE METAIS LTDA – MASSA FALIDA",
+ "approval_date": "2022-11-09",
+ "consolidated_amount": 1044014.81,
+ "modality": "Transação Individual",
+ "total_discount_pct": 40.6,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": false,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações, operações e demais atos à PGFN",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Declarar não ter alienado ou onerado bens com propósito de frustrar recuperação dos créditos",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria PGFN nº 6757/22 e na proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação, com extinção do processo com resolução de mérito"
+ ],
+ "special_clauses": [
+  "Pagamento à vista com considerável desconto em razão de massa falida (arts. 49 da Portaria PGFN 6757/2022 e limites do art. 11 da Lei 13.988/20)",
+  "Cláusula 12: transação não pode implicar redução do montante de créditos inscritos além do previsto, nem renúncia a garantias e privilégios do crédito tributário"
+ ],
+ "sector": "Metalurgia/Indústria de metais",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.6,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.9,
+  "judicial_recovery": 0.6,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Sobre as inscrições indicadas no Anexo I, que totalizam na presente data R$ 288.130,73 ... §.2ª Às inscrições indicadas no Anexo II, que totalizam na presente data o montante de R$ 755.884,08",
+  "total_discount_pct": "aplicou-se, nos termos do que determina o art. 49 da Portaria PGFN 6757/2022 o desconto médio de 39% ... aplicou-se, nos termos do que determina o art. 49 da Portaria PGFN n. 6757/2022, o desconto médio de 42%",
+  "installments": "sendo que o saldo de R$ 195.928,89 (cento e noventa e cinco mil, novecentos e vinte e oito reais e oitenta e nove centavos) será pago em parcela única. ... restando saldo de R$ 438.412,76 ... que será pago em parcela única"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "total_discount_pct",
+  "guarantees",
+  "judicial_recovery",
+  "special_clauses"
+ ],
+ "id": "32405ae397df",
+ "title": "Termo de Transação Individual - Imetal Indústria e Comércio de Metais LTDA - Massa Falida",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualImetal.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualImetal.pdf",
+ "sha256": "92545c227e7134aaa31d5fbe09f6da5e35b200e16fdab10294c74bddfb8e9e04",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

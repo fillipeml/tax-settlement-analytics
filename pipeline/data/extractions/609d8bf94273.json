@@ -1,0 +1,75 @@
+{
+ "taxpayer": "PRÓ-CLÍNICAS CLÍNICA DE DIAGNÓSTICO E TRATAMENTO LTDA",
+ "approval_date": "2024-12-13",
+ "consolidated_amount": 49515942.67,
+ "modality": "Transação individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de matrícula (tarjada), registrado no 7º Ofício de Campos dos Goytacazes, de propriedade da DEVEDORA"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante PGFN e RFB, regularizando em 90 dias débitos que se tornarem exigíveis",
+  "Manter regularidade perante o FGTS e individualizar valores recolhidos dos trabalhadores",
+  "Não alienar bens ou direitos próprios ou de controladores/sócios sem comunicação à Fazenda Nacional",
+  "Efetuar pagamento regular de tributos federais, estaduais e municipais sobre o imóvel dado em garantia",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar pessoa interposta para ocultar bens",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Não utilizar a transação de forma abusiva ou que prejudique a livre concorrência",
+  "Peticionar em 30 dias nos processos judiciais/administrativos para noticiar a transação e desistir de impugnações/recursos/ações"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação do imóvel dado em garantia via plataforma COMPREI, mediante prévia anuência da CREDORA e destinação do valor à quitação das parcelas vincendas",
+  "Em caso de desapropriação do imóvel, a CREDORA fica constituída procuradora para receber indenização e aplicá-la na amortização da dívida",
+  "Créditos que a DEVEDORA venha a dispor (precatório, ressarcimento, restituição) deverão ser direcionados ao saldo devedor da transação"
+ ],
+ "sector": "Saúde/Diagnóstico e Tratamento Médico",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.8,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizando R$17.582.389,36 (dezessete milhões, quinhentos e oitenta e dois mil, trezentos e oitenta e nove reais e trinta e seis centavos)... totalizando R$31.933.553,31 (trinta e um milhões, novecentos e trinta e três mil, quinhentos e cinquenta e três reais e trinta e um centavos)",
+  "total_discount_pct": "Concessão do desconto máximo possível de até 70% sobre a dívida transacionada, observada a vedação de redução do montante principal, aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento do saldo relativo aos débitos previdenciários (Anexo I) e aos débitos não previdenciários (Anexo II) nos prazos máximos de 60 (sessenta) e 145 (cento e quarenta e cinco) prestações mensais e sucessivas, respectivamente"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector",
+  "consolidated_amount",
+  "installments"
+ ],
+ "id": "609d8bf94273",
+ "title": "Termo de Transação Individual - Pró-Clínica de Diagnóstico e Tratamento LTDA (PGFN)",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualPrClnicadeDiagnsticoeTratamentoLTDAPGFNtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualPrClnicadeDiagnsticoeTratamentoLTDAPGFNtarjado.pdf",
+ "sha256": "03b6ecf91ccb0bb2e3d120fd80cdd4a0e1f54197ec3ff5983713910c0138c7ff",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

@@ -1,0 +1,82 @@
+{
+ "taxpayer": "CLUB DE REGATAS VASCO DA GAMA",
+ "approval_date": "2021-10-26",
+ "consolidated_amount": 276874683.0,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis objeto do processo de arrolamento de bens, junto a RFB, nº 13031.198600/2021-16",
+  "Imóvel localizado à Rua General Tasso Fragoso, 65 – Lagoa, Rio de Janeiro – RJ",
+  "Contratos de cessão de direitos de captação, fixação, edição, exibição e transmissão do Campeonato Brasileiro de Clubes – Temporadas 2021 a 2024",
+  "Contratos de cessão de direitos de captação, fixação, edição, exibição e transmissão do Campeonato Estadual – Temporadas 2021 e 2022",
+  "Contrato de patrocínio com ASSOCIAÇÃO FORTE ALIANÇA",
+  "Contrato de patrocínio com BANCO BMG S.A.",
+  "Contrato de patrocínio com HAVAN S.A",
+  "Contrato de patrocínio com SPR INDÚSTRIA DE CONFECÇÃO LTDA",
+  "50% das receitas líquidas futuras e incertas decorrentes de eventual cessão onerosa de direitos federativos/econômicos de atletas de futebol profissional",
+  "Contrato de patrocínio com PIXBET SOLUÇÕES TECNOLÓGICAS EIRELI"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Recolher 5% da receita líquida de alienação de imóveis de sua propriedade para amortização",
+  "Recolher 5% da receita líquida de remuneração por performance (prêmio) em campeonatos/torneios de futebol",
+  "Recolher 5% do valor líquido recebido de 'luvas' em contratos de cessão de direitos de transmissão",
+  "Recolher 5% da receita líquida de cessão onerosa de direitos federativos/econômicos de atletas",
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Permanecer nos parcelamentos já aderidos",
+  "Comunicar à CBF e FERJ o oferecimento das garantias no prazo de 30 dias",
+  "Apresentar novos contratos para composição da garantia no prazo de 30 dias",
+  "Registrar hipoteca sobre imóvel garantidor no prazo de 30 dias após registro imobiliário"
+ ],
+ "special_clauses": [
+  "Parcelas variáveis vinculadas a receitas de alienação de atletas, prêmios e luvas de transmissão",
+  "Ressalva de valores negociados via 'Vasco Token' relativos a atletas específicos (dados tarjados)",
+  "Garantia de 50% das receitas futuras de cessão de direitos federativos/econômicos de atletas, sem ingerência da CREDORA nas decisões esportivas/negociais do clube",
+  "Sub-rogação de 50% dos valores líquidos de cessão de atletas em caso de rescisão da transação"
+ ],
+ "sector": "futebol/entretenimento",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.9,
+  "modality": 1.0,
+  "approval_date": 0.9,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.9,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "judicial_recovery": 0.5,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizando R$ 276.874.683 (duzentos e setenta e seis milhões, oitocentos e setenta e três mil, seiscentos e oitenta e três reais, vinte centavos), atualizado em 28.10.2021",
+  "total_discount_pct": "será concedido máximo de 70% (setenta por cento) incidente sobre a Dívida Transacionada de natureza não previdenciária e previdenciária pertencente à FAZENDA NACIONAL",
+  "installments": "O pagamento das parcelas ordinárias e intermediárias da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") será efetuado em 120 (cento e vinte) meses"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "approval_date"
+ ],
+ "id": "dedcaeb2dc7e",
+ "title": "Termo de Transação Individual - Vasco (PGFN)",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualVascoPGFN.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualVascoPGFN.pdf",
+ "sha256": "b354ff2d7703cf99b4d43e7eba91fe3296e9b9d407ab41c059f09e749fa44fd5",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

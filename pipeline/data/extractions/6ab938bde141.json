@@ -1,0 +1,75 @@
+{
+ "taxpayer": "LICEU FRANCO BRASILEIRO S/A e CENTRO EDUCACIONAL DA LAGOA (grupo econômico)",
+ "approval_date": "2024-07-10",
+ "consolidated_amount": 129304055.8,
+ "modality": "Transação individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis (matrículas 354.779, 240.357 e 401.019 - Rua das Laranjeiras, Rio de Janeiro/RJ)",
+  "5% do faturamento bruto mensal dos DEVEDORES e FIADORES",
+  "Fiança dos FIADORES (pessoa física e jurídica)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações judiciais/administrativas relativas à Dívida Transacionada",
+  "Reconhecimento e confissão irrevogável e irretratável da dívida",
+  "Pagamento regular de tributos federais, estaduais e municipais sobre os imóveis dados em garantia",
+  "Apresentação de laudos de avaliação dos imóveis em 90 dias",
+  "Manutenção da regularidade perante o FGTS",
+  "Não alienação de bens sem comunicação à Fazenda Nacional",
+  "Fornecimento de informações sobre bens, direitos e valores quando solicitado",
+  "Permanência nos parcelamentos já aderidos",
+  "Comunicação de alterações societárias em 30 dias"
+ ],
+ "special_clauses": [
+  "Reconhecimento de grupo econômico de fato entre DEVEDORES e FIADORES com corresponsabilidade (cláusula 1.3)",
+  "Possibilidade de alienação dos imóveis garantidores via plataforma COMPREI com anuência da CREDORA (cláusula 3.6)",
+  "Imóveis garantidores já gravados com hipoteca de título extrajudicial em execução (cláusula 3.4), com obrigação de substituição em caso de sucumbência",
+  "Compensação de precatórios federais com prestações do acordo (cláusula 4.5)"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.75,
+  "discounts": 0.2,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizando R$129.304.055,80 (cento e vinte e nove milhões, trezentos e quatro mil, cinquenta e cinco reais e oitenta centavos) atualizadas em 06.2024",
+  "total_discount_pct": "Concessão do desconto máximo de 70% (sessenta e cinco por cento) incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL",
+  "installments": "Pagamento do saldo remanescente dos débitos de natureza não previdenciária e dos débitos previdenciários não previstos no item 2.1.2 em 145 (cento e trinta e três) prestações mensais e escalonadas da seguinte forma"
+ },
+ "review_fields": [
+  "taxpayer",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "6ab938bde141",
+ "title": "Termo de Transação Individual - Liceu Franco Brasileiro SA (PGFN)",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualLiceuFrancoBrasileiroSAPGFNtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualLiceuFrancoBrasileiroSAPGFNtarjado.pdf",
+ "sha256": "359d4ac358384b612e9a88e4fa4fb817b24c9f5a004c484cca530620ae84258b",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

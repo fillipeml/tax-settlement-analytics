@@ -1,0 +1,81 @@
+{
+ "taxpayer": "MEGATRANZ TRANSPORTES LTDA",
+ "approval_date": "2025-05-06",
+ "consolidated_amount": 2410886.46,
+ "modality": "Transação Individual",
+ "total_discount_pct": 52.63,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 114,
+ "down_payment_pct": 6.0,
+ "guarantees": [
+  "Manutenção dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal ou qualquer outra ação judicial"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar preenchimento dos requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa natural ou jurídica interposta",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a formalização",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos exigidos pelas normas fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor de R$ 3.697.602,78 para amortização do saldo devedor ou liquidação de até 70% do saldo remanescente",
+  "Cobrança do saldo liquidado com créditos de PF/BCN suspensa até confirmação pela autoridade competente, no prazo de 5 anos",
+  "Corresponsabilidade entre as Requerentes reconhecida nos termos dos arts. 124, I, 132 e 133 do CTN",
+  "Direcionamento obrigatório de créditos de precatório/depósito judicial perante a União para adimplemento dos saldos devedores"
+ ],
+ "sector": "Transportes",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "down_payment_pct": 0.95,
+  "installments": 0.85,
+  "total_discount_pct": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Entrada de 6% do valor total do débito integral, no montante de R$2.410.886,46 divididos em seis parcelas de R$401.814,41.",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 114 (cento e quatorze) prestações mensais e sucessivas",
+  "total_discount_pct": "Na modalidade DEMAIS, desconto máximo de até 52,63% (cinquenta e dois, sessenta e três por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "installments",
+  "total_discount_pct"
+ ],
+ "id": "242492415dd5",
+ "title": "Termo de Transação Individual - Megatranz Transportes LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMegatranzTransportesLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMegatranzTransportesLTDATarjado.pdf",
+ "sha256": "d8baebd0d79ee48daed335468d08fbd02a51484b37726550a6a6a83ecb831f2a",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

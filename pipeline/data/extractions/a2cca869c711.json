@@ -1,0 +1,83 @@
+{
+ "taxpayer": "TRANSMERIDIANO TRANSPORTES RODOVIARIOS LTDA - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2023-10-11",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (modalidades DEMAIS e PREV)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 10,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de penhora sobre imóvel matrícula 137.356 (3º Registro de Imóveis de Campinas)",
+  "Fiança pessoal dos sócios José Carlos Fernandes e Nereu dos Santos, com renúncia ao benefício de ordem, no montante de R$ 4.400.000,00",
+  "Manutenção automática de gravames de arrolamento de bens, medida cautelar fiscal e garantias já prestadas"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Declarar preenchimento dos requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva contra a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens",
+  "Declarar não ter alienado bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos futuros inscritos em Dívida Ativa",
+  "Não alienar bens que reduzam capacidade de pagamento sem comunicação prévia",
+  "Manter-se regular com outras transações e parcelamentos em curso",
+  "Manter por 5 anos livros e documentos fiscais, inclusive de prejuízo fiscal e base negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de R$ 4.400.000,00 a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor após descontos",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL fica suspensa até confirmação pela autoridade competente, dentro do prazo legal de 5 anos",
+  "Nos embargos à execução fiscal nº 0011417-84.2016.4.03.6105, cada litigante arca com honorários de seus patronos (exceção à regra geral)",
+  "Penhoras sobre imóvel matrícula 137.356 só serão levantadas após quitação integral das parcelas e cumprimento de obrigações acessórias",
+  "Direcionamento de eventuais créditos de precatórios ou depósitos judiciais para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Transportes/Logística",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 1.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 10 (dez) prestações mensais e sucessivas, conforme Anexo II [...] Parcelamento do saldo devido na modalidade PREV em até 10 (dez) prestações mensais e sucessivas",
+  "credito_prejuizo_fiscal": "Utilização de crédito no valor de R$ 4.400.000,00 (quatro milhões e quatrocentos mil reais), a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, para amortização do saldo devedor após a aplicação dos descontos"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "a2cca869c711",
+ "title": "Termo de Transação Individual - Transmeridiano Transportes Rodoviarios LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTransmeridianoTransportesRodoviariosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTransmeridianoTransportesRodoviariosLTDA.pdf",
+ "sha256": "43f32f83e481db4aec1da3b9183c2c40ddceabe894f15d288bee71baad9ffeb3",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

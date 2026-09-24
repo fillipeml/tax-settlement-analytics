@@ -1,0 +1,74 @@
+{
+ "taxpayer": "Augusta Offshore Brasileira LTDA",
+ "approval_date": "2025-05-29",
+ "consolidated_amount": 49371861.77,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante a CREDORA e a Secretaria Especial da Receita Federal do Brasil, regularizando, no prazo de 90 dias, os débitos que se tornarem exigíveis após a formalização do acordo",
+  "Permanecer nos parcelamentos já aderidos, honrando os pagamentos das parcelas até a completa quitação das CDAs",
+  "Manter a regularidade perante o FGTS e proceder à individualização dos valores recolhidos dos respectivos trabalhadores, quando for o caso",
+  "Não alienar bens ou direitos próprios ou de controladores, sócio-administradores, gestores e representantes legais sem proceder à devida comunicação à Fazenda Nacional",
+  "Não utilizar pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens, direitos e valores",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Renunciar alegações de direito sobre ações judiciais relativas aos créditos incluídos na transação, requerendo extinção do processo com resolução de mérito",
+  "Peticionar nos processos judiciais relativos à dívida transacionada, no prazo de 30 dias, para noticiar a celebração da Transação e desistir de impugnações, recursos ou ações em curso",
+  "Peticionar no processo judicial nº 0070666-84.2015.4.02.5116, inclusive recursos no TRF2/STJ/STF, no prazo de 30 dias, para noticiar a celebração da Transação e desistir das alegações",
+  "Implementar o procedimento de REDARF perante a Receita Federal para alocação dos valores constantes na cláusula 2.1.1"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e de base de cálculo negativa da CSLL para liquidação de até 70% do saldo remanescente das inscrições, limitados ao montante do crédito da empresa",
+  "Pagamento correspondente a DARFs pagos e não alocados reconhecidos no Processo Administrativo nº 10730.720334/2023-15, alocados na inscrição em DAU 70 6 10 001480-59 sem desconto",
+  "Autorização de compensação de valores relativos a restituições, ressarcimentos ou reembolsos reconhecidos pela Receita Federal e a precatórios federais com prestações do acordo"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.2,
+  "modality": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 1.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.3,
+  "judicial_recovery": 0.0,
+  "approval_date": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal do DEVEDOR objeto da presente transação é composto das inscrições não previdenciárias, constantes do ANEXO I, totalizando R$ 49.371.861,77, atualizados em 02/2025",
+  "total_discount_pct": "Concessão do desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a Dívida Transacionada de natureza não-previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento do saldo remanescente a ser efetuado em 36 (trinta e seis) prestações mensais e sucessivas, calculadas de forma escalonada da seguinte forma"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "f9eef70a13cc",
+ "title": "Termo de Transação Individual - Augusta Offshore Brasileira LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualAugustaOffshoreBrasileiraLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualAugustaOffshoreBrasileiraLTDA.pdf",
+ "sha256": "d1f565c0953c1ebe2047da18e957c554e463b931971c28ad5579b1539038ee76",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

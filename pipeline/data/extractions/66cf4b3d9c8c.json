@@ -1,0 +1,72 @@
+{
+ "taxpayer": "ORDEP FABRIL NORDESTE LTDA",
+ "approval_date": "2024-02-28",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantidas todas as garantias eventualmente já associadas aos débitos incluídos na transação, inclusive penhoras prévias em execuções fiscais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Recolhimento das obrigações tributárias correntes",
+  "Cumprimento das obrigações acessórias dependentes da obrigação principal",
+  "Apresentação anual da situação econômico-financeira (demonstrações de resultados/balanço contábil)",
+  "Permanecer no regime de tributação pelo lucro real (ou retornar a ele) e manter, por 5 anos, livros e documentos comprobatórios do prejuízo fiscal e base negativa da CSLL",
+  "Comunicar à Fazenda Nacional antes de alienar bens ou direitos",
+  "Petição nos processos judiciais noticiando a celebração do acordo",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após a formalização do acordo"
+ ],
+ "special_clauses": [
+  "Autorização de utilização de crédito de prejuízo fiscal e base de cálculo negativa da CSLL para quitação do saldo devedor remanescente, limitada a 70% da dívida remanescente",
+  "Reversão do produto de eventual alienação de bens dados em garantia para quitação do acordo, condicionada à aquiescência da Fazenda Nacional",
+  "Vedação de nova transação por 2 anos em caso de rescisão",
+  "Vinculação de direitos creditórios supervenientes (inclusive precatórios) ao pagamento da transação, mesmo para antecipação de parcelas não vencidas"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.2,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "guarantees": 0.8,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 65% (sessenta e cinco por cento), tendo em vista a limitação imposta pela sua capacidade de pagamento (CAPAG)",
+  "installments": "pagamento linear no prazo de 36 (trinta e seis) meses, tanto a dívida não-previdenciária, como a dívida previdenciária"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "66cf4b3d9c8c",
+ "title": "Termo de Transação Individual - Ordep Fabril Nordeste LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualOrdepFabrilNordesteLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualOrdepFabrilNordesteLTDAtarjado.pdf",
+ "sha256": "e25c5879f2cb4125077a66b6f4c322b8f8f240608d32f80e374759fc3fa442cb",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

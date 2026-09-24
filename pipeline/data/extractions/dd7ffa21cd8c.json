@@ -1,0 +1,78 @@
+{
+ "taxpayer": "CONSTRUTORA BETER S/A - FALIDA",
+ "approval_date": "2025-06-02",
+ "consolidated_amount": 34550404.87,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal, penhoras ou garantias prestadas administrativamente"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitadas",
+  "Autorizar o acesso da Fazenda Nacional a suas declarações e escritas fiscais",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação prévia",
+  "Manter a regularidade perante o FGTS",
+  "Manter a regularidade perante a PGFN e a RFB, regularizando em 90 dias os débitos que se tornarem exigíveis",
+  "Peticionar em até 60 dias em todos os processos judiciais para noticiar a celebração da Transação e desistir/renunciar",
+  "Manter livros e documentos fiscais e contábeis para comprovação dos montantes de PF/BCN utilizados por 5 anos ou até liquidação integral",
+  "Promover a baixa dos montantes de PF/BCN utilizados nos livros e escriturações contábeis próprias",
+  "Manter o regime de apuração do IRPJ pelo lucro real durante a vigência da Transação"
+ ],
+ "special_clauses": [
+  "Autorização de uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) no valor máximo de R$ 8.934.230,36, limitado a 70% do saldo devedor consolidado após descontos",
+  "Distrato de negociações anteriores identificadas no Sispar sob os números 7004824 e 7006219, para reconsolidação nos termos deste Acordo",
+  "Pagamento do saldo devedor remanescente em uma única parcela à vista, tanto para Demais Débitos quanto para Previdenciários",
+  "Vedação de prorrogação do prazo máximo de pagamento",
+  "Depósitos judiciais vinculados à Dívida Transacionada deverão ser transformados em pagamento definitivo, sem descontos"
+ ],
+ "sector": "Construção civil",
+ "confidence": {
+  "taxpayer": 1.0,
+  "approval_date": 1.0,
+  "modality": 0.9,
+  "sector": 0.5,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.55,
+  "guarantees": 0.6,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada (valor): 25.958.336,16 (Demais Débitos) + 8.592.068,71 (Previdenciários)",
+  "total_discount_pct": "Concede-se o desconto máximo de 65% (sessenta e cinco por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais",
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Previdenciária será adimplido em 01 (uma) prestação à vista"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "dd7ffa21cd8c",
+ "title": "Termo de Transação Individual - Construtora Beter S/A - Falida",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualConstrutoraBeterSAFalida.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualConstrutoraBeterSAFalida.pdf",
+ "sha256": "78fa63e190d892a24212576e64618e4023903c73ee9ae1ad5a60c5a010aa6195",
+ "extracted_at": "2026-07-22T14:22:39+00:00",
+ "simulated": false
+}

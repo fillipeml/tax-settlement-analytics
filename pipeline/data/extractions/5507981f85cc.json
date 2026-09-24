@@ -1,0 +1,84 @@
+{
+ "taxpayer": "RP Produção e Edição Musical Ltda, Núcleo 55 Produções Artísticas Ltda, Granola Produções Ltda, BM Produções Artísticas Eireli, 7+7 Produção e Empreendimentos Ltda, Akator Eventos Ltda, Baía de Todos os Santos Compra e Venda de Imóveis Ltda, Patrimonial Xpto Ltda (grupo econômico \"Washington Bell Marques da Silva\")",
+ "approval_date": "2022-10-05",
+ "consolidated_amount": 50848136.51,
+ "modality": "Transação individual (proposta individual nas condições da modalidade por adesão PERSE, art. 53 da Portaria PGFN nº 6.757/2022)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 72,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca de bens imóveis relacionados no Anexo II, avaliados em 2022 segundo normas da ABNT, com total aproximado dado em garantia de R$ 31.500.000,00 (Cláusula 15ª)",
+  "Manutenção de garantias, penhoras e gravames já formalizados em relação aos créditos do Anexo I (Cláusula 14ª)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos do Anexo I",
+  "Renúncia a alegações de direito e desistência de ações/recursos sobre os créditos transacionados",
+  "Manter regularidade das obrigações para com FGTS e tributárias federais correntes",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou exigíveis após a transação",
+  "Manter as garantias oferecidas até o cumprimento integral",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos da RFB com as prestações",
+  "Autorizar compensação de precatórios federais como reforço do plano de amortização",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos, transações quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou pagamentos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Notificar migração ou aquisição de atividades por outra pessoa jurídica",
+  "Individualizar valores de FGTS recolhidos nas contas vinculadas dos trabalhadores",
+  "Registrar hipoteca em até 90 dias contados da assinatura",
+  "Apresentar situação econômico-financeira anualmente (balanço contábil)"
+ ],
+ "special_clauses": [
+  "Aplicação dos descontos e prazo do PERSE (Lei nº 14.148/2021) por enquadramento no setor de eventos, rating D (art. 53 da Portaria PGFN/ME nº 6.757/2022)",
+  "Cláusula 7ª: possibilidade de redução de até 70% nas prestações por até 6 meses em caso de suspensão das atividades por força maior/caso fortuito, com refinanciamento do saldo remanescente",
+  "Cláusula 8ª: possibilidade de redução do valor das parcelas em caso de impedimento temporário do artista Washington Bell Marques da Silva por doença grave, até 6 meses",
+  "Cláusula 9ª: benefícios das Cláusulas 7ª e 8ª somente podem ser concedidos uma única vez",
+  "Cláusula 10ª: em caso de falecimento de Washington Bell Marques da Silva, parcelamento quitado no prazo máximo de 145 meses (não previdenciário) e 60 meses (previdenciário), com termo aditivo",
+  "Prazo máximo do acordo de 145 mensalidades aplicável somente às dívidas não previdenciárias (art. 17 Portaria PGFN/ME 6.757/2022)",
+  "Cláusula 20ª: possibilidade de reavaliação de garantias após 2 anos para liberação de excedente, mantendo mínimo de 120% do saldo devedor",
+  "Cláusula 53ª: contribuintes se declaram integrantes do mesmo grupo econômico e corresponsáveis pelos débitos"
+ ],
+ "sector": "Eventos / entretenimento (produção artística e shows musicais)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.8,
+  "modality": 0.85,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.75,
+  "down_payment_pct": 0.3,
+  "discounts": 0.2,
+  "judicial_recovery": 0.2,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal dos CONTRIBUINTES inscrito em dívida ativa da União, parte desta transação, é composto por todos os seus créditos fiscais relacionados no ANEXO I, que totalizam R$ 50.848.136,51, atualizado no mês de setembro de 2022",
+  "total_discount_pct": "será aplicável descontos de até 70% (setenta por cento) sobre o valor total da dívida.",
+  "installments": "A presente transação terá prazo de vigência de até 72 (setenta e dois) meses, salvo se ocorrer uma das hipóteses previstas expressamente nas Cláusulas 7ª e 8ª."
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "5507981f85cc",
+ "title": "Termo de Transação Individual - Grupo Granola",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualGrupoGranolaInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualGrupoGranolaInformaesSigilosasSuprimidas.pdf",
+ "sha256": "b57b20b27f09997d0badc29c78311b42441c8075561cc9bb0c166133ef3d64f9",
+ "extracted_at": "2026-07-22T14:22:23+00:00",
+ "simulated": false
+}

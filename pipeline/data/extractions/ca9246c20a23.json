@@ -1,0 +1,76 @@
+{
+ "taxpayer": "AGROPECUARIA VITAMAIS LTDA EM RECUPERACAO JUDICIAL e ECOFERTIL AGROPECUARIA LTDA EM RECUPERACAO JUDICIAL",
+ "approval_date": "2025-05-30",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Empresa(s) em processo de recuperação judicial",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Autorizar o acesso da Fazenda Nacional a suas declarações e escritas fiscais",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação prévia",
+  "Manter a regularidade perante o FGTS",
+  "Manter a regularidade perante a PGFN e a RFB, regularizando em até 90 dias os débitos que se tornarem exigíveis",
+  "Peticionar em até 60 dias em todos os processos judiciais relativos à Dívida Transacionada para noticiar a Transação, desistir e renunciar aos direitos",
+  "Não distribuir lucros ou dividendos a sócios e acionistas até a aprovação do plano de recuperação judicial",
+  "Peticionar em até 60 dias no processo de recuperação judicial para noticiar a celebração da Transação",
+  "Manter livros e documentos fiscais e contábeis relativos ao uso de PF/BCN por 5 anos ou até liquidação integral",
+  "Promover a baixa dos montantes de PF/BCN utilizados nos livros e escriturações contábeis próprias",
+  "Manter o regime de apuração do IRPJ pelo lucro real durante toda a vigência da Transação (para requerentes que usaram PF/BCN)"
+ ],
+ "special_clauses": [
+  "Autorização de uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) no valor máximo de R$ 11.609.588,43 para amortização da Dívida Transacionada",
+  "Créditos de PF/BCN poderão amortizar até 55,02% do saldo devedor da Dívida Transacionada - Previdenciária e até 52,17% do saldo devedor da Dívida Transacionada - Demais Débitos",
+  "Em nenhuma hipótese os créditos de PF/BCN poderão amortizar percentual superior a 70% do saldo devedor apurado após descontos",
+  "Cobrança do valor liquidado com uso de créditos de PF/BCN ficará suspensa até confirmação dos créditos pela autoridade competente (prazo de 5 anos)",
+  "Garantias vinculadas à Transação devem ser mantidas até a confirmação dos créditos de PF/BCN e integral quitação da Transação (Anexo VI indica 'Não se aplica')"
+ ],
+ "sector": "Agronegócio",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.8,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.3,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.95,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Previdenciária e Demais será adimplido em 1 parcela;",
+  "total_discount_pct": "Concede-se o desconto máximo de 70% (sessenta e cinco por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "ca9246c20a23",
+ "title": "Sumário - Agropecuária Vitamais LTDA e Ecofertil Agropecuária LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/SumrioAgropecuriaVitamaisLTDAeEcofertilAgropecuriaLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/SumrioAgropecuriaVitamaisLTDAeEcofertilAgropecuriaLTDA.pdf",
+ "sha256": "1b9b2a07588326f9d8495bf4a6cd59892b5eccceff4cc9971eac05138fc36696",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

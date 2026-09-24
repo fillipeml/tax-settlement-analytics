@@ -1,0 +1,80 @@
+{
+ "taxpayer": "PROGEN PROJETOS GERENCIAMENTO E ENGENHARIA S.A",
+ "approval_date": "2021-06-09",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": 18.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Recebíveis oriundos de contrato de prestação de serviços (dados tarjados)",
+  "Recebíveis oriundos de contrato de prestação de serviços - 2º termo aditivo (dados tarjados)",
+  "Possibilidade de substituição por depósito, fiança bancária ou seguro-garantia de igual valor"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Adimplir a Transação nas condições previstas",
+  "Promover pagamento de eventual saldo devedor",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Pagar, parcelar ou garantir débitos inscritos em Dívida Ativa após a formalização, no prazo de 90 dias",
+  "Manter a Transação garantida nas condições do item 4.2 (mínimo 120% do valor da Dívida Transacionada)",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Manter regular a situação dos parcelamentos vigentes",
+  "Manter regularidade perante o FGTS",
+  "Renunciar a alegações de direito sobre a Dívida Transacionada",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não utilizar a Transação de forma abusiva",
+  "Realizar comunicações via SICAR/REGULARIZE"
+ ],
+ "special_clauses": [
+  "Desconto de 18% incidente sobre a totalidade da Dívida Transacionada, vedada redução do principal, aplicado proporcionalmente sobre acréscimos legais (multa, juros e encargos)",
+  "Escalonamento progressivo das prestações conforme Tabelas 2 e 3",
+  "Garantias mínimas de 120% do valor da Dívida Transacionada",
+  "Possibilidade de substituição de garantias por depósito, fiança bancária ou seguro-garantia"
+ ],
+ "sector": "Engenharia/Gerenciamento de projetos",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "guarantees": 0.6,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto de 18% (dezoito por cento) incidente sobre a totalidade da Dívida Transacionada, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos) (Anexo III).",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 84 (oitenta e quatro) prestações mensais;"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "sector",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "512c9278ee0f",
+ "title": "Termo de Transação Individual - PROGEN",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-progen.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-progen.pdf",
+ "sha256": "315f1fe3df4e0a1a0a7007a8fc7888b57b1c59be4132ca089e3e80a0f5a30d76",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

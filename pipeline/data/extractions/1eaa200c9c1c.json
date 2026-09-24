@@ -1,0 +1,78 @@
+{
+ "taxpayer": "Grupo Habib (AUTOFRANCE COMERCIO E SERVIÇOS LTDA e demais empresas do grupo - BRN, CAMBRAIA E ROSA, CARFRANCE, EPC, ETOILE, FRANCECAR, GB CARS, NHN, RNG, SAINT GERMAIN, SAINT MORITZ, SNG C. OESTE, SNG SUL, SPN, SNG SP DISTRIBUIDORA DE VEÍCULOS)",
+ "approval_date": "2024-02-12",
+ "consolidated_amount": null,
+ "modality": "Transação Individual FGTS",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 85,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Peticionar nos autos dos processos judiciais/administrativos e nos autos da Recuperação Judicial (2ª Vara de Falência e RJ de São Paulo, nº 111.3802.23.2018.8.26.0100) em 30 dias para noticiar o acordo, desistir de impugnações/recursos/ações e renunciar aos direitos, confessando a dívida",
+  "Confessar de forma irrevogável e irretratável os débitos indicados, renovada a cada pagamento periódico",
+  "Autorizar a CREDORA a ter acesso às declarações e escritas fiscais",
+  "Apresentar demandas e comprovações via portal REGULARIZE",
+  "Pagar, parcelar ou garantir novos débitos de FGTS e contribuição social inscritos em Dívida Ativa após o acordo, no prazo de 90 dias",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Manter regularidade perante o FGTS e proceder à individualização dos valores recolhidos dos trabalhadores",
+  "Não alienar bens/direitos sem comunicação à Fazenda Nacional durante a vigência do acordo",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Não alienar ou onerar bens com propósito de frustrar a recuperação dos créditos"
+ ],
+ "special_clauses": [
+  "Transação individual FGTS com débitos de empresas em recuperação judicial (múltiplas devedoras do mesmo grupo econômico)",
+  "Suspensão da exigibilidade das dívidas enquanto perdurar o acordo (cláusula 2.5)",
+  "Créditos futuros (precatório, levantamento de depósito judicial) direcionados ao adimplemento do saldo devedor (cláusula 2.4)",
+  "Valores bloqueados/depositados judicialmente transformados em pagamento definitivo sem desconto (cláusula 2.3)",
+  "Vedação de nova transação por 2 anos em caso de rescisão (cláusula 5.4)",
+  "Transação não implica renúncia às garantias e privilégios do crédito tributário (cláusula 6.4)"
+ ],
+ "sector": "Comércio de veículos (concessionárias)",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.8,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "b) PRINCIPAL (DEP + JAM) - Valores devidos aos Trabalhadores: 85 (oitenta e cinco) parcelas mensais e sucessivas;",
+  "approval_date": "Rio de Janeiro, 12 de fevereiro de 2024."
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees"
+ ],
+ "id": "1eaa200c9c1c",
+ "title": "Termo de Transação Individual - BRN Distribuidora de Veículos LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualBRNDistribuidoradeVeculosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualBRNDistribuidoradeVeculosLTDATarjado.pdf",
+ "sha256": "a746070c0646396a3c4a7a8bc3d3c8fa0b397128893850ecc70039e853571e1b",
+ "extracted_at": "2026-07-22T14:22:29+00:00",
+ "simulated": false
+}

@@ -1,0 +1,79 @@
+{
+ "taxpayer": "ICATEL TELEMÁTICA SERVIÇOS E COMERCIO LTDA. e ICA TELECOMUNICAÇÕES LTDA (grupo econômico)",
+ "approval_date": "2023-06-12",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel matrícula nº 118.058 (2º Registro de Imóveis de São Paulo), de propriedade de Igor Russi Salaru, avaliado em R$ 4.135.547,20",
+  "Imóvel matrícula nº 131.222 (2º Registro de Imóveis de São Paulo), de propriedade de Daniel Russi Salaru, avaliado em R$ 2.800.000,00",
+  "Contrato nº 02-040851-02 firmado com a Telecomunicações de São Paulo S.A. (Telesp), com faturamento estimado em R$ 40.000.000,00",
+  "Seguro-garantia no importe de R$ 2.400.000,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Apresentar anualmente notas fiscais e planilha referentes ao contrato dado em garantia (cláusula 3.1.2)",
+  "Substituir a garantia da cláusula 3.1.2 por outra de valor igual ou superior a R$ 40.000.000,00 em 30 dias em caso de não renovação/extinção do contrato"
+ ],
+ "special_clauses": [
+  "Extensão das condições da Requerente principal (ICATEL) aos demais integrantes do grupo econômico de fato, com base no §4º do art. 54 da Portaria PGFN 6.757/2022",
+  "Utilização de créditos de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor de R$ 12.600.000,00 para amortização do saldo devedor após descontos",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL fica suspensa até confirmação pela autoridade competente, dentro do prazo legal de 5 anos",
+  "Possibilidade de alienação dos imóveis da cláusula 3.1.1 mediante prévia anuência da Fazenda Nacional",
+  "Obrigação de substituição de garantia (contrato Telesp) por outra de valor equivalente em caso de não renovação/extinção contratual"
+ ],
+ "sector": "Telecomunicações",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.7,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Na modalidade DEMAIS, desconto máximo de até 50% (cinquenta por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 60 (sessenta) prestações mensais e sucessivas, conforme Anexo Il, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "dc87a3f22258",
+ "title": "Termo de Transação Individual - Icatel Telemática Serviços e Comércio LTDA, Ica Telecomunicações LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIcatelTelemticaServioseComrcioLTDAIcaTelecomunicaesLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIcatelTelemticaServioseComrcioLTDAIcaTelecomunicaesLTDA.pdf",
+ "sha256": "ad2cad8ef482b37be1cd981ef23151188a8ae9f89592a6a23ac10274afa819c1",
+ "extracted_at": "2026-07-22T14:22:44+00:00",
+ "simulated": false
+}

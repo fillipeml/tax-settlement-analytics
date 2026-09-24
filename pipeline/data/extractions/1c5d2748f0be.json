@@ -1,0 +1,72 @@
+{
+ "taxpayer": "CEAM CENTRO DE ASSISTENCIA MEDICA MORATO S/S LTDA e PLENA SAUDE S/A",
+ "approval_date": "Not identified",
+ "consolidated_amount": 83012184.48,
+ "modality": "Transação individual (modalidades DEMAIS e PREV)",
+ "total_discount_pct": 55.84,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, de medida cautelar fiscal e das garantias prestadas administrativamente ou nas ações de execução fiscal ou em qualquer outra ação judicial"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular e em dia com as Transações e Parcelamentos em curso",
+  "Manter, durante 5 anos, livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor de R$ 9.830.231,23 para amortização do saldo devedor após aplicação dos descontos",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal ficará suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de cinco anos"
+ ],
+ "sector": "Saúde",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.6,
+  "guarantees": 0.7,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total R$ 83.012.184,48",
+  "total_discount_pct": "Desconto efetivo MÉDIO 55,84%",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 120 (cento e vinte) prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "approval_date",
+  "down_payment_pct",
+  "judicial_recovery",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct"
+ ],
+ "id": "1c5d2748f0be",
+ "title": "Termo de Transação Individual - CEAM Centro de Assistência Médica Morato SS LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCEAMCentrodeAssistnciaMdicaMoratoSSLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCEAMCentrodeAssistnciaMdicaMoratoSSLTDATarjado.pdf",
+ "sha256": "221a39c8168ed591cdcce716ebbe2e0dec5cb0be1b95790e3cf7f43c38e17142",
+ "extracted_at": "2026-07-22T14:22:37+00:00",
+ "simulated": false
+}

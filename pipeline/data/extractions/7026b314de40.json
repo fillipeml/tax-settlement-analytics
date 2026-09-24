@@ -1,0 +1,57 @@
+{
+ "taxpayer": "INDUSTRIAL ARBHORES COMPENSADOS - EIRELI - EPP",
+ "approval_date": "Not identified",
+ "consolidated_amount": 51910582.12,
+ "modality": "Transação individual",
+ "total_discount_pct": 43.85,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Imóveis",
+  "Móveis (veículos)"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Industrial (madeira/compensados)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.4,
+  "modality": 0.9,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.9,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.0,
+  "judicial_recovery": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$ 51.910.582,12",
+  "total_discount_pct": "43,85%",
+  "installments": "36"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "obligations"
+ ],
+ "id": "7026b314de40",
+ "title": "Sumário - Industrial ARBHORES",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/copy_of_SumrioIndustrialARBHORES.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/copy_of_SumrioIndustrialARBHORES.pdf",
+ "sha256": "3921ea3dea1a5de6283a4710993bea650bb7253b19b6df4f97a51dff1cffaad9",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

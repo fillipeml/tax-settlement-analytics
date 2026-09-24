@@ -1,0 +1,83 @@
+{
+ "taxpayer": "INDUSTRIA CONSTRUCOES E MONTAGENS INGELEC S/A - INCOMISA - EM RECUPERACAO JUDICIAL",
+ "approval_date": "Not identified",
+ "consolidated_amount": 12249885.5,
+ "modality": "Transação individual (recuperação judicial)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel matriculado sob número 51.638 perante o Oficial de Registro de Imóveis e Anexos da Comarca de Pindamonhangaba – SP",
+  "Direitos creditórios decorrentes da alienação fiduciária/financiamento gravada à margem da matrícula 49.639 (CRI de Pindamonhangaba)",
+  "Bens móveis listados e avaliados conforme Anexo III"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar ou dissimular bens, direitos ou valores",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens/direitos que possam inviabilizar o pagamento sem prévia comunicação à Fazenda Nacional",
+  "Concordar com compensação de ofício da Dívida Transacionada",
+  "Desistir da transação excepcional e incluir todos os créditos em DAU, DAINSS e FGTS na presente transação",
+  "Formalizar penhora do imóvel matriculado sob nº 51.638 e móveis no prazo de 6 meses",
+  "Registrar e regularizar em seu nome o imóvel ofertado em garantia no prazo de 6 meses",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação de bens imóveis dados em garantia, mediante prévia anuência da Fazenda Nacional (cláusula 4)",
+  "Entrada imputada primeiro no crédito previdenciário após quitação de FGTS e contribuição (cláusula 2.1.4)",
+  "Pagamento do FGTS à vista (cláusula 2.1.5)",
+  "Vedação de redução do montante principal, desconto aplicado apenas sobre acréscimos legais (cláusula 2.1.2)"
+ ],
+ "sector": "Construção/Indústria (fabricação de linhas de transmissão, subestações e montagem)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL GERAL (FGTS, previdenciário e demais débitos) R$ 12.249.885,50",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais, escalonadas na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "special_clauses"
+ ],
+ "id": "02c48fde4962",
+ "title": "Termo de Transação Individual - Indústria Construções e Montagens Ingelec S/A - Incomisa",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIndstriaConstrueseMontagensIngelecSAIncomisa.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIndstriaConstrueseMontagensIngelecSAIncomisa.pdf",
+ "sha256": "7149caa8ffd6026fa2a3b114952f2b8699def9cd51b23cc4bf72fb6c7546c398",
+ "extracted_at": "2026-07-22T14:22:44+00:00",
+ "simulated": false
+}

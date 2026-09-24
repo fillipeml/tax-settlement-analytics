@@ -1,0 +1,81 @@
+{
+ "taxpayer": "VB TRANSPORTES E TURISMO LTDA. e outras (grupo econômico \"Belarmino\" - 26 empresas coobrigadas/solidárias, incluindo débitos redirecionados de VIAÇÃO CAMPOS ELÍSEOS S.A.)",
+ "approval_date": "2025-01-20",
+ "consolidated_amount": 2142057649.49,
+ "modality": "Transação Individual",
+ "total_discount_pct": 50.577,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 30,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Contrato nº 021/19 (SEI nº 6020.2019/0002396-8) celebrado pela Prefeitura de São Paulo com Sambaíba Transportes Urbanos Ltda., no valor de R$ 3.135.223.280,00, a ser oferecido à penhora nos autos de execuções fiscais específicas",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas administrativamente ou em ações judiciais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/valores",
+  "Declarar que não alienou ou onerou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais e patrimoniais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos novos inscritos em dívida ativa",
+  "Não alienar bens que possam inviabilizar capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular com outras transações e parcelamentos em curso",
+  "Manter por 5 anos livros e documentos fiscais, incluindo comprobatórios de prejuízo fiscal e base negativa de CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Manter-se optante pelo lucro real durante a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação, desistir de ações e confessar a dívida",
+  "Desistir de discussões judiciais pendentes vinculadas aos depósitos em 30 dias"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa de CSLL, limitado a 29,802% do saldo da dívida após descontos",
+  "Garantia consistente em contrato de concessão de transporte público municipal de São Paulo, de valor muito superior ao débito, a ser penhorado em execuções fiscais específicas",
+  "Inclusão de débitos redirecionados originários de terceira empresa (Viação Campos Elíseos S.A.) em razão de decisões judiciais de redirecionamento em Execuções Fiscais específicas",
+  "Reversão obrigatória de créditos de precatórios/depósitos judiciais para as contas de transação, ainda que necessário reduzir o montante de prejuízo fiscal utilizado",
+  "Transação individual com múltiplas empresas coobrigadas sob mesmo grupo de controle (administradores comuns)"
+ ],
+ "sector": "Transporte coletivo de passageiros (ônibus urbano e rodoviário) e serviços correlatos",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.85,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "modality": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.1,
+  "total_discount_pct": 0.9,
+  "discounts": 0.1,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.1,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor consolidado | R$ 2.142.057.649,49 (Anexo II - Resumo da transação)",
+  "total_discount_pct": "o que implica numa média concedida aproximada de 50,577% (cinquenta inteiros, e quinhentos e setenta e sete centésimos por cento), no presente acordo, conforme consta detalhado no Anexo II",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") será dividida em 30 (trinta) prestações mensais escalonadas, na forma discriminada no Anexo II; Pagamento da Dívida Transacionada de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") será dividida em 30 (trinta) prestações mensais escalonadas"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "d4d0ec28dee7",
+ "title": "Termo de Transação Individual - VB Transportes e Turismo LTDA, Auto Viação Brasil Luxo LTDA, Transportes Capellini LTDA, Viação Campos do Ouros LTDA,Viação Transguarulhense Ltda, Construtora Boa Nova LTDA, Embralixo Empresa Bragantina de Varrição Coleta de Lixo LTDA, Embralixo Empresa Bragantina de Varrição Coleta de Lixo LTDA, Nossa Senhora de Fátima Auto Ônibus LTDA, Rápido Luxo Campinas LTDA, Rápido Sumaré LTDA, Sambaíba Transportes Urbanos LTDA, Empresa São José LTDA, Urca Urbano de Campinas LTDA, Vallesul Transportes e Turismo LTDA, VB Transportes de Cargas LTDA, Via Norte Transportes Urbanos LTDA, Viação Atual Ltda, Viação Avante LTDA, Viação Boa Vista LTDA, Viação Lira LTDA, Auto Viação Ouro Verde LTDA, Viação São Paulo LTDA, Vila Real Transportes e Serviços LTDA, West Side Viagens E Turismo LTDA, Empresa Auto Ônibus São Jorge LTDA, Tuca Transportes Urbanos Campinas LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualVBTransporteseTurismoLTDAAutoViaoBrasilLuxoLTDATransportesCapelliniLTDAViaoCamposdoOurosLTDAViaoTransguarulhenseLtdaConstrutoraBoaNovaLTDAEmbrali.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualVBTransporteseTurismoLTDAAutoViaoBrasilLuxoLTDATransportesCapelliniLTDAViaoCamposdoOurosLTDAViaoTransguarulhenseLtdaConstrutoraBoaNovaLTDAEmbrali.pdf",
+ "sha256": "ceeffa20ee68142ad3ffa963d5fcd56a1a94b2a383501b10f435a32ca4ecafee",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

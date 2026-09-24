@@ -1,0 +1,71 @@
+{
+ "taxpayer": "METALSHOP INDÚSTRIA E COMÉRCIO LTDA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-09-30",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção das garantias já existentes (judiciais/administrativas)",
+  "Bens penhorados ou descritos como garantia, sujeitos a alienação via sistema COMPREI em caso de rescisão"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Pagamento regular dos tributos correntes (Cláusula 19)",
+  "Apresentação anual de demonstrações de resultados/balanço contábil (Cláusula 16)",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Manter, por 5 anos, livros e documentos comprobatórios de prejuízo fiscal e base negativa de CSLL utilizados",
+  "Permanecer ou retornar ao regime de tributação pelo lucro real enquanto vigente o ajuste (em razão do uso de créditos de PF/BCN)",
+  "Recolhimento das obrigações tributárias correntes e acessórias"
+ ],
+ "special_clauses": [
+  "Autorização de utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para quitação de até 70% do saldo devedor (Cláusula 5ª)",
+  "Parcelamento de FGTS pela CEF na Modalidade 25, com desconto de 5,00% sobre valor de juros/multa/encargos",
+  "Cláusula 8ª: venda de bens da devedora condicionada à aquiescência da Fazenda Nacional, com reversão do produto para quitação do acordo, respeitando decisões da recuperação judicial",
+  "Cláusula 9ª: em caso de rescisão, alienação de bens penhorados/garantia via sistema COMPREI, com regras específicas de leilão, parcelamento e comissão de intermediário"
+ ],
+ "sector": "Indústria/metalurgia",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.5,
+  "obligations": 0.7,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees"
+ ],
+ "id": "34a3c3f9a72d",
+ "title": "Termo de Transação Individual - Metalshop Indústria e Comércio",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMetalshopIndstriaeComrcioTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMetalshopIndstriaeComrcioTarjado.pdf",
+ "sha256": "97c2e5f8d90f46307b2acabfd6442d5ad8f087b32c7c3ccec41c2da1b45bd3b2",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

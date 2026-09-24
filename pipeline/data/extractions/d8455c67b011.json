@@ -1,0 +1,77 @@
+{
+ "taxpayer": "SUDESTE TRANSPORTES COLETIVOS LTDA",
+ "approval_date": "Not identified",
+ "consolidated_amount": 33168071.48,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal, penhoras ou garantias prestadas administrativamente"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante a PGFN e RFB, regularizando em 90 dias débitos que se tornarem exigíveis",
+  "Peticionar em até 60 dias nos processos judiciais para desistência e renúncia",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não utilizar pessoa interposta para ocultar bens",
+  "Manter regime de apuração do IRPJ pelo lucro real durante a vigência da Transação (quando utilizados créditos de PF/BCN)",
+  "Individualizar valores recolhidos ao FGTS nas contas vinculadas dos trabalhadores"
+ ],
+ "special_clauses": [
+  "Uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) limitado a R$ 8.940.173,70, com percentuais específicos por rubrica de dívida (37,14%, 36,56%, 61,58%, 11,59% e 67,82%)",
+  "Condições diferenciadas para débitos do FGTS: desconto de 25,73% (Modalidade 21 CEF) e desconto de 58,62% (Modalidade 07 CEF) para contribuição social LC 110/2001",
+  "Pagamento em prestação única para dívidas PREV 60, Inscrições específicas e Inscrição 00 2 21 023713-51",
+  "Pagamento das prestações demais débitos após 6 prestações de entrada, em 6 parcelas; PREV 120 após 12 prestações de entrada, em 48 parcelas"
+ ],
+ "sector": "Transporte coletivo",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.0,
+  "modality": 0.9,
+  "sector": 0.6,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.9,
+  "installments": 0.5,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.6,
+  "obligations": 0.8,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor consolidado das inscrições exibidas: R$33.168.071,48",
+  "total_discount_pct": "Concede-se o desconto máximo de 65% (sessenta e cinco por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal.",
+  "installments": "o saldo devedor da Dívida Transacionada \"PREV 120\" será quitado em 48 (quarenta e oito) prestações mensais, sucessivas e lineares."
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "consolidated_amount",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "d8455c67b011",
+ "title": "Termo de Transação Individual - Sudeste Transportes Coletivos LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSudesteTransportesColetivosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSudesteTransportesColetivosLTDA.pdf",
+ "sha256": "7cca4965646896f4518a4fba55149f3135d6103435df569c33db5b2eb83b24c8",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

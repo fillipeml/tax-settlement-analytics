@@ -1,0 +1,51 @@
+{
+ "taxpayer": "Farmácia Roval de Manipulações Ltda",
+ "approval_date": "Not identified",
+ "consolidated_amount": 14628078.78,
+ "modality": "Transação individual",
+ "total_discount_pct": 45.78,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Mantém eventuais garantias existentes"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Farmacêutico/Saúde",
+ "confidence": {
+  "taxpayer": 0.9,
+  "approval_date": 0.0,
+  "modality": 0.6,
+  "sector": 0.4,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.85,
+  "down_payment_pct": 0.9,
+  "guarantees": 0.8,
+  "judicial_recovery": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$ 14.628.078,78",
+  "total_discount_pct": "45,78%",
+  "installments": "Previdenciária: 1 / Demais Débitos: 1"
+ },
+ "review_fields": [
+  "approval_date",
+  "modality",
+  "sector"
+ ],
+ "id": "80ec7c1d71ff",
+ "title": "Sumário - Farmácia Roval de Manipulações LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/SumrioFarmciaRovaldeManipulaesLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/SumrioFarmciaRovaldeManipulaesLTDA.pdf",
+ "sha256": "e6e86607115302c970ed2a3db1a950ec5a3f34617f8ce3feffb97e16d6c92caa",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

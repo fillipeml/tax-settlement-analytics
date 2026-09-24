@@ -1,0 +1,74 @@
+{
+ "taxpayer": "NORCON SOCIEDADE NORDESTINA DE CONSTRUÇÕES SA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-12-12",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Portaria PGFN nº 6.757/2022, com aplicação da Portaria PGFN nº 2.382/2020 por recuperação judicial)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Matrícula nº 22.629, do 2º Registro de Imóveis de Salvador - BA, Fazenda Capelão, Estrada das Pedreiras, bairro Barragem do Ipitanga, Salvador - BA, com área de 1.045.440 m², avaliado em R$ 34.840.000,00",
+  "Matrícula nº 1.318, do Registro de Imóveis de Estância - SE, Fazenda Santa Cruz dos Abaís, com área de 5.065.413,40 m², ao lado da rodovia estadual SE-100, avaliado em R$ 28.485.000,00"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Desistência de impugnações, recursos administrativos e ações judiciais relativas aos débitos incluídos (Cláusula 9ª)",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Não alienar, onerar ou ocultar bens com propósito de frustrar recuperação de créditos",
+  "Manter regime de tributação pelo lucro real por 5 anos em razão do uso de créditos de prejuízo fiscal/BCN",
+  "Apresentar situação econômico-financeira anualmente via balanço contábil",
+  "Pagar regularmente os tributos correntes",
+  "Peticionar nos processos judiciais informando a celebração do acordo"
+ ],
+ "special_clauses": [
+  "Reconhecimento de que as garantias ofertadas não configuram bens de capital essenciais ao cumprimento do plano de recuperação judicial (§2º da Cláusula 5ª)",
+  "Uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL limitado a 70% da dívida remanescente",
+  "Regras diferenciadas de rescisão para empresas em recuperação judicial (falta de 6 parcelas consecutivas ou 9 alternadas, ao invés de 3/6 para os demais casos)",
+  "Possibilidade de venda de bens penhorados via sistema COMPREI em caso de rescisão, com limite mínimo de 50% do valor de avaliação"
+ ],
+ "sector": "Construção civil",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) ... 36 MESES (para débitos não previdenciários); PAGAMENTO PARCELADO EM ATÉ (MESES) ... 25 MESES (para débitos previdenciários)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "installments",
+  "sector"
+ ],
+ "id": "39d700693fe9",
+ "title": "Termo de Transação Individual - Norcon Socidade Nordestina de Construções SA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualNorconSocidadeNordestinadeConstruesSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualNorconSocidadeNordestinadeConstruesSATarjado.pdf",
+ "sha256": "44f7b38104fca4ced1828efb07156b89abe0e7f2523a0e5afbba2b39071eb7e3",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

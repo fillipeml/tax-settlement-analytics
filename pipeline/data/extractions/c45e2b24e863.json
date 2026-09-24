@@ -1,0 +1,77 @@
+{
+ "taxpayer": "TRANSITA TRANSPORTES LTDA",
+ "approval_date": "2024-09-04",
+ "consolidated_amount": 14853423.95,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática de gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas",
+  "Fiança pessoal dos sócios Diva Michelucci Guazzelli e Nicolino de Simone (Anexo III)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Recolher obrigações tributárias correntes",
+  "Regularizar em 90 dias débitos inscritos após a Transação",
+  "Regularizar em 30 dias saldo de reconsolidação de conta em cobrança",
+  "Não alienar bens sem comunicação à Fazenda Nacional",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter livros e documentos por 5 anos",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pelo lucro real durante a vigência do acordo",
+  "Manter regularidade com o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Peticionar em até 60 dias nos processos judiciais para desistência e confissão"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor, limitado a R$ 4.210.893,08",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL suspensa até confirmação dos créditos pela autoridade competente",
+  "Descontos escalonados por faixa de parcelas (Anexo II): 0,5% (parcelas 1-12), 1,0% (13-24), 2,0% (25-36), 2,333% (37-48), 2,5% (49-60)"
+ ],
+ "sector": "Transporte",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.0,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "As inscrições em DAU transacionadas estão especificadas no Anexo I do Termo, e alcançam, hoje, a quantia de R$ 14.853.423,95 (Base de Julho de 2024), não considerados os benefícios concedidos pela Transação.",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS DÉBITOS e PREVIDENCIÁRIOS, em 60 prestações mensais, escalonadas conforme Anexo II, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo;"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "c45e2b24e863",
+ "title": "Termo de Transação Individual - Transita Transportes LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTransitaTransportesLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTransitaTransportesLTDAtarjado.pdf",
+ "sha256": "a8878013391499bf32715516990e34d2eb28445ca80f27262d620e72b264e7a9",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

@@ -1,0 +1,69 @@
+{
+ "taxpayer": "Industrial e Comercial Pretty Glass Ltda.",
+ "approval_date": "2023-02-07",
+ "consolidated_amount": 16855550.04,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 39,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais prestadas",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em Dívida Ativa ou se tornarem exigíveis após a formalização",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação à Fazenda Nacional"
+ ],
+ "special_clauses": [],
+ "sector": "Indústria (vidros)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "approval_date": 0.9,
+  "modality": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.6,
+  "installments": 1.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.3
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada exclusivamente Demais Débitos – Total de R$ 16.855.550,04 (dezesseis milhões oitocentos e cinquenta e cinco mil quinhentos e cinquenta reais e quatro centavos).",
+  "total_discount_pct": "Desconto máximo de 65% (cinquenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), resultando no saldo devedor discriminado no Anexo II;",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 39 (trinta e nove) prestações mensais, escalonadas na forma discriminada no Anexo III;"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery",
+  "special_clauses",
+  "total_discount_pct"
+ ],
+ "id": "66c50a47c914",
+ "title": "Termo de Transação Individual - Pretty Glass",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualPrettyGlassxLTDAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualPrettyGlassxLTDAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "c196c136008fc918631ef6eb47d777ac53cd76b31ee99dc0e7345724b79c7b95",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

@@ -1,0 +1,59 @@
+{
+ "taxpayer": "INDÚSTRIA DE PAPÉIS SUDESTE LTDA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "Not identified",
+ "consolidated_amount": 92769852.44,
+ "modality": "Transação Individual",
+ "total_discount_pct": 56.68,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 100,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Mantém garantias existentes (imóveis) e acrescenta ativos da requerente, avaliados em R$ 373.335.613,65"
+ ],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [
+  "Mantém garantias existentes (imóveis) e acrescenta ativos da requerente, avaliados em R$ 373.335.613,65 (trezentos e setenta e três milhões e trezentos e trinta e cinco mil e seiscentos e treze reais e sessenta e cinco centavos)"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "approval_date": 0.1,
+  "modality": 0.6,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.85,
+  "installments": 0.5,
+  "down_payment_pct": 0.9,
+  "discounts": 0.1,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.9,
+  "obligations": 0.3,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL ... 92.769.852,44",
+  "total_discount_pct": "TOTAL ... 56,68%",
+  "installments": "NÚMERO DE PARCELAS - PGFN ... Previdenciária 60 | Demais Débitos 100"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "modality",
+  "installments",
+  "discounts",
+  "obligations"
+ ],
+ "id": "a558892d92fa",
+ "title": "Sumário - Industria de Papeis Sudeste",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/SumrioIndustriadePapeisSudeste.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/SumrioIndustriadePapeisSudeste.pdf",
+ "sha256": "62532ee80ebef612e3d893c8180cc433c1d863fde7f213f92c50e781df4929a9",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

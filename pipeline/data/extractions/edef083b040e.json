@@ -1,0 +1,61 @@
+{
+ "taxpayer": "CONSTRUTORA COESA S/A, COESA CONSTRUÇÃO E MONTAGENS S/A, COESA LOGÍSTICA E COMÉRCIO EXTERIOR S/A, COESA ENGENHARIA LTDA. (Grupo COESA) - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2023-10-25",
+ "consolidated_amount": null,
+ "modality": "Transação individual (Primeiro Termo Aditivo)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 87,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Arbitragens oferecidas em garantia à transação (cláusula 3.1.a)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Cumprimento do plano de recuperação judicial homologado no processo nº 1111746-12.2021.8.26.0100",
+  "Regularização fiscal integral dos débitos",
+  "Pagamento das parcelas mencionadas nos itens 2.3.6 e 2.3.8 independentemente do efetivo recebimento das arbitragens oferecidas em garantia"
+ ],
+ "special_clauses": [
+  "Manutenção da transação vigente exceto pontos expressamente alterados pelo Primeiro Termo Aditivo",
+  "Compromisso de pagamento das parcelas de R$10.000.000,00 e R$20.000.000,00 independentemente do recebimento de valores de arbitragens oferecidas em garantia",
+  "Decisão do STJ suspendendo a convolação da recuperação judicial em falência"
+ ],
+ "sector": "Engenharia e construção civil",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.9,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.6,
+  "obligations": 0.8,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "installments": "a primeira conta deve ser quitada em 87 (oitenta e sete) prestações mensais e segunda conta em 84 (oitenta e quatro) prestações mensais"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "guarantees"
+ ],
+ "id": "edef083b040e",
+ "title": "Primeiro Termo Aditivo - Construtora Coesa",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/PrimeiroTermoAditivoConstrutoraCoesaSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/PrimeiroTermoAditivoConstrutoraCoesaSA.pdf",
+ "sha256": "3097fdf730b4c270693494494b186299ce63231dd308d1066f21f564fed316a8",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

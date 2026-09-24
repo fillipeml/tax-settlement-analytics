@@ -1,0 +1,71 @@
+{
+ "taxpayer": "AG RESINAS LTDA.",
+ "approval_date": "2020-06-01",
+ "consolidated_amount": 16344740.5,
+ "modality": "Transação individual",
+ "total_discount_pct": 35.48,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "carta de fiança",
+  "seguro firmado com ente de porte e saúde financeira reconhecidos no mercado"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável de todos os débitos inscritos listados no Anexo I",
+  "Renúncia a quaisquer alegações de direito, atuais ou futuras",
+  "Reconhecimento da incidência de juros Selic acumulados mensalmente e de 1% no mês do pagamento",
+  "Compromisso de, no prazo de 90 dias, pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União após a formalização do acordo",
+  "Declaração de não utilização abusiva da transação",
+  "Declaração de não utilização de pessoa interposta para ocultar bens",
+  "Declaração de não alienação ou oneração de bens com propósito de frustrar a recuperação dos créditos",
+  "Declaração de veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Apresentar requerimento administrativo via REGULARIZE com o termo assinado e menção ao processo SEI nº 18.213.100002/2020-10"
+ ],
+ "special_clauses": [
+  "Condicionada ao equacionamento da dívida, os sócios declaram que não terão lucro com a venda das cotas sociais; caso haja aferição de lucro na alienação da empresa ou das cotas sociais, os sócios responderão pessoalmente pelo valor do desconto concedido, limitado ao valor total do lucro auferido por ambos, sendo solidariamente responsáveis pelo todo",
+  "Os sócios declaram que a equalização do passivo fiscal da pessoa jurídica objetiva alienação da empresa de modo a viabilizar a continuidade da exploração de seu objeto social",
+  "Descontos concedidos incidem de forma proporcional sobre os acréscimos legais e não atingem o valor principal dos débitos ou eventuais multas previstas no §1º do art. 44 da Lei nº 9.430/1996 e no §6º do art. 80 da Lei nº 4.502/1964"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.3,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "discounts": 0.2,
+  "down_payment_pct": 0.1,
+  "installments": 0.85,
+  "judicial_recovery": 0.2,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "VALOR CONSOLIDADO TOTAL: R$ 16.344.740,50",
+  "total_discount_pct": "RESUMO NÃO PREV ... % Desconto Efetivo Possível por inscrição 35,48% ... RESUMO PREV ... Prev - % Desconto Efetivo Possível por Inscrição 35,32%",
+  "installments": "O pagamento da dívida será feito, por meio do sistema SISPAR, através do recolhimento total do crédito de uma única vez, até o último dia útil do mês de junho de 2020."
+ },
+ "review_fields": [
+  "sector",
+  "discounts",
+  "down_payment_pct",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "367df32540dc",
+ "title": "Termo de Transação Individual - AG Resinas",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-ag-resinas-inf-suprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-ag-resinas-inf-suprimidas.pdf",
+ "sha256": "57d1c4e0f59fb69a28a8b59d433b158d01e011a5520efed8afe7d6af35ffed6a",
+ "extracted_at": "2026-07-22T14:22:25+00:00",
+ "simulated": false
+}

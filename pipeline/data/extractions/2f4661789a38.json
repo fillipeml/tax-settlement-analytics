@@ -1,0 +1,80 @@
+{
+ "taxpayer": "FLC HOLDING EMPREENDIMENTOS E PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL (e demais empresas do grupo: FLC INDÚSTRIA E COMÉRCIO DE PLÁSTICOS LTDA, LOCOMOTIVA INDÚSTRIA E COMÉRCIO DE TÊXTEIS INDUSTRIAIS LTDA, HAMAFLEX DA AMAZÔNIA INDÚSTRIA E COMÉRCIO DE TÊXTEIS INDUSTRIAIS LTDA, LUFLEX IMPORTADORA, EXPORTADORA E DISTRIBUIDORA LTDA - todas em Recuperação Judicial)",
+ "approval_date": "2024-09-03",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bem imóvel (descrição tarjada)",
+  "Marcas (descrição tarjada), avaliadas conjuntamente (valor tarjado)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não ter alienado ou onerado bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens/direitos que possam inviabilizar capacidade de pagamento sem comunicação prévia",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo",
+  "Peticionar nos processos judiciais em até 60 dias para noticiar a transação e confessar a dívida",
+  "Formalizar penhora dos bens em garantia em até 30 dias da assinatura",
+  "Averbar garantia das marcas no INPI em até 60 dias"
+ ],
+ "special_clauses": [
+  "Utilização de crédito a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor, com percentuais tarjados, respeitada redução máxima do valor integral da Dívida Transacionada",
+  "Possibilidade de revisão da conta da Dívida Transacionada para débitos ainda em cobrança administrativa na RFB, sem alterar prazo máximo, podendo gerar conta de transação separada",
+  "Possibilidade de alienação de bens imóveis dados em garantia mediante prévia anuência da Fazenda Nacional e uso do sistema COMPREI",
+  "Condições diferenciadas de parcelamento de FGTS e Contribuição Social LC 110/01 conforme modalidades específicas oferecidas pela Caixa Econômica Federal",
+  "Direcionamento de eventuais créditos por precatório ou levantamento de depósito judicial para adimplemento dos saldos devedores da Transação",
+  "Ressalva de que desistência/renúncia não se aplica ao Mandado de Segurança nº (tarjado)"
+ ],
+ "sector": "Têxtil/Plásticos (indústria e comércio)",
+ "confidence": {
+  "taxpayer": 0.8,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.7,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais, escalonadas na forma discriminada no Anexo II;"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "guarantees",
+  "special_clauses"
+ ],
+ "id": "2f4661789a38",
+ "title": "Termo de Transação Individual - FLC Holding Empreendimentos e Participações SA em recuperação judicial",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransacaoIndividualFLCHoldingEmpreendimentoseParticipaesSAemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransacaoIndividualFLCHoldingEmpreendimentoseParticipaesSAemrecuperaojudicialtarjado.pdf",
+ "sha256": "b168f1725e700ee46a4585e1a3e331c6020081ce9a3634bd2d46df85d6cd4af0",
+ "extracted_at": "2026-07-22T14:22:33+00:00",
+ "simulated": false
+}

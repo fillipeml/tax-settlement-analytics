@@ -1,0 +1,72 @@
+{
+ "taxpayer": "INDÚSTRIA DE PAPÉIS SUDESTE LTDA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2025-06-12",
+ "consolidated_amount": null,
+ "modality": "Transação individual (Primeiro Termo Aditivo)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 43,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Ativos da empresa avaliados em R$ 373.335.613,65 (máquinas, equipamentos e instalações, móveis e utensílios, hardware, software, veículos)",
+  "Penhora de 5% da receita bruta mensal",
+  "Fiança do Diretor Heitor Luiz Villela (garantia fidejussória)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Manter regime de apuração do IRPJ pelo lucro real durante toda a vigência da transação (para quem utilizou PF/BCN)",
+  "Manter regularidade perante a PGFN e a Receita Federal, regularizando em 90 dias os débitos que se tornarem exigíveis",
+  "Peticionar em 30 dias nas Execuções Fiscais para formalizar a penhora judicial dos bens dados em garantia",
+  "Declarar inexistência de outros créditos líquidos e certos ou precatórios federais em seu favor além dos previstos na Transação"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) para amortizar até 70% do saldo devedor, limitado a R$ 92.749.709,20",
+  "Imputação de créditos do Programa Quita PGFN no valor de R$ 108.923.725,45 às prestações vincendas, em ordem decrescente de vencimento",
+  "Redução do prazo de pagamento dos débitos não previdenciários de 120 para 106 meses",
+  "Inclusão de garantia fidejussória do Diretor com renúncia aos benefícios dos arts. 827, 835, 837, 838 e 839 do Código Civil",
+  "Formalização das penhoras não é condição para homologação da transação, mas obrigação decorrente do termo"
+ ],
+ "sector": "Papel e celulose",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Manutenção do desconto máximo de 70% (setenta por cento) incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL",
+  "installments": "Pagamento do saldo remanescente dos débitos de natureza não previdenciária efetuado em 43 parcelas a contar de 06/2025."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct"
+ ],
+ "id": "2084369a25eb",
+ "title": "Termo de Transação Individual - Indústria de Papéis Sudeste LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualIndstriadePapisSudesteLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualIndstriadePapisSudesteLTDA.pdf",
+ "sha256": "e9ab9c0667c1c59e5baad72c47a76045b8018d9756d49537072c27beed32e6c8",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

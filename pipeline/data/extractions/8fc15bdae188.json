@@ -1,0 +1,78 @@
+{
+ "taxpayer": "FUNDACAO UNIVERSIDADE DO VALE DO ITAJAI",
+ "approval_date": "2024-04-29",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": 36.06,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens constantes no anexo II, com penhoras a serem registradas nas execuções fiscais 50017143420244047205 e 50017151920244047205"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/valores",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de ativo não circulante",
+  "Cumprir exigências da Portaria PGFN nº 6757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos referentes aos créditos incluídos, com extinção do processo com resolução de mérito",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de valores de precatórios federais",
+  "Peticionar nos processos judiciais no prazo de 90 dias noticiando a transação",
+  "Providenciar oferecimento e formalização de penhora dos bens em até 120 dias",
+  "Apresentar situação econômico-financeira sempre que a PGFN solicitar",
+  "Manter recolhimento de obrigações tributárias correntes e acessórias",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições abrangidas"
+ ],
+ "special_clauses": [
+  "Valor depositado nos autos do Procedimento Comum nº 5007402-07.2020.4.04.7208/SC, a título de precatório, deve ser utilizado para amortização da parcela final",
+  "Nomeação da União como procuradora do proprietário em caso de desapropriação dos bens dados em garantia, com poderes para receber indenização e aplicá-la na amortização/liquidação da dívida"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 1.0,
+  "approval_date": 0.95,
+  "modality": 0.9,
+  "sector": 0.5,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Sobre as inscrições indicadas no anexo I será aplicado desconto médio de 36,06%, observados os limites do §2º do art. 11 da Lei n. 13.988/20",
+  "installments": "o saldo restante será objeto de plano de pagamento em 145 (cento e quarenta e cinco) amortizações escalonadas, mensais e sucessivas, conforme os valores estipulados no anexo I."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "judicial_recovery"
+ ],
+ "id": "8fc15bdae188",
+ "title": "Termo de Transação Individual - Fundação Universidade Vale do Itajaí",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualFundaoUniversidadeValedoItajatarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualFundaoUniversidadeValedoItajatarjado.pdf",
+ "sha256": "e0e5310f83cd0e943c19fb4758cbf614c1b2b7524c8d8d55e3aaec4b364aabbe",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

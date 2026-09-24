@@ -1,0 +1,67 @@
+{
+ "taxpayer": "COUROQUÍMICA COUROS E ACABAMENTOS LTDA EM RECUPERAÇÃO JUDICIAL (CNPJ 50.719.061/0001-81), POINT SHOES EIRELLI (CNPJ 01.937.718/0001-71) e MB FRANCA PARTICIPAÇÃO E SUPERVISÃO DE EMPRESAS LTDA (CNPJ 09.535.419/0001-12)",
+ "approval_date": "2024-05-08",
+ "consolidated_amount": 676957574.57,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": 0.0,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou destinação de bens, direitos e valores",
+  "Declarar que não alienaram ou oneraram bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Reconhecer a responsabilidade solidária pela totalidade dos débitos transacionados"
+ ],
+ "special_clauses": [
+  "Vedada a redução do montante principal, desconto aplicado apenas sobre acréscimos legais (multa, juros e encargos)",
+  "Não haverá oferta de garantia vinculada à Transação, considerando a redução do prazo de pagamento e por se tratar de Grupo empresarial em Recuperação Judicial",
+  "Reconhecimento expresso de grupo econômico entre as três empresas com corresponsabilização pelas dívidas uma da outra",
+  "Responsabilidade solidária pelo pagamento da integralidade do débito de cada empresa agrupada"
+ ],
+ "sector": "Couro e calçados",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.85,
+  "installments": 0.9,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.95,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada — Total de R$ 676.957.574,57 (Seiscentos e setenta e seis milhões, novecentos e cinquenta e sete mil, quinhentos e setenta e quatro reais e cinquenta e sete centavos)",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), o que implica numa média concedida aproximada de 65% (sessenta e cinco por cento) no presente acordo",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada - Demais Débitos\") em 60 (sessenta) prestações escalonadas, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "sector"
+ ],
+ "id": "f1b6b9667fad",
+ "title": "Termo de Transação Individual - Couroquímica Couros e Acabamentos LTDA, Point Shoes Eirelli",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCouroqumicaCouroseAcabamentosLTDAPointShoesEirelli.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCouroqumicaCouroseAcabamentosLTDAPointShoesEirelli.pdf",
+ "sha256": "391fa194e1ce5a2e5e6bdb4103ad308d6b473dbd3eaf55b797b8f2b8761f9e61",
+ "extracted_at": "2026-07-22T14:22:39+00:00",
+ "simulated": false
+}

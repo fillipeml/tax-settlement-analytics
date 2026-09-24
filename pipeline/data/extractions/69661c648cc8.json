@@ -1,0 +1,73 @@
+{
+ "taxpayer": "RODOVIÁRIO MIO LTDA",
+ "approval_date": "2024-07-16",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": 3.0,
+ "guarantees": [
+  "Veículos penhorados nas execuções fiscais em face do DEVEDOR"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilização de interposta pessoa para ocultar bens/valores",
+  "Declarar não alienação/oneração de bens com propósito de frustrar recuperação de créditos",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais com o acordo",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN nº 6757/22",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Manter-se optante do regime de tributação pelo lucro real durante toda a negociação (uso de créditos de prejuízo fiscal e CSLL)",
+  "Apresentar situação econômico-financeira (balanço e DRE) sempre que a PGFN solicitar",
+  "Peticionar nos processos judiciais em até 60 dias, noticiando a celebração da transação e desistindo de embargos/exceções de pré-executividade"
+ ],
+ "special_clauses": [
+  "§4º da Cláusula 8ª: autorização para substituição da frota de veículos dados em garantia por veículos novos de valor igual ou superior, a critério do DEVEDOR, ficando a seu encargo o peticionamento nas execuções fiscais",
+  "Uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para abatimento do saldo (Anexo III)"
+ ],
+ "sector": "Transporte rodoviário",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.3,
+  "down_payment_pct": 0.9,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "down_payment_pct": "o DEVEDOR pagará uma entrada no montante de 3% do valor do devido sem descontos, em 12 prestações mensais",
+  "installments_social_security": "sendo o restante pago em 48 (quarenta e oito) amortizações mensais lineares",
+  "installments_other": "sendo que o restante será pago em 108 (cento e vinte) parcelas mensais lineares"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "69661c648cc8",
+ "title": "Termo de Transação Individual - Rodoviário Mio LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualRodovirioMioLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualRodovirioMioLTDATarjado.pdf",
+ "sha256": "4698b64e9b1d08e1600c74ade5a782c744208149da0b1b85e0542050a62bdc88",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

@@ -1,0 +1,79 @@
+{
+ "taxpayer": "GC Empreendimentos Imobiliários S.A, Tenório Empreendimentos Imobiliários S.A, Tenório Incorporações e Empreendimentos S.A, C.P.P. – Comércio e Empreendimentos S.A., Delta Participações & Empreendimentos Ltda, DTT Construções S.A., Concretta Empreendimentos Imobiliários S.A., Concretta Boulevard Desenvolvimento Imobiliário Ltda, Concretta Luxemburgo Desenvolvimento Imobiliários Ltda, Concretta Monet Desenvolvimento Imobiliário Ltda (grupo econômico Tenório/Valença) - todas EM RECUPERAÇÃO JUDICIAL, exceto Concretta Monet",
+ "approval_date": "2024-03-14",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Plano de Regularização Fiscal (empresas em recuperação judicial)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 4.0,
+ "guarantees": [
+  "Penhoras já existentes em execuções fiscais",
+  "Indisponibilidades oriundas da ação cautelar nº 0015238-92.2012.4.05.8300",
+  "Bens imóveis listados no Anexo I (com autorização de alienação/levantamento para venda com direcionamento do preço ao pagamento das prestações)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional, salvo os indicados na Cláusula 12",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de ativo não circulante",
+  "Recolher imediatamente valores de restituições, ressarcimentos e precatórios federais",
+  "Individualizar valores recolhidos a título de FGTS nas contas vinculadas dos trabalhadores",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil"
+ ],
+ "special_clauses": [
+  "Pedágio de 4% sobre o valor total das dívidas antes dos descontos, pago em 12 parcelas com uso de valores depositados em ação cautelar e execuções fiscais específicas",
+  "Desconto de até 70% sobre o total devido, considerando que as empresas estão em recuperação judicial",
+  "Levantamento de bens imóveis listados no Anexo I para venda, com direcionamento total do preço (descontados custos) ao pagamento das prestações",
+  "Corresponsabilização mútua dos devedores em razão de grupo econômico de fato",
+  "Saldo remanescente em conta judicial destinado a partir da parcela 25, sendo 70% para modalidade previdenciária e 30% para não previdenciária",
+  "Hipóteses de rescisão diferenciadas para empresas em recuperação judicial (falta de pagamento de 6 parcelas consecutivas ou 9 alternadas)",
+  "Reconhecimento de que os imóveis do Anexo I não se configuram bens de capital essenciais ao cumprimento do PRJ"
+ ],
+ "sector": "Incorporação e empreendimentos imobiliários",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Além do parcelamento, serão concedidos descontos que irão variar até 70 % sobre o total devido, a depender das particularidades de cada inscrição, considerando que as empresas estão em recuperação judicial.",
+  "installments": "É concedida ao devedor a possibilidade de pagar em 120 parcelas os débitos não previdenciários e em 60 parcelas os créditos previdenciários, sendo que as primeiras 12 parcelas de cada uma modalidade correspondem ao pedágio.",
+  "down_payment_pct": "Será cobrado um pedágio no valor de 4 % do valor total das dívidas, antes da aplicação dos descontos, que será pago em 12 parcelas"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "1340917fcf90",
+ "title": "Termo de Transação Individual - Tenório Empreendimentos Imobiliários SA em recuperação judicial",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualTenrioEmpreendimentosImobiliriosSAemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualTenrioEmpreendimentosImobiliriosSAemrecuperaojudicialtarjado.pdf",
+ "sha256": "a93383ef5ff8a815dce5a514d55355f881c11b634c589eb0f386f397db3e761f",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

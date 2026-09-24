@@ -1,0 +1,77 @@
+{
+ "taxpayer": "KAPLAN EQUIPAMENTOS MECANICOS E HIDRAULICOS LTDA",
+ "approval_date": "2024-10-02",
+ "consolidated_amount": 38832074.1,
+ "modality": "Transação Individual (modalidades DEMAIS e PREV)",
+ "total_discount_pct": 68.73,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal ou qualquer outra ação judicial",
+  "Manutenção das garantias dos débitos eventualmente existentes até quitação integral do saldo devedor"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar/dissimular bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da Transação e desistir de impugnações/recursos/ações"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor de R$ 966.128,71 para amortização do saldo devedor",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL fica suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de cinco anos",
+  "Rating D da Requerente considerado para concessão das condições de pagamento"
+ ],
+ "sector": "Indústria de equipamentos mecânicos e hidráulicos",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.6,
+  "guarantees": 0.8,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL ... R$ 38.832.074,10",
+  "total_discount_pct": "Descosnto efetivo MÉDIO 68,73%",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 120 (cento e vinte) prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "judicial_recovery",
+  "discounts"
+ ],
+ "id": "f6540cf81329",
+ "title": "Termo de Transação Individual - Kaplan Equipamentos Mecânicos e Hidráulicos LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualKaplanEquipamentosMecnicoseHidrulicosLTDATarajado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualKaplanEquipamentosMecnicoseHidrulicosLTDATarajado.pdf",
+ "sha256": "3406c69b01637953f3ef7e3ff65a1e9a0835603cf56798d0d6f93d49eca9c9f3",
+ "extracted_at": "2026-07-22T14:22:46+00:00",
+ "simulated": false
+}

@@ -1,0 +1,56 @@
+{
+ "taxpayer": "VIACAO GRACIOSA LTDA",
+ "approval_date": "Not identified",
+ "consolidated_amount": 20035067.21,
+ "modality": "0077 - TRANSACAO INDIVIDUAL (DEPENDE DE PREVIA APROVACAO DO PDA DA REGIAO) - Modalidades 0077 (Demais débitos PJ, até 120 meses, redução de até 65%) e 0078 (Débitos previdenciários PJ, até 60 meses, redução de até 65%); também simulação de parcelamento FGTS Lei 13.988/2020",
+ "total_discount_pct": 46.17,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Transporte",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.3,
+  "modality": 0.9,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.2,
+  "guarantees": 0.3,
+  "obligations": 0.3,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Totais: 20.035.067,21 0,00 2.091.630,02 4.048.671,83 3.110.703,61 9.251.005,47 10.784.061,73 46,17%",
+  "total_discount_pct": "Totais: 20.035.067,21 0,00 2.091.630,02 4.048.671,83 3.110.703,61 9.251.005,47 10.784.061,73 46,17%",
+  "installments": "Quantidade Máxima de Prestações: 120 ... Prestações selecionadas: 120"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "approval_date",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "obligations",
+  "judicial_recovery"
+ ],
+ "id": "6cd044ed5764",
+ "title": "Anexo IV - Viação Graciosa LTDA, Viação Marumbi LTDA, Graciosa Transporte e Turismo LTDA, Empresa Curitiba Cerro Azul LTDA, Eluiza Helena Schaedler, Lidia Beatriz Schaedler Alves Pereira",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/AnexoIVViaoGraciosaLTDAViaoMarumbiLTDAGraciosaTransporteeTurismoLTDAEmpresaCuritibaCerroAzulLTDAEluizaHelenaSchaedlerLidiaBeatrizSchaedlerAlvesPereira.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/AnexoIVViaoGraciosaLTDAViaoMarumbiLTDAGraciosaTransporteeTurismoLTDAEmpresaCuritibaCerroAzulLTDAEluizaHelenaSchaedlerLidiaBeatrizSchaedlerAlvesPereira.pdf",
+ "sha256": "2b6aa7cdcc4782370916ceab0d9dad193f6469f91ec6d751761b6169b823fb2c",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

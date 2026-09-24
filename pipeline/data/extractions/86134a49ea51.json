@@ -1,0 +1,60 @@
+{
+ "taxpayer": "Grupo Via Sudeste Transportes (Auto Viação Vitória-SP, Empresa São Luiz Viação, Auto Viação Jurema, Viação Bola Branca, Auto Viação Tabu, Empresa Auto Viação Taboão, Viação Castelo Central - Massa Falida)",
+ "approval_date": "2021-07-02",
+ "consolidated_amount": 16008125.34,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 45,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Transporte coletivo/rodoviário de passageiros",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.5,
+  "modality": 0.4,
+  "approval_date": 0.6,
+  "consolidated_amount": 0.9,
+  "installments": 0.75,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.0,
+  "obligations": 0.0,
+  "special_clauses": 0.0,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "16.008.125,34 (ANEXO 2 - Todas Origens - Valor Consolidado da Inscrição, total geral)",
+  "installments": "Tabela de parcelas de 1 a 45 (Parcela 45 - Viação Tabu R$ 88.727,61)"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "modality",
+  "approval_date",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "obligations",
+  "special_clauses",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "86134a49ea51",
+ "title": "Termo de Transação Individual - Grupo Ruas - Anexo II",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-grupo-ruas_anexo-2.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-grupo-ruas_anexo-2.pdf",
+ "sha256": "70d88e1bed5142087c6727fc7bd41504b4251edade97bf0928061c6750b38962",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

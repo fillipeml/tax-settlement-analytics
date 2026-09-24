@@ -1,0 +1,80 @@
+{
+ "taxpayer": "CONSTRUTORA COESA S/A, COESA CONSTRUÇÃO E MONTAGENS S/A, COESA LOGÍSTICA E COMÉRCIO EXTERIOR S/A., COESA ENGENHARIA LTDA. (Grupo Coesa) - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2023-05-12",
+ "consolidated_amount": null,
+ "modality": "Transação individual (recuperação judicial)",
+ "total_discount_pct": 57.0,
+ "discounts": {
+  "fine_pct": 70.0,
+  "interest_pct": 70.0,
+  "charges_pct": 70.0
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "6% (seis por cento) dos recursos líquidos e disponíveis pleiteados pela Construtora Coesa S/A em três procedimentos arbitrais",
+  "Bem imóvel dado em garantia (identificação tarjada)",
+  "Porcentagem equivalente a 25% (vinte e cinco por cento) dos contratos de prestação de serviços de engenharia listados"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações à PGFN quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utilizam pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienaram/oneraram bens com propósito de frustrar a recuperação de créditos",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Desistir de impugnações, recursos e ações judiciais relativas à Dívida Transacionada",
+  "Desistir da Ação Anulatória nº 5007959-87.2020.4.03.6119 em 30 dias",
+  "Formalizar penhora das garantias na Execução Fiscal nº 5013165-24.2019.4.03.6182 em 30 dias",
+  "Reequilibrar e apresentar novas garantias de 25% de contratos até o 32º mês"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidar até 70% do saldo remanescente, com extinção sob condição resolutória",
+  "Garantia via percentual de recursos de arbitragens em curso (item 3.1.a)",
+  "Garantia via percentual de recebíveis de contratos de prestação de serviços de engenharia (item 3.1.c)",
+  "Possibilidade de alienação do bem imóvel dado em garantia mediante anuência da Fazenda Nacional e uso do Sistema COMPREI",
+  "Compromisso de regularização futura da dívida do FGTS condicionada a decisão judicial na recuperação judicial",
+  "Desistência de acordos de transação extraordinária/excepcional anteriores mantidos pela COESA CONSTRUÇÃO E MONTAGENS S/A, com migração de débitos sem aproveitamento de descontos anteriores",
+  "Reconhecimento de corresponsabilidade tributária entre empresas do grupo (art. 54, §4º, II da Portaria PGFN 6.757/2022)"
+ ],
+ "sector": "Engenharia e construção civil",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.7,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "discounts": 0.8,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.75,
+  "obligations": 0.85,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "total_discount_pct": "O desconto médio aplicado à transação é de aproximadamente 57% (cinquenta e sete por cento), em respeito à vedação de redução do montante principal, sendo aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária dividida em 2 (duas) contas distintas (\"Dívida Transacionada – Demais Débitos\" e \"Dívida Transacionada – Demais Débitos [tarjado]\" em 84 (oitenta e quatro) prestações mensais"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "sector",
+  "guarantees"
+ ],
+ "id": "42910c50c68f",
+ "title": "Termo de Transação Individual - Construtora Coesa",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualConstrutoraCoesaSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualConstrutoraCoesaSA.pdf",
+ "sha256": "55bd8b42694602e8eb4e6f2ac286222ebdcca81c201842811c57694c60f9d327",
+ "extracted_at": "2026-07-22T14:22:39+00:00",
+ "simulated": false
+}

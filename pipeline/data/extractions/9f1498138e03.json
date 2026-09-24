@@ -1,0 +1,63 @@
+{
+ "taxpayer": "AZUL LINHAS AÉREAS BRASILEIRAS S/A",
+ "approval_date": "2024-12-13",
+ "consolidated_amount": 214809006.94,
+ "modality": "Transação Individual (Primeiro Aditivo)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 29.65
+ },
+ "installments": 118,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "A Requerente expressamente concorda com o demonstrativo de inscrição em Dívida Ativa da União das CDA's 80 6 24 180300-42 e 80.6.24.295011-65 constantes do Anexo I."
+ ],
+ "special_clauses": [
+  "Desconto máximo de 29,78% sobre a CDA 80.6.24.180300-42 e de 29,65% sobre a CDA 80.6.24.295011-65, vedada a redução do montante principal, sendo o desconto aplicado sobre os acréscimos legais incidentes após a inscrição em Dívida Ativa da União",
+  "Se houver saldo devedor superior ao montante previsto para o último pagamento mensal, o valor remanescente deverá ser integralmente recolhido até a data de vencimento da última parcela"
+ ],
+ "sector": "Aviação/Transporte aéreo",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.charges_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "80.6.24.295011-65 | R$214.809.006,94",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada - Demais Débitos\") em 120 (cento e vinte) para a CDA 80.6.24.180300-42 e em 118 meses para a CDA 80.6.24.295011-65",
+  "discounts.charges_pct": "Desconto máximo de 29,78% (vinte e nove vírgula setenta e oito por cento) sobre a CDA 80.6.24.180300-42 e de 29,65% (vinte e nove vírgula sessenta e cinco) sobre a CDA 80.6.24.295011-65, vedada a redução do montante principal, sendo o desconto aplicado sobre os acréscimos legais incidentes após a inscrição em Dívida Ativa da União"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "9f1498138e03",
+ "title": "Primeiro Adtivo ao Termo de Transação Individual - Azul Linhas Aéreas Brasileiras SA  - Tarjado",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/PrimeiroAdtivoaoTermodeTransaoIndividualAzulLinhasAreasBrasileirasSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/PrimeiroAdtivoaoTermodeTransaoIndividualAzulLinhasAreasBrasileirasSATarjado.pdf",
+ "sha256": "5221a3b435a42738c18209c28d2f7c4047a3ae20db0190043e2ebe184a3cb229",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

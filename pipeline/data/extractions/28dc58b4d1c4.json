@@ -1,0 +1,79 @@
+{
+ "taxpayer": "RR SHOES COMÉRCIO E FABRICAÇÃO DE CALÇADOS EIRELLI EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2023-05-11",
+ "consolidated_amount": 42153473.97,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Marca VIA UNO, avaliada em R$ 36.816.000,00"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de ativo não circulante",
+  "Cumprir exigências e obrigações previstas nas Portarias PGFN/ME nº 6757/2022 e 2382/2021",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos referentes aos créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União",
+  "Manter o Certificado de Regularidade do FGTS",
+  "Fornecer informações bancárias e empresariais à PGFN quando solicitado",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não distribuir lucros ou dividendos a sócios/acionistas até aprovação do plano de recuperação judicial",
+  "Manter livros e documentos fiscais por 5 anos em razão da utilização de créditos de PF e BCN",
+  "Constituir gravame sobre a marca dada em garantia junto ao INPI em até 90 dias após decisão judicial",
+  "Manter em dia pagamento de impostos, taxas e tributos incidentes sobre bens dados em garantia",
+  "Peticionar em processos judiciais noticiando a transação em até 60 dias"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de Prejuízo Fiscal (PF) e Base de Cálculo Negativa de CSLL (BCN) na amortização do saldo devedor - PF no valor nominal de R$ 7.982.884,43 e BCN no valor de R$ 4.286.725,23, sob condição resolutória de homologação pela Receita Federal em até 5 anos",
+  "Garantia constituída por marca (VIA UNO) avaliada em R$ 36.816.000,00, com constituição de gravame junto ao INPI condicionada à decisão judicial sobre convalidação de arrematação da marca",
+  "Cláusula de nomeação da União como procuradora do devedor em caso de desapropriação de bens, com poderes para receber indenização e aplicá-la na amortização da dívida"
+ ],
+ "sector": "Calçados",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$ 42.153.473,97 (TOTAL INSCRITO - 05/2023)",
+  "installments": "O plano relativo às inscrições dos DEMAIS DÉBITOS indicadas no Anexo II, prevê o pagamento em 120 (cento e vinte) parcelas mensais, sucessivas e lineares, sendo concedido o desconto médio de 42,175%"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "28dc58b4d1c4",
+ "title": "Termo de Transação Individual - RR Shoes Comércio e Fabricação de Calçados",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualRRShoesComercioeFabricacaodeCalcados.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualRRShoesComercioeFabricacaodeCalcados.pdf",
+ "sha256": "1ed22c675a2b66ce71f83a5196513434ec5dbdd1bf001351c338db40e295c885",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

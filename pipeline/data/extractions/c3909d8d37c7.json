@@ -1,0 +1,70 @@
+{
+ "taxpayer": "GOLDLABEL ETIQUETAS LTDA EPP",
+ "approval_date": "2024-03-25",
+ "consolidated_amount": 10868598.78,
+ "modality": "Transação Individual",
+ "total_discount_pct": 50.49,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Permanecer no regime de apuração do Lucro Real enquanto perdurar a vigência da presente transação",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à Procuradoria-Geral da Fazenda Nacional conhecer sua situação econômica",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas à administração tributária são verdadeiras",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 (noventa) dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito no valor de R$ 243.400,82, a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, para amortização do saldo devedor após a aplicação dos descontos",
+  "A cobrança do saldo liquidado com uso de créditos decorrentes de prejuízo fiscal e de base de cálculo negativa da CSLL ficará suspensa até a confirmação dos créditos utilizados pela autoridade competente, dentro do prazo legal de cinco anos da sua utilização"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.9,
+  "modality": 0.95,
+  "sector": 0.2,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.3,
+  "discounts": 0.2,
+  "guarantees": 0.3,
+  "obligations": 0.85,
+  "judicial_recovery": 0.2,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "DEMAIS R$ 5.380.859,29 | R$ 5.487.739,49 | 50,49% | R$ 10.868.598,78 (Anexo II)",
+  "total_discount_pct": "Total R$ 5.380.859,29 Desconto efetivo MÉDIO 50,49% (Anexo II)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 145 (cento e quarenta e cinco) prestações mensais, escalonadas na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "c3909d8d37c7",
+ "title": "Termo de Transação Individual - Goldlabel Etiquetas LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualGoldlabelEtiquetasLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualGoldlabelEtiquetasLTDATarjado.pdf",
+ "sha256": "e342d84c6245dd1cd3dbc94a3e7476d09a453753339d6542dbda722038baf28d",
+ "extracted_at": "2026-07-22T14:22:42+00:00",
+ "simulated": false
+}

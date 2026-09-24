@@ -1,0 +1,87 @@
+{
+ "taxpayer": "TRANSPORTE COLETIVO GLÓRIA LTDA",
+ "approval_date": "2025-02-10",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": 4.0,
+ "guarantees": [
+  "Imóvel 'Garagem Teffé' - GUVEL PARTICIPAÇÕES - R$ 31.000.000,00",
+  "Imóvel 'Garagem Boa Vista' - GUVEL PARTICIPAÇÕES/TRANSPORTE COLETIVO GLÓRIA - R$ 51.700.000,00",
+  "Bens já penhorados nas execuções fiscais (mantidos)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou/onerou bens para frustrar recuperação dos créditos",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos da RFB com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Cumprir exigências da Portaria PGFN 6757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais/patrimoniais/econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após o acordo",
+  "Declarar não possuir créditos/precatórios líquidos e certos contra a União",
+  "Manter-se optante do regime de tributação pelo lucro real durante a transação (uso de créditos de prejuízo fiscal/CSLL)",
+  "Manter medidas de desenvolvimento sustentável (social, ambiental, governança)",
+  "Não desistir do acordo (sob pena de rescisão)",
+  "Peticionar nos processos judiciais em até 60 dias noticiando a transação e indicando garantias",
+  "Apresentar situação econômico-financeira (balanço, DRE) quando solicitado pela PGFN",
+  "Manter obrigações tributárias correntes e acessórias"
+ ],
+ "special_clauses": [
+  "Uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para abatimento de 65% do saldo devedor (Anexo I) e R$ 2.000.000,00 do saldo (Anexo II)",
+  "Compromisso de manutenção no regime de lucro real durante toda a transação em razão do uso de créditos fiscais",
+  "Nomeação da União como procuradora em causa própria para receber indenização em caso de desapropriação dos bens dados em garantia",
+  "Possibilidade de aceitação pela PGFN de avaliação judicial inferior à administrativa, desde que diferença não superior a 30%",
+  "Garantia por hipoteca caso não seja possível formalizar penhora no prazo",
+  "Terceiro garantidor (GUVEL PARTICIPAÇÕES S/A) oferecendo imóveis de sua propriedade em garantia da dívida da devedora"
+ ],
+ "sector": "Transporte coletivo",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.9,
+  "installments": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "down_payment_pct": "a DEVEDORA pagará uma entrada no montante de 4% do valor do devido sem descontos, em 12 prestações mensais sucessivas"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "judicial_recovery"
+ ],
+ "id": "1ef094bacd96",
+ "title": "Termo de Transação Individual -Transporte Coletivo Glória LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualTransporteColetivoGlriaLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualTransporteColetivoGlriaLTDA.pdf",
+ "sha256": "43d728668719a3ce1cca1fc0d63f7e84afd33d5f846794cd4bf4114cc869d27a",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

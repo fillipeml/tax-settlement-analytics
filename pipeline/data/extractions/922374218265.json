@@ -1,0 +1,77 @@
+{
+ "taxpayer": "USINA CANSANÇÃO DE SINIMBÚ S/A",
+ "approval_date": "2023-11-03",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": 6.0,
+ "guarantees": [
+  "Manutenção de gravames decorrentes de arrolamento de bens",
+  "Medida cautelar fiscal",
+  "Penhoras existentes nos executivos fiscais em trâmite na Justiça Federal de Alagoas",
+  "Imóveis oferecidos em garantia avaliados em R$ 137.013.104,00 (1º Serviço Notarial e Registral de São Miguel dos Campos/Alagoas)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil",
+  "Peticionar nos processos judiciais em até 60 dias após assinatura, noticiando a celebração do acordo",
+  "Permanecer no regime de tributação do Lucro Real enquanto vigente a transação",
+  "Manter, por 5 anos, livros e documentos comprobatórios do prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relacionadas aos débitos",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Individualizar valores recolhidos nas contas vinculadas dos trabalhadores, quando for o caso"
+ ],
+ "special_clauses": [
+  "Desconto máximo de até 65% em cada inscrição, vedada redução do montante principal, aplicado proporcionalmente sobre acréscimos legais (multa, juros e encargo)",
+  "Autorização de uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para amortização de 70% do saldo devedor após desconto",
+  "Débitos de FGTS excluídos da negociação por exigibilidade suspensa em razão de decisão da Recuperação Judicial",
+  "Inscrição com vencimentos não contemplados pela decisão judicial sujeita a depósito judicial vinculado",
+  "Venda de bens em garantia condicionada à aquiescência da Fazenda Nacional, com reversão do produto da alienação para quitação do acordo",
+  "Em caso de alienação de ativos autorizada na RJ, reversão de até 30% do produto da venda de bens em garantia para abatimento de parcelas vincendas",
+  "Créditos de CSFGTS pagos em 25 parcelas com desconto de 45% (Modalidade 5 da simulação CEF)"
+ ],
+ "sector": "Agronegócio (sucroalcooleiro)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "judicial_recovery": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.8,
+  "discounts": 0.3,
+  "guarantees": 0.75,
+  "obligations": 0.8,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "down_payment_pct": "entrada de 6% em 12 prestações e remanescente em 108 parcelas",
+  "discount_max": "Desconto máximo de até 65% em cada uma das inscrições, vedada a redução do montante principal"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "sector",
+  "discounts"
+ ],
+ "id": "922374218265",
+ "title": "Termo de Transação Individual - Usina Cansansação Sinimbú",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualUsinaCansansaoSinimbSAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualUsinaCansansaoSinimbSAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "5d1cec766348ac515b3231cc775dd1e35a76eddf38067415bc11a5283188cc7c",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

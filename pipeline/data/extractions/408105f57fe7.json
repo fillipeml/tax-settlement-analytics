@@ -1,0 +1,71 @@
+{
+ "taxpayer": "URBANA COMPANHIA DE SERVICOS URBANOS DE NATAL",
+ "approval_date": "2024-06-26",
+ "consolidated_amount": 99752743.55,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens penhorados ou porventura descritos no termo (alienação via sistema Comprei em caso de rescisão)"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens/direitos",
+  "Apresentar situação econômico-financeira anualmente (balanço contábil)",
+  "Pagar regularmente os tributos correntes",
+  "Verter direitos creditórios supervenientes (precatórios, restituições) para a transação",
+  "Peticionar noticiando aos juízos a celebração do acordo",
+  "Desistir de impugnações e recursos administrativos e ações judiciais relativas aos débitos"
+ ],
+ "special_clauses": [
+  "Município de Natal assume corresponsabilidade pelo pagamento do acordo por ser acionista majoritário da devedora (Cláusula 2ª, §2º)",
+  "Dívida de FGTS não negociada em razão de decisão judicial que suspendeu sua exigibilidade (Processo nº 0806897-54.2020.4.05.8400)",
+  "Dívida de contribuição social da LC 110/2001 negociada separadamente via CEF (Anexo III, Modalidade 06)",
+  "Condicionamento da venda de bens da devedora à aquiescência da Fazenda Nacional (Cláusula 5ª)",
+  "Procedimento de alienação de bens penhorados via sistema Comprei em caso de rescisão (Cláusula 6ª)"
+ ],
+ "sector": "Serviços urbanos/limpeza pública",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.75,
+  "discounts": 0.3,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "judicial_recovery": 0.6,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total acrm reduções (A) ... Consolidado: 47.849.854,23 (Débitos Previdenciários Cód. 4156 etc.); 11.068.085,86 (Demais Códigos Previdenciários); 39.335.300,97 (Demais Débitos não previdenciários) - somatório dos consolidados dos Anexos II",
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 65%",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 120"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "judicial_recovery",
+  "consolidated_amount"
+ ],
+ "id": "408105f57fe7",
+ "title": "Termo de Transação Individual - Urbana Companhia de Serviços Urbanos de Natal",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualUrbanaCompanhiadeServiosUrbanosdeNatalTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualUrbanaCompanhiadeServiosUrbanosdeNatalTarjado.pdf",
+ "sha256": "763a7922de6b4480da5dba70cf7d66ecfdfe7324926f811578b3bbf6f77fa1a0",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

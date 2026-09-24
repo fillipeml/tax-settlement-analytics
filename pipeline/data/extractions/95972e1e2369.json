@@ -1,0 +1,74 @@
+{
+ "taxpayer": "ABRIL COMUNICAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2021-05-18",
+ "consolidated_amount": 98968507.82,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Gravame registrado no INPI sobre marcas do Grupo Abril (Cláudia, Quatro Rodas, Goread, Saúde, Boa Forma, Mundo Estranho, Capricho, Viagem e Turismo, Guia do estudante, Você S/A, Você RH, Arquitetura e Construção, M de Mulher, Elástica, Placar, Veja)",
+  "Termo de alienação fiduciária das marcas (Anexo V)",
+  "Possibilidade de substituição por depósito, fiança bancária ou seguro-garantia de igual valor"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Desistir de impugnações, recursos e ações administrativas ou judiciais relativas à Dívida Transacionada em 30 dias da assinatura",
+  "Confessar de forma irrevogável e irretratável a dívida",
+  "Adimplir a Transação conforme condições dos itens 3.1 a 3.4",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter regular a situação dos parcelamentos vigentes",
+  "Manter regularidade perante o FGTS",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Realizar comunicações via SICAR/REGULARIZE"
+ ],
+ "special_clauses": [
+  "Autorização de oneração das marcas do Grupo Abril nos termos da Cláusula 5.4 do Plano de Recuperação Judicial homologado no processo nº 1084733-43.2018.8.26.0100",
+  "Tratamento especial para a marca Veja, com condição suspensiva de eficácia da alienação fiduciária até quitação de financiamento existente, com prazo de quitação previsto para 17/04/2024",
+  "Possibilidade de direcionamento de créditos de precatórios ou levantamento de depósito judicial para adimplemento dos saldos devedores",
+  "Consideração da sujeição da Proponente a processo de recuperação judicial como fator para concessão das condições de pagamento"
+ ],
+ "sector": "Mídia/Comunicações (editorial/revistas)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.5,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.95
+ },
+ "source_excerpts": {
+  "consolidated_amount": "80 6 20 225110-10 ... R$ 98.968.507,82 (primeiro crédito da Tabela 1, representando parte do passivo fiscal; a Dívida Transacionada é composta por múltiplos créditos listados na Tabela 1, sem valor total consolidado único explicitado no texto)",
+  "total_discount_pct": "3.1.1. Desconto máximo de 70% (setenta por cento) incidente sobre a totalidade da Dívida Transacionada, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos) (Anexo III).",
+  "installments": "3.1.2. Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais;"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "95972e1e2369",
+ "title": "Termo de Transação Individual -  ABRIL",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-abril-x.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-abril-x.pdf",
+ "sha256": "6b075ffa5dc5fe0e7e46c42abdb43f1c62114ccc990d49df42cbbf9306932a49",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

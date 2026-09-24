@@ -1,0 +1,70 @@
+{
+ "taxpayer": "CARBINOX INDÚSTRIA E COMÉRCIO LTDA",
+ "approval_date": "2025-05-20",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança pessoal dos sócios José Arthur Bronzatto Pagan e Maurício Antônio de Moura"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitadas",
+  "Autorizar o acesso da Fazenda Nacional a suas declarações e escritas fiscais",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação prévia",
+  "Manter a regularidade perante o FGTS",
+  "Manter a regularidade perante a PGFN e a RFB, regularizando em até 90 dias débitos que se tornarem exigíveis",
+  "Peticionar em até 60 dias nos processos judiciais relativos à Dívida Transacionada para desistência/renúncia",
+  "Manter livros e documentos fiscais e contábeis necessários à comprovação dos montantes de PF/BCN por 5 anos ou até liquidação integral",
+  "Promover a baixa dos montantes de PF/BCN utilizados nos livros e escriturações contábeis próprias",
+  "Manter o regime de apuração do IRPJ pelo lucro real durante a vigência da Transação (em razão do uso de PF/BCN)"
+ ],
+ "special_clauses": [
+  "Uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) no valor máximo de R$ 23.150.554,28 para amortização da Dívida Transacionada, limitado a 70% do saldo devedor após descontos, isoladamente para Dívida Previdenciária e Demais Débitos",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal, penhoras ou garantias prestadas administrativamente"
+ ],
+ "sector": "Indústria (metalúrgico/inox)",
+ "confidence": {
+  "taxpayer": 0.98,
+  "approval_date": 0.95,
+  "modality": 0.9,
+  "installments": 0.85,
+  "total_discount_pct": 0.5,
+  "consolidated_amount": 0.0,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.0,
+  "sector": 0.4,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0
+ },
+ "source_excerpts": {
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Previdenciária será adimplido em 60 (sessenta) prestações lineares mensais sucessivas",
+  "total_discount_pct": "Concede-se o desconto máximo de 65% (sessenta e cinco por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "fe06fd2cad2e",
+ "title": "Termo de Transação Individual - Carbinox Indústria e Comércio LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCarbinoxIndstriaeComrcioLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCarbinoxIndstriaeComrcioLTDA.pdf",
+ "sha256": "e14e489073453d0b8d3e37462f942b8ab0d4a359523680ca7adb2245854eae3a",
+ "extracted_at": "2026-07-22T14:22:37+00:00",
+ "simulated": false
+}

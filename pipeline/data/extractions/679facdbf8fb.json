@@ -1,0 +1,75 @@
+{
+ "taxpayer": "USINA SANTA ROSA LTDA - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2021-11-04",
+ "consolidated_amount": 107165362.46,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 2,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Cessão dos direitos sobre os precatórios nº 0203672-88.2018.4.01.9198 e nº 0177824-36.2017.4.01.9198, expedidos na ação de indenização nº 0002262-89.1990.4.01.3400"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Promover a desistência de impugnações, recursos e ações administrativas ou judiciais relativas à Dívida Transacionada no prazo de 30 dias",
+  "Adimplir a Transação observadas as condições dos itens 3 e 4",
+  "Promover o pagamento de eventual saldo devedor caso o precatório cedido não seja suficiente, em até 30 dias",
+  "Pagar, parcelar ou garantir débitos inscritos em Dívida Ativa após a formalização da Transação, no prazo de 90 dias",
+  "Manter a regularidade perante o FGTS",
+  "Renunciar a alegações de direito sobre ações judiciais relativas à Dívida Transacionada",
+  "Fornecer informações sobre bens, direitos, valores e operações sempre que solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Realizar comunicações via SICAR/REGULARIZE mencionando dossiê nº 13032.255802/2021-62 e processo SEI 19805.100170/2021-99"
+ ],
+ "special_clauses": [
+  "Pagamento à vista dos débitos de FGTS com valores depositados judicialmente na ação de recuperação judicial",
+  "Pagamento de entrada com valores depositados nos autos da ação de recuperação judicial após quitação dos créditos trabalhistas habilitados",
+  "Pagamento do saldo devedor mediante cessão dos direitos sobre precatórios em duas parcelas anuais",
+  "Transação produz efeitos a partir da assinatura, sob condição resolutiva de homologação judicial na ação de recuperação judicial nº 1004351-83.2019.8.26.0082",
+  "Débitos de Contribuição Social (LC110/01) regularizados diretamente junto à Caixa Econômica Federal antes da assinatura"
+ ],
+ "sector": "Agronegócio (usina de açúcar/etanol)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.75,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 1.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Os débitos a serem transacionados perfazem o montante atualizado (para outubro de 2021) de R$ 107.165.362,46.",
+  "total_discount_pct": "Desconto máximo de 70% (setenta por cento) incidente sobre a totalidade da Dívida Transacionada, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos).",
+  "installments": "cujos pagamentos serão em duas parcelas anuais, sendo a primeira no valor de R$ 19.845.710,98 e a segunda no valor de R$ 16.330.177,26, com vencimentos em 31/12/2022 e 31/12/2023, respectivamente."
+ },
+ "review_fields": [
+  "sector",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "679facdbf8fb",
+ "title": "Termo de Transação Individual - Usina Santa Rosa LTDA em recuperação judicial",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-usina-santa-rosa-ltda-em-recuperacao-judicial.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-usina-santa-rosa-ltda-em-recuperacao-judicial.pdf",
+ "sha256": "13c82cf9bbbf5a3b11040b8f7356c85b1cd08e0d58fcc88a053f95280374739b",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

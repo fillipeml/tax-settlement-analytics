@@ -1,0 +1,72 @@
+{
+ "taxpayer": "REI FRANGO AVICULTURA LTDA e outros (grupo econômico Hildebrand)",
+ "approval_date": "2023-02-14",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 12,
+ "down_payment_pct": 0.1,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal ou outra ação judicial"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento",
+  "Manter-se regular e em dia com as Transações e Parcelamentos em curso",
+  "Manter durante 5 anos livros e documentos comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor após aplicação dos descontos (valor tarjado)",
+  "Reconhecimento de corresponsabilidade entre os Requerentes (arts. 124, I, 132 e 133 do CTN)",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL fica suspensa até confirmação pela autoridade competente, dentro do prazo legal de 5 anos"
+ ],
+ "sector": "Agronegócio (avicultura)",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.75,
+  "down_payment_pct": 0.7,
+  "installments": 0.85,
+  "discounts": 0.2,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "judicial_recovery": 0.5,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Na modalidade DEMAIS, desconto máximo de até 70% (setenta por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 12 (doze) prestações mensais e sucessivas, conforme Anexo II, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo",
+  "down_payment_pct": "Ano 1 / Parcelas: 1 / %Dívida: 0,10%"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "consolidated_amount",
+  "discounts",
+  "judicial_recovery",
+  "down_payment_pct"
+ ],
+ "id": "d0178e7405ed",
+ "title": "Termo de Transação Individual - Rei do Frango",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualReidoFrangoInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualReidoFrangoInformaesSigilosasSuprimidas.pdf",
+ "sha256": "a829a96dc42d52737c436cc809f27efa93eb77759c13042cf2f71e768a171b7c",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

@@ -1,0 +1,66 @@
+{
+ "taxpayer": "MILTON E RAIMUNDO BEZERRA TRANSPORTE DE CARGAS E SERVIÇOS LTDA",
+ "approval_date": "2025-02-04",
+ "consolidated_amount": 10588078.66,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": 65.0,
+  "interest_pct": 65.0,
+  "charges_pct": 65.0
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens já penhorados descritos no termo (garantia mantida em caso de rescisão)"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Desistência de impugnações/recursos administrativos e ações judiciais relativas aos débitos do Anexo I",
+  "Comunicação à Fazenda Nacional antes de alienar bens ou direitos",
+  "Apresentar situação econômico-financeira anualmente (demonstrações de resultados/balanço contábil)",
+  "Manter regime de tributação pelo lucro real por 5 anos e manter livros/documentos comprobatórios do prejuízo fiscal/BCN",
+  "Pagar regularmente os tributos correntes"
+ ],
+ "special_clauses": [
+  "Autorização de utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para quitação do saldo devedor remanescente (Art. 4ª)",
+  "Cláusula de venda de bens condicionada à aquiescência da Fazenda Nacional (Cláusula 6ª)",
+  "Procedimento de alienação de bens penhorados via sistema COMPREI em caso de rescisão (Cláusula 7ª)"
+ ],
+ "sector": "Transporte de cargas",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.85,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.85,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "judicial_recovery": 0.6,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total sem reduções (A) ... Consolidado 3.790.527,51 (previdenciários) + Total sem reduções (A) ... Consolidado 6.797.551,15 (demais débitos)",
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 65%",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 1 parcela / PLANO DE PAGAMENTO À VISTA, CONFORME ANEXO II"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "guarantees",
+  "judicial_recovery",
+  "consolidated_amount"
+ ],
+ "id": "4111d7fd6f6f",
+ "title": "Termo de Transação Individual - Milton e Raimundo Bezerra Transporte de Cargas e Serviços LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMiltoneRaimundoBezerraTransportedeCargaseServiosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMiltoneRaimundoBezerraTransportedeCargaseServiosLTDATarjado.pdf",
+ "sha256": "1d98151d893527c1cfc91ffd7b9723803075b00520b2398343e21469df82f132",
+ "extracted_at": "2026-07-22T14:35:18+00:00",
+ "simulated": false
+}

@@ -1,0 +1,66 @@
+{
+ "taxpayer": "MASIPACK INDÚSTRIA E COMÉRCIO DE MÁQUINAS AUTOMÁTICAS S/A (CNPJ 58.071.614/0001-44) E FABRIMA MÁQUINAS AUTOMÁTICAS LTDA (CNPJ 43.222.439/0001-71)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 320972792.68,
+ "modality": "Transação individual",
+ "total_discount_pct": 47.79,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Manutenção de eventuais garantias eventualmente existentes nos processos em curso"
+ ],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [
+  "Manutenção de eventuais garantias eventualmente existentes nos processos em curso",
+  "Parcelas lineares",
+  "Sem exigência de entrada"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.1,
+  "modality": 0.6,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.85,
+  "guarantees": 0.8,
+  "obligations": 0.0,
+  "special_clauses": 0.6
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada Total: R$ 320.972.792,68",
+  "total_discount_pct": "Desconto efetivo médio Total: 47,79%",
+  "installments": "Número de parcelas Previdenciária: 48 / Demais débitos: 48",
+  "down_payment_pct": "Exigência de entrada Não"
+ },
+ "review_fields": [
+  "sector",
+  "modality",
+  "approval_date",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "1ad3f1814688",
+ "title": "Sumário - Fabrima Máquinas Automáticas",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioFabrimaMquinasAutomticas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioFabrimaMquinasAutomticas.pdf",
+ "sha256": "5f2510f070451fade8ddae89d3bb1b4f49b84450fe5bd1d09a1ac6f586f95ddb",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

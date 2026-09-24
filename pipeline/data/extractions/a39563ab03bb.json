@@ -1,0 +1,76 @@
+{
+ "taxpayer": "ARTLINE INDÚSTRIA E COMÉRCIO DE MÓVEIS LTDA. (e grupo: AJUART COMÉRCIO DE MÓVEIS EIRELI, VIDARE COMÉRCIO DE MÓVEIS LTDA. ME, PLATINE MÓVEIS ESPECIAIS DO NORDESTE INDÚSTRIA & COMÉRCIO EIRELI)",
+ "approval_date": "2023-12-06",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 135,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado (Cláusula 7ª)",
+  "Não utilizar a transação de forma abusiva (Cláusula 8ª, I)",
+  "Não utilizar pessoa interposta para ocultar bens/direitos (Cláusula 8ª, II)",
+  "Não alienar ou onerar bens com propósito de frustrar recuperação de créditos (Cláusula 8ª, III)",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo (Cláusula 8ª, V)",
+  "Autorizar compensação de precatórios federais (Cláusula 8ª, VI)",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais (Cláusula 8ª, VII)",
+  "Manter regularidade perante o FGTS (Cláusula 8ª, IX)",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa (Cláusula 8ª, X)",
+  "Comunicar à Fazenda Nacional antes de alienar bens ou direitos (Cláusula 8ª, XII)",
+  "Peticionar nos processos judiciais em até 60 dias após assinatura, noticiando a transação (Cláusula 5ª)",
+  "Manter livros e documentos por 5 anos comprobatórios do uso de créditos de prejuízo fiscal e CSLL (Cláusula 11)",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil (Cláusula 13)",
+  "Recolher obrigações tributárias correntes (Cláusula 14)",
+  "Verter créditos de precatórios/reconhecimentos judiciais para pagamento da dívida transacionada (Cláusula 15)"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL da empresa ARTLINE para quitação de até 70% do saldo devedor após aplicação do desconto (Cláusula 3ª, item B)",
+  "Empresa deve permanecer no regime de tributação por Lucro Real durante a vigência da transação para uso dos créditos de PF/CSLL (Cláusula 3ª, item C)",
+  "Repactuação da transação prevista para incluir débitos ainda no âmbito da RFB (não inscritos em DAU), conforme Anexo III, quando de sua efetiva inscrição em DAU (Cláusula 2ª, Parágrafo 1º)",
+  "ARTLINE incluída como corresponsável dos débitos das demais empresas do grupo, para fins de operacionalização das contas de transação (Cláusula 3ª, Parágrafo 5º)",
+  "Pagamento da dívida de FGTS: CS Modalidade 6 e FGTS Modalidade 08 (Cláusula 3ª, item F)"
+ ],
+ "sector": "Indústria e comércio de móveis",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.75,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.6,
+  "installments": 0.75,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Descônto máximo de até 70% a cada uma das inscrições, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa juros e encargo legal)",
+  "installments": "Pagamento da dívida transacionada de natureza não previdenciária em 135 (cento e trinta e cinco) prestações mensais, conforme indicado no ANEXO II"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "total_discount_pct",
+  "sector",
+  "guarantees"
+ ],
+ "id": "a39563ab03bb",
+ "title": "Termo de Transação Individual - Artline Indústria e Comérico de Móveis LTDA em recuperação judicial",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/copy_of_TermodeTransacaoIndividualArtlineIndstriaeComricodeMveisLTDAemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/copy_of_TermodeTransacaoIndividualArtlineIndstriaeComricodeMveisLTDAemrecuperaojudicialtarjado.pdf",
+ "sha256": "2b850721aa6873f4e68bacc5f9906f71112d965e51c44bff13722d182e253d9c",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

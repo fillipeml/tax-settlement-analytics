@@ -1,0 +1,76 @@
+{
+ "taxpayer": "HOSPITAL JARDIM AMÁLIA LTDA",
+ "approval_date": "2024-03-29",
+ "consolidated_amount": 409992.04,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": 65.0,
+  "charges_pct": 65.0
+ },
+ "installments": 40,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel na Rua Miguel Couto, n. 70, bairro Jardim Amália, Volta Redonda/RJ (Matrícula tarjada)",
+  "Imóvel na Rua Miguel Couto, n. 74, bairro Jardim Amália, Volta Redonda/RJ (Matrícula tarjada)",
+  "Penhora sobre 2,5% do faturamento mensal do REQUERENTE, a ser implementada em caso de rescisão do acordo"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens ou valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Individualizar os valores recolhidos nas contas vinculadas dos trabalhadores",
+  "Manter em dia o pagamento de impostos e taxas sobre os bens ofertados em garantia",
+  "Comunicar à Fazenda Nacional a superveniência de penhora ou gravame sobre bens em garantia",
+  "Petição em até 60 dias para noticiar a transação nos processos judiciais e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Vedada a redução de valores devidos aos trabalhadores (item 2.1.1)",
+  "Parcelamento do saldo de Juros/Multa/Encargos somente inicia após o pagamento do parcelamento do valor principal (Anexo I)",
+  "Bens em garantia registrados em nome de terceiro (GUADI SERVIÇOS MÉDICOS E CONSULTORIA) objeto de Termo de Anuência (Anexo III)",
+  "Imóvel do item 3.1.1 garante dívida executada em processo judicial distinto, com compromisso de quitação caso restabelecida a exigibilidade"
+ ],
+ "sector": "Saúde/Hospitalar",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.85,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Total: 409.992,04",
+  "total_discount_pct": "Percentual Juros/Multa/Encargos: 65,00% (Desconto Máximo Permitido)",
+  "installments": "Nº Parcelas: 40"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "42e17e3fc7c6",
+ "title": "Termo de Transação Individual - Hospital Jardim Amália LTDA (FGTS)",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualHospitalJardimAmliaLTDAFGTStarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualHospitalJardimAmliaLTDAFGTStarjado.pdf",
+ "sha256": "ad1755162de495def634e4628437f83baffcc4f7efb84782429bd6e036134bd2",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

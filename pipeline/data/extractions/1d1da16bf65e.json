@@ -1,0 +1,81 @@
+{
+ "taxpayer": "CASP INDUSTRIA E COMÉRCIO LTDA",
+ "approval_date": "2023-09-25",
+ "consolidated_amount": null,
+ "modality": "Transação individual (recuperação judicial)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 48,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens móveis (maquinários pertencentes ao ativo imobilizado da empresa requerente, avaliados em R$ 6.276.270,00 pelo valor de mercado), já indicados à penhora nas Execuções Fiscais nº 5000238-72.2020.4.03.6123 e 5000352-40.2022.4.03.6123",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal ou qualquer outra ação judicial"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Declarar, sob as penas da lei, que preenchem os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens ou direitos com propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais são verdadeiras",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa ou tornarem-se exigíveis",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter durante 5 anos livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União"
+ ],
+ "special_clauses": [
+  "Utilização de crédito no valor aproximado de R$ 8.822.659,87 a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor, de forma que seja concedido 70% de benefícios totais",
+  "Cobrança do saldo liquidado com uso de créditos decorrentes de prejuízo fiscal ficará suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de cinco anos",
+  "Créditos que a Requerente venha a dispor, por precatório, levantamento de depósito judicial ou qualquer outro meio, perante a União, deverão ser direcionados para adimplemento dos saldos devedores da Transação",
+  "Juros equivalentes à taxa SELIC acumulada mensalmente, mais 1% relativo ao mês em que o pagamento estiver sendo efetuado",
+  "Rescindida a Transação, é vedada, pelo prazo de 2 anos, a formalização de nova transação em qualquer modalidade"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.2,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "discounts.charges_pct": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "de forma que seja concedido 70% de benefícios totais",
+  "installments": "Parcelamento do saldo devido na modalidade PREV em 48 (quarenta e oito) prestações mensais e sucessivas",
+  "discounts.charges_pct": "Desconto de até 65% (sessenta e cinco por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct"
+ ],
+ "id": "1d1da16bf65e",
+ "title": "Termo de Transação Individual - Casp Industria e Comercio",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCaspIndustriaeComercioLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCaspIndustriaeComercioLTDA.pdf",
+ "sha256": "580d8909d6c76280431ea33c9ed538fd2c39b56985bb03714f18c28bd46662df",
+ "extracted_at": "2026-07-22T14:22:37+00:00",
+ "simulated": false
+}

@@ -1,0 +1,74 @@
+{
+ "taxpayer": "PANTERA ALIMENTOS LTDA EM RECUPERACAO JUDICIAL",
+ "approval_date": "2024-09-17",
+ "consolidated_amount": 12388186.06,
+ "modality": "Transação individual (recuperação judicial)",
+ "total_discount_pct": 42.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantém-se as garantias dos débitos eventualmente existentes até a quitação integral do saldo devedor do Acordo de Transação"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Não utilizar a Transação de forma abusiva",
+  "Declarar que não utiliza pessoa interposta para ocultar bens",
+  "Declarar que não alienou ou onerou bens para frustrar a recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a formalização",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda",
+  "Manter por 5 anos livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e base negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de até 59,02% do saldo remanescente com créditos de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL suspensa até confirmação dos créditos pela autoridade competente, prazo legal de 5 anos",
+  "Eventuais créditos de precatório, depósito judicial ou outro meio devem ser direcionados para adimplemento dos saldos devedores da Transação",
+  "Desconto máximo diferenciado por natureza da dívida: 44,07% para CDAs não previdenciárias (DEMAIS) e 41,64% para CDAs previdenciárias (PREV), vedada redução do principal"
+ ],
+ "sector": "Alimentos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "approval_date": 0.95,
+  "modality": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.3,
+  "discounts": 0.3,
+  "guarantees": 0.6,
+  "obligations": 0.9,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL 12.388.186,06 7.184.585,27 42,0% 4.240.490,47 2.944.094,80 76,23%",
+  "total_discount_pct": "TOTAL 12.388.186,06 7.184.585,27 42,0% 4.240.490,47 2.944.094,80 76,23%",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 60 (sessenta) prestações mensais, na forma discriminada no Anexo II; ... Pagamento da Dívida Transacionada de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 60 (sessenta) prestações mensais"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "guarantees"
+ ],
+ "id": "1285182cc0bc",
+ "title": "Termo de Transação Individual - Pantera Alimentos LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/copy_of_TermodeTransaoIndividualPanteraAlimentosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/copy_of_TermodeTransaoIndividualPanteraAlimentosLTDATarjado.pdf",
+ "sha256": "a2784fc85c0c0a0e4bae69d67d2ad9253297626f6c55fdb4a3496185e86eee12",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

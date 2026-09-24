@@ -1,0 +1,88 @@
+{
+ "taxpayer": "CONSTRUTORA TRIUNFO S.A. e grupo econômico (TIISA INFRAESTRUTURA E INVESTIMENTOS S.A, IT – SISTEMAS CONSTRUTIVOS S.A, THC – TRIUNFO HOLDING DE CONSTRUÇÕES LTDA, THP – TRIUNFO HOLDING DE PARTICIPAÇÕES S.A.)",
+ "approval_date": "2025-04-25",
+ "consolidated_amount": 753652929.13,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis relacionados no Anexo IV",
+  "Marca CONSTRUTORA TRIUNFO registrada no INPI processo n. 827557124",
+  "Fiança da THP – Triunfo Holding de Participações S.A.",
+  "Créditos relacionados a ações judiciais em andamento (penhora)",
+  "Precatórios (autos 00260660320014013400 e 00393429620044013400)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou anticoncorrencial",
+  "Declarar ausência de interposição de pessoas para ocultar bens",
+  "Declarar não alienação/oneração de bens para frustrar recuperação de créditos",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Autorizar utilização de precatórios federais",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos",
+  "Manter-se como optante do lucro real durante toda a negociação",
+  "Implementar ao menos 4 práticas ODS",
+  "Não desistir do acordo sob pena de rescisão",
+  "Individualizar valores recolhidos nas contas vinculadas do FGTS",
+  "Peticionar nos processos judiciais em até 60 dias noticiando a transação",
+  "Providenciar penhora dos bens em até 120 dias",
+  "Apresentar demonstrações econômico-financeiras quando solicitado pela PGFN",
+  "Comprovar adoção de práticas de Desenvolvimento Sustentável quando solicitado"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para abatimento (R$ 91.550.621,42 na conta previdenciária e R$ 32.958.223,72 na conta demais débitos)",
+  "Previsão de parcelas-balão ao longo do plano (parcelas 18, 25, 48 e 60 da conta previdenciária e 85, 97 e 120 da conta demais débitos)",
+  "Direcionamento de precatórios para pagamento de parcelas-balão e débitos de FGTS",
+  "Fiança de garantidora com renúncia ao benefício de ordem (art. 828, I CC)",
+  "Reforço de garantia caso perda de valor de mercado dos investimentos da garantidora seja superior a 50%",
+  "Compromisso de manutenção no regime de lucro real sob pena de rescisão"
+ ],
+ "sector": "Construção civil/infraestrutura",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.5,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "As inscrições indicadas no Anexo II – previdenciárias – que totalizam R$ 323.079.869,29 ... As inscrições indicadas no Anexo III – demais débitos, que totalizam na presente data – R$ 423.739.153,31 ... AS DEVEDORAS possuem em aberto débitos relacionados ao FGTS, que totalizam na presente data: R$ 6.833.906,53",
+  "installments": "o saldo restante será pago em 60 (sessenta) amortizações mensais escalonadas ... o saldo restante será pago em 120 (cento e vinte) prestações mensais escalonadas"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "d5b5fb4f1dc3",
+ "title": "Termo de Transação Individual - Construtora Triunfo SA, Tiisa Ifraestrutura e Investimentos SA,IT - Sistemas Construtivos SA, THC - Triunfo Holding de Construções LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualConstrutoraTriunfoSATiisaIfraestruturaeInvestimentosSAITSistemasConstrutivosSATHCTriunfoHoldingdeConstruesLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualConstrutoraTriunfoSATiisaIfraestruturaeInvestimentosSAITSistemasConstrutivosSATHCTriunfoHoldingdeConstruesLTDA.pdf",
+ "sha256": "079cd28de208d278189903cfe9a1713f2e8533f75555082768da53b5b773d4cf",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

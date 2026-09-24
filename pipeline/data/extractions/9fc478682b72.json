@@ -1,0 +1,61 @@
+{
+ "taxpayer": "HOSPITAL ALFA S/A e outras (grupo econômico - Rua Visconde de Jequitinhonha, 1144)",
+ "approval_date": "2025-06-12",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (3º Termo Aditivo)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 18,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Pagamento dos DARFs relativos às contas originais e aditamentos subsequentes",
+  "Pagamento dos DARFs correspondentes às novas contas decorrentes do 3º Termo Aditivo, com vencimento da primeira parcela em 30.06.2025",
+  "Obrigação de regularizar débitos inscritos ou que se tornarem exigíveis posteriormente à formalização da transação"
+ ],
+ "special_clauses": [
+  "Abertura de novas contas de transação, dada a impossibilidade de revisão das contas pré-existentes para inclusão de débitos novos, mantendo os mesmos termos do acordo original (desconto de até 70% e uso de crédito de PF/BCN de 60% do saldo devedor, respeitado limite da Declaração do Contador)",
+  "Não serão admitidos novos aditamentos a este acordo, exceto quanto a débitos oriundos dos processos administrativos nº 19555.721656/2020-73, 19555.721556/2020-47 e 19555.720393/2021-66, de titularidade da empresa FR CONSTRUCOES E INCORPORACOES LTDA (CNPJ nº 09.101.153/0001-08)"
+ ],
+ "sector": "Saúde (hospitalar) / Imobiliário / Agronegócio (grupo econômico)",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.8,
+  "judicial_recovery": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "ficando preservados os mesmos termos do acordo, inclusive quanto ao percentual de desconto de até 70% (setenta por cento)",
+  "installments": "e o prazo para pagamento de 18 (dezoito) meses, já abatidas as parcelas vencidas, desde o acordo original."
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "guarantees"
+ ],
+ "id": "9fc478682b72",
+ "title": "Termo de Transação Individual - Hospital Alfa S/A, Garden Atlanticus Empre. Imob. LTDA (Sem Débitos), Rsp Agrícola LTDA (Sem Débitos), Gama Saúde S/A (Antigo Hospital Da Bahia S/A), Capitão Ribelinho Empreendimentos Imobiliarios LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualHospitalAlfaSAGardenAtlanticusEmpre.Imob.LTDASemDbitosRspAgrcolaLTDASemDbitosGamaSadeSAAntigoHospitalDaBahiaSACapitoRibelinhoEmpreendimentosImobilia.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualHospitalAlfaSAGardenAtlanticusEmpre.Imob.LTDASemDbitosRspAgrcolaLTDASemDbitosGamaSadeSAAntigoHospitalDaBahiaSACapitoRibelinhoEmpreendimentosImobilia.pdf",
+ "sha256": "0c3230d32a570fb6851b524f26a242959628fb15a9f71528f8f88b8c52f24054",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

@@ -1,0 +1,73 @@
+{
+ "taxpayer": "Cláudio Pinheiro Cavalcanti Ltda.",
+ "approval_date": "2025-04-08",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens já penhorados ou descritos no termo como garantia (alienação via sistema COMPREI em caso de rescisão)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil ou demonstrações complementares",
+  "Pagar regularmente os tributos correntes",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Comprovar existência e regularidade de créditos de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Permanecer no regime de tributação pelo lucro real enquanto vigente o aproveitamento de créditos de PF/BCN",
+  "Manter livros e documentos fiscais por até 5 anos ou até liquidação do acordo",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo"
+ ],
+ "special_clauses": [
+  "Autorização de aproveitamento de crédito de prejuízo fiscal e base de cálculo negativa de CSLL (Cláusula 4ª)",
+  "Condições especiais de alienação de bens via plataforma COMPREI em caso de rescisão (Cláusula 7ª)",
+  "Possibilidade de aditamento para inclusão de novas inscrições em dívida ativa em até 180 dias (Cláusula 16)",
+  "Aditivo posterior incluindo débitos de SIMPLES NACIONAL (inscrições 30 4 16 006970-14 e 30 4 19 005410-95) em conta própria, pagamento linear em 60 meses, sem aproveitamento de PF/BCN"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.3,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.2,
+  "total_discount_pct": 0.8,
+  "down_payment_pct": 0.1,
+  "installments": 0.6,
+  "discounts.fine_pct": 0.1,
+  "discounts.interest_pct": 0.1,
+  "discounts.charges_pct": 0.1,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 65%",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 60 / 36"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees"
+ ],
+ "id": "e1384626d34d",
+ "title": "Termo de Transação Individual - Cláudio Pinheiro Cavalcanti LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCludioPinheiroCavalcantiLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCludioPinheiroCavalcantiLTDA.pdf",
+ "sha256": "5e9d0930c4d2fcc0e50690e9aa5d200dbb01a4c10f370545eb579b1cbfeea379",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

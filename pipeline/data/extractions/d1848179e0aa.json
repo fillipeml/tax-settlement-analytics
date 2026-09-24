@@ -1,0 +1,69 @@
+{
+ "taxpayer": "CIA TEXTIL PE DE SERRA - EM RECUPERACAO JUDICIAL e ARTEFIL ARARIPINA TECIDOS E FIBRAS LTDA",
+ "approval_date": "2022-11-16",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Apresentar sua situação econômico-financeira, por meio de demonstrações de resultados, anualmente, por meio do balanço contábil apurado ou, sempre que a PGFN reputar oportuno, por meio de documentos e informações complementares com a demonstração do resultado do exercício.",
+  "Recolhimento das obrigações tributárias correntes devidas pelo devedor, e cumprimento das obrigações acessórias dependentes da obrigação principal.",
+  "Manter, durante 5 anos, os livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios dos montantes de prejuízo fiscal e base de cálculo negativa da CSLL, ao utilizar esses créditos.",
+  "Não alienar bens ou direitos sem proceder à devida comunicação à Fazenda Nacional.",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo, inclusive para sobrestar andamentos de cobrança.",
+  "Desistência de impugnações/recursos administrativos e ações judiciais relacionadas aos débitos transacionados.",
+  "Comprovar existência, regularidade escritural e disponibilidade dos créditos de prejuízo fiscal e base de cálculo negativa da CSLL, atestados por profissional contábil registrado."
+ ],
+ "special_clauses": [
+  "Autorização de utilização de créditos de prejuízo fiscal acumulado e base de cálculo negativa da CSLL pela CIA TEXTIL PE DE SERRA, limitado a R$ 2.606.189,96, para quitação do saldo devedor previdenciário.",
+  "Corresponsabilização mútua entre os dois devedores por reconhecimento de grupo econômico de fato, estendendo benefícios do devedor principal a ambas as inscrições.",
+  "Vinculação de eventuais direitos creditórios supervenientes (incluindo precatórios) ao pagamento da transação, mesmo para antecipação de parcelas não vencidas.",
+  "Possibilidade de repactuação posterior para inclusão de novos débitos definitivamente constituídos, nas mesmas condições, pelo prazo remanescente do acordo."
+ ],
+ "sector": "Têxtil",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "judicial_recovery": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 65% (sessenta e cinco por cento), observadas suas capacidades de pagamento (CAPAG)",
+  "amount_consolidado_prejuizo_fiscal": "limitado ao montante de R$ 2.606.189,96 (dois milhões, seiscentos e seis mil, cento e oitenta e nove reais e noventa e seis centavos)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "guarantees"
+ ],
+ "id": "d1848179e0aa",
+ "title": "Termo de Transação Individual - Cia Têxtil Pé de Serra, Artefil Araripina Tecidos e Fibras LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCiaTxtilPdeSerraArtefilAraripinaTecidoseFibrasLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCiaTxtilPdeSerraArtefilAraripinaTecidoseFibrasLTDA.pdf",
+ "sha256": "60566ab97e05dee1d605e4334944681ed996b4fdfa3e6edbef586f793d07be49",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

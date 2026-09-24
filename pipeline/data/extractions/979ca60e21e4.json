@@ -1,0 +1,75 @@
+{
+ "taxpayer": "SUPER LÍDER DISTRIBUIDORA DE CARNES EIRELI e outros (grupo econômico: Meat Center Comercial de Carnes Ltda, Supermercado Santa Cruz Ltda, Super Mercado Lider Ltda, Zeferino Esteves de Avila Neto - ME, Willian Leite de Melo - ME, e pessoas físicas José da Cruz, Terezinha Cruz, Zeferino Esteves de Avila Neto, Joao Carlos Goncalves Cruz, Willian Leite de Melo, Francisco Carlos Cruz, Pedro de Souza Pinto Neto)",
+ "approval_date": "2024-02-19",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (modalidades DEMAIS e PREV)",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": 8.0,
+ "guarantees": [
+  "Imóveis listados no Anexo III (penhora a ser formalizada em até 60 dias)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar que preenchem os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta",
+  "Declarar que não alienaram ou oneraram bens para frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a Transação",
+  "Não alienar bens que possam inviabilizar o cumprimento do acordo sem comunicação prévia",
+  "Manter-se regular e em dia com as Transações e Parcelamentos em curso",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União"
+ ],
+ "special_clauses": [
+  "Transformação em pagamento definitivo dos depósitos judiciais e valores bloqueados via SISBAJUD, com imputação antes da consolidação das contas",
+  "Liberação de gravames sobre imóveis do Anexo IV após formalização da penhora dos imóveis do Anexo III",
+  "Reconhecimento de corresponsabilidade solidária entre todas as Requerentes (arts. 124, I, 132 e 133 do CTN)",
+  "Créditos obtidos por precatório ou depósito judicial perante a União (ou outros entes) deverão ser direcionados ao adimplemento dos saldos devedores"
+ ],
+ "sector": "Comércio de carnes/supermercados (varejo alimentício)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "down_payment_pct": 0.9,
+  "installments": 0.85,
+  "total_discount_pct": 0.75,
+  "discounts": 0.3,
+  "guarantees": 0.7,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "down_payment_pct": "entrada de 8% (oito por cento) da dívida sem descontos",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 108 (cento e oito) prestações mensais e sucessivas",
+  "total_discount_pct": "desconto máximo de até 50% (cinquenta por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "discounts",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "979ca60e21e4",
+ "title": "Termo de Transação Individual - Super Líder Distribuidora de Carnes Eireli",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSuperLderDistribuidoradeCarnesEirelitarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSuperLderDistribuidoradeCarnesEirelitarjado.pdf",
+ "sha256": "81686a37557053dcdcfda719ca76a0866edc26921be5a5668b85d3ddb295e4a0",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

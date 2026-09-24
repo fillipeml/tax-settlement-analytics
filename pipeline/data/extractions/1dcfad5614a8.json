@@ -1,0 +1,89 @@
+{
+ "taxpayer": "RIBEIRO S.A COMÉRCIO DE PNEU EM RECUPERAÇÃO JUDICIAL (PNEUMAR), solidariamente com RIBEMAR EMPREENDIMENTOS AGROPECUÁRIOS E IMOBILIÁRIOS S.A EM RECUPERAÇÃO JUDICIAL (RIBEMAR)",
+ "approval_date": "2024-06-11",
+ "consolidated_amount": 2309586.83,
+ "modality": "Transação Individual - Plano de Pagamento Parcelado do Débito Fiscal",
+ "total_discount_pct": 39.94,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Permanecem todas as garantias existentes atualmente vinculadas aos processos judiciais que envolvem os créditos negociados"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações à PGFN",
+  "Não utilizar a transação de forma abusiva ou anticoncorrencial",
+  "Declarar não utilizar pessoa interposta para ocultar bens",
+  "Declarar não ter alienado/onerado bens para frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação de bens do ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Cumprir exigências da Portaria PGFN nº 6757/22",
+  "Declarar veracidade das informações cadastrais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos relativos aos créditos incluídos",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após o acordo",
+  "Manter-se optante do regime de tributação pelo lucro real durante toda a negociação (uso de créditos de PF/BCN)",
+  "Declarar não possuir créditos líquidos e certos ou precatórios federais em seu favor",
+  "Peticionar nos processos judiciais em até 60 dias após a assinatura, noticiando a transação e desistindo de embargos/exceções",
+  "Apresentar situação econômico-financeira anualmente via balanço contábil",
+  "Manter livros e documentos comprobatórios de PF/BCN por 5 anos",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal (PF) e base de cálculo negativa de CSLL (BCN) para amortização, sob condição resolutória de homologação pela RFB em até 5 anos",
+  "Manutenção de todas as garantias vinculadas a processos judiciais, com utilização de valores bloqueados judicialmente para quitação dos créditos",
+  "Compromisso de manutenção do regime de tributação pelo lucro real durante toda a negociação em razão do uso de créditos de PF/BCN",
+  "Hipóteses de rescisão específicas para inadimplência de parcelas (3 consecutivas ou 9 alternadas; ou 1 a 8 parcelas com demais quitadas)"
+ ],
+ "sector": "Comércio de pneus / agropecuário-imobiliário",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.6,
+  "installments": 0.6,
+  "total_discount_pct": 0.4,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.7,
+  "judicial_recovery": 0.95,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "amount_consolidado_annex_I": "O valor, após as reduções, restou em R$ 870.741,10 (oitocentos e setenta mil, setecentos e quarenta e um reais e dez centavos)",
+  "amount_consolidado_annex_II": "O saldo a pagar ficará em R$ 1.438.698,73 (um milhão, quatrocentos e trinta e oito mil, seiscentos e noventa e oito reais e setenta e três centavos)",
+  "installments_annex_I": "o pagamento será realizado em 120 (cento e vinte) parcelas mensais e sucessivas",
+  "installments_annex_II": "o saldo devedor será pago em 60 (sessenta) parcelas lineares, mensais e sucessivas",
+  "discount_annex_I": "sendo concedido um percentual de reduções de 35,92% entre os descontos e o PF/BCN",
+  "discount_annex_II": "incidirá o desconto médio efetivo de 42,46%, observados os limites do §2º do art. 11 da Lei n. 13.988/20"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "installments",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees"
+ ],
+ "id": "1dcfad5614a8",
+ "title": "Termo de Transação Individual - Ribeiro SA Comércio de Pneu",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualRibeiroSAComrciodePneuTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualRibeiroSAComrciodePneuTarjado.pdf",
+ "sha256": "420669a1088d48b1f64cecdce6223e20d353f314a5938ba5896928a53db30af2",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

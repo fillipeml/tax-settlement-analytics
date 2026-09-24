@@ -1,0 +1,82 @@
+{
+ "taxpayer": "CERPA CERVEJARIA PARAENSE S/A",
+ "approval_date": "2024-03-06",
+ "consolidated_amount": 2136362315.76,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis de propriedade da Requerente detalhados no Anexo IV, avaliados em R$ 250.877.000,00",
+  "Marcas 'CERPA' e 'TIJUCA' avaliadas em R$ 60.184.000,00",
+  "Manutenção de gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas, em especial penhora do estabelecimento comercial/industrial"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o FGTS e pagamento dos tributos correntes",
+  "Fornecer informações sobre bens, direitos, valores quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar não utilizar pessoa interposta para ocultar bens",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação de créditos",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam reduzir capacidade de pagamento sem comunicação prévia",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo",
+  "Autorizar compensação de precatórios federais com as prestações do acordo",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos da RFB com as prestações"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor de R$ 289.241.944,47 para amortização do saldo devedor dos Demais Débitos",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens e medida cautelar fiscal",
+  "Suspensão da cobrança do saldo liquidado com uso de créditos de prejuízo fiscal até confirmação pela autoridade competente",
+  "Corresponsabilidade solidária da Sra. Helga Irmengard Jutta Seibel reconhecida nos termos dos arts. 124,I e 135,III do CTN",
+  "Suspensão parcial dos poderes de acionista controladora e diretora-presidente da Sra. Helga frente à devedora CERPA, condicionada à homologação judicial",
+  "Vedação de nova transação por 2 anos em caso de rescisão"
+ ],
+ "sector": "Bebidas/Cervejaria",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal transacionado da Requerente é composto pelos débitos e respectivos processos administrativos não regularizados indicados no ANEXO I, que totalizam R$ R$ 2.136.362.315,76 (dois bilhões, cento e trinta e seis milhões, trezentos e sessenta e dois mil, trezentos e quinze reais e setenta e seis centavos), atualizado no mês de janeiro de 2024",
+  "installments": "pagamento da Dívida Transacionada de natureza não previdenciária (\"Demais Débitos\") em até 120 (cento e vinte) prestações mensais, sucessivas e escalonadas"
+ },
+ "review_fields": [
+  "sector",
+  "installments",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "738a44fa63b5",
+ "title": "Termo Transação Individual - Cerpa Cervejaria Paraense SA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermoTransacaoIndividualCerpaCervejariaParaenseSAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermoTransacaoIndividualCerpaCervejariaParaenseSAtarjado.pdf",
+ "sha256": "f6b69271924f7164ddde85985d998e357b69524dce4d888ed829427a307e3a6b",
+ "extracted_at": "2026-07-21T19:02:50+00:00",
+ "simulated": false
+}

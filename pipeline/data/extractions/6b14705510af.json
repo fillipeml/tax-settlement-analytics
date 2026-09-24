@@ -1,0 +1,87 @@
+{
+ "taxpayer": "STEVIAFARMA INDUSTRIAL S.A.",
+ "approval_date": "2025-05-09",
+ "consolidated_amount": 56968676.55,
+ "modality": "Transação Individual",
+ "total_discount_pct": 41.94,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de garantias existentes (indisponibilidades/penhoras/bloqueios)",
+  "Imóveis registrados sob matrículas nºs 1.560 e 2.537 do 4º Serviço de Registro de Imóveis de Maringá-PR, avaliados em R$ 39.440.000,00, já penhorados em executivos fiscais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens ou valores",
+  "Declarar não alienação/oneração de bens para frustrar recuperação de créditos",
+  "Cumprir exigências da Portaria PGFN 6.757/22 e da proposta",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando débitos supervenientes em até 90 dias",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Manter-se no regime de tributação pelo lucro real durante toda a negociação (por usar créditos de prejuízo fiscal e base negativa de CSLL)",
+  "Não desistir unilateralmente do acordo",
+  "Confissão irrevogável e irretratável da dívida",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos",
+  "Peticionar em processos judiciais no prazo de 30 dias noticiando a transação",
+  "Apresentar demonstrações financeiras quando solicitado pela PGFN",
+  "Quitar custas processuais pendentes e despesas de cancelamento de leilões",
+  "Substituir ou reforçar garantia em caso de depreciação/redução significativa de valor",
+  "Adimplir emolumentos de protesto cartorário das inscrições"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para liquidação parcial do saldo remanescente, observado limite de 70% (art. 35 da Portaria PGFN 6.757/2022)",
+  "Compromisso de manutenção no regime de tributação pelo lucro real durante toda a negociação, sob pena de rescisão",
+  "Escalonamento progressivo de prestações (percentual crescente por faixa) tanto para débitos previdenciários (60 parcelas) quanto para demais débitos (120 parcelas)",
+  "Manutenção das garantias/penhoras já existentes, incluindo imóveis avaliados em R$ 39.440.000,00",
+  "Cláusula de correção pela SELIC acumulada mensalmente + 1% no mês do pagamento"
+ ],
+ "sector": "Farmacêutico/Indústria",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Sobre as inscrições indicadas no Anexo 1 (Débitos Previdenciários), que totalizam, em abril/2025, R$ 33.593.300,48... §2º Sobre as inscrições indicadas no Anexo III (Demais Débitos) que totalizam, em abril/2025, o montante de R$ 23.375.376,07",
+  "total_discount_pct": "incidirá o desconto médio de 41,91%... será aplicado o desconto médio de 41,98%",
+  "installments": "CONTA DEMAIS (ANEXO IV): 120 PARCELAS MENSAIS"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "installments",
+  "approval_date"
+ ],
+ "id": "6b14705510af",
+ "title": "Termo de Transação Individual - Steviafarma Industrial S.A",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualSteviafarmaIndustrialS.A",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualSteviafarmaIndustrialS.A",
+ "sha256": "a1a8756f67e6c2c2d849db3c48eca28fa538f4907f596b383bba621c004bd050",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

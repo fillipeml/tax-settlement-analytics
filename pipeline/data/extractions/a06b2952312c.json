@@ -1,0 +1,82 @@
+{
+ "taxpayer": "CONSTRAN S/A - CONSTRUÇÕES E COMÉRCIO (e grupo econômico: UTC Engenharia S/A, UTC Participações S/A, UTC Desenvolvimento Imobiliário S/A, Transmix Engenharia Indústria e Comércio S/A, Patrimonial Volga S/A, Cobrazil Engenharia e Construções S/A, Cobrazil Construções S/A, Consórcio Constran-UTC São Manoel, Consórcio Construtor Viracopos, Consórcio Ferrovia de Integração, Consórcio TUC Construções)",
+ "approval_date": "2024-02-27",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em execuções fiscais/ações judiciais",
+  "Cessão do valor de indenização (precatório) reconhecido à Requerente Constran S/A em processo de liquidação, até o montante necessário à liquidação da transação",
+  "Penhora do crédito reconhecido à Requerente Constran S/A nos autos de processo judicial, a ser formalizada na Execução Fiscal"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Declarar que preenchem os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta",
+  "Declarar que não alienaram ou oneraram bens para frustrar a recuperação dos créditos",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens/direitos não vinculados ao Plano de Recuperação Judicial sem comunicação à Fazenda Nacional",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos comprobatórios de prejuízo fiscal e base negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo lucro real durante a vigência do acordo",
+  "Desistir de impugnações, recursos e ações judiciais relativas à Dívida Transacionada",
+  "Formalizar garantias e ciência ao Juízo da Recuperação Judicial nos prazos estipulados"
+ ],
+ "special_clauses": [
+  "Uso de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização de até 70% do saldo devedor após descontos",
+  "Cessão de precatório (indenização reconhecida à Constran S/A em processo judicial) como garantia e forma de pagamento da parcela-balão (48ª prestação)",
+  "Possibilidade de prorrogação do prazo de liquidação em até 36 meses (Demais Débitos) e 12 meses (Previdenciária) caso o precatório não seja integralmente creditado até o vencimento da 48ª prestação",
+  "Desconto diferenciado: até 70% para Requerentes em Recuperação Judicial e até 65% para Cobrazil Construções S/A e Consórcios (não sujeitos à RJ)",
+  "Vedação à redução do montante principal, com desconto aplicado apenas sobre acréscimos legais (multa, juros e encargos)",
+  "Débitos de FGTS tratados em transação apartada perante a CEF (parcelamento nº 2023005034)"
+ ],
+ "sector": "Construção civil / Engenharia e Infraestrutura",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "foi concedido desconto máximo de até 70% (setenta por cento) do total do valor transacionado, e individualmente considerado a cada uma das CDAs, vedada a redução do montante principal",
+  "installments": "Pagamento da Dívida Transacionada de natureza Previdenciária (\"Dívida Transacionada – Previdenciária\") e Não Previdenciária (\"Dívida Transacionada – Demais Débitos\") em até 48 (quarenta e oito) prestações mensais, sucessivas e escalonadas, conforme Anexo II"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "a06b2952312c",
+ "title": "Termo de Transação Individual  Constran SA Construção e Comércio",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualConstranSAConstruoeComrciotarjada.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualConstranSAConstruoeComrciotarjada.pdf",
+ "sha256": "ccb568791ea36225c94ab95c7241ce43e1a21455025b9794721eb116a1e1b0f0",
+ "extracted_at": "2026-07-22T14:22:39+00:00",
+ "simulated": false
+}

@@ -1,0 +1,87 @@
+{
+ "taxpayer": "BEIRA ALTA COSMETICOS LTDA",
+ "approval_date": "2023-04-14",
+ "consolidated_amount": 49545374.64,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel matriculado sob nº 39.313 do Livro 2 no Registro de Imóveis no Cartório do 1º ofício da comarca da Guarulhos do Estado de São Paulo",
+  "Imóvel matriculado sob nº 39.314 do Livro 2 no Registro de Imóveis no Cartório do 1º ofício da comarca da Guarulhos do Estado de São Paulo",
+  "Veículo TOYOTA COROLLA XEI 2020/2021 - PLACA SP/DSV9G88",
+  "Veículo FORD/CARGO 1119 2016/2017 – PLACA SP/GJX6989",
+  "Veículo FORD/CARGO 816 S 2015/2016 – PLACA SP/FFW1366",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos",
+  "Declarar não ter alienado/onerado bens para frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicar a Fazenda Nacional",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Solicitar à RFB em até 60 dias o envio para inscrição em Dívida Ativa dos débitos do Anexo II",
+  "Comunicar à Fazenda Nacional a efetivação do envio para inscrição em Dívida Ativa",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Oferecer e formalizar garantias nas execuções fiscais em até 45 dias",
+  "Peticionar em até 60 dias nos processos judiciais para desistir de impugnações/recursos e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor de R$ 2.904.172,94 para amortização do saldo devedor após descontos",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL fica suspensa até confirmação pela autoridade competente, no prazo de 5 anos",
+  "Débitos ainda em cobrança na RFB (Anexo II) só serão consolidados após inscrição em Dívida Ativa, gerando reconsolidação de parcelas",
+  "Termo substitui Termo de Transação Individual anterior de 03/04/2023, com alteração de número de processo SEI e inclusão de assinatura do Coordenador-Geral de Estratégias de Recuperação de Créditos"
+ ],
+ "sector": "Cosméticos",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.4,
+  "approval_date": 0.95,
+  "modality": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.6,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "VALOR TOTAL: R$ 49.545.374,64",
+  "total_discount_pct": "Desconto máximo de até 65% (sessenta e cinco por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza previdenciária em 60 (sessenta) prestações mensais, e não previdenciária (\"Dívida Transacionada — Demais Débitos\") em 120 (cento e vinte) prestações mensais"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "ce2371d1fb33",
+ "title": "Termo de Transação Individual - Beira Alta Cosméticos LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualBeiraAltaCosmticosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualBeiraAltaCosmticosLTDA.pdf",
+ "sha256": "c9f6dfbf48b6b7a222fe6695e62be349af647fbc837849b975954452c838a993",
+ "extracted_at": "2026-07-22T14:22:36+00:00",
+ "simulated": false
+}

@@ -1,0 +1,74 @@
+{
+ "taxpayer": "ADLIM TERCEIRIZAÇÃO EM SERVIÇOS ESPECIALIZADOS",
+ "approval_date": "2023-07-03",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 78,
+ "down_payment_pct": 6.0,
+ "guarantees": [
+  "Manutenção de garantias já associadas aos débitos incluídos na transação, inclusive penhoras em execuções fiscais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Renunciar a alegações de direito sobre débitos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Individualizar valores recolhidos nas contas vinculadas dos trabalhadores",
+  "Apresentar demonstrações contábeis e patrimoniais no ato de assinatura",
+  "Apresentar situação econômico-financeira anualmente"
+ ],
+ "special_clauses": [
+  "Uso de prejuízo fiscal e base de cálculo negativa da CSLL para pagamento de 15,01% do saldo remanescente da dívida",
+  "Duas contas independentes de transação: Débitos Previdenciários (48 meses) e Demais Débitos (78 meses), sem prejuízo ao caráter único da transação",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL suspensa até confirmação dos créditos utilizados"
+ ],
+ "sector": "Terceirização de serviços",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.9,
+  "modality": 0.9,
+  "sector": 0.5,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.6,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "discounts": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "O desconto a ser aplicado é de até 65% (sessenta e cinco por cento) sobre cada inscrição, baseado na capacidade de pagamento da DEVEDORA",
+  "installments": "com entrada de 6% da dívida e o saldo, após aplicação do desconto, em 78 (setenta) meses",
+  "down_payment_pct": "com entrada de 6% da dívida e o saldo, após aplicação do desconto, em 78 (setenta) meses"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "total_discount_pct",
+  "discounts",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "2076527c2103",
+ "title": "TermodeTransaoIndividualAdlimTerceirizaoemserviosEspecializados.pdf",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualAdlimTerceirizaoemserviosEspecializados.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualAdlimTerceirizaoemserviosEspecializados.pdf",
+ "sha256": "1207421e4edac9860e121e6c70117cbad36c2c2a7898bd156263ba69f6541ff4",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

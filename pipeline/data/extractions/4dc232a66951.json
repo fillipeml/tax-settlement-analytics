@@ -1,0 +1,76 @@
+{
+ "taxpayer": "RADIAL TRANSPORTE COLETIVO LTDA",
+ "approval_date": "2024-11-29",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 35.65,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Recebíveis oriundos de contrato (dados tarjados) com vigência entre maio/2023 a maio/2033, penhorados na execução fiscal nº 5002600-88.2022.403.6119"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Declarar que preenche os requisitos da Lei nº 13.988/2020",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Manter regularidade perante PGFN e RFB, regularizando em 90 dias débitos supervenientes",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Peticionar em até 30 dias nos processos judiciais para desistir de impugnações/recursos e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Garantia consistente em recebíveis de contrato com vigência entre maio/2023 e maio/2033, com penhora formalizada na execução fiscal nº 5002600-88.2022.403.6119, sem necessidade de repasse dos valores à União salvo em caso de rescisão",
+  "Em caso de rescisão, execução automática da garantia mediante intimação do órgão contratante para depósito judicial de 5% dos pagamentos realizados pela prestação de serviços"
+ ],
+ "sector": "Transporte coletivo",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo no percentual de 35,65%, após a revisão de capacidade de pagamento consoante decisão proferida no requerimento SICAR nº 20240248939 a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais e lineares, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "4dc232a66951",
+ "title": "Termo de Transação Individual - Radial Transporte Coletivo LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRadialTransporteColetivoLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRadialTransporteColetivoLTDATarjado.pdf",
+ "sha256": "16cd1c440fb12531ad4ae1c6fdea48c046c2508208ed364ed4a9b2b61b15f9c0",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

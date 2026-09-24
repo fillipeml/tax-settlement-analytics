@@ -1,0 +1,81 @@
+{
+ "taxpayer": "VIA SUDESTE TRANSPORTES S/A, VIAÇÃO CAMPO BELO LTDA., VIAÇÃO GRAJAÚ S/A. e VIAÇÃO METRÓPOLE PAULISTA S/A. (e Devedoras relacionadas: VIA SUL TRANSPORTES URBANOS LTDA., VIAÇÃO BRISTOL LTDA, EMPRESA AUTO VIAÇÃO TABOÃO LTDA, VIAÇÃO TÂNIA DE TRANSPORTES LTDA, VIAÇÃO CASTELO CENTRAL LTDA MASSA FALIDA (FERRAZ), EMPRESA SÃO LUIZ VIAÇÃO LTDA., AUTO VIAÇÃO TABU LTDA, VIAÇÃO GRAJAÚ S/A., VIAÇÃO CIDADE DUTRA LTDA, VIAÇÃO BOLA BRANCA LTDA, AUTO VIAÇÃO VITÓRIA LTDA, VIP TRANSPORTES URBANOS LTDA, VIP VIAÇÃO ITAIM PAULISTA LTDA., ETU TRANSPORTES URBANOS LTDA., AUTO VIAÇÃO JUREMA LTDA, EMPRESA AUTO ÔNIBUS PENHA SÃO MIGUEL LTDA, EMPRESA DE ÔNIBUS VIAÇÃO SÃO JOSÉ LTDA., EXPRESSO TALGO-TRANSPORTES E TURISMO LTDA, VIAÇÃO MONTE ALEGRE LTDA.)",
+ "approval_date": "2021-07-01",
+ "consolidated_amount": 3124586981.44,
+ "modality": "Transação Individual",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Precatórios cedidos (item 4.1)",
+  "Imóveis de propriedade das Proponentes ou das Devedoras (item 5.1.2)",
+  "Imóveis de propriedade de sócios ou acionistas das Proponentes (item 5.1.3)",
+  "Recebíveis oriundos de contratos com a Prefeitura do Município de São Paulo (item 5.1.4)",
+  "Apólices de seguro-garantia no valor total de R$ 230.366.600,04 (item 5.1.5)"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Confessar irrevogável e irretratavelmente a responsabilidade pelos créditos tributários listados no Anexo 1",
+  "Manter regularidade perante o FGTS (tópico 7)",
+  "Não alienar bens que possam inviabilizar o pagamento sem comunicação à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos, valores e transações sempre que solicitado",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Informar criação de nova pessoa jurídica com objeto de transporte público",
+  "Petições nos processos judiciais para noticiar a celebração da transação (item 8.4)",
+  "Formalizar garantias nos prazos estabelecidos (itens 4.2, 5.3.1 e 5.4)",
+  "Apresentar anualmente demonstrativo de suficiência das garantias (item 5.5.1)"
+ ],
+ "special_clauses": [
+  "Aproveitamento de depósitos judiciais preexistentes imputados diretamente aos débitos garantidos, sem descontos (cláusula 3.1)",
+  "Cessão de precatórios à Fazenda Nacional como garantia e forma de pagamento (tópico 4)",
+  "Possibilidade de alienação de imóveis dados em garantia para amortização do plano de pagamento, com obrigação de garantia substitutiva (tópico 6)",
+  "Criação de quatorze Contas Sispar segregadas por Devedora/natureza de débito (cláusula 2.2)",
+  "Débitos de FGTS transacionados separadamente pela CEF com descontos específicos por empresa (cláusula 7.1.2)",
+  "Prestações 'balão' específicas cuja falta de pagamento gera rescisão imediata (cláusula 10.1.2)",
+  "Limitação da homologação judicial a processos específicos listados (cláusula 8.5)"
+ ],
+ "sector": "Transporte público/rodoviário de passageiros (ônibus)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.9,
+  "modality": 0.95,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.85,
+  "installments": 0.8,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.6,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "A Dívida Transacionada totaliza, em junho de 2021, R$ 3.124.586.981,44 (três bilhões, cento e vinte e quatro milhões, quinhentos e oitenta e seis mil, novecentos e oitenta e um reais, e quarenta e quatro centavos)",
+  "total_discount_pct": "Desconto máximo de 50% (cinquenta por cento), incidente sobre a totalidade da Dívida Transacionada, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos).",
+  "installments": "Pagamento da Dívida Transacionada Demais Débitos em 84 prestações mensais."
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "774b12ad961e",
+ "title": "Termo de Transação Individual - Grupo Ruas",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual_grupo-ruas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual_grupo-ruas.pdf",
+ "sha256": "60853f55c6cae554c2afc60a8279aed6946d7120802c9ce8c79f24650c3bc021",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

@@ -1,0 +1,58 @@
+{
+ "taxpayer": "GEOSISTEMAS ENGENHARIA E PLANEJAMENTO LTDA",
+ "approval_date": "2021-06-15",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Termo Aditivo)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "O DEVEDOR dá-se por ciente de que mensalmente deverá recolher os DARFs relativos a cada uma das contas formalizadas no sistema informatizado",
+  "Todas as contas compõem uma transação única, de forma que eventual inadimplência constatada para qualquer dessas contas implicará a inadimplência de toda a transação"
+ ],
+ "special_clauses": [
+  "Ficam incluídas no acordo de transação individual as CDAs 40 2 21 003033-18, 40 2 21 003064-14, 40 2 21 003091-97, 40 2 21 003093-59 e 40 2 21 003096-00",
+  "Para a inclusão dos novos débitos, está formalizada a conta SISPAR nº. 4510866, com as mesmas condições de desconto e prazo total de parcelamento da conta 4406951, sendo as parcelas da nova conta escalonadas na mesma proporção do escalonamento da referida conta 4406951",
+  "O inciso II da Cláusula 10 passa a dispor: 'a falta de pagamento de 3 (três) parcelas consecutivas ou alternadas, ou de qualquer número de parcelas, caso vencido o prazo total da transação, o que ocorrer primeiro'"
+ ],
+ "sector": "Engenharia/Construção",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.8,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "sector",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "3b8577fb8764",
+ "title": "Primeiro Termo Aditivo - Geosistemas",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/primeiro-termo-aditivo-geosistemas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/primeiro-termo-aditivo-geosistemas.pdf",
+ "sha256": "379d6aaa4ed1cf3c44c61def8dc92cc43f06eff82786c8a43b58ec0704b61c10",
+ "extracted_at": "2026-07-22T14:35:18+00:00",
+ "simulated": false
+}

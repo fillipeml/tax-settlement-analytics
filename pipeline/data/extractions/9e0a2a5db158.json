@@ -1,0 +1,79 @@
+{
+ "taxpayer": "GRAND BRASIL COMÉRCIO DE VEÍCULOS E PEÇAS LTDA",
+ "approval_date": "2024-09-25",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - modalidade DEMAIS",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantém-se as garantias dos débitos eventualmente existentes até a quitação integral do saldo devedor do Acordo de Transação"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar sob as penas da lei que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar capacidade de pagamento sem comunicação à Fazenda",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo",
+  "Peticionar em até 60 dias após assinatura nos processos judiciais para noticiar a celebração da Transação, desistir de impugnação/recurso/ação e renunciar aos direitos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito no valor de R$ 5.320.917,47, aproximadamente 70% a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, para amortização do saldo devedor após aplicação dos descontos",
+  "Desconto máximo de até 60% a cada uma das CDAs individualmente, vedada a redução do montante principal, aplicado proporcionalmente sobre acréscimos legais (multa, juros e encargos)",
+  "Créditos que a Requerente venha a dispor por precatório ou levantamento de depósito judicial deverão ser direcionados para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Comércio de veículos e peças",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.2,
+  "total_discount_pct": 0.2,
+  "installments": 0.9,
+  "down_payment_pct": 0.1,
+  "discounts": 0.3,
+  "guarantees": 0.6,
+  "obligations": 0.85,
+  "special_clauses": 0.7,
+  "judicial_recovery": 0.1
+ },
+ "source_excerpts": {
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 36 (trinta e seis) prestações mensais e sucessivas, conforme Anexo II, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector",
+  "guarantees"
+ ],
+ "id": "9e0a2a5db158",
+ "title": "Termo de Transação Individual - Grand Brasil Comércio de Veículos e Peças LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualGrandBrasilComrciodeVeculosePeasLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualGrandBrasilComrciodeVeculosePeasLTDATarjado.pdf",
+ "sha256": "4abcde9eeababd247a6ca2ddf6349bd886733d64835ba6137640b84ef9c8b48f",
+ "extracted_at": "2026-07-22T14:22:42+00:00",
+ "simulated": false
+}

@@ -1,0 +1,81 @@
+{
+ "taxpayer": "Grupo econômico ZIHUATANEJO DO BRASIL ACUCAR E ALCOOL S.A (e demais empresas correlacionadas: S/A LEAO IRMAOS ACUCAR E ALCOOL, COMPANHIA GERAL DE MELHORAMENTOS EM PERNAMBUCO, KELBE COMERCIAL EXPORTADORA DE ACUCAR E PARTICIPACOES LTDA, DESTILARIA GAMELEIRA S/A, EDITORA FOLHA DE PERNAMBUCO LTDA) - todas em Recuperação Judicial (exceto Editora Folha de Pernambuco)",
+ "approval_date": "2022-12-30",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 96,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhoras em execuções fiscais já existentes (mantidas)",
+  "Imóvel de matrícula nº [tarjado] do Cartório de Registro de Imóveis de Rio Largo/AL, correspondente a 358,4600ha da FAZENDA UTINGA (parte IV), valor estimado de R$ 150.000.000,00",
+  "Bens/direitos relativos a dívidas de FGTS: Engenho Quarto Partes do Engenho Novo (R$ 38.000.000,00), Engenho Campanha (R$ 19.000.000,00), Engenho Canadá (R$ 16.000.000,00), Engenho Vicente Campelo (R$ 115.000.000,00), Primavera (R$ 15.270.140,00), Dunga (R$ 1.500.000,00), Burarema (R$ 13.200.000,00), 60 hectares da Fazenda Utinga (R$ 6.600.000,00) - total R$ 224.570.140,00",
+  "Precatórios federais, estaduais ou municipais e demais créditos liquidados em favor dos devedores vinculados como garantia",
+  "Direito creditório decorrente do Processo 0003176-83.2015.4.05.0000"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Renunciar a alegações de direito sobre ações/recursos relativos aos créditos transacionados",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa após a formalização do acordo",
+  "Não alienar bens/direitos sem comunicação à Fazenda Nacional durante o cumprimento do acordo",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos da RFB com prestações do acordo",
+  "Autorizar compensação de precatórios federais com prestações do acordo",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas dos trabalhadores (FGTS)",
+  "Apresentar demonstrações contábeis e patrimoniais anualmente ou quando solicitado pela PGFN",
+  "Pagar regularmente os tributos correntes",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo"
+ ],
+ "special_clauses": [
+  "Entrada de R$ 32.622.930,66 decorrente da venda por alienação direta a Vitor Elisio Poltronieri de matrículas imobiliárias de propriedade da Destilaria Gameleira S/A, com liberação de penhoras",
+  "Aproveitamento de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para pagamento de até 62,5% do saldo remanescente da dívida, vedado para débitos de Contribuição Social da LC 110/2001 e de pessoa física",
+  "Oferecimento de imóvel (Fazenda Utinga) como garantia com projeto de loteamento urbano estimado em R$ 150.000.000,00, com meta de venda mínima de 20% ao ano a partir do 36º mês",
+  "Dívidas de FGTS ficam de fora do acordo principal, para discussão judicial, sendo oferecidos bens em garantia específica (Anexo III) no valor total de R$ 224.570.140,00",
+  "Corresponsabilização mútua entre as devedoras e o administrador pessoa física Eduardo de Queiroz Monteiro, com inclusão como corresponsáveis na Dívida Ativa da União",
+  "Possibilidade de alienação dos bens garantidores via sistema COMPREI em caso de descumprimento de prazos",
+  "Valor excedente da venda de imóveis liberado para pagamento de acordo em processo cível distinto (Processo nº 0202994-96.2009.8.26.0100)"
+ ],
+ "sector": "Agroindústria (açúcar e álcool)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "approval_date": 0.95,
+  "modality": 0.95,
+  "sector": 0.8,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "total_discount_pct": "com aproveitamento do desconto de até 70% (setenta por cento), baseado na capacidade de pagamento dos DEVEDORES principais",
+  "installments": "para pagamento da dívida não-previdenciária, em 96 (noventa e seis) meses, e da dívida previdenciária em 60 (sessenta) meses"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "f9c083d3992f",
+ "title": "Termo de Transação Individual - Grupo CUCAU",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualGrupoCUCAUInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualGrupoCUCAUInformaesSigilosasSuprimidas.pdf",
+ "sha256": "9cdbef47f8074e63746ece40000908fecefa0d0a0384cd225cabe8dbba081281",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

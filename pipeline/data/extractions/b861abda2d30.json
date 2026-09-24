@@ -1,0 +1,79 @@
+{
+ "taxpayer": "BASALTO PEDREIRA E PAVIMENTAÇÃO LTDA e outras (grupo econômico) - BASALTO MINERAÇÃO LTDA, BETONIT ENGENHARIA INDÚSTRIA E COMÉRCIO LTDA, CONSTRUTORA ESTRUTURAL LTDA, ESTRUTURAL BLOCOS E TELHAS LTDA, ESTRUTURAL LOGÍSTICA INTEGRADA LTDA, ESTRUTURAL PARTICIPAÇÕES E COMÉRCIO S/A, VITERBO MACHADO LUZ MINERAÇÃO LTDA, PEDREIRA CAMPO REDONDO LTDA, PEDREIRA SAO PEDRO LTDA",
+ "approval_date": "2024-11-19",
+ "consolidated_amount": 428836795.81,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 6,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Autorizar compensação de valores de restituições/ressarcimentos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Comprovar regularização dos débitos de FGTS do Anexo II em até 180 dias",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a formalização",
+  "Comprovar desistência do contencioso administrativo fiscal em até 60 dias",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento",
+  "Manter-se optante pelo regime do lucro real durante a vigência do acordo",
+  "Reconhecer responsabilidade solidária pela totalidade dos débitos transacionados"
+ ],
+ "special_clauses": [
+  "Não haverá oferta de garantia vinculada à presente Transação, tendo em vista objetivo de redução do prazo de pagamento (cláusula 3.1)",
+  "Exclusão de débitos de FGTS do Anexo II, a serem regularizados em até 180 dias, com depósito mensal de R$ 800.000,00 na execução fiscal nº 5015212-92.2024.4.03.6182 enquanto não regularizados",
+  "Utilização de créditos de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL limitada a 70% do saldo da dívida não previdenciária e 62,78% do saldo da dívida previdenciária",
+  "Responsabilidade solidária entre as empresas do grupo pela totalidade dos débitos"
+ ],
+ "sector": "Mineração/Construção civil (pedreiras, concreto e materiais de construção)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.2,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Demais Débitos – Total de R$ 225.423.343,23 (...) atualizado até 09/2024 / Débitos Previdenciários – Total de R$ 203.413.452,58 (...) atualizado até 09/2024",
+  "installments": "Pagamento da Dívida Transacionada, tanto a de natureza não previdenciária (...) quanto a de natureza previdenciária (...) em 6 (seis) prestações mensais sucessivas, na forma discriminada no Anexo IV"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "consolidated_amount"
+ ],
+ "id": "b861abda2d30",
+ "title": "Termo de Transação Individual - Basalto Pedreira e Pavimentação LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualBasaltoPedreiraePavimentaoLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualBasaltoPedreiraePavimentaoLTDATarjado.pdf",
+ "sha256": "c099ecf840ee933ced2f53d8a81a7f52a5db9de10915a8df6c0005760b7f49c1",
+ "extracted_at": "2026-07-22T14:22:36+00:00",
+ "simulated": false
+}

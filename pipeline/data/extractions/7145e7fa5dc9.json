@@ -1,0 +1,61 @@
+{
+ "taxpayer": "LUNDGREN IRMAOS TECIDOS S/A CASAS PERNAMBUCANAS (e demais empresas do grupo/massa falida)",
+ "approval_date": "2023-06-27",
+ "consolidated_amount": 55673360.88,
+ "modality": "Transação individual (Termo Aditivo I)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Efetuar até 30/06/2023 o pagamento dos Documentos de Arrecadação de Receitas Federais emitidos em decorrência da criação das contas de transação SISPAR 8199683 e 8198854"
+ ],
+ "special_clauses": [
+  "Reafirmação dos termos e condições da Transação celebrada no Termo de Transação individual (DOC 34727980)",
+  "Criação de contas de transação SISPAR 8199683 e 8198854 em decorrência da incidência de atualização pela taxa SELIC sobre os débitos transacionados e após a incidência do desconto máximo legalmente admitido"
+ ],
+ "sector": "Varejo/Têxtil",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.4,
+  "approval_date": 0.95,
+  "modality": 0.85,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.7,
+  "special_clauses": 0.7,
+  "judicial_recovery": 0.5
+ },
+ "source_excerpts": {
+  "consolidated_amount": "contas de transação SISPAR 8199683 (R$24.640.677,71) e 8198854 (R$31.032.683,17) totalizando R$55.673.360,88 (cinquenta e cinco milhões, seiscentos e setenta e três mil, trezentos e sessenta reais e oitenta e oito centavos)."
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "7145e7fa5dc9",
+ "title": "Termo de Transação Individual - Lundgren Irmãos Tecidos SA Casas Pernambucanas",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualLundgrenIrmosTecidosSACasasPernambucanastarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualLundgrenIrmosTecidosSACasasPernambucanastarjado.pdf",
+ "sha256": "bbff5c9b2f09aec5da24d3ed025a65b795f277f302b241a1a4908ed972b456d9",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

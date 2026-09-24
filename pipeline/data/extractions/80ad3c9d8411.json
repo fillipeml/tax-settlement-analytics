@@ -1,0 +1,70 @@
+{
+ "taxpayer": "Grupo Nassau/Itapessoca (ITABIRA AGRO INDUSTRIAL S A e outras 39 empresas, representadas por Guilherme Cavalcanti da Rocha Leitão)",
+ "approval_date": "2023-12-20",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Termo Aditivo)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Garantias em favor de ARC DIP JS (bens/ativos imobiliários com constrições em cartório)",
+  "Ativos minerários listados na Cláusula 8ª do Termo de Transação original",
+  "Ativos dados em garantia no Financiamento DIP",
+  "Execução das garantias ofertadas na transação, inclusive através do COMPREI PGFN, em caso de inadimplemento"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Pagamento inicial de R$ 230.000.000,00 prorrogado até 31/01/2024",
+  "Recolhimento de guias de pagamento correspondentes a 1/3 das garantias já constituídas em favor de ARC DIP JS, no prazo de 05 dias úteis da comunicação da formalização cartorária",
+  "Pagamento da totalidade da entrada tão logo atingidos 80% das formalizações das garantias em favor da ARC DIP JS",
+  "Início imediato do procedimento competitivo de venda antecipada dos ativos minerários e dos ativos dados em garantia no Financiamento DIP",
+  "Peticionar no âmbito da Recuperação Judicial, no prazo de 05 dias úteis, para obtenção de aprovação do Juízo competente quanto à venda dos ativos do Financiamento DIP"
+ ],
+ "special_clauses": [
+  "Prorrogação do prazo de pagamento da entrada de R$230 milhões até 31/01/2024, com possibilidade de última prorrogação até 29/02/2024 caso já pago valor mínimo de R$150 milhões",
+  "Supressão/revogação da cláusula de condição suspensiva de validade (Cláusula 10 do Termo original) e do §4º da Cláusula 16",
+  "Vinculação do desembolso da entrada a recursos oriundos de Financiamento DIP (Nota Comercial Escritural) via ARC DIP JS, condicionado ao cumprimento de Condições de Desembolso do Termo de Emissão, cuja avaliação cabe exclusivamente à ARC DIP JS",
+  "Penalidade de proibição de formalização de novo pedido de transação por 2 anos em caso de inadimplemento do pagamento inicial",
+  "Autorização para procedimento competitivo de venda antecipada com possibilidade de proponente âncora (stalking horse) ou leilão judicial"
+ ],
+ "sector": "Agroindústria/Cimentos/Comunicação (grupo econômico diversificado - agroindustrial, cimenteiro, gráfico/editorial)",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "guarantees": 0.75,
+  "judicial_recovery": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "payment_inicial": "Fica prorrogado o prazo para efetivação do pagamento inicial de R$ 230.000.000,00 (duzentos e trinta milhões de reais), definido na Cláusula 3ª, §3º, do Termo de Transação original, até 31/01/2024, mantidas todas as demais exigências estabelecidas anteriormente.",
+  "prorrogacao_condicional": "fica autorizada uma última prorrogação, até 29/02/2024, desde que já pago o valor mínimo de R$ 150.000.000,00 (cento e cinquenta milhões de reais), até 31/01/2024."
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments"
+ ],
+ "id": "80ad3c9d8411",
+ "title": "Termo_de_Aditamento__Transacao__Grupo_Nassau__prorrogacao_entrada__assinado_29_tarjado.pdf",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/Termo_de_Aditamento__Transacao__Grupo_Nassau__prorrogacao_entrada__assinado_29_tarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/Termo_de_Aditamento__Transacao__Grupo_Nassau__prorrogacao_entrada__assinado_29_tarjado.pdf",
+ "sha256": "49fdbb1a5adf878dde0e6b59726d8b5e691233cfe8e69ccd46e5412e56babb8a",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

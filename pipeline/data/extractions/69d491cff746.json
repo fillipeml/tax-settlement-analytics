@@ -1,0 +1,88 @@
+{
+ "taxpayer": "ECOVIX CONSTRUÇÕES OCEÂNICAS S.A. e outras (Grupo Econômico ECOVIX/ENGEVIX/RG ESTALEIROS/NOVAPAR)",
+ "approval_date": "2024-10-25",
+ "consolidated_amount": 756500867.0,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis pertencentes a empresas do Grupo (avaliação global estimada em aproximadamente R$ 145.000.000,00), indicados à penhora junto ao executivo fiscal nº 50018494020244047110 (1ª VF de Pelotas/RS)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN sempre que solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienaram ou oneraram bens com propósito de frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de ativo não circulante",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais quando envolver capacidade de pagamento",
+  "Renunciar a alegações de direito sobre ações judiciais/recursos relativos aos créditos incluídos",
+  "Manter regularidade fiscal perante União e FGTS (CRF)",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas do FGTS dos respectivos trabalhadores",
+  "Manter regime de tributação pelo lucro real (RG ESTALEIRO ERG2 e NOVAPAR) até cumprimento integral do acordo, sob pena de rescisão",
+  "Declarar não possuir créditos líquidos e certos ou precatórios em desfavor da União utilizáveis como pagamento",
+  "Não desistir do acordo (desistência configura rescisão)",
+  "Manter por 5 anos livros e documentos comprobatórios de prejuízo fiscal e BCN da CSLL",
+  "Regularizar em até 90 dias o débito de FGTS FGSP202000436",
+  "Promover atos necessários à formalização da garantia (apresentação de matrículas atualizadas, anuências)",
+  "Manter em dia pagamento de taxas/valores incidentes sobre bens dados em garantia",
+  "Apresentar situação econômico-financeira sempre que solicitado pela PGFN",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias",
+  "Adimplir emolumentos de protesto cartorário eventual"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal (PF) e base de cálculo negativa da CSLL (BCN) no valor nominal de R$ 72.800.000,00 para amortização do saldo devedor, sob condição resolutória de homologação ulterior pela RFB em até 5 anos",
+  "Obrigação de permanecer no regime de tributação pelo lucro real (RG ESTALEIRO ERG2 e NOVAPAR) até cumprimento integral do acordo, sob pena de rescisão",
+  "Reconhecimento expresso de grupo econômico entre as 9 pessoas jurídicas nominadas, com corresponsabilidade solidária",
+  "Inclusão de débito de FGTS (inscrição FGSP202000436) no acordo, com parcelamento em modalidade específica (Modalidade 19 - desconto de 25%)",
+  "Garantia mediante bens imóveis do Grupo já indicados à penhora em execução fiscal específica",
+  "Parcelas das contas tributárias pagas com até 30 dias de atraso não configuram inadimplência"
+ ],
+ "sector": "Naval/Construção de embarcações (estaleiros)",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "judicial_recovery": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "cujo montante totaliza, em setembro/2024, R$ 756.500.867,00 (setecentos e cinquenta e seis milhões, quinhentos mil, oitocentos e sessenta e sete reais), por meio de concessão de descontos, uso de créditos de prejuízo fiscal e base de cálculo negativa da CSLL e parcelamento do saldo."
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "69d491cff746",
+ "title": "Termo de Transação Individual - Ecovix Construções Oceânicas SA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualEcovixConstruesOcenicasSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualEcovixConstruesOcenicasSATarjado.pdf",
+ "sha256": "96539388485133a8396515b8a2f4d1aa311ec235324efb11c5f06a9e14f44914",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

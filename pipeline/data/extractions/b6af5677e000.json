@@ -1,0 +1,79 @@
+{
+ "taxpayer": "CASA DE SAUDE E MATERNIDADE TEREZINHA DE JESUS LTDA",
+ "approval_date": "2025-04-03",
+ "consolidated_amount": 74038793.53,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 96,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis objeto de edificação comercial de uso hospitalar (Rua Gessyr Gonçalves Fontes, nº 139/169 e Rua Manoel Francisco Rosa, nº 156/176, São João de Meriti/RJ) - diversas matrículas",
+  "Penhora sobre 20% dos contratos de recebíveis (faturas de convênios)",
+  "Penhora de 5% da receita bruta mensal da DEVEDORA"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Não alienar bens ou direitos próprios ou de controladores/sócios-administradores sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar/dissimular origem ou destinação de bens",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar livre concorrência",
+  "Renunciar alegações de direito em ações judiciais relativas aos créditos transacionados",
+  "Permanecer nos parcelamentos já aderidos",
+  "Pagar, parcelar ou garantir novos débitos constituídos após a formalização do acordo, no prazo de 90 dias",
+  "Manter regularidade perante o FGTS",
+  "Efetuar pagamento regular dos tributos federais, estaduais e municipais sobre os imóveis dados em garantia",
+  "Permanecer no regime de apuração de IRPJ pelo lucro real até extinção da dívida transacionada",
+  "Compromisso de 20 atendimentos ambulatoriais por dia (05 dias na semana) e um leito de UTI dedicado ao SUS durante a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação de até 70% do saldo remanescente",
+  "Compromisso de desenvolvimento sustentável: 20 atendimentos ambulatoriais/dia e 1 leito de UTI dedicado ao SUS",
+  "Possibilidade de alienação dos imóveis garantidores mediante anuência da CREDORA, com destinação do valor à quitação das parcelas",
+  "Administração judicial nomeada pelo juízo da 3ª Vara Cível de São João de Meriti/RJ em Ação de Dissolução Parcial de Sociedade"
+ ],
+ "sector": "Saúde/hospitalar",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.95,
+  "obligations": 0.85,
+  "judicial_recovery": 0.7,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Das inscrições previdenciárias, constantes do ANEXO I, totalizando R$ 28.635.317,97 ... Das inscrições não previdenciárias, constantes do ANEXO II, totalizando R$ 45.403.475,56",
+  "total_discount_pct": "Concessão do desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a Dívida Transacionada de natureza não-previdenciária pertencente à FAZENDA NACIONAL",
+  "installments": "2.1.4. Pagamento do saldo remanescente dos débitos de natureza não previdenciária a ser efetuado em 96 (noventa e seis) prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "b6af5677e000",
+ "title": "Termo de Transação Individual - Casa de Saúde Terezinha de Jesus LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualCasadeSadeTerezinhadeJesusLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualCasadeSadeTerezinhadeJesusLTDA.pdf",
+ "sha256": "d715871f9304490fc694249b2f7525fd63e4f673b4516600d82df7222a9e2b6b",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

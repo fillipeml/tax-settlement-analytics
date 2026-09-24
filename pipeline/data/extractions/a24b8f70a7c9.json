@@ -1,0 +1,79 @@
+{
+ "taxpayer": "BIMBO DO BRASIL LTDA (codevedora/sucessora); débitos de titularidade do grupo econômico FIRENZE/PÃO GOSTOSO",
+ "approval_date": "2021-01-19",
+ "consolidated_amount": 205565985.66,
+ "modality": "Transação individual",
+ "total_discount_pct": 49.02,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 50.0
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Depósitos judiciais vinculados às execuções fiscais do grupo PÃO GOSTOSO/FIRENZE, calculados em R$19.168.191,07 em novembro de 2020",
+  "Apólices de seguro-garantia vinculadas às execuções fiscais, cujos valores de face totalizam R$27.715.556,89",
+  "Imóvel industrial (matrícula nº 35.368, Jaboatão dos Guararapes-PE), avaliado em R$30.000.000,00",
+  "Prédio (matrícula nº 27.234-A, Rio de Janeiro-RJ), avaliado em R$25.633.000,00",
+  "Terreno (matrícula 195.014, São Paulo-SP), avaliado em R$106.646.000,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos listados nos Anexos I a III",
+  "Inclusão do CNPJ como codevedora no cadastro da dívida ativa",
+  "Adimplemento do plano de pagamento mensal via SISPAR",
+  "Manter regularidade perante o FGTS",
+  "Manter regular a situação dos parcelamentos vigentes",
+  "Não alienar bens sem comunicação à Fazenda Nacional",
+  "Fornecer informações econômico-fiscais sempre que solicitado",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Requerer transformação em pagamento definitivo dos depósitos judiciais em até 30 dias",
+  "Peticionar nos processos judiciais para noticiar o acordo em até 30 dias",
+  "Pagar, parcelar ou garantir novos débitos em até 90 dias, se BIMBO for incluída como corresponsável"
+ ],
+ "special_clauses": [
+  "BIMBO não reconhece ser parte integrante do grupo econômico Firenze/Pão Gostoso, figurando apenas como terceiro interessado por sucessão tributária (aquisição de estabelecimento)",
+  "Levantamento parcial do depósito judicial vinculado à execução fiscal nº 0004310-26.1999.4.02.5001 para liquidação dos débitos de FGTS",
+  "Revisão anual das garantias para liberação de excesso, iniciando pelos seguros-garantia e depois pelas penhoras de imóveis",
+  "Reunião de execuções fiscais de pequeno valor perante os Juízos de Execuções Fiscais do Espírito Santo",
+  "Possibilidade de desistência de execuções de pequeno valor sem garantia útil, a critério da PGFN"
+ ],
+ "sector": "Alimentício (panificação industrial)",
+ "confidence": {
+  "taxpayer": 0.8,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.6,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.5,
+  "guarantees": 0.95,
+  "obligations": 0.85,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "135.931.577,42 (não previdenciários) + 66.907.846,06 (previdenciários) + 2.726.562,18 (FGTS) = 205.565.985,66",
+  "total_discount_pct": "50% (não previdenciários); 49,14% (previdenciários); 0% (FGTS)",
+  "installments": "O plano de pagamento relativo aos débitos não previdenciários (Anexo I) prevê o recolhimento de 84 parcelas mensais no valor de R$809.116,53 (em novembro de 2020)."
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "discounts",
+  "down_payment_pct",
+  "judicial_recovery",
+  "taxpayer"
+ ],
+ "id": "a24b8f70a7c9",
+ "title": "Termo de Transação Individual - Bimbo do Brasil",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualBimbodoBrasil.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualBimbodoBrasil.pdf",
+ "sha256": "85919158d30080011753c08dc985f75f525ab137bc88f3efe6a1d712d66293c5",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

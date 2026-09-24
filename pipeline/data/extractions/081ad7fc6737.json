@@ -1,0 +1,75 @@
+{
+ "taxpayer": "CONSÓRCIO INTERMUNICIPAL DA MICRORREGIÃO DE PENÁPOLIS - CIMPE",
+ "approval_date": "2024-10-30",
+ "consolidated_amount": 998351.7,
+ "modality": "Transação Individual (débitos de FGTS)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantém-se as garantias dos débitos eventualmente existentes até a quitação integral do saldo devedor do Acordo de Transação"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens, direitos e valores",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Regularizar, no prazo de 90 dias, os débitos que se tornarem exigíveis após a formalização da Transação",
+  "Manter-se regular e em dia com as Transações, NJP e Parcelamentos em curso, quitando mensalmente as parcelas devidas",
+  "Petição em até 60 dias após a assinatura para noticiar ao juízo a celebração da Transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Vedada a redução do montante devido aos trabalhadores na dívida FGSP202200958 (desconto aplicado proporcionalmente sobre acréscimos legais)",
+  "Vedada a redução do principal na dívida CSSP202200959 (desconto aplicado proporcionalmente sobre acréscimos legais)",
+  "Pagamentos à vista, em até 30 dias da data da contratação, conforme orientações da Caixa Econômica Federal"
+ ],
+ "sector": "Saúde pública (consórcio intermunicipal de saúde)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 998.351,70 (novecentos e noventa e oito mil, trezentos e cinquenta e um reais e setenta centavos)",
+  "installments": "Os pagamentos serão realizados à vista, devendo ser providenciados em até 30 dias, da data da contratação, conforme orientações encaminhadas pela Caixa Econômica Federal à requerente."
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "081ad7fc6737",
+ "title": "Termo de Transação Individual - Consórcio Intermunicipal da Microrregião de Penpápolis - CIMPE",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualConsrcioIntermunicipaldaMicrorregiodePenppolisCIMPETarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualConsrcioIntermunicipaldaMicrorregiodePenppolisCIMPETarjado.pdf",
+ "sha256": "c3cd83f98dc0f12c6e891715b987ff5ca52d56b84f25be9099e3498ef731e289",
+ "extracted_at": "2026-07-22T14:22:39+00:00",
+ "simulated": false
+}

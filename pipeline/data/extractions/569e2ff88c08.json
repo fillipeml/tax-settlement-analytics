@@ -1,0 +1,83 @@
+{
+ "taxpayer": "CKBV FLORESTAL LTDA",
+ "approval_date": "2024-09-13",
+ "consolidated_amount": 106092661.03,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis - Fazendas CIKEL V e CIKEL IX (avaliação R$ 166.610.597,00)",
+  "Manutenção de gravames de arrolamento de bens, medida cautelar fiscal e garantias já prestadas administrativamente ou em execuções fiscais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar irrevogável e irretratavelmente os débitos do ANEXO I",
+  "Renunciar a alegações de direito e questionamentos dos débitos do ANEXO I",
+  "Manter regularidade perante PGFN e RFB, regularizando em 90 dias débitos que se tornarem exigíveis",
+  "Regularizar novos débitos inscritos em dívida ativa após assinatura, no prazo de 90 dias, incluindo débitos de FGTS",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos que impactem solvabilidade",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou valor de pagamentos",
+  "Anuir com eventual modificação de competência para reunião de processos",
+  "Efetuar tempestivamente as amortizações mensais",
+  "Não utilizar a transação de forma abusiva para limitar concorrência",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Autorizar compensação de precatórios federais e restituições/ressarcimentos com prestações do acordo",
+  "Manter em dia pagamento de impostos e taxas sobre imóvel dado em garantia",
+  "Apresentar situação econômico-financeira anualmente ou quando solicitado pela PGFN",
+  "Desistir de impugnações/recursos administrativos e ações judiciais sobre os débitos do ANEXO I, em 30 dias",
+  "Comprovar oferta de imóveis em penhora no prazo de 30 dias e diligenciar registro da penhora"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL, limitado a 70% do saldo após desconto",
+  "Cobrança do saldo liquidado com uso de créditos de PF/BCN suspensa até confirmação pela RFB (prazo máximo 5 anos)",
+  "Valores bloqueados/depositados em execuções fiscais transformados em pagamento definitivo, com destaque para depósitos judiciais vinculados à ação anulatória nº 0015542-73.2003.4.01.3400",
+  "Faculdade de alienação por iniciativa particular dos bens penhorados, preferencialmente via plataforma COMPREI",
+  "Em caso de desapropriação do imóvel garantido, FAZENDA NACIONAL nomeada procuradora para receber indenização"
+ ],
+ "sector": "Florestal/Agronegócio (manejo florestal madeireiro)",
+ "confidence": {
+  "taxpayer": 0.98,
+  "approval_date": 0.9,
+  "modality": 0.95,
+  "sector": 0.55,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.85,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam R$ 106.092.661,03 (cento e seis milhões, noventa e dois mil, seiscentos e sessenta e um reais e três centavos), atualizado no mês de agosto de 2024",
+  "total_discount_pct": "a presente transação envolve concessão de desconto de até 65% (sessenta e cinco por cento), vedada a incidência sobre o principal do débito",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (demais) será de 120 (cento e vinte) meses e de 60 meses para os previdenciários"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "569e2ff88c08",
+ "title": "Termo de Transação Individual - CKBV Florestal LTDA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualCKBVFlorestalLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualCKBVFlorestalLTDAtarjado.pdf",
+ "sha256": "39ca0ec3a8e0de39b14b6edb6fde283638588c4e705bcf740602e34584eecd68",
+ "extracted_at": "2026-07-21T19:11:37+00:00",
+ "simulated": false
+}

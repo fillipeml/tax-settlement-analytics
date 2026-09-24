@@ -1,0 +1,81 @@
+{
+ "taxpayer": "NORDISK TIMBER LTDA",
+ "approval_date": "2024-07-01",
+ "consolidated_amount": 15058386.94,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel rural denominado Fazenda Patuá, localizado na Estrada do Centrão km 24, Fazenda Patauá, Marabá/PA, com área de 3.001ha, avaliado em R$ 28.000.000,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessa, de forma irrevogável e irretratável, os débitos relacionados no ANEXO I",
+  "Renuncia expressamente a quaisquer alegações de direito sobre ações judiciais relacionadas aos créditos do ANEXO I",
+  "Assume compromisso de manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Obriga-se a regularizar novos débitos inscritos em dívida ativa após a assinatura, no prazo máximo de 90 dias",
+  "Responsabiliza-se por manter a garantia oferecida até o integral cumprimento das condições",
+  "Assume obrigação de informar previamente à PGFN a alienação e/ou disposição de bens e direitos",
+  "Obriga-se a fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Anui com eventual modificação da competência relativa para reunião de processos",
+  "Obriga-se a efetuar tempestivamente os pagamentos referentes às amortizações mensais",
+  "Obriga-se a não utilizar a transação de forma abusiva",
+  "Obriga-se a não utilizar pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declara que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Declara que não possui nenhum precatório federal de que seja credor",
+  "Autoriza compensação de valores de restituições/ressarcimentos com prestações do acordo"
+ ],
+ "special_clauses": [
+  "Flexibilização das regras para aceitação, avaliação, substituição e liberação de garantias (Cláusula 1ª, IV)",
+  "Flexibilização das regras para constrição ou alienação de bens (Cláusula 1ª, V)",
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL aos débitos irrecuperáveis (Cláusula 1ª, I)",
+  "Possibilidade de diferimento ou moratória para débitos de FGTS (Cláusula 1ª, III)",
+  "Produto da venda dos imóveis do ANEXO II será utilizado preferencialmente para quitação do plano de pagamentos (Cláusula 6ª)",
+  "Desconto limitado a até 65%, vedada incidência sobre o principal, considerando capacidade de pagamento e Rating D (dívida de difícil recuperação)"
+ ],
+ "sector": "Agronegócio/madeireiro",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam R$ 15.058.386,94, atualizado no mês de junho/2024",
+  "total_discount_pct": "a presente transação envolve a concessão de descontos limitados ao máximo de até 65% (sessenta e cinco por cento), vedada a incidência sobre o principal do débito",
+  "installments": "Parcelas 1-60 | R$ 83.526,38 | 60 | R$ 5.011.582,96"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "a245b0cebfbb",
+ "title": "Termo de Transação Individual - Nordisk Timber LTDA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualNordiskTimberLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualNordiskTimberLTDAtarjado.pdf",
+ "sha256": "1608d8223dce707294f14fd84740f4163da79c5c72b2fc4c3ce27b8c69b7bda2",
+ "extracted_at": "2026-07-22T14:22:24+00:00",
+ "simulated": false
+}

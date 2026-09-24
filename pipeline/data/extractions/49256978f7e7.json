@@ -1,0 +1,70 @@
+{
+ "taxpayer": "CREDIMOVEIS NOVOLAR LTDA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-09-11",
+ "consolidated_amount": 30400481.74,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bem imóvel penhorado (alienação via COMPREI em caso de rescisão)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienará bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utiliza pessoa interposta para ocultar bens/direitos",
+  "Apresentar situação econômico-financeira anualmente (demonstrações de resultados/balanço contábil)",
+  "Pagar regularmente os tributos correntes",
+  "Desistência de impugnações e recursos administrativos e ações judiciais relacionadas aos débitos",
+  "Adimplir em até 60 dias a totalidade dos débitos existentes perante a RFB, com possibilidade de uso de precatório"
+ ],
+ "special_clauses": [
+  "Pagamento em parcela única com aproveitamento de valores depositados no processo judicial 0805450-69.2022.4.05.8300 (12ª Vara Federal de Pernambuco), oriundos do Precatório 2023.83.00.012.210133",
+  "Venda de bens condicionada à aquiescência da Fazenda Nacional enquanto não liquidada a dívida",
+  "Em caso de rescisão, alienação de bens penhorados via sistema COMPREI com limite mínimo de 50% do valor de avaliação"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.2,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.6,
+  "obligations": 0.85,
+  "judicial_recovery": 1.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "no montante aproximado de R$ 30.400.481,74",
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 65%",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 1 - PARCELA ÚNICA, com aproveitamento dos valores depositados no processo judicial 0805450-69.2022.4.05.8300 (12ª VARA FEDERAL DE PERNAMBUCO), oriundos do PRECATÓRIO 2023.83.00.012.210133"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees"
+ ],
+ "id": "49256978f7e7",
+ "title": "Termo de Transação Individual - Credimoveis Novolar LTDA em recuperação judicial",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndivididualCredimveisNovolarLTDAemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndivididualCredimveisNovolarLTDAemrecuperaojudicialtarjado.pdf",
+ "sha256": "9916f860cbde3ae204cf7c9c0a1fbdb68f3c9e4940e3f79ae991952ebe8a74e1",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

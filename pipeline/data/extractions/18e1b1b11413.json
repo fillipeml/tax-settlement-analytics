@@ -1,0 +1,68 @@
+{
+ "taxpayer": "PETROGAS SERVICOS TECNICOS LTDA",
+ "approval_date": "2023-02-13",
+ "consolidated_amount": 1288178.63,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados/balanço contábil",
+  "Manter livros e documentos por 5 anos comprobatórios do prejuízo fiscal e base de cálculo negativa da CSLL utilizados",
+  "Recolher obrigações tributárias correntes e obrigações acessórias dependentes da obrigação principal",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo",
+  "Comprovar existência, regularidade escritural e disponibilidade dos créditos de prejuízo fiscal e base de cálculo negativa da CSLL"
+ ],
+ "special_clauses": [
+  "Autorização de utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para quitação do saldo devedor, limitado a R$ 1.288.178,63, na faixa de redução de até 10% da dívida remanescente, integralmente aproveitado na conta de débitos previdenciários",
+  "Valores bloqueados via SISBAJUD nas Execuções Fiscais nº 0802904-32.2022.4.05.8400 e 0805766-73.2022.4.05.8400 serão aproveitados para amortização das inscrições exequendas",
+  "Direitos creditórios supervenientes, incluindo precatórios, serão vertidos para pagamento da transação, inclusive para antecipação de parcelas não vencidas"
+ ],
+ "sector": "Serviços técnicos (petróleo/gás)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "installments": 0.7,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.8,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "limitado ao montante de R$ 1.288.178,63 (um milhão, duzentos e oitenta e oito mil, cento e setenta e oito reais e sessenta e três centavos), apresentado pelo contribuinte",
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 65% (sessenta e cinco por cento), observadas suas capacidades de pagamento (CAPAG)",
+  "installments": "pagamento no prazo de 120 (cento e vinte) meses, a dívida não-previdenciária, e no prazo de 60 (sessenta) meses, a dívida previdenciária"
+ },
+ "review_fields": [
+  "sector",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "18e1b1b11413",
+ "title": "Termo de Transação Individual - Petrogás Serviços Técnicos LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualPetrogsServiosTcnicosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualPetrogsServiosTcnicosLTDA.pdf",
+ "sha256": "bde8911c60dd2b68b09587af28185c8ded3d875673391d71ae0b2098e6f8a695",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

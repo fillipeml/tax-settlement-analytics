@@ -1,0 +1,73 @@
+{
+ "taxpayer": "CABRAL DISTRIBUIDORA E COMÉRCIO DE MERCADORIAS LTDA",
+ "approval_date": "2024-07-30",
+ "consolidated_amount": null,
+ "modality": "TRANSAÇÃO INDIVIDUAL",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": 4.0,
+ "guarantees": [
+  "Lote de terreno próprio para construção n. 08, quadra 19, matrícula 13231, avaliado em R$ 320.000,00",
+  "Lote de terreno próprio para construção n. 10, quadra 19, matrícula 13232, avaliado em R$ 440.000,00"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienará bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utiliza ou reconhece pessoa interposta para ocultar bens/direitos/valores",
+  "Não alienou, onerou ou ocultou bens com propósito de frustrar recuperação dos créditos",
+  "Informações cadastrais, patrimoniais e econômico-fiscais verdadeiras (quando envolver CAPAG)",
+  "Apresentar situação econômico-financeira anualmente via demonstrações de resultados/balanço contábil",
+  "Pagar regularmente os tributos correntes",
+  "Peticionar em execuções ajuizadas informando a oferta de garantias",
+  "Desistência de impugnações, recursos administrativos e ações judiciais relativas aos débitos"
+ ],
+ "special_clauses": [
+  "Cláusula 4ª - oferta de imóveis em garantia já penhorados no processo n. 0002116-06.2021.4.05.8302",
+  "Cláusula 5ª, §2º - reconhecimento de que garantias não configuram bens de capital essenciais ao cumprimento do plano de recuperação judicial",
+  "Cláusula 7ª - condições de alienação dos bens em caso de rescisão via sistema COMPREI, com limite mínimo de 50% do valor de avaliação",
+  "Cláusula 16ª - possibilidade de aditamento da transação para inclusão de débitos correntes"
+ ],
+ "sector": "Comércio/distribuição de mercadorias",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.85,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "judicial_recovery": 0.85,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 65%",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 108",
+  "down_payment_pct": "CONTA NÃO PREV 4% 12 PARCELAS 108 LINEARES"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "864647a61da4",
+ "title": "Termo de Transação Individual - Cabral Distribuidora e Comércio de Mercadorias LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCabralDistribuidoraeComrciodeMercadoriasLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCabralDistribuidoraeComrciodeMercadoriasLTDATarjado.pdf",
+ "sha256": "358ca3b5cc0cad830ec6ad5e5889d6de2a94cfab72a94b427accd7606c41b936",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

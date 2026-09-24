@@ -1,0 +1,64 @@
+{
+ "taxpayer": "INSTITUTO NEUROPSIQUIÁTRICO DE CAMPINA GRANDE SC LTDA",
+ "approval_date": "2023-10-26",
+ "consolidated_amount": 6265739.16,
+ "modality": "Transação Individual - Plano de Regularização Fiscal",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Manter regularidade das obrigações tributárias correntes",
+  "Cumprir obrigações acessórias dependentes da obrigação principal",
+  "Desistência de impugnações/recursos/ações judiciais relativas aos débitos incluídos",
+  "Comunicar celebração do acordo nos processos judiciais em curso",
+  "Verter eventuais créditos supervenientes (ex.: precatórios) para pagamento da transação"
+ ],
+ "special_clauses": [
+  "Pagamento à vista da totalidade dos valores previdenciários e não previdenciários com desconto máximo de até 65%, limitado pela capacidade de pagamento (CAPAG) do DW-PGFN",
+  "Cláusula 11: direito creditório superveniente (incluindo precatórios) será vertido para pagamento da transação, mesmo para antecipação de parcelas não vencidas"
+ ],
+ "sector": "Saúde (instituto neuropsiquiátrico)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.8,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "pagamento à vista da totalidade dos valores previdenciários e não previdenciários, no valor total aproximado de R$ 6.265.739,16 até o mês de outubro de 2023",
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 65% (sessenta e cinco por cento), tendo em vista a limitação imposta pela sua capacidade de pagamento (CAPAG)",
+  "installments": "ao pagamento da única parcela por parte do DEVEDOR referente aos valores previdenciários e não previdenciários"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "969f07eabaec",
+ "title": "Termo de Transação Individual - Instituto Neuropsiquiátrico de Campina Grande SC LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualInstitutoNeuropsiquitricodeCampinaGrandeSCLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualInstitutoNeuropsiquitricodeCampinaGrandeSCLTDAtarjado.pdf",
+ "sha256": "2bcff52af2f7a7943cdc051c3c2403c30347d7f8a368aaf9dce4461140771e74",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

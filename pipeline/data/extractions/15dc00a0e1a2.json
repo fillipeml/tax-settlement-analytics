@@ -1,0 +1,81 @@
+{
+ "taxpayer": "IBBA INDUSTRIA BRASILEIRA DE BOMBAS AUTOMOTIVAS SA",
+ "approval_date": "2024-03-19",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": 6.0,
+ "guarantees": [
+  "Mantidas as garantias já existentes até a assinatura deste acordo (não há garantias adicionais)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Declarar, sob as penas da lei, que preenchem os requisitos da Lei 13.988/2020 para gozo dos benefícios específicos da presente modalidade de transação",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Regularizar, no prazo de 30 dias, o saldo decorrente da reconsolidação da(s) conta(s) de transação individual",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento",
+  "Manter-se regular e em dia com as Transações e Parcelamentos em curso, quitando mensalmente as parcelas devidas",
+  "Manter, durante 5 anos, os livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor após aplicação dos descontos em 15,22% para modalidade DEMAIS DÉBITOS e 17,24% para modalidade PREV",
+  "A cobrança do saldo liquidado com uso de créditos decorrentes de prejuízo fiscal e base de cálculo negativa da CSLL ficará suspensa até a confirmação dos créditos pela autoridade competente, dentro do prazo de 5 anos",
+  "Escalonamento das parcelas em 2 faixas: 1ª (parcelas 1 a 12) com entrada de 6% sem desconto; 2ª (parcelas 13 a 60) com saldo consolidado com desconto, amortização da entrada e saldo remanescente dividido em 48 meses lineares",
+  "Não serão prestadas garantias adicionais para a formalização do termo, mantidas as já existentes"
+ ],
+ "sector": "Indústria (bombas automotivas)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.7,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.8,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Na modalidade DEMAIS, desconto máximo de até 50% (cinquenta por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "down_payment_pct": "Na primeira faixa será pago a entrada de 6% do saldo devedor consolidado sem desconto.",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 60 prestações mensais, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "total_discount_pct"
+ ],
+ "id": "15dc00a0e1a2",
+ "title": "Termo de Transação Individual - Ibba Indústria Brasileira de Bombas Automotivas SA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIbbaIndstriaBrasileiradeBombasAutomotivasSAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIbbaIndstriaBrasileiradeBombasAutomotivasSAtarjado.pdf",
+ "sha256": "642257cf32bb0fc53ac665a75e1a196567763a2aca51364bd53bd9d74df127dd",
+ "extracted_at": "2026-07-22T14:22:44+00:00",
+ "simulated": false
+}

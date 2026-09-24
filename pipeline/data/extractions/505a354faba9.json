@@ -1,0 +1,73 @@
+{
+ "taxpayer": "TT BURGER ALIMENTOS LTDA",
+ "approval_date": "2024-04-10",
+ "consolidated_amount": 28550947.51,
+ "modality": "Transação individual",
+ "total_discount_pct": 42.09,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Ficam mantidas as garantias associadas aos débitos transacionados, conforme determina o art. 7º, inciso II, da Portaria PGFN nº 6.757/2022."
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações administrativas ou judiciais relativas à dívida transacionada",
+  "Peticionar nos processos em 30 dias para noticiar a transação e desistir das ações",
+  "Requerer extinção do processo com resolução de mérito (art. 487, III, 'c', CPC)",
+  "Não utilizar pessoa interposta para ocultar bens/direitos",
+  "Fornecer informações econômico-financeiras quando solicitado",
+  "Não utilizar a transação de forma abusiva para prejudicar livre concorrência",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União em 90 dias",
+  "Manter regularidade perante o FGTS e individualizar valores recolhidos"
+ ],
+ "special_clauses": [
+  "Desconto de 42,09% aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), com vedação de redução do montante principal",
+  "Pagamento em parcela única com acréscimo de juros SELIC acumulados mensalmente e 1% no mês do pagamento",
+  "Vedação de migração das inscrições para outra transação de amortização, exceto parcelamento especial criado por lei ou transação por adesão mais benéfica, sem migração dos benefícios acordados"
+ ],
+ "sector": "Alimentação/Food service",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "guarantees": 0.6,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal da DEVEDORA objeto da presente transação, que totaliza R$ 28.550.947,51 (vinte e oito milhões, quinhentos e cinquenta mil, novecentos e quarenta e sete reais e cinquenta e um centavos)",
+  "total_discount_pct": "Concessão do desconto correspondente a 42,09% (quarenta e dois inteiros e nove centésimos por cento) sobre a dívida transacionada, observada a vedação de redução do montante principal dos créditos inscritos em Dívida Ativa da União, sendo o referido desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento à vista do saldo devedor das inscrições listadas nos Anexos I e II após a incidência do desconto previsto na cláusula 2.1.1."
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "505a354faba9",
+ "title": "Termo de Transação Individual - TT Burger Alimentos LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualTTBurgerAlimentosLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualTTBurgerAlimentosLTDAtarjado.pdf",
+ "sha256": "b442478b03fdb6fc75175de3e431c7b528ce23ce258fa9de998fe0c10b88ee00",
+ "extracted_at": "2026-07-22T14:22:31+00:00",
+ "simulated": false
+}

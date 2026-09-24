@@ -1,0 +1,86 @@
+{
+ "taxpayer": "ANC COMERCIO DE IMÓVEIS E SERVICOS LTDA",
+ "approval_date": "2025-04-01",
+ "consolidated_amount": 13867283.95,
+ "modality": "Transação Individual",
+ "total_discount_pct": 37.12,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis matriculados sob os nº 120.255, 120.256, 120.257, 120.258, 120.259, 120.260, 120.261, 175.500, 175.501 e 175.502 no Registro de Caxias do Sul/RS",
+  "Imóveis de matrícula 32.906 e 32.919 registrados na cidade de Farroupilha/SC (Anexo IV)",
+  "Escritura pública de hipoteca (garantia extrajudicial subsidiária, em caso de indeferimento judicial da penhora)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar/dissimular origem ou destinação de bens",
+  "Declarar que não aliena ou onera bens com o propósito de frustrar a recuperação dos créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais de que seja credor",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria PGFN nº 6757/22 e na proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais quando envolver capacidade de pagamento",
+  "Renunciar a alegações de direito sobre ações/recursos referentes aos créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após o acordo",
+  "Não desistir do acordo (sob pena de rescisão)",
+  "Peticionar em até 30 dias nos processos judiciais noticiando a transação e desistindo de embargos/exceções",
+  "Providenciar documentação para perfectibilização da constrição (penhora) dos imóveis oferecidos em garantia",
+  "Pagar custas processuais pendentes e despesas de eventuais cancelamentos de leilões/emolumentos de escritura de hipoteca",
+  "Substituir ou reforçar garantia em caso de perecimento/depreciação/deterioração no prazo de 30 dias",
+  "Adimplir emolumentos decorrentes de protesto cartorário das inscrições abrangidas pela transação",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias dependentes da obrigação principal"
+ ],
+ "special_clauses": [
+  "Nomeação da União como procuradora com poderes em causa própria para receber indenização de desapropriação de bens/direitos dados em garantia e aplicá-la na amortização/liquidação da dívida (Cláusula 7ª, §4º)",
+  "Concordância prévia da Fazenda Nacional para apensamento/reunião das execuções fiscais movidas contra a devedora, caso haja decisão judicial nesse sentido (Cláusula 7ª, §1º)",
+  "Consideração de redução significativa de garantia como a retirada de mais de 25% do valor dos bens oferecidos (Cláusula 7ª, §6º)",
+  "Manutenção automática dos gravames decorrentes de arrolamento, medida cautelar fiscal e garantias já prestadas administrativa ou judicialmente (Cláusula 7ª, §7º)",
+  "Possibilidade de revisão/liberação de garantias em caso de excesso frente ao adimplemento gradativo do plano de pagamento (Cláusula 7ª, §8º)"
+ ],
+ "sector": "Comércio de imóveis e serviços (imobiliário)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts": 0.0,
+  "guarantees": 0.95,
+  "obligations": 0.95,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "A DEVEDORA possui em aberto os débitos elegíveis relacionados no Anexo I que totalizam, em abril/2025, o montante de R$ 13.867.283,95 (treze milhões, oitocentos e sessenta e sete mil, duzentos e oitenta e três reais e noventa e cinco centavos)",
+  "total_discount_pct": "Sobre as inscrições previdenciárias indicadas no Anexo II, que totalizam, em abril/2025, o montante de R$ 5.011.415,96 [...] será aplicado desconto médio de 37,12%, observados os limites do §2º do art. 11 da Lei n. 13.988/2020 [...] Sobre as inscrições de demais débitos indicadas no Anexo III, que totalizam, em abril/2025, R$ 8.855.867,99 [...], será aplicado desconto médio de 37,12%",
+  "installments": "o saldo restante de R$ 5.568.569,79 [...] será pago em 120 (cento e vinte) parcelas escalonadas, mensais e sucessivas, sendo de R$ 31.375,07 [...] a primeira prestação"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "305d45938c7b",
+ "title": "Termo de Transação Individual - ANC Comércio de Imóveis e Serviços LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualANCComrciodeImveiseServiosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualANCComrciodeImveiseServiosLTDA.pdf",
+ "sha256": "36d4dc7c1c1aa41bcb7520a662ee5844cc6d9760fd68fb64cbe3b068ef1219d0",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

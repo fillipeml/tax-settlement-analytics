@@ -1,0 +1,83 @@
+{
+ "taxpayer": "ALTACOPPO INDÚSTRIA E COMÉRCIO DE PRODUTOS DESCARTÁVEIS LTDA. e A.T.P. INDÚSTRIA E COMÉRCIO DE PLÁSTICO LTDA. (grupo econômico Shalev/Djmal)",
+ "approval_date": "2023-03-30",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 61.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Recursos financeiros indisponibilizados na Medida Cautelar Fiscal nº 5016827-88.2022.4.03.6182, depositados na conta única do Tesouro Nacional",
+  "Direitos creditórios no montante de R$ 4.720.000,00 referentes às parcelas vincendas do Instrumento de Venda e Compra do imóvel localizado na Rua Veiga Filho, 70, São Paulo-SP",
+  "Hipoteca de segundo grau sobre imóvel na Rua dos Tucanos, nº 235, Carapicuíba/SP (matrícula tarjada)",
+  "Bens imóveis conforme Anexo III (apartamentos, terreno e outros imóveis)",
+  "Veículos automotores conforme Anexo IV",
+  "Quotas societárias em participações de empreendimentos imobiliários, marcas e patentes, quotas societárias em sociedades empresárias e maquinário industrial conforme Anexo V",
+  "Veículos alienados: BMW/X3 XDRIVE35I, I/LR EVOQUE DYNAMIC 5D, PORSCHE TAYCAN 4S"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar origem/destinação de bens",
+  "Declarar não ter alienado/onerado bens para frustrar recuperação de créditos",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicar à Fazenda Nacional",
+  "Formalizar penhora dos imóveis, veículos e quotas societárias dados em garantia no prazo de 30 dias",
+  "Peticionar em até 15 dias para noticiar celebração da transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Reconhecimento de que as Proponentes/Devedoras integram o mesmo grupo econômico de direito, concordando com inserção como corresponsáveis nos sistemas da Dívida Ativa",
+  "Possibilidade de alienação de imóveis das intervenientes anuentes após pagamento regular até a 70ª parcela, mediante prévia anuência da Fazenda Nacional",
+  "Substituição de garantias por novos bens imóveis edificados durante o cumprimento do termo",
+  "Utilização do Sistema COMPREI da PGFN para eventual alienação de imóveis dados em garantia",
+  "Renovação de hipoteca cedular de primeiro grau em favor da Braskem S.A. como condição prévia à averbação de hipoteca de segundo grau à Fazenda Nacional",
+  "Substituição de veículos sinistrados por novos com recursos de indenização de seguradora"
+ ],
+ "sector": "Indústria de embalagens/produtos descartáveis e plásticos",
+ "confidence": {
+  "taxpayer": 0.8,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.3,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.75,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "total_discount_pct": "O desconto médio aplicado à transação é de aproximadamente 61% (sessenta e um por cento), em respeito à vedação de redução do montante principal, sendo aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "sector",
+  "taxpayer"
+ ],
+ "id": "87650064b150",
+ "title": "Termo de Transação Individual - Altacorpo Indústria e Comércio de produtos descartáveis",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAltacorpoIndstriaeComrciodeprodutosdescartveisLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAltacorpoIndstriaeComrciodeprodutosdescartveisLTDA.pdf",
+ "sha256": "6b1d54969703e1efa64d0ca16cb7ccfef0a56ea6a503421766a33ccb153712a8",
+ "extracted_at": "2026-07-22T14:22:35+00:00",
+ "simulated": false
+}

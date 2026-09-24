@@ -1,0 +1,78 @@
+{
+ "taxpayer": "FAE – Sistemas de Medição S/A em Recuperação Judicial",
+ "approval_date": "2023-11-14",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": 6.0,
+ "guarantees": [
+  "Manutenção de gravames decorrentes de arrolamento de bens",
+  "Medida cautelar fiscal",
+  "Garantias prestadas administrativamente",
+  "Penhoras existentes nos executivos fiscais em trâmite"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não dispensa o recolhimento das obrigações tributárias correntes",
+  "Cumprimento das obrigações acessórias dependentes da obrigação principal",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após a formalização",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil",
+  "Manter livros e documentos exigidos pelas normas fiscais por 5 anos, comprobatórios dos montantes de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Permanecer no regime de tributação Lucro Real enquanto vigente a transação",
+  "Peticionar nos processos judiciais em até 60 dias após a assinatura, noticiando a celebração do acordo",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relacionadas aos débitos"
+ ],
+ "special_clauses": [
+  "Desconto máximo de até 65% em cada inscrição, vedada a redução do montante principal, aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargo legal), em razão da situação de recuperação judicial (art. 25, III, b, da Portaria PGFN 6.757/22)",
+  "Autorização de utilização de créditos de prejuízo fiscal acumulado e base de cálculo negativa da CSLL para quitação de até 65% do saldo devedor, aplicado integralmente na conta previdenciária",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente, nos termos da legislação e entendimentos que regem a recuperação judicial",
+  "Substituição de bens garantidores mediante comprovação de avaliação idônea e concordância da Fazenda Nacional",
+  "Venda dos bens garantidores condicionada à aquiescência da Fazenda Nacional, com reversão do produto da alienação para quitação do acordo",
+  "Exceção quanto à utilização de créditos referentes à exclusão do ICMS da base de cálculo do PIS/COFINS já objeto de compensação pela contribuinte (Cláusula 17)",
+  "Foro eleito: Seção Judiciária de Pernambuco"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.9,
+  "installments": 0.6,
+  "discounts": 0.2,
+  "guarantees": 0.7,
+  "obligations": 0.8,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "down_payment_pct": "Entrada de 6% do valor consolidado sem desconto em 12 parcelas nas contas previdenciárias e não previdenciárias;",
+  "installments": "Pagamento do remanescente da dívida transacionada de natureza não previdenciária em 84 (oitenta e quatro) prestações mensais lineares, após o pagamento da entrada;"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "sector",
+  "installments",
+  "discounts",
+  "guarantees"
+ ],
+ "id": "6e4623d3103e",
+ "title": "Termo de Transação Individual - FAE - Sistemas de Mediação",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualFAESistemasdeMediaoSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualFAESistemasdeMediaoSA.pdf",
+ "sha256": "bc75a23d99d1e60fa011b27603c7414de37e34f6a0faed800cbfa7fce2743a48",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

@@ -1,0 +1,73 @@
+{
+ "taxpayer": "CLÍNICA ENIO SERRA LTDA",
+ "approval_date": "2025-06-27",
+ "consolidated_amount": 30153188.75,
+ "modality": "Transação Individual",
+ "total_discount_pct": 46.44,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis localizados na Rua Soares Cabral, nº 34/36, Laranjeiras (Clínica Enio Serra), Rio de Janeiro/RJ, CEP 22.240-070, Matrículas nºs 247-080 e 247-081 do 9º CRI do Rio de Janeiro/RJ"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter a regularidade perante o Fundo de Garantia por Tempo de Serviço",
+  "Manter a regularidade perante a Procuradoria-Geral da Fazenda Nacional e a Secretaria da Receita Federal do Brasil, regularizando, no prazo de 90 dias, os débitos que se tornarem exigíveis após a formalização da Transação",
+  "Em até 60 dias da assinatura do Acordo, peticionar em todos os processos judiciais que tenham por objeto a Dívida Transacionada, a fim de noticiar a celebração da Transação, desistir da ação, impugnação ou recurso e renunciar aos direitos sobre os quais se fundam",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos ora assumidos, sem proceder à devida comunicação à Fazenda Nacional",
+  "Autorizar o acesso da Fazenda Nacional a suas declarações e escritas fiscais",
+  "No prazo de 30 dias da assinatura do Acordo, formalizar a garantia através do oferecimento dos bens ou direitos à penhora, nos autos da execução fiscal nº 5032158-48.2023.4.02.5101"
+ ],
+ "special_clauses": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal, penhoras ou garantias prestadas administrativamente",
+  "Possibilidade de alienação dos ativos dados em garantia mediante anuência prévia e expressa da Fazenda Nacional",
+  "Utilização da Plataforma Comprei para eventual alienação dos bens e direitos que garantem a Transação",
+  "Encerramento das contas de parcelamento ou transações anteriores identificadas no Sispar pelos números 1263641, 1304703, 2510965, 9891094, 10540907, 10603410, 12634386, para reconsolidação nos termos deste Acordo"
+ ],
+ "sector": "Saúde/Clínica médica",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Consolidado R$ 10.289.360,04 (Demais Débitos) / Valor Consolidado R$ 19.863.828,71 (Débitos Previdenciários)",
+  "total_discount_pct": "Desconto 49,82% (Demais Débitos) / Desconto 44,36% (Débitos Previdenciários)",
+  "installments": "6.3.1. O saldo devedor remanescente da Dívida Transacionada - Previdenciária será adimplido em 60 (sessenta) prestações mensais sucessivas... 6.3.2. O saldo devedor remanescente da Dívida Transacionada - Demais Débitos será adimplido em 120 (cento e vinte) prestações mensais sucessivas..."
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery",
+  "consolidated_amount",
+  "total_discount_pct"
+ ],
+ "id": "11b958e64947",
+ "title": "Termo de Transação Individual - Clínica Ênio Serra LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualClnicanioSerraLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualClnicanioSerraLTDA.pdf",
+ "sha256": "634a97025bed771e80949d5a25c79787566cc426b7104ed865cb854c6b9e240d",
+ "extracted_at": "2026-07-22T14:22:29+00:00",
+ "simulated": false
+}

@@ -1,0 +1,82 @@
+{
+ "taxpayer": "INDÚSTRIAS MANGOTEX LTDA",
+ "approval_date": "2024-11-18",
+ "consolidated_amount": 55692973.7,
+ "modality": "Transação Individual",
+ "total_discount_pct": 51.34,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens móveis descritos no Anexo III (máquinas e equipamentos)",
+  "Manutenção de gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações judiciais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar, sob as penas da lei, que preenchem os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos fiscais, inclusive comprobatórios de prejuízo fiscal e base negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação, desistir de impugnações/recursos e renunciar direitos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 35,395% do saldo da dívida após aplicação dos descontos",
+  "Eventuais créditos que a Requerente venha a dispor (precatório, depósito judicial etc.) deverão ser direcionados para adimplemento dos saldos devedores da Transação",
+  "Utilização do sistema COMPREI para eventual alienação dos bens já penhorados em Execuções Fiscais",
+  "Alienação dos bens em garantia condicionada à inclusão da Fazenda Nacional como interveniente anuente"
+ ],
+ "sector": "Indústria têxtil/borracha (manufatura)",
+ "confidence": {
+  "taxpayer": 0.98,
+  "approval_date": 0.95,
+  "modality": 0.95,
+  "sector": 0.5,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.9,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total R$ 55.692.973,70",
+  "total_discount_pct": "o que implica numa média concedida aproximada de 51,34% (cinquenta e um inteiros e trinta e quatro centésimos por cento), no presente acordo, conforme consta detalhado no Anexo II",
+  "installments": "Pagamento da Dívida Transacionada de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") será dividida em 36 (trinta e seis) prestações mensais escalonadas"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "94165949a115",
+ "title": "Termo de Transação Individual - Indústria Mangotex LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualIndstriaMangotexLTDATarajado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualIndstriaMangotexLTDATarajado.pdf",
+ "sha256": "2c816c0e8a8359f92dac997d66a5d5c58b50dd7fc5da050f43f029cc02d64bf9",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

@@ -1,0 +1,74 @@
+{
+ "taxpayer": "FERNANDO LUCIO GIACOBO",
+ "approval_date": "2023-08-04",
+ "consolidated_amount": 11933085.05,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 135,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessa, de forma irrevogável e irretratável, os débitos relacionados no ANEXO I, renovada a cada pagamento periódico",
+  "Renuncia expressamente a quaisquer alegações de direito, atuais ou futuras, sobre as quais se fundem ações judiciais, incluídas as coletivas, ou recursos que tenham por objeto os créditos relacionados no ANEXO I",
+  "Assume o compromisso de manter a regularidade das obrigações de FGTS e tributárias federais correntes, vencidas a partir da data da assinatura da transação, inclusive as retenções legais, na condição de responsável tributário",
+  "Obriga-se a regularizar os novos débitos inscritos em dívida ativa após a assinatura da transação, no prazo máximo de 90 (noventa) dias, o mesmo se aplicando a eventuais novos débitos de FGTS, os quais deverão ser quitados ou parcelados junto à Caixa Econômica Federal, no mesmo prazo retromencionado",
+  "Assume a obrigação de informar previamente à PGFN a alienação e/ou disposição de bens e direitos, inclusive o valor da operação, ainda que não oferecidos em garantia desta transação, bem como o recebimento de precatório e/ou o levantamento de depósito judicial",
+  "Obriga-se a utilizar, como reforço do plano de amortização, créditos líquidos, certos e exigíveis que venham a apurar no curso deste pacto em desfavor da FAZENDA NACIONAL, como decorrência de litígio judicial, sempre respeitada a preferência dos credores prioritários",
+  "Obriga-se a fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Anui com eventual modificação da competência relativa para a reunião de processos envolvidos na transação",
+  "Obriga-se a efetuar tempestivamente os pagamentos referentes às amortizações mensais acordadas na transação",
+  "Obriga-se a não utilizar a transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar de qualquer forma a livre concorrência ou a livre iniciativa econômica",
+  "Obriga-se a não utilizar pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores",
+  "Declara que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Autoriza a compensação, no momento da efetiva disponibilização financeira, de valores relativos a precatórios federais de que venha a ser credor"
+ ],
+ "special_clauses": [
+  "Desistência do Mandado de Segurança nº 1020941-65.2023.4.01.3400, em curso perante a 1ª Vara Federal de Brasília - Seção Judiciária do Distrito Federal",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, de medida cautelar fiscal e das garantias prestadas administrativamente ou nas ações de execução fiscal ou em qualquer outra ação judicial"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal do DEVEDOR inscrito em dívida ativa da União, parte desta transação, é composto por todos os seus créditos fiscais relacionados no ANEXO I, que totalizam R$ 11.933.085,05, atualizado no mês de julho de 2023",
+  "total_discount_pct": "a presente transação envolve a concessão de descontos limitados ao máximo de até 70% (setenta por cento), vedada a incidência sobre o principal do débito, considerando a capacidade de pagamento do DEVEDOR",
+  "installments": "o prazo para pagamento dos débitos será de 135 meses, com prestações lineares"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery",
+  "special_clauses"
+ ],
+ "id": "ea081ad0aef6",
+ "title": "Termo de Transação Individual - Fernando Lúcio Giacobo",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-fernando-lucio-giacobo.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-fernando-lucio-giacobo.pdf",
+ "sha256": "6c981a79db1378630f223ad86285bdba6407539e03f733b889746a444e4e8622",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

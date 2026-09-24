@@ -1,0 +1,74 @@
+{
+ "taxpayer": "GRUPO ITAVEMA",
+ "approval_date": "2024-02-29",
+ "consolidated_amount": 298084227.12,
+ "modality": "Transação Individual",
+ "total_discount_pct": 40.05,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 24,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à Procuradoria-Geral da Fazenda Nacional conhecer suas situações econômicas ou eventuais fatos que impliquem a rescisão do acordo",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar de qualquer forma a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores, seus reais interesses ou a identidade dos beneficiários de seus atos, em prejuízo da Fazenda Pública Federal",
+  "Declarar que não alienaram ou oneraram bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas à administração tributária são verdadeiras e que não foram omitidas informações quanto à propriedade de bens, direitos e valores",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União, reconhecidos em decisão judicial transitada em julgado, ou precatórios federais expedidos em favor do contribuinte",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 (noventa) dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos neste termo, sem proceder à devida comunicação à Fazenda Nacional",
+  "Reconhecer, cada uma, a responsabilidade solidária pela totalidade dos débitos aqui transacionados, observando-se o que dispõe os arts. 124 e 125 do Código Tributário Nacional",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo, tendo em vista a utilização de prejuízo fiscal e base de cálculo negativa de contribuição social sobre o lucro líquido na presente transação"
+ ],
+ "special_clauses": [
+  "Vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 70% do saldo da dívida após a aplicação dos descontos",
+  "A cobrança do saldo liquidado com uso de créditos decorrentes de prejuízo fiscal e de base de cálculo negativa da CSLL ficará suspensa até a confirmação dos créditos utilizados pela autoridade competente, dentro do prazo legal de cinco anos da sua utilização",
+  "Por se tratar de Grupo empresarial em que haverá reconhecimento formal de responsabilidade tributária solidária, não haverá oferta de garantia vinculada à Transação",
+  "Reconhecimento expresso administrativo do Grupo Econômico formado pelas empresas indicadas inicialmente, evitando futuras discussões judiciais a seu respeito, bem como potencial rescisão da Transação com a perda de todos os benefícios concedidos",
+  "Desistência do Cumprimento de Sentença n. 0023310-10.2004.403.6100 e das impugnações ou dos recursos interpostos, com não condenação em honorários advocatícios exclusivamente quanto a esse processo"
+ ],
+ "sector": "Comércio de veículos (concessionárias automotivas)",
+ "confidence": {
+  "taxpayer": 0.85,
+  "sector": 0.8,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.95,
+  "discounts": 0.3,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.3,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 298.084.227,12 (Duzentos e noventa e oito milhões, oitenta e quatro mil, duzentos e vinte e sete reais e doze centavos) (Valores atualizados para Agosto de 2023)",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), o que implica numa média concedida aproximada de 40,05% no presente acordo",
+  "installments": "Pagamento da Dívida Transacionada, tanto a de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\"), quanto a de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 24 (vinte e quatro) prestações mensais iguais e sucessivas, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "discounts",
+  "judicial_recovery",
+  "taxpayer",
+  "sector"
+ ],
+ "id": "553591c4ca15",
+ "title": "Termo de Transação Individual - Itavema Veículos Seminovos LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualItavemaVeculosSeminovosLTDATarajadocompactado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualItavemaVeculosSeminovosLTDATarajadocompactado.pdf",
+ "sha256": "ad4df94ad3914254f8b3e7246d6914769a1650c3cb333f6226bd71df3321f2d9",
+ "extracted_at": "2026-07-22T14:22:45+00:00",
+ "simulated": false
+}

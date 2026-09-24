@@ -1,0 +1,65 @@
+{
+ "taxpayer": "SANTA CASA DE MISERICÓRDIA DE CAMPOS, CNPJ 28.963.981/0001-91",
+ "approval_date": "Not identified",
+ "consolidated_amount": 102313182.78,
+ "modality": "Transação individual - modalidade 06",
+ "total_discount_pct": 54.19,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de eventuais garantias eventualmente existentes nos processos em curso",
+  "Imóveis"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [
+  "Parcelas escalonadas"
+ ],
+ "sector": "Saúde/Filantropia hospitalar",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.7,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.6,
+  "down_payment_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.7,
+  "obligations": 0.3,
+  "special_clauses": 0.6
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada Total: R$ 102.313.182,78",
+  "total_discount_pct": "Desconto efetivo médio Total: 54,19%",
+  "installments": "Número de parcelas Previdenciária: 60 / Demais débitos: 145"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "modality",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "fee2cd0e09da",
+ "title": "Termo de Transação Individual - Santa Casa de Misericórdia de Campos (Sumário)",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualSantaCasadeMisericrdiadeCamposSumrioTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualSantaCasadeMisericrdiadeCamposSumrioTarjado.pdf",
+ "sha256": "4946f7280e0a83a2099a490a106ae61fc46b2e18670f21f2cc16365c6b6a2964",
+ "extracted_at": "2026-07-22T14:22:31+00:00",
+ "simulated": false
+}

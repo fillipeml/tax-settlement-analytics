@@ -1,0 +1,69 @@
+{
+ "taxpayer": "Município de Miranda/MS",
+ "approval_date": "2025-05-13",
+ "consolidated_amount": 28400446.86,
+ "modality": "Transação Individual",
+ "total_discount_pct": 41.94,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter a regularidade perante o Fundo de Garantia por Tempo de Serviço",
+  "Manter a regularidade perante a Procuradoria-Geral da Fazenda Nacional e a Secretaria da Receita Federal do Brasil, regularizando, no prazo de 90 (noventa) dias, os débitos que se tornarem exigíveis após a formalização da Transação",
+  "Em até 60 (sessenta) dias da assinatura do Acordo, peticionar em todos os processos judiciais que tenham por objeto a Dívida Transacionada",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos, sem comunicação prévia à Fazenda Nacional",
+  "Fornecer, sempre que solicitadas, informações sobre bens, direitos, valores, transações e operações",
+  "Autorizar o acesso da Fazenda Nacional a suas declarações e escritas fiscais"
+ ],
+ "special_clauses": [
+  "Autorização de compensação de precatórios federais e restituições/ressarcimentos/reembolsos da RFB para adimplir prestações vencidas ou vincendas",
+  "Autorização de dedução dos valores devidos dos montantes a serem repassados relacionadas às cotas nos Fundos de Participação, caso Requerente seja Estado ou Município",
+  "Depósitos judiciais vinculados à Dívida Transacionada deverão ser transformados em pagamento definitivo da União, sem descontos"
+ ],
+ "sector": "Administração pública municipal",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.85,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.8,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "13 4 25 022599-06 4380 Previdenciário 16.488.303,52 6.032.623,93 2.581.858,80 3.297.660,61 28.400.446,86 11.912.143,34 65,00% 41,94% 16.488.303,52 (Anexo III - somatório do Vai referente às 4 inscrições)",
+  "total_discount_pct": "Concede-se o desconto máximo de 41,94% (quarenta e um, noventa e quatro por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal.",
+  "installments": "O saldo devedor remanescente da Dívida Transacionada – Previdenciária – código de receita 4380 – Glosa de Compensação Previdenciária será adimplido em 120 (cento e vinte) prestações mensais sucessivas"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "c9d9ce6290b7",
+ "title": "Termo de Transação Individual - Município de Miranda MS",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMunicpiodeMirandaMSTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMunicpiodeMirandaMSTarjado.pdf",
+ "sha256": "c462c6400762d4b00fbef86c7f4afe6a1631a7d23d8b27dbad3ff0f153065635",
+ "extracted_at": "2026-07-22T14:22:48+00:00",
+ "simulated": false
+}

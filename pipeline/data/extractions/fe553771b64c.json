@@ -1,0 +1,74 @@
+{
+ "taxpayer": "SUPERMERCADOS VIANENSE LTDA",
+ "approval_date": "2022-10-20",
+ "consolidated_amount": 227879061.98,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Recebíveis oriundos de vendas a crédito e/ou débito, conforme contrato de prestação de serviço celebrado com REDECARD S/A (REDE)",
+  "5% do faturamento mensal do DEVEDOR",
+  "Bens imóveis relacionados no Anexo III"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à CREDORA conhecer sua situação econômica",
+  "Não utilizar a transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Não utilizar pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores",
+  "Não alienar bens ou direitos próprios sem proceder à devida comunicação à Fazenda Nacional",
+  "Compromisso de manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Compromisso de, no prazo máximo de 90 dias, pagar, parcelar, ou garantir novos débitos inscritos em Dívida Ativa da União",
+  "Autorização de acesso pela CREDORA às declarações e escritas fiscais e informações sobre movimentação financeira"
+ ],
+ "special_clauses": [
+  "Concordância com a imediata transformação em pagamento definitivo dos valores depositados nas Execuções Fiscais nº 0070879-44.2016.4.02.5120 e nº 5004435-36.2019.4.02.5120",
+  "Penhora sobre 5% do faturamento mensal do DEVEDOR limitada à totalidade dos recebíveis de vendas a crédito/débito",
+  "Inclusão futura de débitos do ANEXO II mediante revisão do saldo devedor e recálculo das parcelas"
+ ],
+ "sector": "Supermercados/Varejo alimentar",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.8,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal do DEVEDOR, inscrito em Dívida Ativa da União, é composto pelos débitos discriminados no ANEXO I, totalizando R$ 227.879.061,98, referente ao mês de outubro de 2022.",
+  "total_discount_pct": "Débitos não previdenciários... % Desconto efetivo Possível... até 65% / Débitos Previdenciários... % Desconto efetivo Possível... até 65%",
+  "installments": "O plano de pagamento prevê o recolhimento de 120 parcelas mensais para os créditos não previdenciários e 60 parcelas mensais para os créditos previdenciários"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "total_discount_pct"
+ ],
+ "id": "fe553771b64c",
+ "title": "Termo de Transação Individual - Supermercado Vianense LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualSupermercadoVianenseLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualSupermercadoVianenseLTDA.pdf",
+ "sha256": "953a95e4c66cdb7a6a6de4c61879f2afbfbc4f41ceee0a16967e85fa5ccc070c",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

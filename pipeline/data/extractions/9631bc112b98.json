@@ -1,0 +1,63 @@
+{
+ "taxpayer": "FARMACIA DO POVO BRASILEIRO LTDA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2022-01-28",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Apresentar demonstrações contábeis anualmente",
+  "Recolher obrigações tributárias correntes",
+  "Cumprir obrigações acessórias dependentes da obrigação principal",
+  "Fornecer demonstrações contábeis dos 3 últimos exercícios sociais no ato da assinatura"
+ ],
+ "special_clauses": [
+  "Cláusula 6ª - possibilidade de inclusão de outros débitos inscritos até 31/03/2022 mediante requerimento até 29/04/2022, mantendo desconto máximo de 50% e vedada redução do montante principal",
+  "Anuência do administrador da recuperação judicial para produção de efeitos do termo"
+ ],
+ "sector": "Farmacêutico/varejo",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.7,
+  "discounts": 0.3,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 50% (cinquenta por cento), não implicando, a negociação, a redução do montante principal do crédito inscrito em dívida ativa da União",
+  "installments": "para pagamento no prazo de 84 (oitenta e quatro) meses, da dívida não-previdenciária, e no prazo de 60 (sessenta meses), da dívida previdenciária"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "installments"
+ ],
+ "id": "9631bc112b98",
+ "title": "Termo de Transação Individual - Farmácia do Povo Brasileiro LTDA em recuperação judicial",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-farmacia-do-povo-brasileiro-ltda-em-recuperacao-judicial.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-farmacia-do-povo-brasileiro-ltda-em-recuperacao-judicial.pdf",
+ "sha256": "d83de69d7aceb9a4c9c32555b67484b1a3e3b361ca38e80c459b550ff7219ea6",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

@@ -1,0 +1,79 @@
+{
+ "taxpayer": "FARMATTANA COMÉRCIO DE MEDICAMENTOS E COSMÉTICOS LTDA",
+ "approval_date": "2022-12-15",
+ "consolidated_amount": 12155825.18,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Direitos possessórios sobre imóvel de terceiro (cessão), avaliado conforme laudo, objeto de penhora nas Execuções Fiscais - Anexo IV"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após o acordo",
+  "Reconhecer e confessar de forma irrevogável e irretratável a dívida",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil ou documentos complementares",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições abrangidas",
+  "Peticionar nos processos judiciais noticiando a celebração da transação tributária",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relacionadas aos débitos"
+ ],
+ "special_clauses": [
+  "Garantia consiste em direitos possessórios sobre imóvel registrado em nome de terceiro, com compromisso de transferência via CRI em até 180 dias, sob pena de substituição por garantia de igual ou maior valor",
+  "Nomeação da União como procuradora em causa própria para receber indenização em caso de desapropriação do bem dado em garantia",
+  "Interveniente garantidor pessoa física (Luiz Carlos Mattana) no acordo"
+ ],
+ "sector": "Comércio de medicamentos e cosméticos",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.75,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "cujo montante totaliza em dezembro/2022, R$ 12.155.825,18 (doze milhões, cento e cinquenta e cinco mil, oitocentos e vinte e cinco reais e dezoito centavos), por meio de concessão de descontos e parcelamento escalonado do saldo."
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector",
+  "guarantees"
+ ],
+ "id": "4a4780f473c7",
+ "title": "Termo de Transação Individual - Farmattana Comércio de Medicamentos e Cosméticos LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualFarmattanaComrciodeMedicamentoseCosmticosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualFarmattanaComrciodeMedicamentoseCosmticosLTDATarjado.pdf",
+ "sha256": "3abb30236fdd292c485ec8fcaf1c551bcbb46c0d89be90259ffbb5036c8b682d",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

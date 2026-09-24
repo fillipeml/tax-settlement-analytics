@@ -1,0 +1,82 @@
+{
+ "taxpayer": "ALUMBRA PRODUTOS ELÉTRICOS E ELETRÔNICOS LTDA",
+ "approval_date": "2023-06-07",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (DEMAIS e PREV)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": 65.0,
+  "interest_pct": 65.0,
+  "charges_pct": 65.0
+ },
+ "installments": 108,
+ "down_payment_pct": 5.5,
+ "guarantees": [
+  "Manutenção dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas administrativamente ou em execuções fiscais, inclusive penhoras sobre créditos da Ação nº 0017912-49.2008.4.01.3400",
+  "Imóveis objeto das matrículas nº [tarjado] junto ao 2º Registro de Imóveis de São Bernardo do Campo-SP, de propriedade da Garantidora (Sociedade Obreira de Participações e Administração Ltda)"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Declarar que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar não utilizar pessoa interposta para ocultar bens",
+  "Declarar que não alienou/onerou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais e fiscais",
+  "Autorizar acesso às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos futuros inscritos em DAU",
+  "Não alienar bens que reduzam capacidade de pagamento sem comunicar",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Solicitar à RFB em até 30 dias inscrição em DAU dos débitos do Anexo II",
+  "Comunicar à Fazenda Nacional a efetivação da inscrição em DAU",
+  "Recolher valores das prestações vencidas decorrentes da inclusão dos débitos do Anexo II",
+  "Manter por 5 anos livros e documentos comprobatórios de prejuízo fiscal e base negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União"
+ ],
+ "special_clauses": [
+  "Utilização de crédito no valor de R$ 34.000.000,00 a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, para amortização do saldo devedor após aplicação dos descontos",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal e base de cálculo negativa da CSLL ficará suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de 5 anos",
+  "Oferecimento de garantia por terceira parte (Garantidora - Sociedade Obreira de Participações e Administração Ltda), com imóveis de sua propriedade",
+  "Direcionamento de quaisquer créditos que a Requerente venha a dispor (precatório, depósito judicial, ação judicial) para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Comércio/Indústria de produtos elétricos e eletrônicos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.9,
+  "modality": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.9,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.85,
+  "discounts.interest_pct": 0.85,
+  "discounts.charges_pct": 0.85,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.6,
+  "sector": 0.6,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "down_payment_pct": "Na modalidade DEMAIS, entrada de 5,5% da dívida sem descontos e parcelamento do saldo devido em até 108 (cento e oito) prestações mensais e sucessivas",
+  "installments": "parcelamento do saldo devido em até 108 (cento e oito) prestações mensais e sucessivas, conforme Anexo III",
+  "discounts.fine_pct": "Desconto máximo de até 65% (sessenta e cinco por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "judicial_recovery",
+  "sector",
+  "approval_date"
+ ],
+ "id": "b0c52a6621f8",
+ "title": "Termo de Transação Individual - Alumbra Produtos Elétricos e Eletrônicos LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAlumbraProdutosEltricoseEletrnicosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAlumbraProdutosEltricoseEletrnicosLTDATarjado.pdf",
+ "sha256": "ab712937385a3c930cf19e73451b1630b6aaf6570632040d2186b519b405391f",
+ "extracted_at": "2026-07-22T14:22:35+00:00",
+ "simulated": false
+}

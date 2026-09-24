@@ -1,0 +1,76 @@
+{
+ "taxpayer": "JORCAL ENGENHARIA E CONSTRUÇÕES SA – EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-09-17",
+ "consolidated_amount": 27941669.54,
+ "modality": "Transação Individual",
+ "total_discount_pct": 52.3,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer suas situações econômicas",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou destinação de bens, direitos e valores",
+  "Declarar que não alienaram ou oneraram bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Reconhecer, cada uma, a responsabilidade solidária pela totalidade dos débitos transacionados",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a R$ 9.018.315,24, correspondente a 67,66% do saldo devedor remanescente após aplicação dos descontos",
+  "Não haverá oferta de garantia vinculada à presente Transação, considerando que a negociação teve como objetivo o pagamento de débitos tributários de empresa em recuperação judicial",
+  "Pagamento da Dívida Transacionada CSSP201904527 nos moldes da modalidade 7, com percentual global de desconto de 53,68% e pagamento do saldo à vista",
+  "Pagamento da Dívida Transacionada de diversas inscrições FGSP nos moldes da modalidade 60, com percentual global de desconto de 37,08%, pagamento da primeira parcela no valor de R$ 177.749,30 (devida ao trabalhador) e saldo remanescente em 60 parcelas no valor de R$ 9.226,01"
+ ],
+ "sector": "Construção civil/Engenharia",
+ "confidence": {
+  "taxpayer": 1.0,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "installments": 1.0,
+  "down_payment_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 1.0,
+  "sector": 0.6,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 27.941.669,54 (Vinte e sete milhões, novecentos e quarenta e um mil, seiscentos e sessenta e nove reais e cinquenta e quatro centavos)",
+  "total_discount_pct": "PERCENTUAL DE DESCONTO MÉDIO 52,30%",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") e a de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 60 (sessenta) prestações"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "1dc6160c4f4f",
+ "title": "Termo de Transação Individual - Jorcal Engenharia e Construções SA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualJorcalEngenhariaeConstruesSATarajado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualJorcalEngenhariaeConstruesSATarajado.pdf",
+ "sha256": "fccc11537f7b24135bbffa5ca177eb57e4629144792a75ec2fe10e60ece62563",
+ "extracted_at": "2026-07-22T14:22:46+00:00",
+ "simulated": false
+}

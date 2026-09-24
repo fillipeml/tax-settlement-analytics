@@ -1,0 +1,83 @@
+{
+ "taxpayer": "IND DE TORRONE NOSSA SENHORA DE MONTEVERGINE LTDA",
+ "approval_date": "2024-03-12",
+ "consolidated_amount": 14733896.56,
+ "modality": "Transação individual (DEMAIS e PREV)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança pessoal dos sócios João Rafael Altério e Francisco Altério (Termo de Garantia Fidejussória - Anexo II)",
+  "Manutenção de gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas administrativamente ou em execuções fiscais"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Regularização da situação fiscal perante a PGFN (plano de amortização, encerramento de litígios, oferecimento e aceitação de garantias)",
+  "Desistência de impugnações, PRDIs e ações judiciais relativas à Dívida Transacionada",
+  "Peticionar em até 60 dias após assinatura para noticiar a celebração da Transação nos processos judiciais",
+  "Declarar sob as penas da lei que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos",
+  "Declarar não ter alienado ou onerado bens com propósito de frustrar recuperação de créditos",
+  "Autorizar acesso às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em DAU",
+  "Regularizar em 30 dias saldo decorrente de reconsolidação",
+  "Não alienar bens que possam inviabilizar capacidade de pagamento sem comunicação à Fazenda",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos exigidos, inclusive comprobatórios de prejuízo fiscal e base negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo lucro real durante toda vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor após aplicação dos descontos (60,93% para DEMAIS DÉBITOS e 64,73% para PREV)",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/base negativa CSLL fica suspensa até confirmação pela autoridade competente, no prazo de 5 anos",
+  "Garantia adicional de fiança pessoal dos sócios com renúncia ao benefício de ordem (art. 828, I do Código Civil)"
+ ],
+ "sector": "Indústria alimentícia (doces/torrone)",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts_multa": 0.0,
+  "discounts_juros": 0.0,
+  "discounts_encargos": 0.0,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "no montante atual de R$ 14.733.896,56 nos termos e condições estipuladas no referido Termo de Transação Individual",
+  "total_discount_pct": "Na modalidade DEMAIS, desconto máximo de até 65% (sessenta por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal... Na modalidade PREV, desconto máximo de até 65% a cada uma das CDAs, individualmente",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 60 prestações mensais e sucessivas... Parcelamento do saldo devido na modalidade PREV em até 60 prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "total_discount_pct"
+ ],
+ "id": "bad69acd8072",
+ "title": "Termo de Transação Individual - Ind de Torrone Nossa Senhora de Montevergine LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualInddeTorroneNossaSenhoradeMontevergineLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualInddeTorroneNossaSenhoradeMontevergineLTDAtarjado.pdf",
+ "sha256": "c97c510d335d3cabf003bf0db39ee9020ca3385e9c48b116ccdc7fc5d0e7723f",
+ "extracted_at": "2026-07-22T14:22:44+00:00",
+ "simulated": false
+}

@@ -1,0 +1,80 @@
+{
+ "taxpayer": "CONEXPORT IMPORTAÇÃO E EXPORTAÇÃO LTDA",
+ "approval_date": "2023-05-19",
+ "consolidated_amount": 14346970.22,
+ "modality": "Transação Individual - Plano de Pagamento Parcelado",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel objeto de matrícula (dados tarjados), avaliado em R$ 3.500.000,00, penhorado no executivo fiscal nº 5007853-75.2019.4.04.7108/RS"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não ter alienado ou onerado bens com propósito de frustrar a recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de bens do ativo não circulante",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN nº 6757/2022 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos referentes aos créditos incluídos na transação",
+  "Manter regularidade do FGTS",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após o acordo",
+  "Apresentar situação econômico-financeira anualmente (demonstrações de resultado e balanço contábil)",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições abrangidas",
+  "Peticionar nos processos judiciais informando a celebração da transação, no prazo de 60 dias",
+  "Desistir de impugnações, recursos administrativos e ações judiciais referentes aos débitos incluídos",
+  "Renunciar ao direito de futura execução de sentença do Mandado de Segurança nº 5010937-94.2013.4.04.7108"
+ ],
+ "special_clauses": [
+  "Desistência de execução de sentença de Mandado de Segurança nº 5010937-94.2013.4.04.7108 relativamente aos créditos incluídos",
+  "Valores bloqueados em execuções fiscais até a assinatura do termo serão usados para amortização, sem aproveitamento dos descontos acordados (regra da Lei 9.703/98)",
+  "Substituição/reforço de garantia em caso de redução significativa (>25%) do valor do bem garantidor, sob pena de rescisão"
+ ],
+ "sector": "Comércio (Importação e Exportação)",
+ "confidence": {
+  "taxpayer": 0.98,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "sector": 0.5,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "A DEVEDORA possui em aberto os débitos tributários relacionados nos Anexos I e II, que totalizam, em 10/05/2023, o montante de R$ R$ 14.346.970,22 (quatorze milhões, trezentos e quarenta e seis mil, novecentos e setenta reais e vinte e dois centavos)",
+  "installments": "será objeto de plano de pagamento em 120 (cento e vinte) amortizações escalonadas, mensais e sucessivas, sem reforços."
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "38bbc72cf8d4",
+ "title": "Termo de Transação Individual - Conexport Importação e Exportação LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualConexportImportaoeExportaoLTDATarajado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualConexportImportaoeExportaoLTDATarajado.pdf",
+ "sha256": "1d9f847d1d6f7e2b9fa8f9fc01d618702fb77e6df787f07cb496b8a983715115",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

@@ -1,0 +1,75 @@
+{
+ "taxpayer": "TRANSFER TRANSPORTADORA FERROVIÁRIA DE VEÍCULOS AUTOMOTORES LTDA",
+ "approval_date": "2024-11-13",
+ "consolidated_amount": 19848607.66,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, de medida cautelar fiscal e das garantias prestadas administrativamente ou nas ações de execução fiscal ou em qualquer outra ação judicial"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Declarar, sob as penas da lei, que preenchem os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Regularizar em 30 dias saldo decorrente de reconsolidação de conta de transação individual",
+  "Não alienar bens que possam inviabilizar capacidade de pagamento sem comunicação à Fazenda",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor após aplicação dos descontos, em 70% para as modalidades DEMAIS DÉBITOS e PREVIDENCIÁRIO, limitado ao crédito disponível apresentado",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL fica suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de cinco anos"
+ ],
+ "sector": "Transporte/logística de veículos automotores",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.9,
+  "installments": 1.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.85,
+  "guarantees": 0.9,
+  "obligations": 0.95,
+  "judicial_recovery": 0.5,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$ 19.848.607,66 - 100% do Passivo Fiscal consolidado em 11/2024",
+  "total_discount_pct": "Nas modalidades DEMAIS DÉBITOS e PREVIDENCIÁRIOS, desconto máximo de até 65% (sessenta por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS DÉBITOS e PREVIDENCIÁRIOS em até 36 prestações mensais e sucessivas, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "judicial_recovery",
+  "discounts"
+ ],
+ "id": "3540154b84ba",
+ "title": "Termo de Transação Individual - Transfer Transportadora Ferroviária de Veículos Automotores LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTransferTransportadoraFerroviriadeVeculosAutomotoresLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTransferTransportadoraFerroviriadeVeculosAutomotoresLTDAtarjado.pdf",
+ "sha256": "dc2553cab6de0ab4ab02a41daf06cdb6d7f384b761861db3d6afd9f960aabc5f",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

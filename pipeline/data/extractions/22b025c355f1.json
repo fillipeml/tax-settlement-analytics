@@ -1,0 +1,77 @@
+{
+ "taxpayer": "DISBRASIL DISTRIBUIDORA BRASIL IMPORTAÇÃO E EXPORTAÇÃO LTDA",
+ "approval_date": "Not identified",
+ "consolidated_amount": 27724122.89,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Veículos",
+  "Participações sociais",
+  "Direitos creditórios"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens, direitos ou valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União (exceto os previstos na garantia)",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos quotistas/acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens/direitos que reduzam significativamente a capacidade de pagamento sem comunicação prévia",
+  "Requerer penhora dos bens dados em garantia no prazo de 30 dias",
+  "Informar em 10 dias a conclusão das negociações com a SRFB",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e confessar a dívida",
+  "Apresentar em até 90 dias cópia do requerimento de desistência das ações/impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação dos bens dados em garantia mediante prévia anuência da Fazenda Nacional (cláusula 4.1)",
+  "Vedação de redução do montante principal, desconto aplicado apenas sobre acréscimos legais (multa, juros e encargos) - cláusula 2.1.1"
+ ],
+ "sector": "Distribuição/Importação e Exportação",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "discounts": 0.2,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 27.724.122,89 (vinte sete milhões, setecentos e vinte e quatro mil, cento e vinte e dois reais e oitenta e nove centavos)",
+  "total_discount_pct": "DESCONTO EFETIVO 65,00%",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais, escalonadas na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "discounts",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "22b025c355f1",
+ "title": "Termo de Transação - Disbrasil Distribuidora Brasil Importação e Exporatação LTDA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/copy2_of_TermodeTransaoDisbrasilDistribuidoraBrasilImportaoeExporataoLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/copy2_of_TermodeTransaoDisbrasilDistribuidoraBrasilImportaoeExporataoLTDATarjado.pdf",
+ "sha256": "6976768dc8845779b1729cf8444b82de14d94d43f41c4168d6f28192db59d6b4",
+ "extracted_at": "2026-07-22T14:22:25+00:00",
+ "simulated": false
+}

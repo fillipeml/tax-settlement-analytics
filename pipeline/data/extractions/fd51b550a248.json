@@ -1,0 +1,72 @@
+{
+ "taxpayer": "G M E - GARCA MOTORES ELETRICOS LTDA",
+ "approval_date": "2025-06-02",
+ "consolidated_amount": 179698195.29,
+ "modality": "Termo Aditivo de Transação Individual (repactuação)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal, penhoras ou garantias prestadas administrativamente"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter a regularidade perante o FGTS",
+  "Manter a regularidade perante a PGFN e a Secretaria da Receita Federal do Brasil, regularizando em 90 dias os débitos que se tornarem exigíveis",
+  "Em até 60 dias da assinatura do Acordo, peticionar em todos os processos judiciais para noticiar a Transação, desistir da ação e renunciar aos direitos",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação prévia à Fazenda Nacional",
+  "Autorizar acesso da Fazenda Nacional a declarações e escritas fiscais",
+  "Manter livros e documentos fiscais/contábeis por 5 anos relativos ao uso de créditos de PF/BCN",
+  "Manter regime de apuração do IRPJ pelo lucro real durante a vigência da Transação (para valores de PF/BCN utilizados)"
+ ],
+ "special_clauses": [
+  "Autorização de utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) no valor de R$ 23.204.370,24, imputados à modalidade DEMAIS DÉBITOS nas últimas parcelas",
+  "Desconto máximo de 70% calculado por débito, aplicado proporcionalmente sobre acréscimos legais (multa, juros e encargos), vedada redução do montante principal",
+  "Percentual de amortização com créditos de PF/BCN na conta Demais de 37,97%",
+  "Prazo máximo de pagamento não pode ser prorrogado, mantendo-se o número de parcelas do acordo formalizado em 25/08/2021",
+  "Inscrições do Anexo I não serão repactuadas e mantêm-se as disposições da transação de 25/08/2021; inscrições do Anexo II serão repactuadas conforme CAPAG"
+ ],
+ "sector": "Indústria automotiva/motores elétricos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.2,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "PASSIVO FISCAL CONSOLIDADO R$ 179.698.195,29",
+  "total_discount_pct": "Concede-se o desconto máximo de 70% (setenta por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal."
+ },
+ "review_fields": [
+  "sector",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "fd51b550a248",
+ "title": "Termo de Transação Individual - GME - Garca Motores Eletricos LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualGMEGarcaMotoresEletricosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualGMEGarcaMotoresEletricosLTDATarjado.pdf",
+ "sha256": "5bf1d8bfb9e829eda55d2257165d21be6bb96d23791ca26f05208e8eda407bd4",
+ "extracted_at": "2026-07-22T14:22:42+00:00",
+ "simulated": false
+}

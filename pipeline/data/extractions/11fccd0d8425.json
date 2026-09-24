@@ -1,0 +1,67 @@
+{
+ "taxpayer": "USINCAL USINAGEM E CALDEIRARIA EM RECUPERAÇÃO JUDICIAL LTDA.",
+ "approval_date": "2024-11-19",
+ "consolidated_amount": 13673391.7,
+ "modality": "Transação Individual",
+ "total_discount_pct": 47.35,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 0.0,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar no prazo de 90 dias os débitos que vierem a ser inscritos em Dívida Ativa ou exigíveis após a formalização da Transação",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter durante 5 anos os livros e documentos exigidos pelas normas fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Fornecer informações sobre bens, direitos, valores e operações sempre que solicitado",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação, desistir de impugnações/recursos e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Débitos em cobrança na SRFB serão incluídos na conta de transação assim que inscritos em dívida ativa da União (cláusula 1.5)",
+  "Saldo devedor gerado pela consolidação dos débitos da cláusula 1.5 deverá ser quitado em 30 dias (cláusula 1.6)",
+  "Eventuais créditos de precatório ou levantamento de depósito judicial deverão ser direcionados para adimplemento dos saldos devedores da Transação (cláusula 2.2)",
+  "Débitos de FGTS excluídos desta transação, incluídos no Parcelamento Transação nº 2022001560 junto à CEF (cláusula 1.3)"
+ ],
+ "sector": "Metalurgia/Caldeiraria (usinagem e caldeiraria)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "modality": 0.95,
+  "approval_date": 1.0,
+  "sector": 0.6,
+  "judicial_recovery": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "guarantees": 0.9,
+  "discounts": 0.3
+ },
+ "source_excerpts": {
+  "consolidated_amount": "PASSIVO FISCAL CONSOLIDADO | R$ 13.673.391,70",
+  "total_discount_pct": "SALDO DEVEDOR APÓS DESCONTO | R$ 7.198.867,91",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em 120 (cento e vinte) prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "11fccd0d8425",
+ "title": "Termo de Transação Individual - Usincal Usinagem e Caldeiraria LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/copy_of_TermodeTransaoIndividualUsincalUsinagemeCaldeirariaLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/copy_of_TermodeTransaoIndividualUsincalUsinagemeCaldeirariaLTDATarjado.pdf",
+ "sha256": "19a0ef046884d86004721df019f79cc477eefe35effe770bb3d6767a57cee57c",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

@@ -1,0 +1,78 @@
+{
+ "taxpayer": "Usina Santa Clotilde",
+ "approval_date": "2022-06-28",
+ "consolidated_amount": 128433726.84,
+ "modality": "Transação Individual para empresas em Recuperação Judicial (Portaria PGFN nº 2382/2021)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel Canoas de Cima (matrícula 5094, Registro Geral de Imóveis de Rio Largo) - garantia dos débitos não incluídos na transação (Anexo II)",
+  "Imóvel Fazenda Milagres (matrícula 1512, Cartório Geral de Imóveis de Rio Largo/AL), avaliado em R$ 15.383.310,00, oferecido em hipoteca para os débitos do acordo de transação",
+  "Penhoras já existentes nas execuções fiscais mantidas (Cláusula 13)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de bens do ativo não circulante",
+  "Comprovar em 15 dias a indicação à penhora do imóvel Canoas de Cima",
+  "Formalizar a transação relativa a débitos de Contribuição Social da LC 110/2001 em 30 dias após disponibilização de sistema pela Caixa",
+  "Não alienar bens sem comunicação à Fazenda Nacional",
+  "Apresentar demonstrações contábeis e patrimoniais no ato da assinatura",
+  "Comprovar registro da hipoteca em 60 dias",
+  "Promover georreferenciamento do imóvel dado em hipoteca em 36 meses",
+  "Manter em dia pagamento de impostos e taxas sobre imóveis dados em garantia"
+ ],
+ "special_clauses": [
+  "Renúncia à alegação de bem de família/essencialidade dos imóveis Canoas de Cima e Fazenda Milagres para viabilizar garantia integral",
+  "Parcela diferenciada/excepcional na conta PREVIDENCIÁRIA de R$ 16.115.826,44, vencendo no 48º mês",
+  "Possibilidade de venda direta do imóvel hipotecado via plataforma COMPREI/PGFN, com redução de até 50% do valor de avaliação após 90 dias sem venda",
+  "Destinação de valores de precatórios/RPV recebidos para amortização extraordinária da dívida",
+  "Prorrogação do vencimento da parcela excepcional previdenciária limitada ao mês 60",
+  "Cláusula de sobrevindo parcelamento mais benéfico permite migração com extinção da presente transação"
+ ],
+ "sector": "Agronegócio (usina de açúcar/álcool)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "judicial_recovery": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Totais: 127.605.587,26",
+  "total_discount_pct": "concessão de descontos de até 70 % sobre o total devido, a depender das particularidades de cada inscrição",
+  "installments": "possibilidade de pagamento dos débitos não previdenciários em, no máximo, 120 (cento e vinte) parcelas mensais e consecutivas"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "2d72f461b923",
+ "title": "Termo de Transação Individual - Usina Santa Clotilde",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualUsinaSantaClotildeTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualUsinaSantaClotildeTarjado.pdf",
+ "sha256": "81ddcf10e1ac3535fe0dc7c613e17f199b21f1f3abd1d4fac30609cf4161d040",
+ "extracted_at": "2026-07-22T14:37:20+00:00",
+ "simulated": false
+}

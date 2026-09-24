@@ -1,0 +1,71 @@
+{
+ "taxpayer": "INTERBRASIL REPRESENTAÇÃO E SERVIÇOS DE MÃO DE OBRA LTDA (corresponsáveis: CLEAN - LOCACAO DE MAO DE OBRA LTDA e PRESERVICE RECURSOS HUMANOS LTDA)",
+ "approval_date": "2023-12-28",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 119,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, de medida cautelar fiscal e das garantias prestadas administrativamente ou nas ações de execução fiscal ou em qualquer outra ação judicial"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em dívida ativa ou que se tornarem exigíveis após a formalização do acordo",
+  "Peticionar nos processos judiciais em até 60 dias após a assinatura noticiando a celebração do acordo",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil apurado",
+  "Verter para pagamento da dívida qualquer crédito de que venha a dispor, reconhecido judicial ou administrativamente, a ser recebido por precatório ou outro meio",
+  "Autorizar compensação de restituições, ressarcimentos ou reembolsos e de precatórios federais (inclusive Precatório 0264269-82.2023.4.05.0000)",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional durante o cumprimento do acordo",
+  "Individualizar valores recolhidos nas contas vinculadas dos respectivos trabalhadores, quando for o caso"
+ ],
+ "special_clauses": [
+  "Valor bloqueado na Execução Fiscal nº 0802902-62.2022.4.05.8400, correspondente a R$ 3.404.379,97, mais atualização monetária, destinado à transação a título de entrada em parcela única na conta DEMAIS",
+  "Precatório 0264269-82.2023.4.05.0000, do TRF da 5ª Região, quando disponibilizado para pagamento, será ofertado para inclusão na Transação Individual",
+  "Não há atualmente débitos de FGTS"
+ ],
+ "sector": "Prestação de serviços (mão de obra terceirizada/recursos humanos)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.6,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de até 65% a cada uma das inscrições, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa juros e encargo legal)",
+  "installments": "Pagamento da dívida transacionada de natureza não previdenciária em 119 (cento e dezenove) prestações mensais, conforme indicado no ANEXO II"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts",
+  "sector",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "4cd775e0a14a",
+ "title": "Termo de Transacao - Interbrasil  Representação e Serviços de Mão de Obra LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransacaoInterbrasilRepresentaoeServiosdeModeObraLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransacaoInterbrasilRepresentaoeServiosdeModeObraLTDAtarjado.pdf",
+ "sha256": "6a12d99a393f7d5f49402f435f4ba467df0f8f3d59edc5a9976522ed99027320",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

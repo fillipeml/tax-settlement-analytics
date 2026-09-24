@@ -1,0 +1,77 @@
+{
+ "taxpayer": "RC VIEIRA ENGENHARIA LTDA - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-07-11",
+ "consolidated_amount": 93537921.22,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 70.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhora de recebíveis da DEVEDORA, referentes aos contratos de obras vigentes, no percentual de 10%",
+  "Imóveis indicados no ANEXO V (Matrícula 35696 RGI de Itaboraí e Matrícula 41.265 RGI de Itaboraí)",
+  "Garantia fidejussória dos sócios-administradores"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações administrativas ou judiciais sobre a Dívida Transacionada",
+  "Renúncia a alegações de direito sobre os débitos transacionados",
+  "Comunicação prévia à Fazenda Nacional antes de alienar bens próprios (extensivo a sócios-administradores fiadores)",
+  "Não utilizar pessoa natural ou jurídica interposta para ocultar bens/direitos/valores",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União no prazo de 90 dias",
+  "Manter regularidade perante o FGTS e individualizar valores recolhidos",
+  "Dar ciência à Credora de alterações na natureza jurídica ou societária no prazo de 30 dias",
+  "Apresentar anualmente listagem dos contratos de obras (até 30/08)",
+  "Comunicar formalização de garantias aos juízos das execuções fiscais em 30 dias"
+ ],
+ "special_clauses": [
+  "Penhora de recebíveis de contratos de obras vigentes em percentual de 10%, atualizado anualmente",
+  "Compensação de valores de restituições/ressarcimentos/reembolsos da RFB com prestações do acordo",
+  "Compensação de precatórios federais com prestações do acordo",
+  "Vedação de nova transação para as inscrições listadas, com possibilidade de migração para programa mais benéfico sem perda dos benefícios acordados"
+ ],
+ "sector": "Construção civil/Engenharia",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.5,
+  "total_discount_pct": 0.9,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.85,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Das inscrições previdenciárias, constantes do ANEXO I, totalizando R$25.859.161,59, atualizados em JUNHO/2024; ... Das inscrições não previdenciárias, constantes do ANEXO II, totalizando R$ 67.678.759,63, atualizados em JUNHO/2024",
+  "total_discount_pct": "Concessão do desconto máximo de 70% (setenta por cento) incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento do saldo remanescente dos débitos de natureza não previdenciária efetuado em 120 (cento e vinte) meses, por meio de parcelas escalonadas da seguinte forma"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "installments",
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct"
+ ],
+ "id": "6842815008ec",
+ "title": "Termo de Transação Individual - RC Vieira Engenharia LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualRCVieiraEngenhariaLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualRCVieiraEngenhariaLTDATarjado.pdf",
+ "sha256": "a2b22a08139ffc5d4a6fdd3218b003cef0a49af0facbfcdd5c2bf6d94fd27dd1",
+ "extracted_at": "2026-07-22T14:22:31+00:00",
+ "simulated": false
+}

@@ -1,0 +1,80 @@
+{
+ "taxpayer": "Sustentare Saneamento S.A., Moderna Ambiental S.A. e Qualix Serviços Ambientais S.A. (Grupo Sustentare/Qualix)",
+ "approval_date": "2022-12-06",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Recebíveis do contrato nº 19/2019 entre SLU/DF e Sustentare Saneamento, vigente até julho de 2024, com parcelas vincendas somando aproximadamente R$ 332.478.798,55",
+  "Bem imóvel de matrícula nº 43.086 (1º Cartório de Registro de Imóveis de Feira de Santana/BA), de propriedade da Qualix",
+  "Bens imóveis de matrículas nºs 25.010, 59.244 e 94.433 (1º Cartório de Registro de Imóveis de Feira de Santana/BA), de propriedade da Sustentare Saneamento",
+  "Bem imóvel de matrícula nº 27.964 (7º Cartório de Registro de Imóveis do Distrito Federal), de propriedade da Sustentare Saneamento"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Apresentar nova garantia até 6 meses antes de vencido o contrato da alínea 'a'",
+  "Comprovar a cada 12 meses que as parcelas vincendas do contrato 'a' cobrem o saldo remanescente da dívida",
+  "Regularizar apólices de seguro garantia no prazo de 10 dias",
+  "Peticionar nos processos judiciais em 30 dias para noticiar a celebração do acordo",
+  "Desistir das impugnações, recursos e ações judiciais relativas à dívida transacionada",
+  "Manter regularidade perante o FGTS",
+  "Manter regular a situação dos parcelamentos vigentes",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União no prazo de 90 dias",
+  "Não alienar bens sem comunicação prévia à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos e valores sempre que solicitado"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação dos bens imóveis dados em garantia (alíneas b, c e d), com destinação do produto ao plano de pagamento",
+  "Uso do Sistema COMPREI da PGFN para eventual alienação dos bens em garantia",
+  "Dispensa de honorários sucumbenciais no processo relativo ao item 2.4.3",
+  "Reconhecimento de co-responsabilidade solidária entre Sustentare Saneamento e Moderna Ambiental",
+  "Possibilidade de oferta do imóvel da alínea 'd' como garantia em operações de crédito com terceiros, mediante comunicação prévia à Fazenda Nacional",
+  "Direcionamento de créditos de precatórios ou depósitos judiciais para abatimento do saldo devedor"
+ ],
+ "sector": "Saneamento/Resíduos e serviços ambientais",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de até 65% (sessenta e cinco por cento) a cada uma das inscrições em Dívida Ativa da União, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "f36617977720",
+ "title": "Termo de Transação Individual - Sustentare Saneamento S.A, Modernna Ambiental S.A, Qualix Serviços Ambientais S.A.",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSustentareSaneamentoS.AModernnaAmbientalS.AQualixServiosAmbientaisS.A..pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSustentareSaneamentoS.AModernnaAmbientalS.AQualixServiosAmbientaisS.A..pdf",
+ "sha256": "b4b882b6f9ce349b4dbafd45db383042839531f8812f7467124adeeefbcd2b6a",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

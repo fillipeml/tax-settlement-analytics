@@ -1,0 +1,55 @@
+{
+ "taxpayer": "AZUL LINHAS AEREAS BRASILEIRAS S.A.",
+ "approval_date": "Not identified",
+ "consolidated_amount": 2889332330.1,
+ "modality": "Transação individual",
+ "total_discount_pct": 42.1,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Garantia (indicador constante nas inscrições)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Aviação/transporte aéreo",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "approval_date": 0.0,
+  "modality": 0.5,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.4,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "guarantees": 0.4,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Estoque Total Negociado ... TOTAL 2.889.332.330,10 (sem desconto) / 1.673.610.849,91 (com desconto)",
+  "total_discount_pct": "% Desconto Efetivo 62,82% (por rubrica de vários débitos)"
+ },
+ "review_fields": [
+  "approval_date",
+  "modality",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "guarantees",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "b7aec591b728",
+ "title": "Anexo I",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/AnexoI.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/AnexoI.pdf",
+ "sha256": "b46b27388c032dcdba538c621171602661e45bd2ce8839b4c7e9c51e929a54b4",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

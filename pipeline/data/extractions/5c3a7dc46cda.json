@@ -1,0 +1,87 @@
+{
+ "taxpayer": "Not identified",
+ "approval_date": "2023-12-05",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis listados no Anexo V, com cópias das matrículas no Anexo VI",
+  "Manutenção de gravames existentes (arrolamento de bens, garantias administrativas, indisponibilidade, arresto, penhora, caução)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utilizam pessoa interposta para ocultar bens",
+  "Declarar que não alienaram bens com propósito de frustrar recuperação de créditos",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento",
+  "Solicitar à Fazenda Nacional emissão de DARFs para parcelas balão quando necessário",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da Transação, desistir de impugnações/recursos e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Aproveitamento de depósitos judiciais preexistentes como pagamento definitivo, sem descontos",
+  "Responsabilidade solidária entre LP ADMINISTRADORA DE BENS LTDA e demais empresas/sócios em caso de rescisão de qualquer conta de transação",
+  "Possibilidade de aproveitamento do numerário advindo de venda forçada dos imóveis em garantia para quitar débitos de outros processos",
+  "Parcelas 'balão' extras vinculadas a meses específicos, cuja falta de pagamento implica rescisão da transação",
+  "Abatimento de crédito relativo a prejuízo fiscal e base de cálculo negativa da CSLL até 70% do saldo remanescente após desconto",
+  "Vedação de nova transação por 2 anos em caso de rescisão",
+  "Parcelamento sem descontos (Anexo II) em 60 parcelas iguais, referente a débitos com garantia via LP Administradora de Bens Ltda"
+ ],
+ "sector": "Comércio de móveis",
+ "confidence": {
+  "taxpayer": 0.3,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.75,
+  "judicial_recovery": 0.0,
+  "discounts.charges_pct": 0.85,
+  "discounts.interest_pct": 0.0,
+  "discounts.fine_pct": 0.0
+ },
+ "source_excerpts": {
+  "total_discount_pct": "O máximo desconto legal possível, de 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments_other": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 96 (cento e vinte) prestações mensais",
+  "installments_social_security": "Pagamento da Dívida Transacionada de natureza previdenciária (\"Dívida Transacionada – Previdenciária\") em 60 (sessenta) prestações mensais",
+  "installments_annex_ii": "Parcelamento em 60 (sessenta) parcelas iguais e sucessivas, sem descontos, para os débitos de natureza previdenciária e não previdenciária"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "consolidated_amount",
+  "installments",
+  "down_payment_pct",
+  "discounts.interest_pct",
+  "discounts.fine_pct",
+  "judicial_recovery"
+ ],
+ "id": "5c3a7dc46cda",
+ "title": "Termo de Transação Individual - S. V. C. Jaragua Comercial",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodetransaoindividualS.V.C.JaraguaComercialLTDA2.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodetransaoindividualS.V.C.JaraguaComercialLTDA2.pdf",
+ "sha256": "d007a1a8f85b6f2254f734a2075d132ac338abdf0a483bb7f6a80d5f2585d65f",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

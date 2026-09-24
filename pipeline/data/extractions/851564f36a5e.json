@@ -1,0 +1,62 @@
+{
+ "taxpayer": "EDUARDO JOSE SOARES CARNEIRO",
+ "approval_date": "2020-09-04",
+ "consolidated_amount": 150932.14,
+ "modality": "Transação Individual (Portaria PGFN nº 9.917/2020)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável da dívida objeto da transação",
+  "Corresponsabilidade solidária pelo débito",
+  "Renúncia expressa a qualquer direito de impugnação relativo ao débito objeto da transação",
+  "Formalização do acordo no Sistema REGULARIZE até 30.09.2020",
+  "Pagamento do DARF referente ao valor consolidado com desconto"
+ ],
+ "special_clauses": [
+  "Assunção de dívida tributária de terceiro (devedora principal NOVEPE NORDESTE VEÍCULOS DE PERNAMBUCO LTDA) por requerente que teve imóvel penhorado supostamente em fraude à execução, limitando-se a responsabilidade à inscrição indicada, sem sub-rogação nas demais dívidas da devedora principal",
+  "Adesão à modalidade de transação individual em vez de transação excepcional, por indisponibilidade desta última no Sistema SISPAR para terceiros interessados"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.3,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.2,
+  "installments": 0.6,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "judicial_recovery": 0.2,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Consolidado R$150.932,14",
+  "total_discount_pct": "cujo pagamento da dívida se dará, à vista, após aplicação do desconto de 70% (setenta por cento)",
+  "installments": "cujo pagamento da dívida se dará, à vista"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "installments",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "851564f36a5e",
+ "title": "Termo de Transação Individual - Eduardo José Soares Carneiro",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualEduardoJosSoaresCarneiro.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualEduardoJosSoaresCarneiro.pdf",
+ "sha256": "e8c3a6b9716c29d6f93c8f5f01c9fbdea2484d9c46d34b85213fdfc6b82cded8",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

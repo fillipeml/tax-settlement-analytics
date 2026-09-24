@@ -1,0 +1,58 @@
+{
+ "taxpayer": "HOSPITAL JARDIM AMÁLIA LTDA",
+ "approval_date": "2024-06-21",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (FGTS) - Primeiro Termo Aditivo",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [],
+ "special_clauses": [
+  "Termo Aditivo firmado para correção de vício material no termo de transação original quanto ao número de uma das inscrições negociadas (Cláusula 1ª), passando a compor o débito de FGTS as inscrições FGRJ201300968, FGRJ201401680, FGRJ201600894 e FGRJ202200213. Cláusula 2ª mantém e ratifica as demais disposições da Transação Individual original não modificadas por este aditivo."
+ ],
+ "sector": "Saúde/Hospitalar",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.3,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "obligations",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "831b559f1f73",
+ "title": "I Termo Aditivo de Transação Individual - Hospital Jardim Amália LTDA (FGTS)",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/ITermoAditivodeTransaoIndividualHospitalJardimAmliaLTDAFGTStarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/ITermoAditivodeTransaoIndividualHospitalJardimAmliaLTDAFGTStarjado.pdf",
+ "sha256": "891965f11faa56fdff2fd03b885f88ae76738f1594452d556cbd7a76ca633ae4",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

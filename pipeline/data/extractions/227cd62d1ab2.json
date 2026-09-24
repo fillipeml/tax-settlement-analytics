@@ -1,0 +1,77 @@
+{
+ "taxpayer": "UNIMED PETRÓPOLIS COOPERATIVA DE TRABALHO MÉDICO",
+ "approval_date": "2020-08-04",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (dívida ativa da União)",
+ "total_discount_pct": 47.5,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens oferecidos em garantia parcial no Negócio Jurídico Processual firmado entre a Requerente e a União Federal, ofertados também em garantia parcial das dívidas da presente Transação (Cláusula 15ª)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos inseridos na Transação Tributária, renovada a cada pagamento periódico",
+  "Oferecimento de pagamento em dinheiro das parcelas",
+  "Quitação/amortização de parcela dos débitos inscritos em dívida ativa da UNIÃO FEDERAL, com utilização de créditos relativos aos depósitos judiciais realizados na REQUERENTE nas execuções fiscais em curso",
+  "Modificação da competência relativa, para reunião dos processos no juízo prevento",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Renunciar a quaisquer alegações de direito sobre os créditos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Regularizar, no prazo de 90 dias, os débitos que vierem a ser inscritos em dívida ativa ou que se tornarem exigíveis após a formalização do acordo",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens, direitos e valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Não alienar bens ou direitos sem devida comunicação à Fazenda Nacional durante o plano de quitação",
+  "Aceitar a conversão em renda dos depósitos vinculados às execuções fiscais que tratam das CDAs incluídas na negociação, como amortização de débitos"
+ ],
+ "special_clauses": [
+  "Cláusula 7ª: alocação dos depósitos judiciais convertidos e pagamentos às CDAs listadas para quitação",
+  "Cláusula 8ª e Parágrafo Único: recálculo escalonado das parcelas após conversão em renda dos depósitos judiciais vinculados às execuções fiscais",
+  "Cláusula 9ª: permissão de migração dos débitos para eventuais parcelamentos especiais editados, bem como transação desses valores",
+  "Cláusula 10ª: obrigação de apresentar à PGFN, a cada mudança de gestão, cópia das alterações contratuais no prazo de 30 dias",
+  "Cláusula 15ª: bens oferecidos em garantia parcial no NJP também servem como garantia parcial da presente Transação",
+  "Cláusula 17ª: Transação realizada em nome da Cooperativa, sujeita à aprovação de Assembleia Geral Extraordinária de cooperados",
+  "Cláusula 24ª: possibilidade de migração dos débitos para parcelamentos especiais futuros ou eventual quitação em transação tributária"
+ ],
+ "sector": "Saúde/Cooperativa médica",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.6,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "por meio do plano de quitação da dívida em 145 (cento e quarenta e cinco) prestações e desconto aplicado de 47,5% às CDAs, conforme tabela/simulação constante no ANEXO I.",
+  "installments": "A DEVEDORA irá realizar o pagamento em 145 (cento e quarenta e cinco) prestações escalonadas da totalidade dos débitos da planilha indicada na CLÁUSULA 11ª"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "judicial_recovery",
+  "sector",
+  "guarantees"
+ ],
+ "id": "227cd62d1ab2",
+ "title": "Termo de Transação Individual -  Unimed Petrópolis",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualUnimedPetropolis.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualUnimedPetropolis.pdf",
+ "sha256": "c27eee90fc8d3f8525baa2e4e29395505bebdb43aa16e6da4cda69bc0f72431b",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

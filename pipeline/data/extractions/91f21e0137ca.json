@@ -1,0 +1,84 @@
+{
+ "taxpayer": "ROYAL FIC DISTRIBUIDORA DE DERIVADOS DE PETROLEO S.A",
+ "approval_date": "2020-07-14",
+ "consolidated_amount": 149202089.83,
+ "modality": "Transação Individual",
+ "total_discount_pct": 40.84,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis e equipamentos da base operacional da empresa, localizados em Betim/MG, Paulínia/SP e Cuiabá/MT, com laudo de avaliação de janeiro de 2019",
+  "Apólice de seguro-garantia nº 05720201902110775000358000000, seguradora Sompo Seguros S.A, vigência de 28/05/2019 a 28/05/2024, no montante de R$ 18.926.039,61",
+  "Apólice de seguro-garantia nº 05720201902110775000357900000, seguradora Sompo Seguros S.A, vigência de 28/05/2019 a 28/05/2024, no montante de R$ 15.960.591,68",
+  "Apólice de seguro-garantia nº 0466920191001077500091116, seguradora Fairfax Brasil Seguros Corporativos S.A, vigência de 18/01/2019 a 18/01/2021, no montante de R$ 9.302.904,77"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável de todos os débitos inscritos listados no item 2.2, renovada a cada pagamento periódico",
+  "Renúncia a quaisquer alegações de direito sobre ações judiciais ou recursos relativos aos créditos incluídos na transação",
+  "Adimplemento do plano de pagamento dos débitos incluídos na transação por meio de pagamentos mensais",
+  "Reconhecimento de acréscimo de juros equivalentes à taxa Selic acumulada mensalmente mais 1% no mês do pagamento",
+  "Reconhecimento do prazo máximo de pagamento de 84 meses",
+  "Compromisso de efetuar os pagamentos das parcelas mensais por meio do sistema SISPAR",
+  "Manutenção das penhoras existentes sobre os bens oferecidos em garantia",
+  "Compromisso de renovação do laudo de avaliação dos bens penhorados a cada 3 anos",
+  "Compromisso de renovação dos seguros garantia ou apresentação de nova garantia até 60 dias antes do fim da vigência de cada apólice",
+  "Compromisso de, no prazo de 90 dias, pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União após a formalização do acordo",
+  "Compromisso de manter regular a situação dos parcelamentos atualmente vigentes",
+  "Compromisso de manter a regularidade perante o FGTS",
+  "Autorização de acesso à Fazenda Nacional pelo requerente de suas declarações e escritas fiscais",
+  "Declaração de não alienação de bens sem comunicação à Fazenda Nacional",
+  "Fornecimento de informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Declaração de não utilização da transação de forma abusiva",
+  "Declaração de não utilização de pessoa interposta para ocultar bens",
+  "Declaração de não ter alienado ou onerado bens para frustrar a recuperação dos créditos",
+  "Declaração de veracidade das informações cadastrais, patrimoniais e econômico-fiscais prestadas",
+  "Apresentação de documentos previstos nos incisos IV, V, VI e VII do art. 36 da Portaria PGFN nº 9.917/2020 no prazo de até 30 dias"
+ ],
+ "special_clauses": [
+  "Eventuais créditos que o REQUERENTE venha a dispor, por precatório, levantamento de depósito judicial ou qualquer outro meio, poderão ser direcionados para adimplemento dos saldos devedores da transação individual",
+  "O REQUERENTE poderá substituir as garantias descritas no item 4.1.4 por depósito integral em dinheiro, fiança bancária ou seguro-garantia, nesta ordem de preferência"
+ ],
+ "sector": "Distribuição de derivados de petróleo",
+ "confidence": {
+  "taxpayer": 1.0,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "sector": 0.6,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "installments": 1.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Débitos não previdenciários | Valor Consolidado das Inscrições: R$ 149.202.089,83",
+  "total_discount_pct": "% Desconto: 40,84% | Valor do Desconto: R$ 60.934.133,49 | Saldo a Pagar: R$ 88.267.956,34",
+  "installments": "O plano de pagamento relativo aos débitos prevê o recolhimento de 84 (oitenta e quatro) parcelas mensais"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "91f21e0137ca",
+ "title": "Termo de Transação Individual - ROYAL FIC DISTRIBUIDORA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-royal-fic-distribuidora.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-royal-fic-distribuidora.pdf",
+ "sha256": "5c579ed3ff699f00b611d6a9f7cba3148535c7e2981a70bb9adae9e05be64dc9",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

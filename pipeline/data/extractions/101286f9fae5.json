@@ -1,0 +1,79 @@
+{
+ "taxpayer": "GRUPO JBR DE COMUNICAÇÃO (J BRASILIA EMPREENDIMENTOS IMOBILIARIOS LTDA, EDITORA JORNAL DE BRASÍLIA LTDA, JORNAL DE BRASÍLIA COMUNICAÇÃO LTDA, IMPERIAL GOLD PARTICIPAÇÕES IMOBILIÁRIAS LTDA, AGÊNCIA DE NOTÍCIAS BRASÍLIA EXPRESS LTDA, CLICABRASILIA NOTÍCIAS DIGITAIS LTDA, HIGHLINE COMUNICACAO LTDA, RENATO MIZUNO MATSUNAGA)",
+ "approval_date": "2023-11-17",
+ "consolidated_amount": 45597524.72,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 37,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis listados (avaliados em R$ 43.200.000,00)",
+  "Penhora dos imóveis nas execuções fiscais 0048925-85.2016.4.01.3400, 1063231-03.2020.4.01.3400 e 0016335-84.2018.4.01.3400",
+  "Manutenção de gravames decorrentes de arrolamento de bens e medida cautelar fiscal",
+  "Terreno com faculdade de alienação por iniciativa particular (Cláusula 17)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos do ANEXO I",
+  "Renúncia a alegações de direito e questionamentos administrativos/judiciais",
+  "Manter regularidade de FGTS e tributos federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa em até 90 dias",
+  "Informar previamente à PGFN alienação/disposição de bens e recebimento de precatórios",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias",
+  "Efetuar tempestivamente as amortizações mensais",
+  "Não utilizar a transação de forma abusiva contra livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens/valores",
+  "Nomear à penhora os imóveis em até 60 dias",
+  "Apresentar renúncia/desistência de processos em até 30 dias",
+  "Apresentar demonstrações econômico-financeiras anualmente ou quando solicitado pela PGFN"
+ ],
+ "special_clauses": [
+  "Exclusão da ANUENTE (GRAFLOG - SERVIÇOS DIGITAIS LTDA) do grupo econômico devedor, com desistência de IDPJs e liberação de constrições judiciais em seu nome",
+  "Utilização de créditos de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, limitado a 70% do saldo após desconto",
+  "Liberação excepcional de penhora sobre veículo em nome de terceiro",
+  "Faculdade de alienação de terreno específico por iniciativa particular em 12 meses (Cláusula 17)",
+  "Reconhecimento de grupo econômico de fato com corresponsabilidade solidária"
+ ],
+ "sector": "Comunicação/Jornalismo (Jornal de Brasília)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.8,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.98,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizam R$ 45.597.524,72 (Quarenta e cinco milhões, quinhentos e noventa e sete mil, quinhentos e vinte e quatro reais e setenta e dois centavos), atualizado no mês de Outubro de 2023",
+  "total_discount_pct": "a presente transação envolve concessão do desconto máximo possível de 65% (sessenta e cinco por cento), vedada a incidência sobre o principal do débito",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (demais) e previdenciários é de 37 (trinta e sete) meses, conforme o seguinte plano de amortização"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "101286f9fae5",
+ "title": "Termo de Transação Individual - Grupo JBr de Comunicação",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermoTransaoIndividualGrupoJBrdeComunicaoJornaldeBraslia.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermoTransaoIndividualGrupoJBrdeComunicaoJornaldeBraslia.pdf",
+ "sha256": "fc25f1195fe1e9ab8aa93cfac6deb36047fd948d824857fe9c1ee65dcbcd16e2",
+ "extracted_at": "2026-07-21T19:08:12+00:00",
+ "simulated": false
+}

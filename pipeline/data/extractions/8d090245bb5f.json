@@ -1,0 +1,76 @@
+{
+ "taxpayer": "CTO 1 AGROPECUÁRIA S.A.",
+ "approval_date": "2024-04-09",
+ "consolidated_amount": 14317612.49,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 2,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Seguro Garantia - Seguradora Berkley International do Brasil Seguros SA, Apólice Seguro Garantia, importância segurada R$ 5.451.597,46, vigência 20/10/2023 a 20/10/2028"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos do ANEXO I",
+  "Renúncia a alegações de direito sobre ações judiciais relacionadas aos créditos",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa em até 90 dias",
+  "Manter garantia oferecida até integral cumprimento das condições",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Anuir com eventual modificação de competência relativa",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva",
+  "Não utilizar pessoa interposta para ocultar bens/valores",
+  "Declarar não possuir precatórios federais ou créditos líquidos e certos contra a União",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Desistir de impugnações e recursos administrativos e ações judiciais no prazo de 30 dias"
+ ],
+ "special_clauses": [
+  "Flexibilização das regras para aceitação, avaliação, substituição e liberação de garantias",
+  "Flexibilização das regras para constrição ou alienação de bens",
+  "Possibilidade de utilização de créditos líquidos e certos decorrentes de decisões transitadas em julgado (art. 100, §11, CF)",
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Desconto máximo de 65% vedada incidência sobre o principal, considerando Rating D (dívida de difícil recuperação)"
+ ],
+ "sector": "Agronegócio",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.6,
+  "down_payment_pct": 0.85,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.3,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam R$ 14.317.612,49, atualizado no mês de março/2024",
+  "total_discount_pct": "a presente transação envolve a concessão de descontos limitados ao máximo de até 65% (sessenta e cinco por cento)",
+  "installments": "Crédito de PF BCN R$ 3.507.815,06 70,00% R$ 3.507.815,06 1 R$ 3.507.815,06 / Parcela única R$ 1.503.349,31 30,00% R$ 1.503.349,31 1 R$ 1.503.349,31"
+ },
+ "review_fields": [
+  "sector",
+  "installments",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "8d090245bb5f",
+ "title": "Termo de Transação Individual - CTO 1 Agropecuária SA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualCTO1AgropecuriaSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualCTO1AgropecuriaSA.pdf",
+ "sha256": "2ecf585906e4eff20c8baaf9b95321e1a9861424edf2df121612abbe9481efab",
+ "extracted_at": "2026-07-21T19:11:55+00:00",
+ "simulated": false
+}

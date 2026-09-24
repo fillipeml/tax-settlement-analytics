@@ -1,0 +1,70 @@
+{
+ "taxpayer": "MUNICÍPIO DE PATOS",
+ "approval_date": "2020-03-17",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Renunciar a quaisquer alegações de direito, atuais ou futuras, sobre as quais se fundem ações judiciais, incluídas as coletivas, ou recursos que tenham por objeto os créditos incluídos na transação",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Regularizar, no prazo de 90 (noventa) dias, os débitos que vierem a ser inscritos em dívida ativa ou que se tornarem exigíveis após a formalização do acordo de transação",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas à administração tributária são verdadeiras",
+  "Apresentar cópia de petição de desistência, protocolada perante o juízo, da Ação Ordinária nº 0800710-67.2019.4.05.8205, renunciando a quaisquer alegações de direito, atuais ou futuras, sobre as quais se fundem ações ou recursos que tenham por objeto os créditos incluídos na transação, requerendo também a extinção do processo com resolução de mérito (CPC, art. 487, II, c), até a ratificação do termo de transação"
+ ],
+ "special_clauses": [
+  "Para as dívidas de inscrições nºs 42 4 19 007327-94, 42 4 19 007328-75, 42 4 19 007329-56, 42 4 19 007330-90, 42 4 19 007331-70, 42 4 19 007332-51, 42 4 19 007340-61, 42 4 19 007341-42, 42 4 19 007342-23 e 42 4 19 007343-04: pagamento em 60 meses com desconto de 25%",
+  "Para a dívida de inscrição nº 42 7 19 002029-32: pagamento em 84 meses, sem desconto"
+ ],
+ "sector": "Administração pública municipal",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.3,
+  "installments": 0.3,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments_item1": "pagamento em 60 meses com desconto de 25%",
+  "installments_item2": "pagamento em 84 meses, sem desconto",
+  "discount_item1": "pagamento em 60 meses com desconto de 25%"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "guarantees",
+  "sector"
+ ],
+ "id": "a39b05d6a977",
+ "title": "Termo de Transação Individual - Município de Patos",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-municipio-de-patos-inf-suprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-municipio-de-patos-inf-suprimidas.pdf",
+ "sha256": "35b7a36776bb7851fee96278b76192af51757bd44dbcfcb2cfd4cfaea8afbef0",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

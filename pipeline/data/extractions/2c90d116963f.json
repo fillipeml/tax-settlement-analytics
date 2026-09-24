@@ -1,0 +1,81 @@
+{
+ "taxpayer": "MASSIMA SOLUCOES EM ALIMENTACAO LTDA",
+ "approval_date": "2024-03-04",
+ "consolidated_amount": 27182485.55,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal",
+  "Fiança pessoal dos sócios Patrício Pelúcio e Rogerio da Costa Vieira (Termo de Garantia Fidejussória - Anexo II)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Declarar sob as penas da lei que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens ou valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Regularizar em 30 dias saldo decorrente de reconsolidação de conta de transação individual",
+  "Não alienar bens/direitos que possam inviabilizar capacidade de pagamento sem comunicação à Fazenda",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos exigidos pelas normas fiscais, incluindo comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor após descontos, em 54,56% para modalidade DEMAIS DÉBITOS e 54,01% para modalidade PREV",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal e base de cálculo negativa da CSLL ficará suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de cinco anos",
+  "Considerando a situação econômica de Recuperação Judicial do Requerente, a necessidade de viabilizar superação de crise transitória e o rating D do contribuinte, foram concedidas condições diferenciadas"
+ ],
+ "sector": "Alimentação",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "installments": 1.0,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "no montante atual de R$ 27.182.485,55 nos termos e condições estipuladas no referido Termo de Transação Individual",
+  "total_discount_pct": "Na modalidade DEMAIS, desconto máximo de até 65% (sessenta e cinco por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 60 prestações mensais e sucessivas, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "total_discount_pct"
+ ],
+ "id": "2c90d116963f",
+ "title": "Termo de Transação Individual - Massina Solucoes em Alimentação LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMassinaSolucoesemAlimentaoLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMassinaSolucoesemAlimentaoLTDAtarjado.pdf",
+ "sha256": "930561d03578859165fbd218d37801a5e4b66eba6a6c5c41fea6d4762913575c",
+ "extracted_at": "2026-07-22T14:22:47+00:00",
+ "simulated": false
+}

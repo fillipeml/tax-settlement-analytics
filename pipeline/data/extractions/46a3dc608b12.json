@@ -1,0 +1,51 @@
+{
+ "taxpayer": "CGM - TRANSPORTES E LOCACOES DE EQUIPAMENTOS LTDA",
+ "approval_date": "Not identified",
+ "consolidated_amount": 33313286.47,
+ "modality": "Transação individual",
+ "total_discount_pct": 45.64,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Transporte e locação de equipamentos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.6,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.6,
+  "guarantees": 0.3,
+  "judicial_recovery": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL 33.313.286,47",
+  "total_discount_pct": "TOTAL 45,64%",
+  "installments": "Previdenciária 60 | Demais Débitos 120"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "modality",
+  "installments",
+  "guarantees"
+ ],
+ "id": "46a3dc608b12",
+ "title": "Sumário - CGM - Transportes E Locacoes De Equipamentos LTDA e CGM Logistica LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioCGMTransportesELocacoesDeEquipamentosLTDAeCGMLogisticaLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioCGMTransportesELocacoesDeEquipamentosLTDAeCGMLogisticaLTDA.pdf",
+ "sha256": "53ab147686aa990ce9a6f0cfdcefe480071515a1e5647bc85a76ec0de079607b",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

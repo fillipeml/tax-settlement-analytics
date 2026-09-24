@@ -1,0 +1,77 @@
+{
+ "taxpayer": "COMPESCAL COMÉRCIO DE PESCADO ARACATIENSE LTDA",
+ "approval_date": "2023-11-29",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Bens penhorados nos executivos fiscais (descrição tarjada)",
+  "Manutenção de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente",
+  "Hipoteca do próprio bem (em caso de parcelamento de compra via COMPREI)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Recolhimento das obrigações tributárias correntes",
+  "Cumprimento das obrigações acessórias dependentes da obrigação principal",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após a formalização do acordo",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relacionadas aos débitos",
+  "Peticionar nos processos judiciais em até 60 dias após assinatura do termo noticiando a celebração do acordo",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Manter livros e documentos comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL por 5 anos",
+  "Permanecer no regime de tributação do Lucro Real enquanto vigente a transação",
+  "Não alienar ou onerar bens ou direitos sem comunicação à Fazenda Nacional"
+ ],
+ "special_clauses": [
+  "Exclusão de débitos de FGTS e CSFGTS (LC110) do plano de pagamento em razão de discussão judicial, mediante oferta de bens penhorados como garantia integral",
+  "Alienação dos bens garantidores por leilão judicial ou iniciativa particular via plataforma COMPREI, com limite mínimo de 50% do valor de avaliação",
+  "Utilização de créditos de prejuízo fiscal acumulado e base de cálculo negativa da CSLL para quitação de até 70% do saldo devedor",
+  "Precatórios liquidados em favor da devedora deverão ser aproveitados na liquidação dos débitos transacionados"
+ ],
+ "sector": "Comércio de pescado",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.75,
+  "installments": 0.9,
+  "down_payment_pct": 0.85,
+  "discounts": 0.3,
+  "guarantees": 0.6,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de até 65% em cada uma das inscrições, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa juros e encargo legal), conforme cálculo do sistema (extração em novembro/2023)",
+  "installments": "Pagamento da dívida transacionada de natureza previdenciária e não previdenciária em 60 parcelas iguais, sem entrada.",
+  "down_payment_pct": "Pagamento da dívida transacionada de natureza previdenciária e não previdenciária em 60 parcelas iguais, sem entrada."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "2dda5949e72b",
+ "title": "Termo de Transação Individual - Compescal Comércio de Pescado Aracatiense",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoCompescalComrciodePescadoAracatienseLTDAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoCompescalComrciodePescadoAracatienseLTDAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "2717d330d374d717d245c230ebdfce783c9e9d22582f4ba173f05be31a361580",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

@@ -1,0 +1,83 @@
+{
+ "taxpayer": "Baldan Implementos Agrícolas S/A",
+ "approval_date": "2022-10-24",
+ "consolidated_amount": 310315332.12,
+ "modality": "Transação Individual",
+ "total_discount_pct": 58.64,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Seguro-garantia – Apólice 0619020228903077750032944 – R$ 219.995.836,49",
+  "Bens imóveis (matrículas 741, 960, 4834, 41042 do CRI de Matão; 16650, 99073 do 5º CRI de São Paulo) – R$ 79.276.800,00",
+  "Bens móveis (máquinas do pátio industrial - Anexo IV) – R$ 24.984.093,30"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens ou valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos inscritos em Dívida Ativa após a formalização",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Formalizar penhora dos imóveis e bens móveis dados em garantia em até 30 dias",
+  "Peticionar nos processos judiciais em até 60 dias para desistência/renúncia e confissão da dívida",
+  "Regularizar débito de FGTS (inscrição FGSP202201987) em até 90 dias a partir de 29.09.2022"
+ ],
+ "special_clauses": [
+  "Exclusão da transação dos débitos de FGTS, tratados separadamente conforme regularização/parcelamento próprio",
+  "Possibilidade de alienação de bens imóveis dados em garantia mediante prévia anuência da Fazenda Nacional e uso do Sistema COMPREI",
+  "Possibilidade de substituição de bens móveis dados em garantia por bens da mesma natureza, mediante autorização judicial",
+  "Direcionamento de eventuais créditos (precatórios, depósitos judiciais) para abatimento dos saldos devedores da transação",
+  "Desconto máximo de até 65% aplicado proporcionalmente sobre multa, juros e encargos, vedada redução do principal"
+ ],
+ "sector": "Agronegócio (fabricação de implementos agrícolas)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.85,
+  "installments": 0.8,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que constam inscritos em dívida ativa da União no seu CNPJ e no da sociedade por ela incorporada... que somam R$ 310.315.332,12 (trezentos e dez milhões, trezentos e quinze mil, trezentos e trinta e dois reais e doze centavos)",
+  "total_discount_pct": "TOTAL 310.194.245,67 128.306.070,91 58,64%",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 107 (oitenta e quatro) prestações mensais iguais, mais uma com o saldo da transação."
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "special_clauses",
+  "installments"
+ ],
+ "id": "14f327dfaa5a",
+ "title": "Termo de Transação Individual - Baldan Implementos Agrícolas",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualBaldanImplementosAgriocolasSA2022PRFN3InformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualBaldanImplementosAgriocolasSA2022PRFN3InformaesSigilosasSuprimidas.pdf",
+ "sha256": "fbd90c7f9963fd009d97f802bc54731145efab8528506237da9138d1c3f73af1",
+ "extracted_at": "2026-07-22T14:22:36+00:00",
+ "simulated": false
+}

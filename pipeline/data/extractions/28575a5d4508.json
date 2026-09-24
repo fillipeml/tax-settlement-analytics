@@ -1,0 +1,76 @@
+{
+ "taxpayer": "ELLO CORRENTES COMÉRCIO E INDÚSTRIA LTDA.",
+ "approval_date": "2020-12-30",
+ "consolidated_amount": 60898109.44,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis particulares integrantes de 11 (onze) matrículas discriminadas no Anexo II, nomeados à penhora"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações à PGFN quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Renunciar a alegações de direito sobre ações/recursos relativos aos créditos transacionados",
+  "Regularizar em 90 dias as dívidas com o FGTS e manter regularidade durante a transação",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa após o acordo",
+  "Efetuar pagamentos das parcelas mensais conforme Cláusulas 8ª e 9ª",
+  "Nomear à penhora, em 60 dias, os imóveis dados em garantia (Anexo II)",
+  "Informar previamente alienação/disposição de bens, recebimento de precatório ou levantamento de depósito judicial",
+  "Apresentar relação de bens particulares (ou declaração substitutiva com base na DIRPF 2020)",
+  "Não alienar bens ou direitos sem comunicação prévia à Fazenda Nacional",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos incluídos",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo"
+ ],
+ "special_clauses": [
+  "Abstenção de arguir excesso de penhora considerando o passivo global da transação (Cláusula 15, §1º)",
+  "Liberação dos imóveis penhorados somente ao final da quitação ou a critério exclusivo da Procuradoria-Seccional (Cláusula 15, §2º)",
+  "Não há benefício de ordem entre os bens penhorados (Cláusula 16)",
+  "Vedação de nova transação por 2 anos em caso de rescisão (Cláusula 28)"
+ ],
+ "sector": "Comércio e indústria (correntes)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Constitui o objeto da presente transação individual os 75 (setenta e cinco) débitos arrolados no ANEXO I do presente instrumento, todos elegíveis à transação, no valor total de R$ 60.898.109,44 (sessenta milhões, oitocentos e noventa e oito mil, cento e nove reais e quarenta e quatro centavos)",
+  "installments": "CLÁUSULA 9ª. O saldo remanescente colhido após os descontos aplicados na forma da CLÁUSULA 7ª aos débitos arrolados no ANEXO I será parcelado em 84 (oitenta e quatro) meses para a dívida de natureza não previdenciária"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "28575a5d4508",
+ "title": "Termo de Transação Individual - ELLO",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-transacao-individual_-ello.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-transacao-individual_-ello.pdf",
+ "sha256": "9d9819db67e2d73bd8be925f0a85168a44de3730a2ebc648900c87f48431f2ad",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

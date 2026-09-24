@@ -1,0 +1,71 @@
+{
+ "taxpayer": "Coopecardio - Cooperativa de Trabalho dos Médicos Cardiologistas de Pernambuco",
+ "approval_date": "2025-05-23",
+ "consolidated_amount": 10846571.65,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 50,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal, penhoras ou garantias prestadas administrativamente"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando em até 90 dias débitos que se tornarem exigíveis",
+  "Peticionar em até 60 dias nos processos judiciais relativos à Dívida Transacionada para desistência e renúncia",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais"
+ ],
+ "special_clauses": [
+  "Desconto máximo de 58,68% aplicado de forma proporcional sobre acréscimos legais (multa, juros e encargos), vedada redução do principal",
+  "Possibilidade de alienação dos ativos dados em garantia mediante anuência prévia da Fazenda Nacional, com uso da Plataforma Comprei"
+ ],
+ "sector": "Saúde (cooperativa médica - cardiologia)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.95,
+  "modality": 0.9,
+  "sector": 0.6,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Va Consolidado: 7.948.271,39 e 2.898.300,26 (soma das duas inscrições listadas no Anexo I)",
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Demais Débitos será adimplido em 50 (cinquenta) prestações mensais sucessivas"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector",
+  "consolidated_amount",
+  "guarantees"
+ ],
+ "id": "c8afd221d3dd",
+ "title": "Termo de Transação Individual - Coopecardio — Cooperativa de Trabalho dos Médicos Cardiologistas de Pernambuco",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCoopecardioCooperativadeTrabalhodosMdicosCardiologistasdePernambuco.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCoopecardioCooperativadeTrabalhodosMdicosCardiologistasdePernambuco.pdf",
+ "sha256": "7f0770ff51bce31f4533cafeb9b861b7f855a58e9c397683803ddc15ab28458a",
+ "extracted_at": "2026-07-22T14:36:09+00:00",
+ "simulated": false
+}

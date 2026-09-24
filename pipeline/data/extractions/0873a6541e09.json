@@ -1,0 +1,68 @@
+{
+ "taxpayer": "POLYUTIL S/A INDÚSTRIA E COMÉRCIO DE MATERIAS PLÁSTICAS",
+ "approval_date": "2024-04-03",
+ "consolidated_amount": 20047953.08,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel industrial com 35.200m², localizado na margem da BR 101, km 02 - Bairro Distrito Industrial - João Pessoa/PB, avaliado em R$ 33.740.708,45, matrícula 64967"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados ou balanço contábil",
+  "Manter, durante 5 anos, livros e documentos comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL, caso utilizados",
+  "Pagar regularmente os tributos correntes",
+  "Comprovar em até 60 dias a formalização do acordo junto à Caixa Econômica Federal para débitos de FGTS"
+ ],
+ "special_clauses": [
+  "Cláusula 16ª: direito creditório superveniente monetizado, inclusive de processos judiciais específicos (0031662-65.2001.4.01.3400 e 0805400-07.2019.815.0000), será vertido em proveito da transação",
+  "Cláusula 7ª: venda de bens condicionada à aquiescência da Fazenda Nacional enquanto não liquidada a dívida",
+  "Aproveitamento de crédito de prejuízo fiscal e base de cálculo negativa de CSLL limitado a 70% da dívida remanescente"
+ ],
+ "sector": "Indústria de plásticos",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.6,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.8,
+  "judicial_recovery": 0.3,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Totais: 20.047.953,08 (Demonstrativo de Consolidação, débitos previdenciários) + Totais: 63.445.861,83 (demais débitos) - somatório apurado das tabelas de consolidação",
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 65% (Débitos Previdenciários e Débitos Não Previdenciários)",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 120 MESES (Débitos Não Previdenciários - Demais Débitos)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "0873a6541e09",
+ "title": "Termo de Transação Individual - Polyutil S/A Indústria e Comércio de Matérias Plásticas",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualPolytilSAIndstriaecomrciodemateriasplsticastarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualPolytilSAIndstriaecomrciodemateriasplsticastarjado.pdf",
+ "sha256": "0980ba38637a15a6b7668b517fe9c8c0a8e308119b759eb44aff2dc74a82b34e",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

@@ -1,0 +1,76 @@
+{
+ "taxpayer": "TS LOCAÇÃO DE GUINCHO LTDA",
+ "approval_date": "2023-05-31",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 133,
+ "down_payment_pct": 4.0,
+ "guarantees": [
+  "Caminhão Guindaste XCT110_BRI, CHASSI: LXGCPA451NA003627, avaliado em R$ 2.913.719,21",
+  "Caminhão Guindaste XCT110_BRI, CHASSI: LXGCPA451NA003630, avaliado em R$ 2.854.225,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações à PGFN quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não alienar bens dados em garantia sem concordância da Fazenda Nacional",
+  "Não alienar bens sem reservar ativos suficientes para os créditos da Fazenda Nacional",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de ativos não circulantes",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Autorizar compensação de precatórios federais ou estaduais",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas dos trabalhadores",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil",
+  "Verter para pagamento da dívida qualquer crédito recebido por precatório ou outro meio em face da União, Estado ou Municípios"
+ ],
+ "special_clauses": [
+  "Formalização de 2 contas independentes de transação: Débitos Previdenciários (48 meses) e Demais Débitos (133 meses), sem prejuízo ao caráter único da transação",
+  "Inadimplência de qualquer das contas implica rescisão de toda a transação",
+  "Débitos de FGTS e Contribuição Social da LC 110/2001 são geridos pela Caixa Econômica Federal",
+  "Possibilidade de alienação dos bens dados em garantia via sistema COMPREI em caso de rescisão, com limite mínimo de 50% do valor de avaliação"
+ ],
+ "sector": "Transporte/guincho (locação de veículos de guincho)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.2,
+  "total_discount_pct": 0.5,
+  "down_payment_pct": 0.9,
+  "installments": 0.8,
+  "discounts": 0.3,
+  "judicial_recovery": 0.2,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "down_payment_pct": "Fica estabelecido como plano de amortização do estoque de débitos transacionados, o pagamento do equivalente ao percentual de 4% (quatro por cento) do valor consolidado dos débitos transacionados (\"entrada\")",
+  "installments": "a serem pagos parceladamente em 48 (quarenta e oito) e 133 (cento e trinta e três) meses, respectivamente",
+  "discounts_social_security": "é concedido um desconto efetivo de 49,22% nos débitos previdenciários e 56,27% nos débitos não previdenciários"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "sector",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "d56fd7e0cc66",
+ "title": "Termo de Transação Individual - TS Locação de Guincho LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualTSLocaodeGuinchoLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualTSLocaodeGuinchoLTDATarjado.pdf",
+ "sha256": "8d763e959a0c1c9e591a736f688df97d47ae9f883802c9bfd22f76d9e962caef",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

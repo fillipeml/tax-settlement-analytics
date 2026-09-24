@@ -1,0 +1,65 @@
+{
+ "taxpayer": "REDE METODISTA DE ENSINO (Centro de Ensino Superior de Porto Alegre Ltda, Instituto Porto Alegre da Igreja Metodista, Instituto Metodista de Educação e Cultura, Instituto Metodista Centenário, Instituto Educacional Metodista de Passo Fundo, Instituto União de Uruguaiana da Igreja Metodista, Instituto Metodista de Ensino Superior, Instituto Educacional Piracicabano da Igreja Metodista, Instituto Metodista Izabela Hendrix, Instituto Metodista Granbery, Instituto Metodista de Educação, Instituto Metodista Bennett, Educa - Produtos e Serviços, COGEIME, Centro Wesleyano do Sul Paulista, Instituto Metodista Educacional de Altamira; Interveniente/anuente: Associação da Igreja Metodista)",
+ "approval_date": "2023-10-06",
+ "consolidated_amount": 733735344.35,
+ "modality": "Transação Individual (art. 156, III, CTN; Lei 13.988/2020; Portaria PGFN 6757/2022, art. 15, §1º, VI - instituição de ensino)",
+ "total_discount_pct": 58.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 70.0
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel Matrícula 50.038 - Cartório de Registro de Imóveis de Birigui-SP - R$4.000.000,00",
+  "Imóveis Matrícula 15.135, 45.935, 84.224 e 84.225 - 1º Cartório do Registro de Imóveis de São Bernardo do Campo - R$27.000.000,00",
+  "Imóvel Matrícula 7.345 - Oficial de Registro de Imóveis de Lins-SP - R$55.000.000,00",
+  "Imóvel Matrícula 74.898 - 1º Cartório do Registro de Imóveis Piracicaba/SP - R$6.600.000,00",
+  "Imóvel Matrícula 91.851 - 2º Oficial de Registro de Imóveis de Piracicaba/SP - R$6.700.000,00",
+  "Imóvel Matrícula 92.180 (parcial) - 2º Oficial de Registros de Imóveis Piracicaba/SP - R$27.000.000,00",
+  "Imóvel de matrícula 5388 do 1º Cartório de Registro de Imóveis de São Bernardo do Campo/SP, de propriedade do Instituto Metodista de Ensino Superior - valor de avaliação R$240.000.000,00 (substituição de garantias dos créditos não negociados)",
+  "Seguro-Garantia - Processos 0071111-37.2014.4.01.3800 e 0084635-04.2014.4.01.3800"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter em dia pagamento de impostos e taxas sobre bens dados em garantia (depositários)",
+  "Peticionar em até 60 dias nos processos judiciais para desistir de impugnações/recursos e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Formalização da transação individual em nome do CNPJ único do Instituto Metodista de Ensino Superior (44.351.146/0001-57), visando unidade da transação e da garantia",
+  "Parcelas extras nas prestações 48, 60 e 72, a serem pagas com o resultado da alienação de imóveis no processo de Recuperação Judicial",
+  "Criação de 2 contas para cada modalidade (retidos na fonte e não retidos), tanto para débitos previdenciários quanto não previdenciários",
+  "Substituição de garantias penhoradas por imóvel de matrícula 5388 avaliado em R$240.000.000,00",
+  "Destinação de 20% do valor de alienação de determinados imóveis para a transação e 80% para plano de reestruturação da Rede Metodista de Ensino",
+  "Transação conjunta de débitos do FGTS no valor estimado de R$101.270.326,76, com valor rescisório do trabalhador de aproximadamente R$13.500.000,00 a ser pago à vista",
+  "Anuência da Fazenda Nacional em contrato de alienação fiduciária do imóvel de matrícula 158.044, com preferência de 20% do valor de venda em favor da União",
+  "Utilização do Sistema COMPREI da PGFN para alienação de bens imóveis"
+ ],
+ "sector": "educação",
+ "confidence": {},
+ "source_excerpts": {
+  "consolidated_amount": "que somam R$733.735.344,35 [valor de agosto de 2023], sendo os de natureza previdenciária da ordem de R$ 424.790.175,49 e os não previdenciários da ordem de R$ 308.945.168,86",
+  "total_discount_pct": "Desconto máximo de até 70% (setenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), que resulta num desconto efetivo da ordem de 58% (cinquenta e oito por cento)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária em 145 parcelas escalonadas, com parcelas extras nas prestações 48, 60 e 72"
+ },
+ "review_fields": [],
+ "id": "44aaa81c16b1",
+ "title": "Termo de Transação Individual - Rede Metodista de Ensino (União)",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRedeMetodistadeEnsinoDemaisInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRedeMetodistadeEnsinoDemaisInformaesSigilosasSuprimidas.pdf",
+ "sha256": "6bf02827734ac205076b58aea44c5b367d6f290272879dea1281615dd0c5ad7b",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

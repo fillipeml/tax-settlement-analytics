@@ -1,0 +1,69 @@
+{
+ "taxpayer": "NAOMI COMÉRCIO DE ALIMENTOS LTDA.",
+ "approval_date": "2023-01-16",
+ "consolidated_amount": 41922945.77,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel rural (denominado, com aproximadamente 7 alqueires e 1.280m², ou 34,00,80 hectares), avaliado em R$40.000.000,00, localizado na Zona Rural do 3º Registro de Resende, inscrito no INCRA, registrado no 2º Ofício de Registro Geral de Imóveis de Resende"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional",
+  "Permanecer nos parcelamentos já aderidos, honrando pagamentos até completa quitação das CDAs",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa em seu nome após a formalização do acordo, no prazo de 90 dias",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Peticionar nos processos judiciais em 30 dias para noticiar a celebração do acordo e confessar os débitos",
+  "Manter em dia o pagamento de impostos e taxas federais, estaduais e municipais sobre o imóvel dado em garantia",
+  "Comunicar à Fazenda Nacional e ao Juízo sobre superveniência de penhora ou novo gravame sobre o bem oferecido",
+  "Promover a atualização do registro cartorário do imóvel no prazo de 30 dias da assinatura"
+ ],
+ "special_clauses": [
+  "Possibilidade de transferência de até 100% dos débitos para novo parcelamento extraordinário mais benéfico, mantendo a garantia vinculada (cláusula 6.3.1)",
+  "Substituição do imóvel dado em garantia por outro de igual ou maior valor em caso de alienação com concordância da Fazenda Nacional (cláusula 3.4.2)",
+  "Reversão de 30% do valor auferido com alienação do imóvel (com concordância da Fazenda) como antecipação de parcelas (cláusula 3.4.3)"
+ ],
+ "sector": "Comércio de alimentos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.85,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Débitos de natureza não previdenciária, cujos valores atualizados, para Janeiro/2023, somam R$41.922.945,77 (quarenta e um milhões, novecentos e vinte e dois mil, novecentos e quarenta e cinco reais e setenta e sete centavos).",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a dívida transacionada de natureza não previdenciária, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), conforme previsto no artigo 15, da Portaria 6.757/2022",
+  "installments": "O plano de pagamento relativo aos débitos não previdenciários (ANEXO II), cujo total consolidado, após a incidência dos descontos é de R$ 14.673.030,89 (quatorze milhões, seiscentos e setenta e três mil, trinta reais e oitenta e nove centavos), prevê o recolhimento em 120 parcelas, cujos valores seguem discriminados na planilha que constitui o ANEXO II"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "2ece789027c3",
+ "title": "Termo de Transação Individual - Naomi comércio de Alimentos LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualNaomicomerciodeAlimentosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualNaomicomerciodeAlimentosLTDA.pdf",
+ "sha256": "942a44842adfe598eefb7aee1292435ed1739f679da64e6de5cf24097522f35f",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

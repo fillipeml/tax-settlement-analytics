@@ -1,0 +1,69 @@
+{
+ "taxpayer": "DFC ADMINISTRADORA DE IMÓVEIS LTDA; BONANZA SUPERMERCADOS LTDA; ALIANÇA DISTRIBUIDORA DE GÊNEROS ALIMENTÍCIOS LTDA",
+ "approval_date": "2024-12-02",
+ "consolidated_amount": 34113034.73,
+ "modality": "Transação Individual (Termo de Aditamento/Revisão)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 2,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Garantias já avençadas no acordo original (mantidas)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter-se em atividade sob regime de lucro real durante toda a vigência da transação",
+  "Peticionar no processo nº 0802956-94.2023.4.05.8302 em até 10 dias informando o acordo e requerendo homologação do cálculo da RFB",
+  "Utilizar créditos de prejuízo fiscal e base de cálculo negativa de CSLL - PF/BCN conforme condições estabelecidas",
+  "Regularizar débitos que se tornarem exigíveis no prazo de 90 dias, sob pena de rescisão",
+  "Apresentar precatório e Certidão de Valor Líquido Disponível (CVLD) no prazo de até 180 dias da assinatura"
+ ],
+ "special_clauses": [
+  "Uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) para pagamento do saldo devedor",
+  "Imputação de crédito judicial pendente (ação nº 0802956-94.2023.4.05.8302) para quitação/amortização do acordo, com renúncia ao saldo excedente pleiteado",
+  "Condição resolutória de ulterior disponibilização financeira do recurso pelo Tribunal respectivo para uso do CVLD",
+  "Rescisão automática em caso de não homologação dos créditos de PF/BCN, com restabelecimento integral da dívida"
+ ],
+ "sector": "Supermercados/Distribuição de gêneros alimentícios e administração de imóveis",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.0,
+  "guarantees": 0.4,
+  "obligations": 0.75,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Será revisada a conta nº 4047883 (PREV) para inclusão de pagamento de R$ 34.113.034,73 (trinta e quatro milhões, cento e treze mil, trinta e quatro reais e setenta e três centavos) do saldo da dívida, após a aplicação dos descontos, na data de sua consolidação, com uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL - PF/BCN, mantido o prazo remanescente já avençado para pagamento do saldo devedor revisado.",
+  "installments": "Os DEVEDORES se obrigam ao pagamento de R$ 5.000.000,00 (cinco milhões de reais), que deverão ser distribuídos entre as contas de transação previdenciária, em duas parcelas iguais de R$ 2.500.000,00 (dois milhões e quinhentos mil reais), sendo a primeira com vencimento em 30.12.2024 e a segunda com vencimento até o dia 31.01.2025."
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "8e6f39e62bf7",
+ "title": "Termo de Transação Individual - DFC Administradora de Imóveis LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualDFCAdministradoradeImveisLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualDFCAdministradoradeImveisLTDATarjado.pdf",
+ "sha256": "fe11303ede1b541ccbd6dc2e89b35e854dbf7b4ac75612719f3a90bc40ffcffb",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

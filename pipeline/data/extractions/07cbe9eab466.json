@@ -1,0 +1,75 @@
+{
+ "taxpayer": "ASF INDÚSTRIA DE AUTOPEÇAS LTDA",
+ "approval_date": "2024-03-07",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (modalidades DEMAIS DÉBITOS e PREV)",
+ "total_discount_pct": 52.37,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Regularizar em 30 dias saldo decorrente de reconsolidação de conta de transação individual",
+  "Não alienar bens que possam inviabilizar capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos exigidos, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da transação"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor após aplicação dos descontos, em 3,17% para modalidade DEMAIS DÉBITOS e 8,09% para modalidade PREV",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal ficará suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de cinco anos",
+  "Condições concedidas considerando situação econômica de Recuperação Judicial, situação transitória de crise e rating D do contribuinte"
+ ],
+ "sector": "Autopeças/Indústria automotiva",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.75,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Na modalidade DEMAIS, desconto máximo de até 52,37% a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 60 prestações mensais e sucessivas, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct"
+ ],
+ "id": "07cbe9eab466",
+ "title": "Termo de Transação Individual - ASF Indústria",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualASFIndstriatarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualASFIndstriatarjado.pdf",
+ "sha256": "6af4bd7c8a8fcc2a58d6fa7313308ce6e1927425d116e95c0baca0589a3268a0",
+ "extracted_at": "2026-07-22T14:22:35+00:00",
+ "simulated": false
+}

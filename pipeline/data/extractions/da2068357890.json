@@ -1,0 +1,60 @@
+{
+ "taxpayer": "RÁDIO E TV DIFUSORA DO MARANHÃO LTDA (e corresponsáveis: RÁDIO CURIMA LTDA, RÁDIO CAXIAS, JOTA COMUNICAÇÃO S/A, DIFUSORA COMUNICAÇÃO S/A)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 20125318.4,
+ "modality": "Transação Individual",
+ "total_discount_pct": 59.22,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Radiodifusão/comunicação (rádio e TV)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.5,
+  "modality": 0.7,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.9,
+  "installments": 0.6,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.0,
+  "special_clauses": 0.0,
+  "judicial_recovery": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$ 20.125.318,40",
+  "total_discount_pct": "59,22%",
+  "installments": "Previdenciária: 60; Demais Débitos: 120"
+ },
+ "review_fields": [
+  "sector",
+  "modality",
+  "approval_date",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "da2068357890",
+ "title": "Sumário - Rádio e TV Difusora do Maranhão LTDA, Rádio Curimã LTDA, Rádio Caxias, Jota Comunicação, Difusora Comunicações SA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/SumrioRdioeTVDifusoradoMaranhoLTDARdioCurimLTDARdioCaxiasJotaComunicaoDifusoraComunicaesSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/SumrioRdioeTVDifusoradoMaranhoLTDARdioCurimLTDARdioCaxiasJotaComunicaoDifusoraComunicaesSA.pdf",
+ "sha256": "e5e6064e49da7b374abd6b86559ad83a98f19454ee7017dcbcd6f32dfd19bf85",
+ "extracted_at": "2026-07-21T19:01:42+00:00",
+ "simulated": false
+}

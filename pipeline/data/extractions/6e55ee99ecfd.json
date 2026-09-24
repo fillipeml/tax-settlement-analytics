@@ -1,0 +1,77 @@
+{
+ "taxpayer": "LATASA INDÚSTRIA E COMÉRCIO LTDA. e PONTAL EXTRUSÃO LTDA.",
+ "approval_date": "2024-12-27",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança bancária ou seguro garantia, no valor integral dos débitos que permanecerão na transação (80.6.24.203221-44, 80.6.24.203220-63, 80.2.24.132526-68, 80.7.24.054337-60, 80.3.24.004921-23), a ser apresentada em até 30 dias contados da assinatura do acordo",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, de medida cautelar fiscal e das garantias prestadas administrativamente ou nas ações de execução fiscal"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Pagamento da Dívida Transacionada - Demais Débitos em 120 prestações mensais e lineares, sem descontos",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Declarar que preenchem os requisitos da Lei 13.988/2020",
+  "Não utilizar a Transação de forma abusiva",
+  "Declarar não utilização de pessoa interposta para ocultar bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Manter regularidade perante PGFN e RFB, regularizando em 90 dias débitos que se tornarem exigíveis",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda",
+  "Apresentar a fiança bancária no prazo de 30 dias, sob pena de rescisão",
+  "Peticionar nos processos judiciais em até 30 dias para noticiar a celebração da transação e desistir de impugnações/recursos/ações"
+ ],
+ "special_clauses": [
+  "Inscrições 80.6.24.180279-20, 80.6.24.238750-04, 80.2.24.155212-24, 80.6.24.238751-95, 80.2.24.155213-05, 72.7.24.003070-98, 72.6.24.011092-50, 72.2.24.006895-04 e 72.6.24.011093-30 poderão migrar para a transação original firmada em abril/2024, com possibilidade de desconto de até 65%, em momento oportuno, através de aditivo a ser realizado",
+  "As inscrições 80.6.24.203221-44, 80.6.24.203220-63, 80.2.24.132526-68, 80.7.24.054337-60, 80.3.24.004921-23 permanecerão vinculadas ao novo acordo de transação, restando vedada a sua migração para o acordo original, ante a aplicação da cláusula 1.4.8 do Termo de Transação firmado em abril/2024"
+ ],
+ "sector": "Indústria (extrusão/metalurgia - embalagens de alumínio)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais e lineares, sem descontos, na forma discriminada no Anexo III"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "6e55ee99ecfd",
+ "title": "Termo de Transação Individual - Latasa Indústria e Comércio LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndivualLatasaIndstriaeComrcioLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndivualLatasaIndstriaeComrcioLTDATarjado.pdf",
+ "sha256": "1d1e96f73ae4e97bf808234d2a25e677e1a7303fcffd12fd18b463c4eefbbfa1",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

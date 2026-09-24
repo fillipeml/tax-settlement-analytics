@@ -1,0 +1,51 @@
+{
+ "taxpayer": "DISTRIBUIDORA DE BEBIDAS F. ANTONIO CHIAMULERA LTDA",
+ "approval_date": "Not identified",
+ "consolidated_amount": 34905534.71,
+ "modality": "Transação individual",
+ "total_discount_pct": 54.22,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Distribuição de bebidas",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.4,
+  "approval_date": 0.0,
+  "modality": 0.6,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.9,
+  "installments": 0.95,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$ 34.905.534,71",
+  "total_discount_pct": "54,22%",
+  "installments": "120"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "modality"
+ ],
+ "id": "2af3921400cf",
+ "title": "Sumário - Distribuidora de Bebidas F Antonio Chiamulera",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/SumrioDistribuidoradeBebidasFAntonioChiamulera.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/SumrioDistribuidoradeBebidasFAntonioChiamulera.pdf",
+ "sha256": "07745b382d9dc1f98598a59945ea9819929a5cd5e122b1969274d2b3b9bc4d9b",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

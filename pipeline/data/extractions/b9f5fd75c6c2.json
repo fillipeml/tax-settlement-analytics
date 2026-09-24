@@ -1,0 +1,77 @@
+{
+ "taxpayer": "MOCOCA S.A PRODUTOS ALIMENTÍCIOS e KREMON DO BRASIL INDUSTRIA E COMERCIO LTDA (Grupo Mococa) - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2025-05-05",
+ "consolidated_amount": 32294528.5,
+ "modality": "Transação Individual - Termo Aditivo de Repactuação",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 75,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem ou destinação de bens",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Manter regularidade perante a PGFN e a RFB, regularizando em 90 dias débitos que se tornarem exigíveis",
+  "Regularizar em 30 dias o saldo decorrente da reconsolidação da conta de transação individual",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter durante 5 anos os livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo",
+  "Antecipar a liquidação dos débitos que não serão repactuados, efetuando o pagamento do saldo remanescente em até 60 dias após a assinatura do Termo Aditivo"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação do saldo remanescente, limitada a 70% para as modalidades demais débitos e PREV",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal ficará suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de 5 anos",
+  "Reconhecimento pelas Requerentes de que integram o mesmo grupo econômico e concordância com inserção como corresponsáveis nos sistemas da Dívida Ativa",
+  "Débitos do Anexo I não serão repactuados e devem ser liquidados em até 60 dias após a formalização do Termo Aditivo"
+ ],
+ "sector": "Alimentício",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.6,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "judicial_recovery": 0.95
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$ 32.294.528,50 Passivo Fiscal objeto de repactuação em 03/2025",
+  "total_discount_pct": "Desconto máximo de até 65% a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Repactuada de natureza não previdenciária (\"Demais Débitos\") em 75 prestações mensais lineares e de natureza PREV em 36 prestações mensais lineares"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees"
+ ],
+ "id": "b9f5fd75c6c2",
+ "title": "Termo de Transação Individual - Mococa SA Produtos Alimentícios",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMococaSAProdutosAlimentciosTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMococaSAProdutosAlimentciosTarjado.pdf",
+ "sha256": "bc17f1fa2a3b9e70294b3598bc94bb5c059e791f7e5c7704448c6a1c833a8ee2",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

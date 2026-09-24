@@ -1,0 +1,75 @@
+{
+ "taxpayer": "FERRAGENS 3F DO BRASIL LTDA.",
+ "approval_date": "2024-05-07",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": 56.05,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 90,
+ "down_payment_pct": null,
+ "guarantees": [
+  "4% de recebíveis oriundos dos direitos de crédito do devedor junto aos clientes/credores",
+  "Imóveis e equipamentos constantes do ANEXO VIII, com ou sem penhora em favor da Fazenda Nacional",
+  "Penhora nas execuções fiscais listadas no ANEXO VII"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter o regime de apuração de IRPJ pela modalidade de lucro real até a extinção da Dívida Transacionada",
+  "Manter livros e documentos comprobatórios dos créditos de prejuízo fiscal e base negativa de CSLL",
+  "Comunicar à Fazenda Nacional antes de alienar bens ou direitos próprios",
+  "Dar ciência à CREDORA de alterações na natureza jurídica ou formatação societária em até 30 dias",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Manter regularidade perante o FGTS e individualização dos valores recolhidos",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União em até 90 dias",
+  "Apresentar anualmente até 30/08 a lista de compradores/contratos de prestação de serviços que compõem a garantia",
+  "Comunicar aos juízos das execuções fiscais a formalização das garantias em até 30 dias",
+  "Peticionar nos processos judiciais para desistir de impugnações, recursos ou ações em até 30 dias"
+ ],
+ "special_clauses": [
+  "Garantia por percentual de recebíveis (4%) oriundos de direitos de crédito junto a clientes/credores, com sigilo dos contratos/lista de compradores (art. 1º, §3º da Lei 13.988/2020)",
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para liquidação de até 4,0% do saldo remanescente",
+  "Execução da penhora sobre recebíveis se dará por intimação judicial dos clientes da empresa para depósito direto do percentual oferecido em garantia"
+ ],
+ "sector": "Comércio/Indústria de ferragens",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.7,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Concessão do desconto máximo de 56,05% (cinquenta e seis vírgula zero cinco por cento) incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento do saldo remanescente dos débitos de natureza não previdenciária efetuado em 90 (noventa) meses, por meio de parcelas escalonadas"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "2adfe23a9565",
+ "title": "Termo de Transação Individual -  Ferragens 3F do Brasil LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualFerragens3FdoBrasilLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualFerragens3FdoBrasilLTDATarjado.pdf",
+ "sha256": "337298aa484f1f3f57ca36f1a2bd249da00a4aeb2c8afb79f53003f937dbe5ce",
+ "extracted_at": "2026-07-22T14:22:29+00:00",
+ "simulated": false
+}

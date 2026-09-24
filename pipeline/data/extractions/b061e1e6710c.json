@@ -1,0 +1,75 @@
+{
+ "taxpayer": "EXPRESSO RENOVAÇÃO LTDA.",
+ "approval_date": "2023-12-06",
+ "consolidated_amount": 101536694.03,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens móveis (máquinas e equipamentos) com Avaliação de Mercado de R$ 8.092.918,12",
+  "MARCAS registradas nos números 827280734, 921388780 e 921726295 junto ao INPI, avaliadas em conjunto perfazendo R$ 27.535.326,37",
+  "Montante total garantidor de R$ 35.628.244,49",
+  "Bens já penhorados nos autos da Execução Fiscal nº 5009105-14.2013.4.04.7112, 19ª Vara Federal de Porto Alegre/RS"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens",
+  "Declarar não alienação/oneração de bens com propósito de frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação de bens do ativo não circulante",
+  "Cumprir exigências e obrigações da Portaria PGFN nº 6757/22 e da proposta",
+  "Declarar veracidade de informações cadastrais, patrimoniais e econômico-fiscais quando envolver capacidade de pagamento",
+  "Renunciar a alegações de direito sobre ações judiciais incluídas na transação",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Manter em dia pagamento de taxas relativas aos bens dados em garantia, incluindo manutenção das MARCAS em vigor",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relacionadas aos débitos"
+ ],
+ "special_clauses": [
+  "Garantia constituída por bens móveis (máquinas e equipamentos) e por MARCAS registradas junto ao INPI, com valor apurado por Laudo Pericial Contábil de Valuation da Empresa",
+  "Bens já penhorados em execução fiscal em curso, aceitos como garantia da transação",
+  "Parcela nº 60 da conta previdenciária configurada como 'parcela balão' (aporte maior), cuja falta de pagamento gera rescisão específica"
+ ],
+ "sector": "Logística/Transporte",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "cujo montante totaliza, em dezembro/2023, R$ 101.536.694,03 (cento e um milhões, quinhentos e trinta e seis mil, seiscentos e noventa e quatro reais e três centavos)",
+  "installments": "e o saldo devedor será pago em 120 (cento e vinte) parcelas escalonadas, mensais e sucessivas, conforme os valores estipulados no Anexo III"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "b061e1e6710c",
+ "title": "Termo de Transação Individual - Expresso Renovação Eireli",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualExpressoRenovaoEireliTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualExpressoRenovaoEireliTarjado.pdf",
+ "sha256": "cf2cd698fcbe86bdfe2662507ec116de1b7a44763f934081856366b7d0307162",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

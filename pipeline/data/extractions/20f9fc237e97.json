@@ -1,0 +1,74 @@
+{
+ "taxpayer": "MASSA FALIDA DE TELOS S.A. EQUIPAMENTOS E SISTEMAS",
+ "approval_date": "2020-05-18",
+ "consolidated_amount": null,
+ "modality": "Transação individual tributária - Pagamento à vista",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Renunciar a quaisquer alegações de direito sobre ações judiciais/recursos referentes aos créditos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em dívida ativa",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar bens, direitos ou valores",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais prestadas"
+ ],
+ "special_clauses": [
+  "Pagamento à vista até 29.05.2020 das inscrições previdenciárias (393737691, 399119906, 401074030, 423177699) com desconto global de até 50% respeitado o valor do principal",
+  "Pagamento à vista até 29.05.2020 das demais inscrições (44 inscrições - IRPJ, IPI, COFINS, PIS) com desconto global de até 49,75% respeitado o valor do principal",
+  "É vedada a redução do montante principal do crédito inscrito em dívida ativa, devendo o devedor arcar com diferenças de atualização monetária"
+ ],
+ "sector": "Equipamentos e Sistemas / Massa Falida",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.4,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.9,
+  "judicial_recovery": 0.3,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "PLANO DE PAGAMENTO À VISTA conforme relação que segue abaixo",
+  "discount_total_pct_social_securitys": "serão quitadas mediante pagamento à vista até 29.05.2020 com desconto global de até 50% respeitado o valor do principal",
+  "discount_total_pct_other": "serão quitadas mediante pagamento à vista até 29.05.2020 com desconto global de até 49,75% respeitado o valor do principal"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "20f9fc237e97",
+ "title": "copy2_of_TermodeTransaoInvididualTelosS.AEquipamentoseSistemastarjado.pdf",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/copy2_of_TermodeTransaoInvididualTelosS.AEquipamentoseSistemastarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/copy2_of_TermodeTransaoInvididualTelosS.AEquipamentoseSistemastarjado.pdf",
+ "sha256": "274252c35dcc755fd8289d0bb5c6453a1e66444bdf47226ff4d4e9cd440f298e",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

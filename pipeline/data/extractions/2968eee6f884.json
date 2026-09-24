@@ -1,0 +1,82 @@
+{
+ "taxpayer": "CANINHA ONCINHA LTDA.",
+ "approval_date": "2025-01-22",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 63.65,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis matriculados sob os nºs: 2.589, 6.163, 7.786, 2.588, 28.785, 27.977, 27.972, 28.415, 1.483, 6.839, 522, 523, 5.577, 5.576, 26423, 4897, 1106, 6085 (5/10 avos), 9240, 5.578, 1.444, 1.449, 1.448 e 1.447 todos do CRI de Ourinhos/SP, avaliados em aproximadamente R$ 15.000.000,00",
+  "Crédito líquido e certo decorrente de penhora no rosto dos autos do Processo de Cumprimento de Sentença contra a Fazenda Pública nº 0004061-78.2001.4.03.6100, no valor de R$ 27.166.588,50, atualizado para 08/2022"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar sob as penas da lei que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações à PGFN quando solicitado",
+  "Não utilizar a Transação de forma abusiva para limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias os débitos que se tornarem exigíveis após a formalização",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter por 5 anos os livros e documentos fiscais, inclusive comprobatórios de prejuízo fiscal e base negativa da CSLL",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo, em caso de uso de prejuízo fiscal/base negativa CSLL",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação, desistir de impugnações/recursos/ações e renunciar aos direitos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito decorrente de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, limitado a 70% do saldo da dívida após descontos, no valor aproximado de R$ 38.171.229,43",
+  "Créditos de precatório ou levantamento de depósito judicial deverão ser direcionados para amortização dos saldos devedores da Transação",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas",
+  "Requerente anui com a utilização do sistema COMPREI para eventual alienação de imóveis já penhorados"
+ ],
+ "sector": "Bebidas/Aguardente",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "approval_date": 0.9,
+  "modality": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de aproximadamente 63,65% (sessenta e quatro inteiros e um centésimo por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada, de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\"), em 120 (cento e vinte) prestações, com escalonamento nas primeiras 60 (sessenta), na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "down_payment_pct",
+  "judicial_recovery",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "2968eee6f884",
+ "title": "Termo de Transação Individual - Caninha Oncinha LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCaninhaOncinhaLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCaninhaOncinhaLTDATarjado.pdf",
+ "sha256": "8c4925a707cecffa372ccab4d14459eed0e91261b9bdaae35737015611fdd3bc",
+ "extracted_at": "2026-07-22T14:22:37+00:00",
+ "simulated": false
+}

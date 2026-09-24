@@ -1,0 +1,65 @@
+{
+ "taxpayer": "MUNICÍPIO DE FELIZ DESERTO",
+ "approval_date": "2024-07-29",
+ "consolidated_amount": 9697725.75,
+ "modality": "Transação Individual - Plano de Regularização Fiscal",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não alienará bens ou direitos sem proceder à devida comunicação à Fazenda Nacional",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados/balanço contábil",
+  "Pagar regularmente os tributos correntes",
+  "Comunicar venda de bens condicionada à aquiescência da Fazenda Nacional enquanto não liquidada a dívida transacionada"
+ ],
+ "special_clauses": [
+  "Autorizada a dedução de valores a serem repassados ao Município relacionados às cotas no Fundo de Participação, caso não seja cumprido o parcelamento acordado (art. 5º, parágrafo único, da Portaria 6757/2022)",
+  "Débitos de FGTS na Modalidade 63 em 80 parcelas, com desconto de 24,18% (Anexo III)",
+  "Plano de pagamento previdenciário escalonado em 4 faixas (Anexo II), com percentuais crescentes de 10% a 51% ao ano"
+ ],
+ "sector": "Setor público (Administração municipal)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.85,
+  "judicial_recovery": 0.2,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL 100% R$ 9.697.725,75",
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 65%",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 60"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "90320d18b0b1",
+ "title": "Termo de Transação Individual - Município de Feliz Deserto",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMunicpiodeFelizDesertoTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMunicpiodeFelizDesertoTarjado.pdf",
+ "sha256": "eae4cf84667629421fe25c13eb03cbe4574295c4b17c760eb7f2a5406869804a",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

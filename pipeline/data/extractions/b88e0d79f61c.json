@@ -1,0 +1,88 @@
+{
+ "taxpayer": "METALÚRGICA FALCÃO LTDA",
+ "approval_date": "2025-02-24",
+ "consolidated_amount": 32844804.33,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "3 (três) bens imóveis localizados em Porto Alegre/RS: transcrições de nº 27.052, 34.645 e 40.952, previamente avaliados em R$ 5.220.000,00",
+  "Direitos sobre a marca Metalúrgica Falcão Ltda., registrada junto ao INPI (processo nº 827548893), previamente avaliados em R$ 10.000.000,00",
+  "Hipoteca extrajudicial em favor da União - Fazenda Nacional, caso indeferida a penhora judicial dos imóveis"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos",
+  "Declarar não alienar ou onerar bens com propósito de frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais com prestações do acordo",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN nº 6757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações judiciais/recursos referentes aos créditos incluídos",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não desistir do acordo sob pena de rescisão",
+  "Desistir de impugnações/recursos administrativos e ações judiciais referentes aos débitos negociados",
+  "Peticionar nos processos judiciais em até 30 dias após assinatura, noticiando a transação",
+  "Pagar honorários advocatícios e custas processuais devidos",
+  "Providenciar documentação para perfectibilização da constrição das garantias",
+  "Pagar custas processuais pendentes e despesas de cancelamento de leilões",
+  "Pagar emolumentos de lavratura de escritura pública de hipoteca",
+  "Substituir ou reforçar garantia em caso de perecimento/depreciação/redução significativa de valor, no prazo de 30 dias",
+  "Pagar emolumentos de eventual e anterior protesto cartorário das inscrições abrangidas"
+ ],
+ "special_clauses": [
+  "Nomeação da União como procuradora do proprietário para receber indenização em caso de desapropriação total ou parcial de bens dados em garantia, aplicando-a na amortização/liquidação da dívida",
+  "Possibilidade de reunião de execuções fiscais para fins de penhora, com concordância prévia da Fazenda Nacional para apensamento das execuções",
+  "Redução significativa de garantia definida como retirada de mais de 25% do valor dos bens oferecidos",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em execuções fiscais"
+ ],
+ "sector": "Metalurgia/Indústria",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 1.0,
+  "obligations": 1.0,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "A DEVEDORA possui em aberto os débitos elegíveis relacionados no Anexo I que totalizam, em fevereiro/2025, o montante de R$ 32.844.804,33 (trinta e dois milhões, oitocentos e quarenta e quatro mil, oitocentos e quatro reais e trinta e três centavos)"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "installments",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "b88e0d79f61c",
+ "title": "Termo de Transação Individual - Metalurgica Falcão LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualMetalurgicaFalcao.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualMetalurgicaFalcao.pdf",
+ "sha256": "63af48801bbded703e64ffb9a9c584367977a12ce38eef18fa363ccc50144719",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

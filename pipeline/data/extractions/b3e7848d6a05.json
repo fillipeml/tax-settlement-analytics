@@ -1,0 +1,58 @@
+{
+ "taxpayer": "MADETEX COMÉRCIO E INDÚSTRIA LTDA (37.411.327/0001-66) e corresponsáveis SOFÁ DESIGN LTDA (14.148.154/0001-30), ORNAMENTO MÓVEIS LTDA (00.750.352/0001-64), TENDÊNCIA INTERIORES COMÉRCIO DE MÓVEIS EIRELI (31.049.624/0001-27)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 23354945.04,
+ "modality": "Transação Individual (Modalidade nº não especificado no documento)",
+ "total_discount_pct": 46.29,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantém eventuais garantias existentes",
+  "Móveis (veículos)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [
+  "Processo de Recuperação Judicial nº 0810226-31.2023-8-20-5001, da 22ª Vara Cível de Natal/RN",
+  "Parcelas escalonadas",
+  "Sem exigência de entrada"
+ ],
+ "sector": "Móveis (indústria e comércio de móveis)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.4,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.7,
+  "down_payment_pct": 0.9,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL 23.354.945,04 | Previdenciária 7.877.830,45 | Demais Débitos 11.801.382,50 | Simples Nacional 3.675.732,09 | FGTS NÃO HÁ",
+  "total_discount_pct": "DESCONTO EFETIVO MÉDIO - PGFN (em percentual %) TOTAL 46,29% Previdenciária 45,21% Demais Débitos 46,79% Simples Nacional 47,02%",
+  "installments": "NÚMERO DE PARCELAS - PGFN Previdenciária 60 | Demais Débitos 120 | Simples Nacional 120"
+ },
+ "review_fields": [
+  "sector",
+  "modality",
+  "approval_date",
+  "installments"
+ ],
+ "id": "b3e7848d6a05",
+ "title": "Termo de Transação Individual - Madetex Comércio e Indústria LTDA, Sofá Design LTDA, Ornamento Móveis LTDA, Tendência Interiores Comércio de Móveis Eireli",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/SumrioMadetexComrcioeIndstriaLTDASofDesignLTDAOrnamentoMveisLTDATendnciaInterioresComrciodeMveisEireli.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/SumrioMadetexComrcioeIndstriaLTDASofDesignLTDAOrnamentoMveisLTDATendnciaInterioresComrciodeMveisEireli.pdf",
+ "sha256": "a935437a3febfc6d422ad275bf759c6f1525181c76a81635fb4af12c19969854",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

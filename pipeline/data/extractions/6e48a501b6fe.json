@@ -1,0 +1,83 @@
+{
+ "taxpayer": "GRUPO BOM VIVER (SERVIÇOS MÉDICO CIRÚRGICOS DA BAHIA S A, NÚCLEO DE SAÚDE E ASSISTÊNCIA HOSPITALAR LTDA, PARTS PARTICIPAÇÃO E EMPREENDIMENTOS LTDA)",
+ "approval_date": "2024-10-31",
+ "consolidated_amount": 188299744.42,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel - Matrícula nº 179.717 (instalações da Clínica Bom Viver), avaliado em R$60.027.534,00, oferecido à penhora na execução fiscal nº 00026527220074013300"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável os débitos do ANEXO I",
+  "Renunciar a quaisquer alegações de direito e questionamentos administrativos e judiciais sobre os débitos",
+  "Manter regularidade perante PGFN e RFB, regularizando em 90 dias débitos que se tornarem exigíveis após a formalização",
+  "Regularizar novos débitos inscritos em dívida ativa após a assinatura, no prazo de 90 dias, incluindo FGTS junto à Caixa Econômica Federal",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos que impactem a solvabilidade",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou pagamentos",
+  "Anuir com modificação de competência para reunião de processos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva contra livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Declarar que não alienaram ou oneraram bens para frustrar recuperação de créditos",
+  "Autorizar compensação de precatórios federais com prestações do plano",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações",
+  "Manter em dia pagamento de impostos e taxas sobre o imóvel dado em garantia",
+  "Apresentar situação econômico-financeira anualmente ou quando a PGFN reputar oportuno",
+  "Manter-se vinculadas ao Regime de Tributação Lucro Real até cumprimento integral do acordo",
+  "Manter livros e documentos comprobatórios de prejuízo fiscal e base negativa da CSLL por até 5 anos"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL, limitado a 70% do saldo após desconto",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL fica suspensa até confirmação pela RFB, mantendo-se garantias",
+  "Corresponsabilização de pessoas físicas (Cícero Newton Andrade, José Augusto de Carvalho Andrade, Mariana Lyra de Carvalho Mouro) nos termos do Art. 50, §3º da Portaria PGFN nº 6757/2022",
+  "Depósitos judiciais vinculados aos autos nº 0005739-65.2009.4.01.3300 com tratamento específico quanto à aplicação de descontos"
+ ],
+ "sector": "Saúde/Hospitalar",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.85,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal das DEVEDORAS inscrito em dívida ativa da União, parte desta transação, é composto por todos os seus créditos fiscais relacionados no ANEXO I, que totalizam R$ 188.299.744,42 (cento e oitenta e oito milhões, duzentos e noventa e nove mil, setecentos e quarenta e quatro reais e quarenta e dois centavos), atualizado no mês de outubro de 2024",
+  "total_discount_pct": "a presente transação envolve concessão de desconto de até 65% (sessenta e cinco por cento), vedada a incidência sobre o principal do débito, uma vez que as dívidas são consideradas irrecuperáveis pela PGFN, em razão da capacidade de pagamento das DEVEDORAS",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (demais) e previdenciárias será de 60 meses, conforme o seguinte plano de amortização, incluindo os descontos aprovados e a utilização de créditos de prejuízo fiscal e base de cálculo negativa da contribuição social sobre o lucro líquido"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "6e48a501b6fe",
+ "title": "Termo de Transação Individual - Serviços Médico Cirúrgicos da Bahia",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualServiosMdicoCirrgicosdaBahiatarjado1r.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualServiosMdicoCirrgicosdaBahiatarjado1r.pdf",
+ "sha256": "e539e28969e252d28de0bc37c32ccbb2c71666119b3edb194c05fe240bc5a992",
+ "extracted_at": "2026-07-22T14:22:24+00:00",
+ "simulated": false
+}

@@ -1,0 +1,82 @@
+{
+ "taxpayer": "AGUAS E ESGOTOS DO PIAUÍ SA (AGESPISA)",
+ "approval_date": "2022-12-14",
+ "consolidated_amount": 1986491327.09,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca de imóveis listados no ANEXO II, avaliados em R$ 41.807.324,00 (julho/2022)",
+  "Manutenção de garantias, penhoras e gravames existentes, incluindo bloqueios financeiros",
+  "Penhora sobre percentual de faturamento (complementar à hipoteca)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos do ANEXO I",
+  "Renúncia a alegações de direito e questionamentos sobre os débitos",
+  "Manter regularidade de FGTS e tributos federais correntes",
+  "Regularizar novos débitos inscritos em até 90 dias",
+  "Manter as garantias oferecidas até integral cumprimento",
+  "Informar previamente alienação/disposição de bens e recebimento de precatórios/depósitos judiciais",
+  "Fornecer informações econômicas sempre que solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias",
+  "Efetuar pagamentos tempestivos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou anticoncorrencial",
+  "Não utilizar interposta pessoa para ocultar bens/direitos",
+  "Autorizar compensação de precatórios e restituições com parcelas do acordo",
+  "Manter livros e documentos fiscais por até 5 anos (prejuízo fiscal/BCN CSLL)",
+  "Registrar hipoteca em até 45 dias",
+  "Desistir de impugnações/recursos administrativos e ações judiciais sobre os débitos",
+  "Protocolar no STF renúncia às ações ACO 3.413 e ADPF 670 em até 20 dias",
+  "Apresentar demonstrações financeiras anualmente ou quando solicitado pela PGFN"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL limitada a 70% do saldo após desconto",
+  "Suspensão da cobrança do saldo liquidado com uso de créditos de prejuízo fiscal até confirmação dos créditos",
+  "Desconto máximo de 65% vedada incidência sobre o principal, por serem dívidas consideradas irrecuperáveis (capacidade de pagamento)",
+  "Penhora sobre percentual de faturamento em complemento à garantia hipotecária, com multa diária de 1% sobre parcela em caso de descumprimento de ordem judicial",
+  "Renúncia a ações no STF (ACO 3.413 e ADPF 670)",
+  "Prazo de vigência da transação de até 120 meses"
+ ],
+ "sector": "Saneamento básico (água e esgoto)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.8,
+  "modality": 0.95,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.95,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam R$ 1.986.491.327,09 (Um bilhão, novecentos e oitenta e seis milhões, quatrocentos e noventa e um mil, trezentos e vinte e sete reais e nove centavos), atualizado no mês de novembro de 2022",
+  "total_discount_pct": "a presente transação envolve concessão do desconto máximo possível de 65% (sessenta e cinco por cento), vedada a incidência sobre o principal do débito, vez que as dívidas são consideradas irrecuperáveis pela PGFN, em razão da capacidade de pagamento da DEVEDORA",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (demais) é de 120 (cento e vinte) meses e de 60 meses para os previdenciários"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "08522748df87",
+ "title": "Termo de Transação Individual - Águas e esgotos do Piauí SA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-aguas-e-esgotos-do-piaui-sa.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-aguas-e-esgotos-do-piaui-sa.pdf",
+ "sha256": "d8c22bd2379caff8f841445f679549a40079b66fd790e8d10fec68494f62e94d",
+ "extracted_at": "2026-07-22T14:22:25+00:00",
+ "simulated": false
+}

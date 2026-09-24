@@ -1,0 +1,72 @@
+{
+ "taxpayer": "SABINO DE OLIVEIRA COMÉRCIO E NAVEGAÇÃO S/A EM RECUPERAÇÃO JUDICIAL e SANAVE TRANSPORTES RODOVIÁRIOS E LOGÍSTICA LTDA (codevedoras: TRANSTEMY NAVEGAÇÃO E LOGÍSTICA TNL LTDA e CYPRIANO SABINO DE OLIVEIRA)",
+ "approval_date": "2021-11-18",
+ "consolidated_amount": 115237236.29,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de matrícula nº 1913 do 3º Ofício de Registro Imobiliário de Manaus/AM (hipoteca a ser registrada em 60 dias)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Regularizar em 90 dias eventuais débitos que vierem a ser inscritos em dívida ativa após a formalização do acordo, sob pena de rescisão",
+  "Manter as garantias associadas aos créditos transacionados no Anexo III",
+  "Informar previamente à Fazenda Nacional a alienação/disposição de bens e direitos, recebimento de precatório e/ou levantamento de depósito judicial",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais e não utilização de interposta pessoa",
+  "Apresentar relação de bens particulares com data de aquisição, valor estimado e ônus/restrições",
+  "Regularizar débitos de FGTS e Contribuição Social correspondente no prazo de 90 dias a contar do vencimento da primeira parcela",
+  "Registrar a garantia hipotecária no prazo de 60 dias a contar da assinatura",
+  "Substituir ou reforçar garantia em caso de perecimento/depreciação/deterioração que reduza significativamente seu valor (mais de 30%), no prazo de 60 dias",
+  "Manter o recolhimento das obrigações tributárias correntes e obrigações acessórias"
+ ],
+ "special_clauses": [
+  "Desconto aplicado de forma individualizada por rubrica e por empresa (SANAVE LTDA e SANAVE S/A em RJ), variando entre 27,34% e 70,00% conforme natureza do débito",
+  "FGTS rescisório devido aos trabalhadores deverá ser recolhido em parcela única, ressalvado do parcelamento geral",
+  "Possibilidade de migração para novo benefício fiscal mais favorável mediante prévia ciência da PGFN (Cláusula 28ª)",
+  "Cumprimento do dever de informar alienação de bens sujeitos à venda no processo de RJ pode ser feito mediante apresentação do Plano de Recuperação (§1º da Cláusula 4ª)",
+  "Prazos diferenciados de parcelamento por natureza do débito: 120 meses (não previdenciário), 60 meses (previdenciário) e 85 meses (FGTS)"
+ ],
+ "sector": "Transporte e logística/navegação",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "discounts": 0.2,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal conjunto das empresas mencionadas no art. 1º totaliza R$ 115.237.236,29, conforme relação de débito contida no ANEXO II",
+  "installments": "o saldo remanescente será parcelado em 120 meses para as dívidas não previdenciárias, em 60 meses para as dívidas previdenciárias e em 85 meses para os débitos de FGTS, ressalvado o FGTS rescisório devido aos trabalhadores, que deverá ser recolhido em parcela única"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "discounts",
+  "down_payment_pct"
+ ],
+ "id": "900087041292",
+ "title": "Termo de Transação Individual - Sanave Transportes rodoviários e logística e Sabino de Oliveira comércio e navegação em recuperação judicial",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-sanave-transportes-rodoviarios-e-logisticos.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-sanave-transportes-rodoviarios-e-logisticos.pdf",
+ "sha256": "2f85569fd329a82da8fa65a110556abab12176ca478c2b37a7306d96a69c1342",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

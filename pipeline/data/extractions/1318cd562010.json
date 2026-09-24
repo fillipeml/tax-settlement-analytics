@@ -1,0 +1,76 @@
+{
+ "taxpayer": "EDITORA O DIA LTDA. - EM RECUPERAÇÃO JUDICIAL (e demais empresas do grupo econômico: EMPRESA JORNALÍSTICA ECONÔMICO LTDA., AGÊNCIA BRASILEIRA DE CONTEÚDO DIGITAL LTDA., GRAPHOS PARTICIPAÇÕES LTDA., REALTIME CORPORATION PARTICIPAÇÕES LTDA., EDITORA A NOTÍCIA LTDA., O DIA COMERCIAL LTDA., EMPRESA JORNALÍSTICA CAMPEÃO LTDA., ONGOING COMUNICAÇÕES PARTICIPAÇÕES LTDA.)",
+ "approval_date": "2023-09-01",
+ "consolidated_amount": 187672663.54,
+ "modality": "Transação Individual (art. 171 CTN, Lei 13.988/2020, art. 10-C da Lei 10.522/2002, Portaria PGFN 6.757/2022 e Portaria PGFN 2.382/2021)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel situado na Avenida Dom Helder Câmara, nº 160, Manguinhos, Rio de Janeiro-RJ, representado pela matrícula do 1º Registro Geral de Imóveis da Comarca da Capital do Estado do Rio de Janeiro (item 4.1)",
+  "Manutenção das penhoras realizadas nos autos da execução fiscal nº 0023581-79.2017.4.02.5101 (item 4.1.1)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos inscritos (item 5.1 e 6.1.1)",
+  "Desistência de impugnações, recursos e ações administrativas/judiciais relativas à Dívida Transacionada, em até 30 dias (itens 5.2, 5.7, 6.4.1)",
+  "Peticionar nas execuções fiscais em 30 dias para noticiar a celebração do acordo (item 5.3)",
+  "Manter regularidade perante o FGTS (itens 6.1.10, 6.4.5)",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa em até 90 dias (itens 6.1.9, 6.4.4)",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional (itens 6.4.3, 6.4.13)",
+  "Destinar no mínimo 20% do valor arrecadado com alienação de ativos penhorados para amortização do saldo (itens 6.1.8, 6.4.14)",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais (itens 6.1.11, 6.4.17)",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal (item 6.4.18)",
+  "Manter livros e documentos comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL (itens 3.8.2, 6.4.20)",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União (item 6.4.21)",
+  "Reconhecer grupo econômico de fato e corresponsabilidade entre as empresas (itens 3.14, 5.5, 6.1.12, 6.4.19)"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para amortização de 70% do saldo a pagar (itens 3.1.4, 3.4.1, 3.5.1)",
+  "Não se opõe a alienação de imóveis penhorados mediante anuência da União e destinação de no mínimo 20% do valor arrecadado (item 4.2)",
+  "Levantamento da constrição judicial sobre bem objeto de alienação, condicionado à anuência da União (item 4.2.1)",
+  "Reconhecimento de grupo econômico de fato entre as REQUERENTES, com corresponsabilidade pelas dívidas (itens 3.14, 6.4.19)",
+  "Incorporação de débitos da empresa NEWSPRINTER PARTICIPAÇÕES LTDA (CNPJ 13.819.676/0001-53) incorporada pela EDITORA O DIA LTDA (item 1.1.1)",
+  "Créditos em fase administrativa serão incluídos após inscrição em Dívida Ativa, sem extensão do prazo de pagamento (itens 2.3, 5.8, 5.9)"
+ ],
+ "sector": "Jornalismo/Editorial (mídia e comunicação)",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.7,
+  "total_discount_pct": 0.95,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.2,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "187.672.663,54 (Débitos não previdenciários - EDITORA O DIA LTDA – EM RECUPERAÇÃO JUDICIAL)",
+  "total_discount_pct": "3.1.1. Desconto máximo de até 70% (setenta por cento) incidente sobre a totalidade da Dívida Transacionada pertencente à União (Fazenda Nacional), vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos) (Anexo I).",
+  "installments": "3.1.2. Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais;"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "discounts",
+  "down_payment_pct"
+ ],
+ "id": "1318cd562010",
+ "title": "Termo de Transação Individual - Editora O Dia LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualEditoraODiaLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualEditoraODiaLTDATarjado.pdf",
+ "sha256": "94ec34014909cfaba49d574b687cae284f5f0afe1099efd7d7a02c4a4c6b2afc",
+ "extracted_at": "2026-07-22T14:22:29+00:00",
+ "simulated": false
+}

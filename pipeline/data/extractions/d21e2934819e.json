@@ -1,0 +1,68 @@
+{
+ "taxpayer": "URBANA COMPANHIA DE SERVIÇOS URBANOS DE NATAL",
+ "approval_date": "2021-12-22",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Portaria PGFN nº 9.917/2020)",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": false,
+ "obligations": [
+  "Fornecer, no prazo de até 30 dias, demonstrações contábeis dos 3 últimos exercícios sociais, relação de credores e relação de bens e direitos (Cláusula 7ª)",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Desistir de impugnações/recursos administrativos e ações judiciais relativas aos débitos (Cláusula 5ª)",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo (Cláusula 6ª)",
+  "Manter recolhimento das obrigações tributárias correntes e acessórias (Cláusula 13)",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil (Cláusula 12)",
+  "Verter para pagamento da dívida qualquer crédito que venha a receber de precatório ou outro meio (Cláusula 14)"
+ ],
+ "special_clauses": [
+  "Corresponsabilização do Município de Natal pelo pagamento do acordo, na condição de acionista majoritário do devedor (Cláusula 3ª)",
+  "Dívida de FGTS em vias de regularização por meio de recursos em conta judicial, distinta do parcelamento das inscrições previdenciárias (§2º da Cláusula 1ª)",
+  "Faculdade de migração para parcelamento/desconto mais benéfico futuro, extinguindo a presente transação sem ônus (Cláusula 15)"
+ ],
+ "sector": "Serviços urbanos/limpeza pública",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.8,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "judicial_recovery": 0.5,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "para pagamento da sua dívida não-previdenciária, no prazo de 84 (oitenta e quatro) meses, com aproveitamento do desconto máximo de até 50% (cinquenta por cento), baseado na sua capacidade de pagamento",
+  "installments": "no prazo de 84 (oitenta e quatro) meses"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "d21e2934819e",
+ "title": "Termo de Transação Individual - Urbana",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualUrbana.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualUrbana.pdf",
+ "sha256": "7576808084fbabf3b87dc5b4bfa85d1503d180dff997c2b13b404cb9e0184198",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

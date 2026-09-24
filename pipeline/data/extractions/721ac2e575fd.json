@@ -1,0 +1,86 @@
+{
+ "taxpayer": "TRIX ENGENHARIA CIVIL LTDA em recuperação judicial",
+ "approval_date": "2023-03-28",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis de propriedade da devedora (registros tarjados no documento)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear/prejudicar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar/dissimular origem ou destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de ativo não circulante",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria PGFN 6757/22 e na proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito e recursos sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis",
+  "Não distribuir lucros ou dividendos a sócios e acionistas até aprovação do plano de recuperação judicial",
+  "Manter, por 5 anos, livros e documentos comprobatórios dos créditos de PF/BCN utilizados",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil",
+  "Manter obrigações tributárias correntes e acessórias",
+  "Adimplir emolumentos de protesto cartorário das inscrições abrangidas"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal (PF) e base de cálculo negativa de CSLL (BCN) no valor nominal de R$ 5.568.935,01 para amortização do saldo devedor",
+  "Nomeação da União como procuradora com poderes em causa própria para receber indenização em caso de desapropriação dos imóveis dados em garantia",
+  "Obrigação de substituir ou reforçar garantia em caso de redução significativa (>25%) do valor do bem, no prazo de 30 dias",
+  "Cláusula de não distribuição de lucros/dividendos até aprovação do plano de recuperação judicial",
+  "Rescisão em caso de decretação de falência ou não concessão/extinção da recuperação judicial"
+ ],
+ "sector": "Construção civil / Engenharia",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.2,
+  "total_discount_pct": 0.2,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.3,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.4,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "discount_mean_annex_I": "Sobre as inscrições indicadas no anexo I será aplicado desconto médio de 39,72% (março/2023)",
+  "discount_mean_annex_II": "Sobre as inscrições indicadas no anexo II incidirá o desconto médio de 47,90% (março/2023)",
+  "parcelas_annex_I": "o saldo restante será objeto de plano de pagamento em 60 (sessenta) amortizações escalonadas, mensais e sucessivas, conforme os valores estipulados no anexo III",
+  "parcelas_annex_II": "o saldo devedor será pago em 120 (cento e vinte) parcelas escalonadas, mensais e sucessivas, conforme os valores estipulados no anexo III",
+  "credito_PF_BCN": "Os montantes de créditos de PF e BCN aceitos na transação, no valor nominal de R$ 5.568.935,01 (cinco milhões, quinhentos e sessenta e oito mil, novecentos e trinta e cinco reais e um centavo)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "guarantees",
+  "sector"
+ ],
+ "id": "721ac2e575fd",
+ "title": "Termo de Transação Individual - TRIX Engenharia Civil LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualTRIXEngenhariaCivilLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualTRIXEngenhariaCivilLTDA.pdf",
+ "sha256": "696735ca28fb72b6a3e00ed647638e0c51fc0752d962ec01f183cdaf6c21673e",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

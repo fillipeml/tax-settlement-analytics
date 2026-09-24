@@ -1,0 +1,67 @@
+{
+ "taxpayer": "SALGADO EMPREENDIMENTOS IMOBILIÁRIOS S/A",
+ "approval_date": "2022-12-19",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Renunciar a quaisquer alegações de direito, atuais ou futuras, sobre as quais se fundem ações judiciais, incluídas as coletivas, ou recursos que tenham por objeto os créditos incluídos na transação",
+  "Não alienar bens ou direitos sem proceder à devida comunicação à Fazenda Nacional, até a quitação das dívidas objeto da presente transação",
+  "Desistir expressamente das impugnações ou dos recursos administrativos e das ações judiciais que tenham por objeto os débitos relacionados no ANEXO ÚNICO",
+  "Peticionar nos processos judiciais noticiando aos juízos a celebração do acordo de transação individual"
+ ],
+ "special_clauses": [
+  "Até o pagamento desta transação, os DEVEDORES se comprometem a não alienar bens ou direitos, exceto o imóvel denominado Engenho Camela (Matrícula 1818 do RI de Sirinhaém) cuja venda foi autorizada pela União através de NJP celebrado com o devedor e o adquirente."
+ ],
+ "sector": "Imobiliário",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.6,
+  "modality": 0.98,
+  "approval_date": 0.98,
+  "consolidated_amount": 0.2,
+  "total_discount_pct": 0.2,
+  "installments": 0.9,
+  "down_payment_pct": 0.1,
+  "discounts.fine_pct": 0.1,
+  "discounts.interest_pct": 0.1,
+  "discounts.charges_pct": 0.1,
+  "guarantees": 0.5,
+  "obligations": 0.9,
+  "judicial_recovery": 0.1,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "installments": "Como se trata de transação para pagamento à vista, em parcela única, a quitação dos DARFs relativos às inscrições referidas no §1º da cláusula 1ª importará na plena liquidação das referidas inscrições"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "a876ac5cceea",
+ "title": "Termo de Transação Individual - Salgado Empreendimentos Imobiliários SA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/copy_of_TermodeTransaoIndividualSalgadoEmpreendimentosImobiliriosSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/copy_of_TermodeTransaoIndividualSalgadoEmpreendimentosImobiliriosSATarjado.pdf",
+ "sha256": "742d8c804ab7aa9d69a357fd5689f0a15e9548f3149b19e5c528da433217b629",
+ "extracted_at": "2026-07-22T14:35:18+00:00",
+ "simulated": false
+}

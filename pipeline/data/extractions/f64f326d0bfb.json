@@ -1,0 +1,85 @@
+{
+ "taxpayer": "SERCOM LTDA, SERCOM SERVIÇOS DIGITAIS LTDA, SYSTEM MARKETING CONSULTING LTDA, TEL & COM LTDA (Grupo econômico com fiadoras RJP Participações e Negócios S.A, SZS Tecnologia em Comunicações Ltda, Estrelicia Participações Ltda, RJ2 Participações Ltda, PAT Telecom Participações Ltda, Tel & Com Participações S.A)",
+ "approval_date": "2025-03-26",
+ "consolidated_amount": 261626787.13,
+ "modality": "Transação Individual",
+ "total_discount_pct": 44.01,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança dos sócios das Requerentes: RJP Participações e Negócios S.A, SZS Tecnologia em Comunicações Ltda, Estrelicia Participações Ltda, RJ2 Participações Ltda, PAT Telecom Participações Ltda, Tel & Com Participações S.A",
+  "Imóveis de matrícula n. 155.406, 155.409, 155.411 e 155.413 do 2º CRI de Ribeirão Preto/SP, de propriedade da SERCOM LTDA",
+  "Recebíveis contratuais com previsão de faturamento anual mínimo de R$ 40.123.069,55 (corrigido pela SELIC)"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar origem/destinação de bens",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação de créditos",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Declarar veracidade das informações cadastrais e patrimoniais",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a Transação",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo",
+  "Manter-se regular e em dia com Transações, NJP e Parcelamentos em curso",
+  "Reconhecer responsabilidade solidária pela totalidade dos débitos",
+  "Apresentar notas fiscais anuais referentes aos contratos dados em garantia",
+  "Apresentar contratos substitutos com faturamento mínimo antes do vencimento dos atuais",
+  "Formalizar penhora dos imóveis e contratos em garantia na execução fiscal"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de Prejuízo Fiscal e Base de Cálculo Negativa de CSLL limitado a 60% do saldo devedor após descontos",
+  "Exclusão de débito garantido por depósito judicial (CDA 80.5.18.001970-01)",
+  "Substituição de garantia de recebíveis condicionada à concordância da Fazenda Nacional",
+  "Fiança com renúncia ao benefício de ordem pelas empresas fiadoras",
+  "Consolidação de débitos SRFB em cobrança na mesma conta das inscrições do Anexo III, gerando saldo devedor a ser quitado em 30 dias"
+ ],
+ "sector": "Telecomunicações/Serviços de comunicação",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.7,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.5,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 261.626.787,13 (duzentos e sessenta e um milhões, seiscentos e vinte e seis mil, setecentos e oitenta e sete reais e treze centavos).",
+  "total_discount_pct": "PERCENTUAL DE DESCONTO MÉDIO | 44,01%",
+  "installments": "2.1.3. Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada - Demais Débitos\") em 108 (cento e oito) prestações mensais sucessivas, na forma discriminada no Anexo IV;"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "f64f326d0bfb",
+ "title": "Termo de Transação Individual - Sercom LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSercomLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSercomLTDATarjado.pdf",
+ "sha256": "6d9210c5256cfdda7586ebb56e38baac8c85870cdfa2d4309f60a5393780356e",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

@@ -1,0 +1,73 @@
+{
+ "taxpayer": "LUNDGREN IRMAOS TECIDOS S/A CASAS PERNAMBUCANAS (CNPJ 07.209.612/0001-38); MASSA FALIDA DE LUNDGREN IRMAOS TECIDOS INDUSTRIA E COMERCIO S/A - CASAS PERNAMBUCANAS (CNPJ 19.791.318/0001-66); LUNDGREN IRMAOS TECIDOS S A CASAS PERNAMBUCANAS (CNPJ 33.000.563/0001-39)",
+ "approval_date": "2023-05-03",
+ "consolidated_amount": 141949889.11,
+ "modality": "Transação Individual",
+ "total_discount_pct": 62.02,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantidas as garantias existentes na Ação Falimentar nº 0082566-77.1995.8.19.0001, até a liquidação efetiva da transação"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Renunciar a quaisquer alegações de direito, atuais ou futuras, sobre ações judiciais relativas aos créditos transacionados, com extinção do processo com resolução de mérito",
+  "Manter regularidade perante o FGTS",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Não alienar bens do ativo permanente/não circulante sem comunicação à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Não utilizar pessoa interposta para ocultar/dissimular origem ou destinação de bens",
+  "Declarar não ter alienado ou onerado bens com propósito de frustrar recuperação dos créditos",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa após a formalização",
+  "Peticionar nos processos judiciais em 30 dias noticiando a celebração do acordo e confessando os débitos"
+ ],
+ "special_clauses": [
+  "Desconto MÁXIMO concedido sobre os débitos inscritos em Dívida Ativa da União em face da REQUERENTE (situação de falida) para a dívida previdenciária e não previdenciária",
+  "Quitação à vista em uma única parcela em dinheiro",
+  "Possibilidade de inclusão de créditos futuros do Processo 10768.015.815/92-58 e Débitos 16991721 e 16319893 no prazo de 90 dias, nas mesmas condições de desconto e pagamento (cláusula 5.3 e 6.5.16)",
+  "Prazo máximo de pagamento de 120 meses para não previdenciários e 60 meses para previdenciários, embora a quitação pactuada seja à vista em parcela única"
+ ],
+ "sector": "Varejo/Comércio (têxtil e vestuário)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.75,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.2,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.6,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "DÍVIDA TOTAL PGFN ... TOTAL R$ 141.949.889,11",
+  "total_discount_pct": "DESCONTO EFETIVO POSSÍVEL APROXIMADO ... NÃO PREV 100,00% DESCONTO R$ 56.680.077,19 64,77% PREV 100,00% DESCONTO R$ 31.370.069,83 57,63%",
+  "installments": "as partes definem, de comum acordo, a quitação à vista em uma única parcela em dinheiro de seus débitos"
+ },
+ "review_fields": [
+  "sector",
+  "discounts",
+  "down_payment_pct",
+  "judicial_recovery",
+  "installments",
+  "total_discount_pct"
+ ],
+ "id": "f053d79f17e0",
+ "title": "Termo de Transação Individual -  Massa Falida de Lundgren Irmãos Tecidos SA Casas Pernambucanas",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualMassaFalidadeLundgrenIrmosTecidosSACasasPernambucanasTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualMassaFalidadeLundgrenIrmosTecidosSACasasPernambucanasTarjado.pdf",
+ "sha256": "19201bbbd2f64027dd03c7c215b3778fd36f049d8019c4fd002eae3a5a05ee6b",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

@@ -1,0 +1,72 @@
+{
+ "taxpayer": "ASSOCIAÇÃO DOS FUNCIONÁRIOS PÚBLICOS DO ESPÍRITO SANTO – AFPES",
+ "approval_date": "2022-03-19",
+ "consolidated_amount": 39183759.73,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 144,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhora de 12,5% dos rendimentos pagos pela SECRETARIA DE ESTADO DA SAÚDE DO GOVERNO DO ESTADO DO ESPÍRITO SANTO à REQUERENTE em função do Contrato de prestação de serviços nº 058/2021"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistir de impugnações, recursos e ações administrativas ou judiciais relativas à Dívida Transacionada",
+  "Reconhecer e confessar de forma irrevogável e irretratável a dívida",
+  "Adimplir o plano de pagamento previsto na cláusula 3",
+  "Manter regularidade perante o FGTS",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não alienar bens ou direitos que possam inviabilizar o pagamento sem comunicar a Fazenda Nacional",
+  "Realizar individualização dos pagamentos ao FGTS via SEFIP no prazo de 30 dias",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa no prazo de 90 dias"
+ ],
+ "special_clauses": [
+  "Transformação imediata em pagamento definitivo dos depósitos judiciais vinculados à execução fiscal nº 0000164-39.1999.4.02.5001",
+  "Escalonamento progressivo das prestações conforme Tabelas 1, 2 e 3",
+  "Possibilidade de suspensão dos pagamentos em caso de adesão a programa de parcelamento extraordinário mais benéfico (item 9.5)",
+  "Liberação de garantia ofertada na ação ordinária nº 5032915-90.2019.4.02.5001 após lavratura do termo de penhora"
+ ],
+ "sector": "Associativismo/Servidores públicos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.0,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "14.972.370,17 (Débitos não previdenciários) + 13.717.440,68 (Débitos Previdenciários) + 10.493.948,88 (Débitos FGTS)",
+  "installments": "3.2.3. Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 144 (cento e quarenta e quatro) prestações mensais"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "consolidated_amount"
+ ],
+ "id": "3b4f441ae78c",
+ "title": "Termo de Transação Individual -  AFPES - Associação dos Funcionários Públicos do Espírito Santo",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualAFPESAssociacaodosFuncionariosPublicosdoEspiritoSanto.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualAFPESAssociacaodosFuncionariosPublicosdoEspiritoSanto.pdf",
+ "sha256": "1e8b31417f16c6a1d6cd7dbe0777d8749b1b64aa4b68368136ecae4c01ed76e8",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

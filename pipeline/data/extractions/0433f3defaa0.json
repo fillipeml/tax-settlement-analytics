@@ -1,0 +1,80 @@
+{
+ "taxpayer": "Viação Piracicabana S.A. (e grupo Comporte Participações)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 835741392.49,
+ "modality": "Transação Individual",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Depósitos judiciais (Anexo 6)",
+  "Precatórios judiciais (Anexo 7)",
+  "Imóveis (Anexo 8)",
+  "Apólices de seguro-garantia (Anexo 9)",
+  "Cotas de Fundo de Investimento (Anexo 10)",
+  "Garantias já deferidas judicialmente"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Pagar, parcelar ou garantir débitos supervenientes inscritos em Dívida Ativa da União ou FGTS no prazo de 90 dias (9.2.1)",
+  "Manter regular a situação dos parcelamentos vigentes (9.2.4)",
+  "Manter regularidade perante o FGTS (9.2.5)",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicar a Fazenda Nacional (9.2.6)",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado (9.2.7)",
+  "Renovar seguros-garantia até 60 dias antes do fim da vigência (9.2.3)",
+  "Apresentar anualmente demonstrativo de suficiência das garantias (7.4)",
+  "Formalizar cessão fiduciária de precatórios por Escritura Pública em 30 dias (5.3.1)",
+  "Peticionar nos processos judiciais em até 120 dias para noticiar a transação (8.4)"
+ ],
+ "special_clauses": [
+  "Levantamento de depósitos judiciais da VRG Linhas Aéreas condicionado ao pagamento pela Requerente (1.6.3)",
+  "GOL Linhas Aéreas Inteligentes S.A. e VRG Linhas Aéreas S.A. não integram a Transação e não respondem pelo acordo (1.6)",
+  "Liberação de penhoras de ações da GOL Linhas Aéreas Inteligentes substituídas por garantias do Anexo 11 (1.6.1 e 1.6.2)",
+  "Pagamento de parcelas-balão vinculadas a expectativa de recebimento de precatórios (2.1.5)",
+  "Possibilidade de alienação de imóveis dados em garantia para amortização dos débitos (Cláusula 6)",
+  "Cessão fiduciária de precatórios à Fazenda Nacional (Cláusula 5)",
+  "Migração futura de débitos de FGTS para modalidade de transação quando regulamentada (3.4)"
+ ],
+ "sector": "Transporte coletivo/rodoviário",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.6,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts": 0.3,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizando R$ 835.741.392,49 em janeiro de 2021",
+  "total_discount_pct": "Aplicação de descontos de 50% sobre o saldo de débitos não liquidados pelos depósitos judiciais mencionados na cláusula anterior, que incidirão proporcionalmente sobre os acréscimos legais, vedada a redução do montante principal",
+  "installments": "Pagamento dos débitos não previdenciários em 84 parcelas mensais e pagamento dos débitos previdenciários em 60 parcelas mensais, na forma prevista no Anexo 5"
+ },
+ "review_fields": [
+  "approval_date",
+  "down_payment_pct",
+  "judicial_recovery",
+  "discounts",
+  "total_discount_pct",
+  "sector"
+ ],
+ "id": "0433f3defaa0",
+ "title": "Termo de Transação Individual - Viação Piracicabana",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-viacao-piracicabana.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-viacao-piracicabana.pdf",
+ "sha256": "9b6c7f71b9104fac0a55bec1bb145871d0fa3f809a5280b995ea3db5d0da3a85",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

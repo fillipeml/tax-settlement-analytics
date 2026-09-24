@@ -1,0 +1,82 @@
+{
+ "taxpayer": "AVEC VERRE DESIGN PRODUTOS ESPECIAIS LTDA",
+ "approval_date": "2024-02-20",
+ "consolidated_amount": 4744075.37,
+ "modality": "Transação individual (modalidades DEMAIS e PREV)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em execuções fiscais",
+  "Fiança pessoal do sócio José Guilherme Aceto (Anexo II - Termo de Garantia Fidejussória)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Declarar que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou/onerou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Regularizar em 30 dias saldo decorrente de reconsolidação",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter livros e documentos por 5 anos, inclusive comprobatórios de prejuízo fiscal e base negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de R$ 2.402.528,50 a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor após aplicação dos descontos",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL fica suspensa até confirmação pela autoridade competente, dentro do prazo de 5 anos, mantendo-se a garantia até quitação integral",
+  "Fiança pessoal do sócio José Guilherme Aceto com renúncia ao benefício de ordem (art. 828, I do Código Civil)",
+  "Consideração da situação de Recuperação Judicial do Requerente e rating D na concessão das condições"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.8,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.75,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "no montante atual de R$ 4.744.075,37, nos termos e condições estipuladas no referido Termo de Transação Individual",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 84 prestações mensais e sucessivas, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "installments"
+ ],
+ "id": "808099ff5e63",
+ "title": "Termo de Transação Individual - Avec",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAvectarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAvectarjado.pdf",
+ "sha256": "5f12b11e8a2da105b685535594ce55f2e47f460be9b99c4308a44ce5140f48fa",
+ "extracted_at": "2026-07-22T14:22:36+00:00",
+ "simulated": false
+}

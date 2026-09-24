@@ -1,0 +1,67 @@
+{
+ "taxpayer": "INDÚSTRIA ORIENTAL LTDA",
+ "approval_date": "2022-05-05",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação prévia à Fazenda Nacional durante o cumprimento da transação (§2º)",
+  "Fornecer demonstrações contábeis dos 3 últimos exercícios sociais (balanço patrimonial, demonstração de resultados acumulados, demonstração do resultado desde o último exercício, relatório gerencial de fluxo de caixa e projeção, descrição das sociedades do grupo societário) - Cláusula 6ª, I",
+  "Fornecer relação nominal completa dos credores - Cláusula 6ª, II",
+  "Fornecer relação de bens e direitos de propriedade com laudo econômico-financeiro - Cláusula 6ª, III",
+  "Declarar não alienação de bens sem comunicação à Fazenda Nacional - Cláusula 6ª, IV",
+  "Declarar não ter alienado ou onerado bens com propósito de frustrar recuperação de créditos - Cláusula 6ª, V",
+  "Desistir de impugnações, recursos administrativos e ações judiciais referentes aos débitos (Cláusula 4ª)",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo (Cláusula 5ª)",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil (Cláusula 12ª)",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias (Cláusula 13ª)",
+  "Liquidar ou parcelar débitos de FGTS junto à Caixa Econômica Federal em até 30 dias (Cláusula 14ª)"
+ ],
+ "special_clauses": [
+  "Pagamento em 60 meses para dívida previdenciária e 84 meses para dívida não previdenciária, sem redução do montante principal do crédito inscrito em dívida ativa (Cláusula 3ª)",
+  "Débitos ainda não inscritos em dívida ativa, mas em cobrança na Receita Federal, poderão ser incluídos por repactuação (§3º, Cláusula 1ª)"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "modality": 0.9,
+  "sector": 0.2,
+  "judicial_recovery": 0.3,
+  "guarantees": 0.3,
+  "discounts": 0.0
+ },
+ "source_excerpts": {
+  "installments": "para pagamento no prazo 60 (sessenta meses), a dívida previdenciária, e 84 (oitenta e quatro meses) a dívida não previdenciária, não implicando, a negociação, a redução do montante principal do crédito inscrito em dívida ativa da União."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts",
+  "sector",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "e3af7e3ef9b7",
+ "title": "Termo de Transação Individual - Indústria Oriental",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualIndstriaOrientalPRFN5.pdfcorrigido.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualIndstriaOrientalPRFN5.pdfcorrigido.pdf",
+ "sha256": "f956d8021f597bcf96366ad644678d4227def6dda994f4706819c8999f76d0c5",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

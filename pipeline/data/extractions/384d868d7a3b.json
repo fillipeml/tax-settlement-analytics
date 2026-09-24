@@ -1,0 +1,79 @@
+{
+ "taxpayer": "RAMOS & SILVA SOLUCOES FINANCEIRAS LTDA (e pessoa física corresponsável, dados tarjados)",
+ "approval_date": "2024-11-04",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 64.43,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel matrícula 78.736 - 1º CRI São José do Rio Preto, avaliado em R$ 1.500.000",
+  "Imóvel matrícula 123.793 - 1º CRI São José do Rio Preto, avaliado em R$ 1.100.000"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar que preenche requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a formalização",
+  "Não alienar bens que reduzam significativamente a capacidade de pagamento sem comunicação",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter livros e documentos fiscais por 5 anos, inclusive comprobatórios de prejuízo fiscal/CSLL",
+  "Manter-se optante pelo lucro real durante vigência do acordo (em caso de uso de prejuízo fiscal)"
+ ],
+ "special_clauses": [
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 70% do saldo da dívida após aplicação dos descontos, no valor aproximado de R$ 21.172.208,27",
+  "Possibilidade de alienação de bens imóveis dados em garantia mediante prévia anuência da Fazenda Nacional",
+  "Utilização do sistema COMPREI para eventual alienação de bens já penhorados em Execuções Fiscais"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.1,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.2,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de aproximadamente 64,43% (sessenta e quatro inteiros e quarenta e três centésimos por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada, de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\"), em 60 (sessenta) prestações mensais iguais e sucessivas, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "384d868d7a3b",
+ "title": "Termo de Transação Individual - Ramos e Silva Soluções Financeiras LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRamoseSilvaSoluesFinanceirasLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRamoseSilvaSoluesFinanceirasLTDATarjado.pdf",
+ "sha256": "55afd6294a42b1e5be246b08c649fe14ed63a8f3123960a0b1148f33075edb8f",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

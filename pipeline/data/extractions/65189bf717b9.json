@@ -1,0 +1,76 @@
+{
+ "taxpayer": "SARANTOPOULOS HOTÉIS E IMÓVEIS LTDA. / BLACK STREAM HOTEL S/A / BUFFET BLACK TIE LTDA.",
+ "approval_date": "2025-06-03",
+ "consolidated_amount": null,
+ "modality": "Termo Aditivo de Transação Individual (repactuação)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel objeto da matrícula nº 4.644 (e seus desdobramentos) junto ao 2º Cartório de Registro de Imóveis de Ribeirão Preto - SP, de propriedade da Requerente"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando em até 90 dias débitos que se tornarem exigíveis",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação, desistir e renunciar aos direitos",
+  "Autorizar acesso da Fazenda Nacional a declarações e escritas fiscais",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter livros e documentos fiscais/contábeis relativos ao uso de PF/BCN por 5 anos ou até liquidação integral",
+  "Promover baixa dos montantes de PF/BCN utilizados",
+  "Manter regime de apuração pelo lucro real durante vigência da Transação (se utilizados créditos de PF/BCN)",
+  "Apresentar documentos comprobatórios da formalização da garantia (petição de oferecimento e auto de penhora)"
+ ],
+ "special_clauses": [
+  "Desconto máximo de 65% sobre acréscimos legais (multa, juros e encargos), vedada redução do principal",
+  "Uso de créditos de PF/BCN limitado a até 70% do saldo consolidado com desconto, até o montante total disponível de R$ 5.127.279,10",
+  "Saldo remanescente da transação original de 2022 deve ser liquidado em até 90 dias da assinatura do Termo Aditivo",
+  "Débitos do Anexo II mantêm-se nas exatas disposições da transação de 03/2022",
+  "Garantias da transação de 2022 devem ser mantidas até confirmação dos créditos de PF/BCN e quitação integral"
+ ],
+ "sector": "Hotelaria e eventos/buffet",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "O saldo devedor remanescente da Dívida Transacionada/Repactuada – DEMAIS DÉBITOS será adimplido em 84 prestações mensais lineares e sucessivas."
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "65189bf717b9",
+ "title": "Termo de Transação Individual - Sarantopoulos Hotéis e Imóveis LTDA, Black Stream Hotel SA, Buffet Black Tie LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSarantopoulosHotiseImveisLTDABlackStreamHotelSABuffetBlackTieLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSarantopoulosHotiseImveisLTDABlackStreamHotelSABuffetBlackTieLTDA.pdf",
+ "sha256": "31b73164d55b2487814be349c4b1b22ce7f69ca9b4f36187bbc64aa167d3cb55",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

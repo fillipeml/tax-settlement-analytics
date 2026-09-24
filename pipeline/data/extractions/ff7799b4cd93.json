@@ -1,0 +1,87 @@
+{
+ "taxpayer": "TIETÊ ADMINISTRAÇÃO DE BENS LTDA; ARAUCÁRIA TRANSPORTE COLETIVO LTDA; SBV ADMINISTRAÇÃO DE BENS E PARTICIPAÇÕES SOCIETÁRIAS S/A; SULBRAVE ÔNIBUS E PEÇAS LTDA; HAIRTON LUIZ ROMANI",
+ "approval_date": "2024-10-07",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": 4.0,
+ "guarantees": [
+  "Imóvel registrado perante o CRI de Araucária/PR, avaliado em R$ 31.020.000,00",
+  "Imóvel avaliado em R$ 24.430.000,00, registrado perante cartório (nome tarjado)",
+  "Fiança pessoal de Hairton Luiz Romani",
+  "Bens já penhorados nas execuções fiscais (incluindo parte da frota de veículos)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar ausência de interposição de pessoas para ocultar bens/valores",
+  "Declarar que não alienaram/oneraram bens para frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação de ativos não circulantes",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Cumprir exigências da Portaria PGFN 6757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos referentes aos créditos incluídos",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em até 90 dias débitos que se tornarem exigíveis após o acordo",
+  "Declarar inexistência de créditos/precatórios líquidos e certos contra a União",
+  "Manter-se como optante do regime de tributação pelo lucro real (Tietê e Araucária) durante toda a negociação",
+  "Não desistir do acordo sob pena de rescisão",
+  "Peticionar nos processos judiciais em até 60 dias após assinatura, noticiando a transação e desistindo de embargos/exceções",
+  "Formalizar penhora dos imóveis dados em garantia em até 90 dias",
+  "Apresentar demonstrações econômico-financeiras sempre que a PGFN solicitar"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para abatimento de 47% do saldo (Anexo I - previdenciárias)",
+  "Compromisso de manutenção no regime de lucro real durante toda a negociação para Tietê e Araucária",
+  "Autorização de alienação de veículos obsoletos já penhorados, com destinação do produto ao abatimento do saldo devedor (art. 880 CPC)",
+  "Nomeação da União como procuradora com poderes em causa própria para receber indenização em caso de desapropriação de bens dados em garantia",
+  "Fiança pessoal de Hairton Luiz Romani com renúncia ao benefício de ordem"
+ ],
+ "sector": "Transporte coletivo/administração de bens",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.6,
+  "discounts": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.75,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "down_payment_pct": "os DEVEDORES pagarão uma entrada no montante de 4% do valor do devido sem descontos, em 12 prestações mensais"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "ff7799b4cd93",
+ "title": "Termo de Transação Individual -Tietê Administração de Bens LTDA, Aracúaria Transporte Coletivo LTDA, Sulbrave Ônibus e peças LTDA, SBV Admimnistração de Bens e Participações Societárias SA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualTietAdministraodeBensLTDA....pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualTietAdministraodeBensLTDA....pdf",
+ "sha256": "35dc6b04af58519d415ef6a3905f728c60f4a50128290b423c140e8be68483df",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

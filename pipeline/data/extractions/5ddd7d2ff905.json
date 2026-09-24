@@ -1,0 +1,73 @@
+{
+ "taxpayer": "USINA RIO PARDO S.A. EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2023-07-07",
+ "consolidated_amount": 115436288.05,
+ "modality": "Transação Individual",
+ "total_discount_pct": 42.8,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou que prejudique a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens ou identidade de beneficiários",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação, desistir de impugnações/recursos e renunciar aos direitos"
+ ],
+ "special_clauses": [
+  "Desconto máximo de 52,52% a cada CDA (limitado por não observância do prazo do art. 21 da Portaria PGFN 2.382/2021 em razão de sentença de RJ), vedada redução do montante principal",
+  "Sem oferta de garantia vinculada à Transação, em razão da redução do prazo de pagamento e por se tratar de empresa em Recuperação Judicial",
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL limitada a 70% do saldo da dívida após descontos",
+  "Cobrança do saldo liquidado com PF/BCN suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo de 5 anos"
+ ],
+ "sector": "Agronegócio (usina/sucroalcooleiro)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.95,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada — Total de R$ 115.436.288,05 (Cento e quinze milhões, quatrocentos e trinta e seus mil, duzentos e oitenta e oito reais e cinco centavos)",
+  "total_discount_pct": "cujo desconto médio global concedido no presente acordo é de 42,80%, conforme se observa dos Anexos II e III",
+  "installments": "Pagamento da Dívida Transacionada, tanto a de natureza não previdenciária (\"Dívida Transacionada - Demais Débitos\"), quanto a de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 36 (trinta e seis) prestações mensais iguais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "5ddd7d2ff905",
+ "title": "Termo de Transação Individual - Usina Rio Pardo S.A.",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualUsinaRioPardoS.A..pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualUsinaRioPardoS.A..pdf",
+ "sha256": "8c2c660839151b0d2da39292e516072ca9d856e316bbe5f95fd9c86852a0425f",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

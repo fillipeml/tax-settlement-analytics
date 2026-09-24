@@ -1,0 +1,75 @@
+{
+ "taxpayer": "RAIZ EDUCAÇÃO S.A. e outras (grupo econômico RAIZ EDUCAÇÃO / COLÉGIOS LEONARDO DA VINCI)",
+ "approval_date": "2024-01-15",
+ "consolidated_amount": 325503986.79,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhora de imóveis (com ou sem penhora prévia em favor da Fazenda Nacional), listados em tabela na cláusula 3.1.3",
+  "20% de recebíveis oriundos de vendas a crédito e/ou débito de todas as empresas do grupo, vinculadas ao contrato de prestação de serviço com a REDECARD, limitados a 5% da receita bruta mensal dos DEVEDORES"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios do prejuízo fiscal e base de cálculo negativa da CSLL (cláusula 2.3)",
+  "Manter as empresas do grupo que utilizaram créditos de PF/BCN como optantes do regime de lucro real até a extinção da Dívida Transacionada (cláusula 2.4)",
+  "Dar ciência à CREDORA de alterações societárias no prazo de 30 dias (cláusula 5.7.1)",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional (cláusula 5.7.2)",
+  "Não utilizar pessoa interposta para ocultar/dissimular origem ou destinação de bens (cláusula 5.7.3)",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado (cláusula 5.7.4)",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência (cláusula 5.7.5)",
+  "Renunciar a alegações de direito em ações judiciais relativas aos débitos transacionados (cláusula 5.7.6)",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa no prazo de 90 dias (cláusula 5.7.8)",
+  "Regularizar débitos do FGTS no prazo de 60 dias (cláusula 5.7.9)"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação de até 45% do saldo remanescente (cláusula 2.1.2)",
+  "Garantia via 20% de recebíveis de cartão de crédito/débito limitados a 5% da receita bruta mensal (cláusula 3.1.1 e 3.1.2)",
+  "Reconhecimento de grupo econômico de fato entre os DEVEDORES, com corresponsabilidade entre eles (cláusula 1.3)",
+  "Compensação de créditos de restituições/ressarcimentos da RFB e precatórios federais com as prestações do acordo (cláusulas 4.5 e 4.6)"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.7,
+  "modality": 0.9,
+  "approval_date": 0.7,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "discounts": 0.0,
+  "guarantees": 0.8,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Das inscrições previdenciárias, constantes do ANEXO I, totalizando R$205.476.801,94 (duzentos e cinco milhões, quatrocentos e setenta e seis mil, oitocentos e um reais e noventa e quatro centavos), atualizados em janeiro/2024; ... Das inscrições não previdenciárias, constantes do ANEXO II, totalizando R$120.027.184,85 (cento e vinte milhões, vinte e sete mil, cento e oitenta e quatro reais e oitenta e cinco centavos), atualizados em janeiro/2024",
+  "total_discount_pct": "Concessão do desconto máximo de 70% (setenta por cento) incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento do saldo remanescente dos débitos de natureza não previdenciária efetuado em 145 (cento e quarenta e cinco) meses, por meio de parcelas lineares"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "approval_date",
+  "installments",
+  "discounts",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "942d5a0321bc",
+ "title": "Termo de Transação Individual - Raiz Educação SA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualRaizEducaoSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualRaizEducaoSATarjado.pdf",
+ "sha256": "bb55ee97812e2b05691e024ae8f3ebb0d70bd970edc68378933feb2c093796c5",
+ "extracted_at": "2026-07-22T14:22:31+00:00",
+ "simulated": false
+}

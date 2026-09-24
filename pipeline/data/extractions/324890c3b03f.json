@@ -1,0 +1,77 @@
+{
+ "taxpayer": "HOSPITAL INDEPENDÊNCIA ZONA LESTE LTDA",
+ "approval_date": "2024-04-10",
+ "consolidated_amount": 11437540.41,
+ "modality": "Transação individual (modalidades DEMAIS e PREV)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança pessoal (Anexo II - Termo de Garantia Fidejussória) prestada por Mariluci Jung, sócia administradora",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas administrativamente ou em ações judiciais/execuções fiscais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Regularizar, no prazo de 30 dias, o saldo decorrente da reconsolidação das contas de transação individual",
+  "Não alienar bens/direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular e em dia com as Transações e Parcelamentos em curso",
+  "Manter, durante 5 anos, livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da Transação, desistir de impugnações/recursos/ações e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Utilização de crédito a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor após aplicação dos descontos (63,81% para DEMAIS DÉBITOS e 66,05% para PREV)",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL fica suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo de 5 anos",
+  "Considerado o rating D do contribuinte e situação transitória de crise para concessão das condições"
+ ],
+ "sector": "Saúde/Hospitalar",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.7,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.0,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.95,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "no montante atual de R$ 11.437.540,41 nos termos e condições estipuladas no referido Termo de Transação Individual",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 60 prestações mensais e sucessivas... Parcelamento do saldo devido na modalidade PREV em até 60 prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "consolidated_amount"
+ ],
+ "id": "324890c3b03f",
+ "title": "Termo de Transação Individual - Hospital independência Zona Leste LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransacaoIndividualHospitalindependnciatermocomtarja.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransacaoIndividualHospitalindependnciatermocomtarja.pdf",
+ "sha256": "225120a673bd2c700d16a475256edc6e00ffbc43495791722c2dd607926fe066",
+ "extracted_at": "2026-07-22T14:22:34+00:00",
+ "simulated": false
+}

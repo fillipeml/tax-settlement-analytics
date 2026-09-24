@@ -1,0 +1,76 @@
+{
+ "taxpayer": "AGROPECUARIA AGRITER LTDA - EPP, AGRITER AGRONEGÓCIOS LTDA e LUIZ ALBERTO BONI",
+ "approval_date": "2025-06-18",
+ "consolidated_amount": 111131048.41,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fazenda Onça – com área de 662,14 Hectares – Matrícula 175.534 – Situada no Município de Luziânia – Goiás",
+  "Fazenda Samambaia – com área de 4.155,70 hectares – Matrícula 6.892 – Situado no Município de Cristalina – Goiás",
+  "Loteamento Cidade Industrial Brasília - Fazenda Arrasta Burro, Matrícula 824, situado em Cristalina – Goiás"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Autorizar o acesso da Fazenda Nacional a suas declarações e escritas fiscais",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação prévia",
+  "Manter a regularidade perante o FGTS",
+  "Manter a regularidade perante a PGFN e a RFB, regularizando em 90 dias débitos supervenientes",
+  "Peticionar em até 60 dias em todos os processos judiciais relativos à Dívida Transacionada para desistência e renúncia",
+  "Comprovar desistência e renúncia no processo 0147577-86.2016.8.09.0036 em 60 dias",
+  "Formalizar garantia via oferecimento de bens à penhora no prazo de 30 dias na execução fiscal nº 0075074-53.2005.8.09.0036"
+ ],
+ "special_clauses": [
+  "Reconhecimento imediato de responsabilidade solidária de todas as Requerentes por toda a Dívida Transacionada",
+  "Manutenção automática de gravames decorrentes de arrolamento de bens, medida cautelar fiscal, penhoras ou garantias administrativas",
+  "Possibilidade de alienação dos bens dados em garantia mediante anuência prévia e expressa da Fazenda Nacional, inclusive via Plataforma Comprei",
+  "Substituição/reforço de garantia obrigatório em caso de redução igual ou superior a 25% do valor atribuído aos bens"
+ ],
+ "sector": "Agronegócio",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.7,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Consolidado R$ 111.131.048,41",
+  "total_discount_pct": "Concede-se o desconto máximo de 70% (setenta por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal.",
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Demais Débitos será adimplido em 120 (cento e vinte) prestações mensais sucessivas, lineares"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "a275021273cc",
+ "title": "Termo de Transação Individual - Agropecuaria Agriter LTDA - Epp, Agriter Agronegócios LTDA, Luiz Alberto Boni",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualAgropecuariaAgriterLTDAEppAgriterAgronegciosLTDALuizAlbertoBoni.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualAgropecuariaAgriterLTDAEppAgriterAgronegciosLTDALuizAlbertoBoni.pdf",
+ "sha256": "7cadeaab93e9798d65d061fe75df3e33e972712b30fa5edb618f157525cf2b6b",
+ "extracted_at": "2026-07-21T19:10:12+00:00",
+ "simulated": false
+}

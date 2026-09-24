@@ -1,0 +1,73 @@
+{
+ "taxpayer": "AMARAL D'ÁVILA ENGENHARIA DE AVALIAÇÕES LTDA.",
+ "approval_date": "2023-09-14",
+ "consolidated_amount": 18329317.58,
+ "modality": "Transação Individual",
+ "total_discount_pct": 52.9,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 40,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar/falsear a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar a recuperação dos créditos",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir de ações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 70% do saldo da dívida após aplicação dos descontos",
+  "Cobrança do saldo liquidado com uso de créditos de PF/BCN suspensa até confirmação pela autoridade competente, dentro do prazo legal de cinco anos",
+  "Não haverá oferta de garantia vinculada à Transação, considerando a redução do prazo de pagamento"
+ ],
+ "sector": "Engenharia/Avaliações",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "down_payment_pct": 0.9,
+  "installments": 1.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.95,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 18.329.317,58 (Dezoito milhões, trezentos e vinte e nove mil, trezentos e dezessete reais e cinquenta e oito centavos)",
+  "total_discount_pct": "ocasionando um desconto global médio de 52,90%, na forma do Anexo II",
+  "installments": "Pagamento da Dívida Transacionada, tanto a de natureza não previdenciária (\"Dívida Transacionada - Demais Débitos\"), quanto a de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 40 (quarenta) prestações mensais iguais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "d52660e4c14c",
+ "title": "Termo de Transação Individual - Amaral D’ávila Engenharia de Avaliações LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAmaralDvilaEngenhariadeAvaliaesLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAmaralDvilaEngenhariadeAvaliaesLTDA.pdf",
+ "sha256": "93102a8fc3c7c84ede00dd139250bce5e83df8565aebd9a845d51e1fd2217847",
+ "extracted_at": "2026-07-22T14:22:35+00:00",
+ "simulated": false
+}

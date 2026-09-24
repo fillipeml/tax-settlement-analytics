@@ -1,0 +1,83 @@
+{
+ "taxpayer": "ARXO INDUSTRIAL DO BRASIL LTDA – em RECUPERAÇÃO JUDICIAL (75.487.058/0001-00)",
+ "approval_date": "2025-03",
+ "consolidated_amount": 30232799.38,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bem imóvel descrito no Anexo III, avaliado pela empresa em R$ 44.924.000,00, objeto de penhora nas execuções fiscais"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não alienação/oneração de bens com propósito de frustrar recuperação dos créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de ativo não circulante",
+  "Declarar inexistência ou esgotamento de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Cumprir exigências da Portaria PGFN 6757/2022 e da proposta",
+  "Declarar veracidade de informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações judiciais/coletivas relativas aos créditos transacionados",
+  "Manter regularidade perante PGFN, RFB e FGTS, regularizando débitos supervenientes em até 90 dias",
+  "Manter-se como optante do regime de tributação pelo lucro real durante toda a negociação (uso de créditos de prejuízo fiscal e base negativa de CSLL)",
+  "Comunicar em até 60 dias, nos autos da execução fiscal, a quitação integral da dívida que onera o imóvel dado em garantia, ofertando-o à penhora",
+  "Não desistir unilateralmente da transação",
+  "Peticionar nos processos judiciais em até 60 dias após a assinatura, noticiando a transação e indicando bens dados em garantia, desistindo de embargos e exceções de pré-executividade",
+  "Providenciar oferecimento e formalização da penhora do imóvel em até 60 dias",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil ou documentos complementares quando solicitado pela PGFN",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias dependentes da obrigação principal"
+ ],
+ "special_clauses": [
+  "Desconto médio de 45,34% sobre inscrições previdenciárias (Anexo I), com abatimento adicional de prejuízo fiscal e base de cálculo negativa de CSLL de R$ 3.387.354,06, saldo pago em 60 amortizações mensais e escalonadas",
+  "Desconto médio de 57% sobre inscrições demais (Anexo II), saldo pago em 120 parcelas mensais e escalonadas",
+  "Nomeação da União como procuradora em causa própria para receber indenização em caso de desapropriação do bem dado em garantia",
+  "Renúncia da devedora a objeção de alienação forçada do bem imóvel dado em garantia, inclusive quanto à essencialidade do bem às atividades operacionais",
+  "Obrigação de substituir ou reforçar garantia em caso de perecimento/depreciação/deterioração que reduza seu valor em mais de 25%"
+ ],
+ "sector": "Industrial",
+ "confidence": {
+  "taxpayer": 0.9,
+  "modality": 0.95,
+  "approval_date": 0.6,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.6,
+  "installments": 0.55,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.95,
+  "sector": 0.5,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "cujo montante totaliza, na referida data, R$ 30.232.799,38 (trinta milhões, duzentos e trinta e dois mil, setecentos e noventa e nove reais, trinta e oito centavos)",
+  "total_discount_pct": "observando-se o percentual máximo de desconto permitido legalmente, de até 70%, na condição de empresa sob recuperação judicial",
+  "installments": "sendo que o restante será pago em 120 (cento e vinte) parcelas mensais e escalonadas"
+ },
+ "review_fields": [
+  "approval_date",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "sector"
+ ],
+ "id": "7b2f4b48e896",
+ "title": "Termo de Transação Individual - Arxo Industrial do Brasil LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualArxoIndustrialdoBrasilLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualArxoIndustrialdoBrasilLTDA.pdf",
+ "sha256": "a93461c6639bf143a77086384c3bff4237667f4073b69ae9ccf28bd792f1053d",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

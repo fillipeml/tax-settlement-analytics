@@ -1,0 +1,54 @@
+{
+ "taxpayer": "AGROPECUÁRIA VITAMAIS LTDA EM RECUPERAÇÃO JUDICIAL (03.568.048/0001-99) e ECOFERTIL AGROPECUARIA LTDA EM RECUPERAÇÃO JUDICIAL (07.617.675/0001-23)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 14488100.26,
+ "modality": "Transação individual",
+ "total_discount_pct": 35.28,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de eventuais garantias eventualmente existentes nos processos em curso"
+ ],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [
+  "Parcelas lineares",
+  "FGTS: Modalidade 29"
+ ],
+ "sector": "Agronegócio",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.0,
+  "modality": 0.8,
+  "sector": 0.6,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.7,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.95
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valores atualizados em R$ 14.488.100,26",
+  "total_discount_pct": "Desconto efetivo médio Total: 35,28%",
+  "installments": "Número de parcelas Previdenciária: 1 Demais débitos:1"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "installments"
+ ],
+ "id": "cc4496380a9b",
+ "title": "Termo de Transação Individual - Agropecuária Vitamais LTDA (Sumário)",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualAgropecuriaVitamaisLTDASumrio.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualAgropecuriaVitamaisLTDASumrio.pdf",
+ "sha256": "3688f494ae28dd3254f436af657e7e45600cacdec2cdc239e6988729bbfe6d77",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

@@ -1,0 +1,74 @@
+{
+ "taxpayer": "NUTRIAL AGROINDÚSTRIAS REUNIDAS S/A",
+ "approval_date": "2023-02-15",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 100,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal ou qualquer outra ação judicial"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Individualizar valores recolhidos nas contas vinculadas dos trabalhadores, quando for o caso",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Peticionar nos processos judiciais em até 60 dias após assinatura, noticiando a celebração do acordo",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil ou demonstrações de resultado",
+  "Manter livros e documentos por 5 anos relativos ao uso de créditos de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Recolher obrigações tributárias correntes e obrigações acessórias",
+  "Verter para pagamento da dívida qualquer crédito de precatório ou outro meio a receber da União, Estados ou Municípios"
+ ],
+ "special_clauses": [
+  "Autorizada a utilização de créditos de prejuízo fiscal acumulados e de base de cálculo negativa da CSLL para quitação de parte do montante (valores tarjados), direcionados às contas PREV e DEMAIS",
+  "Cláusula 15: sobrevindo parcelamento com regras/descontos mais benéficos, fica assegurado à devedora, a seu critério, a inclusão dos débitos no programa incentivado, extinguindo a presente transação sem ônus"
+ ],
+ "sector": "Agroindústria",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.8,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "installments": "Pagamento da dívida transacionada de natureza não previdenciária em 100 (cem) prestações mensais, conforme escalonamento indicado no ANEXO II"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "installments",
+  "judicial_recovery"
+ ],
+ "id": "363a7d080520",
+ "title": "Termo Transação Individual - Nutrial Agroindústrias",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermoTransaoIndividualNutrialAgroindstriasSAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermoTransaoIndividualNutrialAgroindstriasSAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "e1ba122fdaad35d4cb2d81759657e9a1838c94067146310930ec1a61646caba8",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

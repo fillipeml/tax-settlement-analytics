@@ -1,0 +1,76 @@
+{
+ "taxpayer": "Grupo Contuflex (Cotermang Comercial de Produtos Metalurgicos Ltda - EPP; Comercio de Acessorios Contuflex - EPP; Flexhose Flexiveis Metalicos Ltda - Baixada - ME; Contuflex Conexoes Tubos e Flexiveis Ltda (Tecforjas))",
+ "approval_date": "2025-01-27",
+ "consolidated_amount": 58301369.71,
+ "modality": "Transação Individual",
+ "total_discount_pct": 36.4,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em execuções fiscais/ações judiciais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a formalização",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da Transação e desistir de impugnações/recursos/ações"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação de imóveis dados em garantia mediante prévia anuência da Fazenda Nacional (cláusula 4)",
+  "Utilização do sistema COMPREI da PGFN para alienação de imóveis já penhorados em execuções fiscais",
+  "Direcionamento de créditos de precatórios ou levantamento de depósito judicial para adimplemento dos saldos devedores"
+ ],
+ "sector": "Comércio/Indústria de produtos metalúrgicos e conexões/tubos flexíveis",
+ "confidence": {
+  "taxpayer": 0.95,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.3,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "judicial_recovery": 0.2,
+  "sector": 0.6,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total inscrito R$ 58.301.369,71",
+  "total_discount_pct": "Descontos efetivo MÉDIO 36,40%",
+  "installments": "2.1.2. Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais, escalonadas na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "a9ca583601a6",
+ "title": "Termo de Transação Individual - Comércio de Acessórios Contuflex LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualComrciodeAcessriosContuflexLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualComrciodeAcessriosContuflexLTDATarjado.pdf",
+ "sha256": "e0ecc6d34a16e2f2b907489f92840fa284cd07dabc1e65b20a98b17eb84867aa",
+ "extracted_at": "2026-07-22T14:22:39+00:00",
+ "simulated": false
+}

@@ -1,0 +1,57 @@
+{
+ "taxpayer": "A! BODYTECH PARTICIPAÇÕES S.A. (e sociedades do grupo Bodytech: BAHIA FITNESS CENTER, BRDF FITNESS CENTER, BT01 FITNESS CENTER, BT02 LOCAÇÕES DE ESPAÇOS, FHS ADMINISTRAÇÃO, PARTICIPAÇÕES E SERVIÇOS, FOCUS FITNESS ACADEMIA DE GINÁSTICA, GAMA FITNESS CENTER, NOVA EXPRESS COMÉRCIO PARTICIPAÇÕES EMPRENDIMENTOS, RM FITNESS CENTER ACADEMIA DE GINÁSTICA)",
+ "approval_date": "2024-12-20",
+ "consolidated_amount": 104364235.56,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 0.5,
+ "guarantees": [
+  "Terreno localizado em Porto Alegre/RS, objeto de matrículas do Registro de Imóveis da 1ª Zona de Porto Alegre, pertencente à FHS ADMINISTRAÇÃO, PARTICIPAÇÕES E SERVIÇOS S.A.",
+  "3.208 aparelhos de ginástica"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL (cláusula 2.3)",
+  "Permanecer como optante do regime de apuração de IRPJ pela modalidade de lucro real até a extinção da Dívida Transacionada (cláusula 2.4)",
+  "Peticionar nos autos das Execuções Fiscais para noticiar a celebração da Transação e requerer a formalização da penhora dos bens dados em garantia, no prazo de 30 dias (cláusula 3.3)",
+  "Apresentar laudo de avaliação atualizado do imóvel dado em garantia, no prazo de 90 dias (cláusula 3.4)",
+  "Desistir de impugnações, recursos e ações administrativas ou judiciais relativas à Dívida Transacionada (cláusula 4.1)",
+  "Peticionar nos processos judiciais para noticiar a celebração da Transação e desistir de ações em curso, no prazo de 30 dias (cláusula 4.3)",
+  "Autorizar a CREDORA a ter acesso a declarações e escritas fiscais e informações financeiras (cláusula 5.1)",
+  "Dar ciência à CREDORA de alterações na natureza jurídica ou formatação societária, no prazo de 30 dias (cláusula 5.7.1)",
+  "Não alienar bens ou direitos próprios ou de controladores sem devida comunicação à Fazenda Nacional (cláusula 5.7.2)",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado (cláusula 5.7.4)",
+  "Permanecer nos parcelamentos já aderidos, honrando pagamentos até completa quitação das CDAs (cláusula 5.7.7)",
+  "Manter regularidade perante PGFN e Receita Federal, regularizando débitos supervenientes em 90 dias (cláusula 5.7.8)",
+  "Manter regularidade perante o FGTS e proceder à individualização dos valores recolhidos (cláusula 5.7.9)",
+  "Apresentar a cada dois anos lista atualizada dos aparelhos de ginástica dados em garantia e nova avaliação por empresa independente (cláusula 3.2)"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e de base de cálculo negativa da CSLL para liquidação de até 30% do saldo remanescente das inscrições (cláusula 2.1.3)",
+  "Dispensa de comunicação de alienação de equipamentos de ginástica dados em garantia, desde que substituídos por bens de igual ou maior valor, mantendo a garantia íntegra (cláusula 5.7.2.1)",
+  "Possibilidade de substituição dos aparelhos de ginástica dados em garantia por bens de valor igual ou superior, sem desfalque do montante da garantia (cláusula 3.3.2)",
+  "Autorização de compensação de valores do precatório objeto do Ofício Requisitório nº 20230003969R com prestações do acordo (cláusula 4.6)"
+ ],
+ "sector": "Fitness/academias de ginástica (saúde e bem-estar)",
+ "confidence": {},
+ "source_excerpts": {
+  "consolidated_amount": "1.2.1. Inscrições previdenciárias constantes do ANEXO I, totalizando R$35.952.423,68 (Trinta e cinco milhões, novecentos e cinquenta e dois mil, quatrocentos e vinte e três reais e sessenta e oito centavos)... 1.2.2. Inscrições não previdenciárias constantes do ANEXO I, totalizando R$68.411.811,88 (Sessenta e oito milhões, quatrocentos e onze mil, oitocentos e onze reais e oitenta e oito centavos)",
+  "total_discount_pct": "2.1.2. Concessão do desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "2.1.6. Pagamento do saldo remanescente dos débitos de natureza não previdenciária efetuado em 120 (cento e vinte) meses, em parcelas sucessivas, sendo a primeira parcela de 0,5% do total e as demais parcelas iguais"
+ },
+ "review_fields": [],
+ "id": "ffe8eda9fad2",
+ "title": "Termo de Transação Individual - A! Bodytech Participações SA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualABodytechParticipaesSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualABodytechParticipaesSATarjado.pdf",
+ "sha256": "3c272ac2b6f9fd47ab217a45b5df0a44a07fa71175280457e6c122fb9616866a",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

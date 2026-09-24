@@ -1,0 +1,77 @@
+{
+ "taxpayer": "Not identified",
+ "approval_date": "2022-07-18",
+ "consolidated_amount": 89241538.58,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca de imóvel rural: FAZENDA ESTÂNCIA VIANA, situado na zona rural do município e comarca de Sete Quedas – MS, com área total de 1.604,66 hectares, avaliado em R$ 99.075.708,00",
+  "Possibilidade de penhora sobre o bem hipotecado"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar não utilizar pessoa interposta para ocultar bens",
+  "Declarar não ter alienado ou onerado bens para frustrar a recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de bens do ativo não circulante",
+  "Cumprir exigências da Portaria PGFN nº 9917/20 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Promover atos necessários para lavratura e registro da hipoteca em até 60 dias",
+  "Manter em dia pagamento de impostos e taxas sobre o imóvel dado em garantia",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil",
+  "Manter obrigações tributárias correntes e acessórias"
+ ],
+ "special_clauses": [
+  "Interveniente anuente (co-proprietária) concorda com oferecimento da integralidade do imóvel em garantia, renunciando a resguardo de meação",
+  "Nomeação da União como procuradora do proprietário em caso de desapropriação do bem dado em garantia, com poderes de cláusula em causa própria",
+  "Substituição de penhoras existentes sobre outros imóveis pela garantia hipotecária ofertada, por ter valor superior à dívida"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.0,
+  "sector": 0.0,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "total_discount_pct": 0.85,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "por meio de parcelamento da dívida ativa da União dos débitos relacionados nos anexos II e III que totalizam na presente data o montante de R$ 89.241.538,58 (oitenta e nove milhões, duzentos e quarenta e um mil, quinhentos e trinta e oito reais e cinquenta e oito centavos).",
+  "installments": "O plano relativo às inscrições indicadas no Anexo III prevê o pagamento em 145 (cento e quarenta e cinco) parcelas mensais e sucessivas, conforme os valores estipulados no Anexo IV (parcelas lineares), sendo concedido o desconto máximo de até 65% por inscrição",
+  "total_discount_pct": "sendo concedido o desconto máximo de até 65% por inscrição, observados os limites do §2º do art. 11 da Lei n. 13.988/20."
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "7ad0cd1764cf",
+ "title": "Termo de Transação Individual - Valdemar Moras",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualValdemarMoras.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualValdemarMoras.pdf",
+ "sha256": "3c0f9595171d00a9c3a6109cad005190b7861117f23f17f369865adf41826f4c",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

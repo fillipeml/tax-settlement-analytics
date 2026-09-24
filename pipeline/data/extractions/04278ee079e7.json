@@ -1,0 +1,80 @@
+{
+ "taxpayer": "FRIGORÍFICO NICOLINI LTDA (Grupo Econômico: AGROARAÇÁ INDÚSTRIA DE ALIMENTOS LTDA EM RECUPERAÇÃO JUDICIAL, LAVANDERIA AGUA AZUL LTDA - EPP, P e O PARTICIPAÇÕES LTDA, PC HOLDING PARTICIPAÇÕES LTDA, SRFM PARTICIPAÇÕES LTDA)",
+ "approval_date": "2024-03-14",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens constantes no Anexo III, sobre os quais serão registradas penhoras nas execuções fiscais promovidas em face das DEVEDORAS"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta",
+  "Declarar que não alienaram ou oneraram bens ou direitos com propósito de frustrar recuperação dos créditos",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Autorizar compensação com restituições, ressarcimentos ou reembolsos",
+  "Autorizar compensação com precatórios federais",
+  "Manter regime de tributação pelo lucro real (AGROARAÇÁ) até cumprimento integral do acordo",
+  "Declarar ausência de créditos líquidos e certos ou precatórios em desfavor da União",
+  "Manter livros e documentos comprobatórios de PF e BCN por 5 anos (AGROARAÇÁ)",
+  "Apresentar situação econômico-financeira sempre que a PGFN reputar oportuno",
+  "Manter recolhimento das obrigações tributárias correntes",
+  "Adimplir emolumentos de protesto cartorário eventual"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal (PF) e base de cálculo negativa de CSLL (BCN) da corresponsável AGROARAÇÁ para amortização do saldo devedor",
+  "Abatimento de crédito de prejuízo fiscal no montante de R$ 30.800.000,00 sobre o saldo do Anexo I",
+  "Nomeação da União como procuradora em causa própria para receber indenização em caso de desapropriação dos bens dados em garantia",
+  "Possibilidade de utilização de depósitos judiciais para pagamento de parcelas vincendas",
+  "Possibilidade de utilização de crédito de restituição de titularidade de Pedro Carrer (processo 13016.720243/2019-59) para pagamento de parcela vincenda",
+  "Possibilidade de utilização de valor depositado em cumprimento de sentença contra ELETROBRÁS para pagamento de parcelas vincendas",
+  "Reconhecimento expresso de grupo econômico entre todas as pessoas jurídicas nominadas, exclusivamente em relação aos tributos federais"
+ ],
+ "sector": "Frigorífico/agroindústria (alimentos)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.75,
+  "discounts": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.9,
+  "judicial_recovery": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Sobre as inscrições indicadas no anexo I será aplicado desconto máximo de 65%, observados os limites do §2º do art. 11 da Lei n. 13.988/20 (...) Sobre as inscrições indicadas no anexo II incidirá o desconto máximo de 65%",
+  "installments": "o saldo devedor será pago em 120 (cento e vinte) parcelas escalonadas, mensais e sucessivas, conforme os valores estipulados no anexo II"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "installments"
+ ],
+ "id": "04278ee079e7",
+ "title": "Termo de Transação Individual - Frigorífico Nicolini LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualFrigorficoNicoliniLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualFrigorficoNicoliniLTDAtarjado.pdf",
+ "sha256": "ddf94db899b28986fcb28a964956ec44651b1ab49ea705f2968a05ac0cc444c1",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

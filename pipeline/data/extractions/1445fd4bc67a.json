@@ -1,0 +1,86 @@
+{
+ "taxpayer": "MEDICOUROS COMERCIO DE COUROS LTDA",
+ "approval_date": "2024-06-06",
+ "consolidated_amount": 17240766.53,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca ou penhora de bens (ANEXO II - valores não especificados/zerados no documento)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável os débitos relacionados no ANEXO I",
+  "Renunciar a alegações de direito, ações judiciais e recursos sobre os créditos do ANEXO I",
+  "Manter a regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa após a assinatura, no prazo máximo de 90 dias",
+  "Manter a garantia oferecida até o integral cumprimento das condições da transação",
+  "Informar previamente à PGFN a alienação e/ou disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Anuir com eventual modificação da competência relativa para reunião de processos",
+  "Efetuar tempestivamente os pagamentos referentes às amortizações mensais",
+  "Não utilizar a transação de forma abusiva",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens para frustrar a recuperação dos créditos",
+  "Declarar que não possui precatórios federais ou créditos líquidos e certos contra a União",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Desistir de impugnações, recursos e ações judiciais relativas aos débitos do ANEXO I no prazo de 30 dias",
+  "Manter em dia o pagamento de impostos e taxas sobre imóvel dado em garantia",
+  "Registrar hipoteca ou penhora sobre os bens em garantia no prazo de 90 dias"
+ ],
+ "special_clauses": [
+  "Pagamento em parcela única dos débitos relacionados no ANEXO I (Cláusula 5ª), com saldo de R$ 23.331,38 para demais débitos e R$ 1.853.260,42 para previdenciários após dedução de PF-BCN disponível",
+  "Desconto limitado a até 65%, vedada incidência sobre o principal do débito, considerando capacidade de pagamento do DEVEDOR (Rating D - dívidas de difícil recuperação)",
+  "Prazo de 120 meses para débitos não previdenciários e 60 meses para previdenciários, conforme §2º da Cláusula 5ª, embora o pagamento seja estipulado em parcela única no caput",
+  "Produto da venda de imóveis do ANEXO II destinado à quitação do plano de pagamentos",
+  "Possibilidade de venda direta por iniciativa particular via plataforma COMPREI/PGFN após 90 dias",
+  "Vedada formalização de nova transação pelo DEVEDOR por 2 anos em caso de rescisão"
+ ],
+ "sector": "Couros/Curtumes",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "approval_date": 1.0,
+  "modality": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam R$ 17.240.766,53, atualizado no mês de maio/2024",
+  "clauses_especiais_parcela_unica": "O DEVEDOR se obriga a pagar os débitos relacionados no ANEXO I em parcela única, cujos valores estão representados pelos Saldos, nos quadros abaixo.",
+  "clauses_especiais_discount_limite": "a presente transação envolve a concessão de descontos limitados ao máximo de até 65% (sessenta e cinco por cento), vedada a incidência sobre o principal do débito, considerando a capacidade de pagamento do DEVEDOR, vez que as dívidas são consideradas de difícil recuperação pela PGFN (Rating D).",
+  "clauses_especiais_prazos": "O prazo para pagamento dos débitos não previdenciários (demais) será de 120 (cento e vinte) meses, enquanto que o prazo para os débitos previdenciários será de 60 (sessenta) meses"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "1445fd4bc67a",
+ "title": "Termo Transação Individual - Medicouros Comércio de Couros LTDA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermoTransacaoIndividualMedicourosComrciodeCourosLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermoTransacaoIndividualMedicourosComrciodeCourosLTDAtarjado.pdf",
+ "sha256": "b0df924e1e74801a10dc56cfcffaa645bedd817bbadb3acfda31f8dc2df17cdf",
+ "extracted_at": "2026-07-21T19:03:14+00:00",
+ "simulated": false
+}

@@ -1,0 +1,75 @@
+{
+ "taxpayer": "Autotravi Borrachas e Plásticos Ltda",
+ "approval_date": "2023-06-20",
+ "consolidated_amount": 29010087.41,
+ "modality": "Transação Individual",
+ "total_discount_pct": 40.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de matrícula nº 14.665 do Registro de Imóveis da 1ª Zona de Caxias do Sul/RS (penhorado na EF nº 5013194-90.2016.4.04.7107) - R$ 480.000,00",
+  "Imóvel de matrícula nº 41.555 do Registro de Imóveis da 1ª Zona de Caxias do Sul/RS (penhorado na EF nº 5013194-90.2016.4.04.7107) - R$ 200.000,00",
+  "Imóvel de matrícula nº 38.743 do Registro de Imóveis da 1ª Zona de Caxias do Sul/RS (penhorado na EF nº 5013194-90.2016.4.04.7107) - R$ 3.200.000,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações à PGFN",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação, com extinção dos processos",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade nos programas de parcelamentos anteriores",
+  "Manter regularidade com tributos correntes",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Manter as garantias associadas aos débitos (três terrenos penhorados em execuções fiscais)",
+  "Não alienar outros bens imóveis ou direitos sem prévia comunicação à PGFN"
+ ],
+ "special_clauses": [
+  "Futuramente, caso a interessada obtenha créditos federais, incluindo precatórios próprios ou de terceiros, poderá ser apresentada proposta de compensação/oferecimento em pagamento, nos termos do art. 5º, VII da Portaria PGFN 6.757/2022",
+  "Os descontos podem não chegar ao percentual indicado em algumas CDAs, pois não pode haver abatimento do valor principal, apenas de juros, encargos e multas"
+ ],
+ "sector": "Indústria de borrachas e plásticos (autopeças)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.6,
+  "down_payment_pct": 0.0,
+  "installments": 0.5,
+  "discounts": 0.0,
+  "guarantees": 1.0,
+  "obligations": 1.0,
+  "special_clauses": 0.9,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total da dívida ativa consolidada em 20/06/2023, conforme Sida: R$29.010.087,41 (descontos máximos entre 35% e 45%)*",
+  "total_discount_pct": "Total da dívida ativa consolidada em 20/06/2023, conforme Sida: R$29.010.087,41 (descontos máximos entre 35% e 45%)*",
+  "installments": "Pagamentos em 120 parcelas mensais, iniciando em R$65.790,48, para os fazendários, e pagamento em 60 parcelas mensais, para os previdenciários, iniciando em R$82.471,74, tudo conforme tabela do anexo II."
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "23d9baedb156",
+ "title": "Termo de Transação Individual - Autotravi Borrachas e Plásticos LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualAutotraviBorrachasePlasticosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualAutotraviBorrachasePlasticosLTDA.pdf",
+ "sha256": "49c56bda19539e3ce8112e14dab699c9eec23f42c80d11426efd425c3b752b7c",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

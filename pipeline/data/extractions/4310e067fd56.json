@@ -1,0 +1,84 @@
+{
+ "taxpayer": "COTRAMOL COOPERATIVA DOS TRANSPORTADORES DE CARGA DO MEIO OESTE CATARINENSE",
+ "approval_date": "Not identified",
+ "consolidated_amount": 51506438.21,
+ "modality": "Transação Individual",
+ "total_discount_pct": 42.81,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel matrícula nº 11.172 - CRI 1º Ofício de Imóveis de Joaçaba/SC",
+  "Imóvel matrícula nº 22.497 - CRI 1º Ofício de Imóveis de Joaçaba/SC",
+  "Imóvel matrícula nº 24.491 - CRI 1º Ofício de Imóveis de Joaçaba/SC"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens ou valores",
+  "Declarar que não alienou ou onerou bens para frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de ativo não circulante",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6757/22",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos relativos aos créditos incluídos",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade fiscal perante PGFN e RFB, regularizando débitos supervenientes em até 90 dias",
+  "Autorizar compensação de restituições, ressarcimentos ou reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Não desistir do acordo sob pena de rescisão",
+  "Peticionar nos processos judiciais noticiando a transação em até 90 dias",
+  "Apresentar situação econômico-financeira sempre que solicitado pela PGFN",
+  "Adimplir obrigações tributárias correntes",
+  "Pagar emolumentos de eventual protesto cartorário das inscrições"
+ ],
+ "special_clauses": [
+  "Utilização excepcional de depósitos judiciais vinculados às execuções fiscais nº 5034805-38.2021.4.04.7200, 5028176-48.2021.4.04.7200 e 5002496-57.2018.4.04.7203, no valor de R$ 1.234.634,14 (abril/2025), para amortizar o saldo devedor",
+  "Autorização para alienação do imóvel de matrícula nº 22.497 para abatimento do saldo devedor da última prestação da conta de negociação dos débitos previdenciários, com regras específicas do Programa COMPREI (Portaria PGFN/ME nº 3050/2022)",
+  "Pagamento de R$ 3.000.000,00 na primeira prestação dos débitos previdenciários"
+ ],
+ "sector": "Transporte de cargas",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "cujo montante totaliza, na presente data, R$ 51.506.438,21 (cinquenta e um milhões, quinhentos e seis mil quatrocentos e trinta e oito reais e vinte e um centavos)",
+  "total_discount_pct": "Sobre o valor de cada uma das inscrições indicadas no Anexo I será aplicado o desconto efetivo de 42,81%",
+  "installments": "145 (cento e quarenta e cinco) prestações mensais para os demais débitos, conforme escalonamento previsto no Anexo II"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "4310e067fd56",
+ "title": "Termo de Transação Individual - Cotramol Cooperativa dos Transportadores de Carga do Meio Oeste Catarinense",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCotramolCooperativadosTransportadoresdeCargadoMeioOesteCatarinense.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCotramolCooperativadosTransportadoresdeCargadoMeioOesteCatarinense.pdf",
+ "sha256": "27f56e24906b677c466580cfb832f230a15823be1ef1ec4d80c4a2937c3444b7",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

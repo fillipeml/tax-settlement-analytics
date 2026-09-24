@@ -1,0 +1,84 @@
+{
+ "taxpayer": "MIRA OTM TRANSPORTES LTDA e MIRA SERVIÇOS DE TRANSPORTES LTDA",
+ "approval_date": "2023-07-24",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 62,
+ "down_payment_pct": 37.0,
+ "guarantees": [
+  "Imóvel de Matrícula nº 61.921, registrado no 5º Ofício de Registro de Imóveis da Capital do Estado de Mato Grosso, localizado na Avenida Beira Rio, 600 - Caxipó da Ponte - Cuiabá/MT",
+  "Imóvel de Matrícula nº 53.190, registrado no Ofício de Registro de Imóveis de Atibaia, situado no Bairro do Rio Acima, em Atibaia",
+  "Imóvel de Matrícula nº 8.262, registrado no 1º Ofício de Registro de Imóveis da Comarca de Barra do Garça/MT"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos novos inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar o pagamento sem comunicar a Fazenda Nacional",
+  "Manter-se regular com outras Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos fiscais, inclusive comprobatórios de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de R$ 46.355.991,64 a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL suspensa até confirmação pela autoridade competente, prazo de 5 anos",
+  "Reconhecimento de corresponsabilidade entre as Requerentes (arts. 124, I, 132 e 133 do CTN)",
+  "Compromisso de formalizar penhora de imóveis em 10 Execuções Fiscais específicas no prazo de 30 dias",
+  "Direcionamento de créditos de precatórios ou depósitos judiciais para adimplemento do saldo devedor da Transação"
+ ],
+ "sector": "Transporte",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "down_payment_pct": 0.6,
+  "installments": 0.6,
+  "total_discount_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "down_payment_pct": "No FGTS, a quitação se dará com uma entrada de 37% do valor total do débito com desconto, e mais vinte e sete parcelas iguais a 2% do valor total da dívida, cada (Modalidade 22 para o FGTS).",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em 62 (sessenta e duas) prestações mensais e sucessivas, conforme Anexo II, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo;"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "installments",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "2457bd430cdc",
+ "title": "Termo de Transação Individual - Mira OTM Transportes LTDA, Mira Serviços de Transportes LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMiraOTMTransportesLTDAMiraServiosdeTransportesLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMiraOTMTransportesLTDAMiraServiosdeTransportesLTDA.pdf",
+ "sha256": "2d0e430a78eb03b35a0a5efe2010dd73f61041c53a7dfae4211bc2a84bd86b45",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

@@ -1,0 +1,80 @@
+{
+ "taxpayer": "AIRELA INDÚSTRIA FARMACÊUTICA LTDA",
+ "approval_date": "2025-05-09",
+ "consolidated_amount": 79699466.2,
+ "modality": "Transação Individual",
+ "total_discount_pct": 34.86,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção das garantias existentes (indisponibilidades/penhoras/bloqueios) nos processos relacionados aos créditos negociados"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não ter alienado ou onerado bens para frustrar a recuperação de créditos",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6.757/22 e da proposta",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante a PGFN e RFB, regularizando débitos exigíveis em até 90 dias",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Não desistir unilateralmente do acordo",
+  "Confessar de forma irrevogável e irretratável a dívida",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos",
+  "Peticionar nos processos judiciais no prazo de 30 dias comunicando a transação",
+  "Peticionar nos executivos fiscais concordando com inclusão no polo passivo",
+  "Quitar custas processuais pendentes e despesas de cancelamento de leilões/protestos",
+  "Substituir ou reforçar garantia em caso de depreciação superior a 20%",
+  "Apresentar situação econômico-financeira quando demandado pela Fazenda Nacional",
+  "Recolher obrigações tributárias correntes",
+  "Adimplir emolumentos de protesto cartorário das inscrições abrangidas"
+ ],
+ "special_clauses": [
+  "Cláusula 6º §1º: inclusão do débito objeto do Processo Administrativo nº 10.145.000133/2025-51 na consolidação final, mantendo valor atual em cobrança até decisão final administrativa da RFB, com renúncia a alegações judiciais futuras sobre os valores definidos pela Receita Federal",
+  "Cláusula 22: a transação não pode implicar redução do montante dos créditos em percentual maior do que o previsto na cláusula 5ª, nem renúncia a garantias e privilégios do crédito tributário"
+ ],
+ "sector": "Farmacêutico",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.6,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Sobre as inscrições indicadas no Anexo I (Débitos Previdenciários), que totalizam, em abril/2025, R$ 23.868.979,84... Sobre as inscrições indicadas no Anexo II (Demais Débitos) que totalizam, em abril/2025, o montante de R$ 55.830.486,36",
+  "total_discount_pct": "incidirá o desconto médio de 33,45%... será aplicado o desconto médio de 35,58%, observados os limites do §2º do art. 11 da Lei n. 13.988/2020"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "fd3264d2486f",
+ "title": "Termo de Transação Individual - Airela Indústria Farmacêutica LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAirelaIndstriaFarmacuticaLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAirelaIndstriaFarmacuticaLTDA.pdf",
+ "sha256": "0af8fdaa8a0cb502677e091cfc066254b1ceafaf9b288f9fd664bee9451b2c16",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

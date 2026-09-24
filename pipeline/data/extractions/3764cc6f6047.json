@@ -1,0 +1,80 @@
+{
+ "taxpayer": "FUNDAÇÃO UNIVERSIDADE DE BRASÍLIA",
+ "approval_date": "Not identified",
+ "consolidated_amount": 38429405.24,
+ "modality": "Transação Individual - Plano de Regularização Fiscal",
+ "total_discount_pct": 66.28,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar de modo irrevogável e irretratável os débitos negociados no Anexo I",
+  "Renunciar a alegações de direito e questionamentos, administrativos e judiciais, dos débitos relacionados no Anexo I",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens, direitos ou valores",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria, Edital ou proposta",
+  "Autorizar compensação de restituições, ressarcimentos ou reembolsos com prestações do acordo",
+  "Autorizar compensação de valores de precatórios federais de que seja credor",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações judiciais, incluídas coletivas, que tenham por objeto os créditos transacionados",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias os débitos que vierem a ser inscritos em dívida ativa após a formalização do acordo",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas dos trabalhadores, quando for o caso",
+  "Desistir da negociação SISPAR do DEBCAD nº 358052408",
+  "Apresentar renúncia e desistência à defesa de processos judiciais e administrativos no prazo de 30 dias da assinatura",
+  "Apresentar situação econômico-financeira com demonstrações de resultados anualmente ou quando a PGFN reputar oportuno",
+  "Manter comunicação com a Fazenda Nacional por e-mail entre procuradores/representantes legais",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias"
+ ],
+ "special_clauses": [
+  "Desconto máximo possível de 66,28% em razão da inclusão de toda a dívida, conforme pedido de revisão de capag em anexo",
+  "Necessidade de desistência da negociação SISPAR do DEBCAD nº 358052408 para possibilitar a criação das contas de transação individual",
+  "Vedação à formalização de nova transação pelo DEVEDOR, em qualquer modalidade, pelo prazo de 2 anos, contados da data da rescisão",
+  "Cláusula 18: antes da assinatura, os termos podem ser alterados unilateralmente pela União, sem gerar direito adquirido ou expectativa de direito para o DEVEDOR"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.2,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "discounts": 0.3,
+  "down_payment_pct": 0.1,
+  "installments": 0.95,
+  "guarantees": 0.3,
+  "judicial_recovery": 0.2,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam R$ 38.429.405,24 (trinta e oito milhões, quatrocentos e vinte e nove mil, quatrocentos e cinco reais e vinte e quatro centavos), atualizado no mês de novembro de 2022",
+  "total_discount_pct": "foi feita a escolha pela inclusão de toda a dívida, o que resultou num desconto máximo possível de 66,28%, conforme documentado no pedido de revisão de capag em anexo",
+  "installments": "O valor do débito com desconto será pago em 60 parcelas iguais e mensais."
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "discounts",
+  "down_payment_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "3764cc6f6047",
+ "title": "Termo de Transação Individual - FUB/UnB",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransacaoIndividualFUBUnBInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransacaoIndividualFUBUnBInformaesSigilosasSuprimidas.pdf",
+ "sha256": "98ca8860401415b3fd8dd090b0ecaa9ebdd94a161a2d5c9b74b797422af7eb0f",
+ "extracted_at": "2026-07-21T19:08:58+00:00",
+ "simulated": false
+}

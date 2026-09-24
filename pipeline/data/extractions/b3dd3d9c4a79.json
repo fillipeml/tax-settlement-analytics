@@ -1,0 +1,74 @@
+{
+ "taxpayer": "NINFA INDÚSTRIA DE ALIMENTOS LTDA",
+ "approval_date": "2022-05-13",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de propriedade da devedora (lote rural nº 32-N-1-A do 1º Polígono, área de 78.390,90m², situado na BR 277, km 667, Medianeira/PR)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/valores",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de ativos não circulantes",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria PGFN nº 9917/20",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não distribuir lucros ou dividendos a sócios e acionistas até a aprovação do plano de recuperação judicial",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados e balanço contábil"
+ ],
+ "special_clauses": [
+  "Não distribuição de lucros ou dividendos a sócios e acionistas até a aprovação do plano de recuperação judicial (Cláusula 2ª, XI)",
+  "União nomeada procuradora do proprietário do imóvel dado em garantia com cláusula em causa própria, com poderes para receber indenização em caso de desapropriação (Cláusula 8ª, §1º)"
+ ],
+ "sector": "Indústria de alimentos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.75,
+  "installments": 0.7,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "total_discount_pct": "sendo concedido o desconto máximo de até 70% por inscrição, observados os limites do §2º do art. 11 da Lei n. 13.988/20",
+  "installments": "O plano relativo às inscrições indicadas no Anexo II prevê o pagamento em 120 (cento e vinte) parcelas mensais e sucessivas, conforme os valores estipulados no Anexo III"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "installments",
+  "total_discount_pct"
+ ],
+ "id": "b3dd3d9c4a79",
+ "title": "Termo de Transação Individual - Ninfa Indústria de Alimentos LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualNinfaIndustriadeAlimentosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualNinfaIndustriadeAlimentosLTDA.pdf",
+ "sha256": "3a616cc0da89428d36dddb7c26b933c84d069a7f10adc6ef4f7dcea58429e866",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

@@ -1,0 +1,71 @@
+{
+ "taxpayer": "GME - Garça Motores Elétricos Ltda",
+ "approval_date": "Not identified",
+ "consolidated_amount": 205306341.7,
+ "modality": "Repactuação de Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de eventuais garantias existentes nos processos em curso"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Declarações do art. 50 da Portaria 6757/2022",
+  "Declaração de Inexistência de direito líquido e certo face à União",
+  "Opção pelo regime de lucro real"
+ ],
+ "special_clauses": [
+  "Uso de créditos de PF/BCN com fundamento nas OIN 1, OIN 11 e OIN 22",
+  "Número de parcelas diferenciado: Previdenciária 60 parcelas, Demais débitos 120 parcelas",
+  "Parcelas lineares",
+  "Sem exigência de entrada",
+  "Sem moratória"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.9,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.7,
+  "down_payment_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.9,
+  "obligations": 0.7,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada - Total R$ 205.306.341,70 (valores para 08/2021)",
+  "total_discount_pct": "Desconto máximo (%) 70%",
+  "installments": "Número de parcelas Previdenciária: 60 / Demais débitos: 120"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "installments",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "b8257337a2b4",
+ "title": "Sumário - G M E - Garça Motores Elétricos",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioGMEGaraMotoresEltricos.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioGMEGaraMotoresEltricos.pdf",
+ "sha256": "3be58974b93aafad854a7dfa3b4b2d791acbc6a2df8d47ca920bfa32f259cd55",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

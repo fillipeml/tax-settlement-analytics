@@ -1,0 +1,74 @@
+{
+ "taxpayer": "TEC LOG LOGISTICA LTDA.",
+ "approval_date": "2023-07-03",
+ "consolidated_amount": 21352657.48,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantidas as garantias já existentes até a assinatura deste acordo"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, os débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular e em dia com as Transações e Parcelamentos em curso",
+  "Solicitar à RFB, no prazo máximo de 60 dias, o envio para inscrição em Dívida Ativa dos débitos constantes no Anexo II",
+  "Comunicar à Fazenda Nacional a efetivação do envio para inscrição em Dívida Ativa dos débitos constantes no Anexo II",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado até 70% do saldo da dívida dos DEMAIS DÉBITOS e DÉBITOS PREVIDENCIÁRIOS, após aplicação dos descontos",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL ficará suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de cinco anos"
+ ],
+ "sector": "Logística",
+ "confidence": {
+  "taxpayer": 1.0,
+  "approval_date": 1.0,
+  "modality": 1.0,
+  "sector": 0.4,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.6,
+  "down_payment_pct": 0.0,
+  "installments": 1.0,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.95,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$ 10.860.064,71 R$ 8.109.652,49 R$ 21.352.657,48",
+  "total_discount_pct": "Desconto máximo de até 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Pagamento da Dívida Transacionada de natureza previdenciária e não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 36 prestações mensais, respectivamente, escalonadas na forma discriminada no Anexo III;"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "582314acd24b",
+ "title": "Termo de Transação Individual - Tec Log Logística",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTecLogLogsticaLTDAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTecLogLogsticaLTDAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "5790407c892ce8ac6875016c9fe7a7adeffa8a63fdf5c30e59c04d8693b88dbe",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

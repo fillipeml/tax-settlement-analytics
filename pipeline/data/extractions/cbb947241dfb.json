@@ -1,0 +1,75 @@
+{
+ "taxpayer": "Município de Palmares",
+ "approval_date": "2023-10-31",
+ "consolidated_amount": 6695452.6,
+ "modality": "Transação Individual - Modalidade 17 (Plano de Regularização Fiscal - débitos de FGTS)",
+ "total_discount_pct": 15.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantidas todas as garantias já associadas aos débitos incluídos na transação individual, inclusive penhoras em execuções fiscais, até a efetiva quitação"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Renunciar a alegações de direito sobre ações judiciais relativas aos créditos transacionados",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa após a formalização",
+  "Não alienar bens dados em garantia sem concordância da Fazenda Nacional",
+  "Não alienar bens sem reservar ativos suficientes para os créditos da Fazenda Nacional",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de ativos não circulantes",
+  "Autorizar compensação de valores de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais ou estaduais de que seja credor",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas dos trabalhadores",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados/balanço contábil",
+  "Manter diligência mensal de extração de guia no ambiente eletrônico do FGTS e respectivo pagamento"
+ ],
+ "special_clauses": [
+  "Autorização expressa de dedução dos valores devidos dos montantes a serem repassados relacionados às cotas do Fundo de Participação do Município (Cláusula 9ª)",
+  "Débitos de FGTS e Contribuição Social da LC 110/2001 sob gestão operacional da Caixa Econômica Federal, com pagamentos por documento de arrecadação emitido pela Caixa (Cláusula 6ª)",
+  "Parcelamento de juros/multa/encargos iniciará apenas após o pagamento integral do parcelamento do valor principal"
+ ],
+ "sector": "Administração pública municipal",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.75,
+  "down_payment_pct": 0.0,
+  "discounts": 0.2,
+  "guarantees": 0.6,
+  "judicial_recovery": 0.0,
+  "obligations": 0.8,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "FGPE201900395 | R$ 6.695.452,60",
+  "total_discount_pct": "Modalidade 17: Desconto: 15,00%",
+  "installments": "Parcelas (principal – DEP + JAM – valores devidos aos trabalhadores): 70; Parcelas (juros/multa/encargos): 14"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "cbb947241dfb",
+ "title": "Termo de Transação Individual - Município Palmares LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMunicpioPalmaresLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMunicpioPalmaresLTDATarjado.pdf",
+ "sha256": "be458b2f0389806b6c4292f7636d47b3ad868b781a526b52d243d06e37c8563b",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

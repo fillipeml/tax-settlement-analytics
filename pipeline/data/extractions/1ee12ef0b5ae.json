@@ -1,0 +1,70 @@
+{
+ "taxpayer": "DOK CALCADOS DO SERGIPE LTDA e outros (grupo econômico DOK/Esposende/Birigui) - EM RECUPERACAO JUDICIAL",
+ "approval_date": "Not identified",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Portaria PGFN nº 6.757/2022, com aplicação da Portaria PGFN nº 2.382/2020 aos devedores em recuperação judicial)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de todas as garantias já associadas aos débitos, inclusive penhoras em execuções fiscais",
+  "Hipoteca do próprio bem em caso de parcelamento de compra na hipótese de alienação (Cláusula 8ª, IV)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Não alienar, onerar ou ocultar bens com propósito de frustrar recuperação dos créditos",
+  "Prestar informações cadastrais, patrimoniais e econômico-fiscais verdadeiras",
+  "Apresentar situação econômico-financeira anualmente (balanço contábil ou DRE)",
+  "Manter, por 5 anos, livros e documentos comprobatórios de prejuízo fiscal e BCN da CSLL",
+  "Permanecer ou retornar ao regime de tributação pelo lucro real (em razão do uso de créditos de PF/BCN)",
+  "Peticionar nos processos judiciais noticiando a celebração da transação",
+  "Verter eventuais precatórios e créditos supervenientes para adimplemento das parcelas"
+ ],
+ "special_clauses": [
+  "Aproveitamento de crédito de prejuízo fiscal e base de cálculo negativa de CSLL para quitação do saldo devedor remanescente, até limite de 70% de benefício efetivo total (desconto + crédito PF/BCN)",
+  "Pagamento inicial de R$ 900.000,00 imputado nas últimas parcelas, sem redução do montante principal",
+  "Presunção de irrecuperabilidade da dívida em razão da recuperação judicial sem plano homologado",
+  "Alienação de bens penhorados via plataforma COMPREI em caso de rescisão, com limite mínimo de 50% do valor de avaliação",
+  "Reconhecimento de grupo econômico entre os devedores, com corresponsabilidade solidária"
+ ],
+ "sector": "Calçados",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.7,
+  "modality": 0.9,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.7,
+  "obligations": 0.8,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "total_discount_pct": "até o limite máximo de 70% (setenta por cento) de benefício efetivo total, isto é, já incluído o desconto efetivo (desconto + crédito de PF/BCN)",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 60"
+ },
+ "review_fields": [
+  "approval_date",
+  "consolidated_amount",
+  "down_payment_pct",
+  "sector"
+ ],
+ "id": "1ee12ef0b5ae",
+ "title": "Termo de Transação Individual - Dok Calçados do Sergipe LTDA, Esposende LTDA, Esposende LTDA, Dok Participacoes Societarias LTDA, Industria De Calcados Birigui LTDA, GDCD LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualDokCaladosdoSergipeLTDAEsposendeLTDAEsposendeLTDADokParticipacoesSocietariasLTDAIndustriaDeCalcadosBiriguiLTDAGDCDLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualDokCaladosdoSergipeLTDAEsposendeLTDAEsposendeLTDADokParticipacoesSocietariasLTDAIndustriaDeCalcadosBiriguiLTDAGDCDLTDA.pdf",
+ "sha256": "4ca8c4920fa68c04af077beadb5965a62e346dd408850257955ed4051b9c61fc",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

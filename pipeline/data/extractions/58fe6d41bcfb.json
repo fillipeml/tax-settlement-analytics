@@ -1,0 +1,80 @@
+{
+ "taxpayer": "COMERCIAL SÃO JOÃO DE UTILIDADES DOMÉSTICAS LTDA (05.918.619/0001-01)",
+ "approval_date": "2024-12-01",
+ "consolidated_amount": 79051224.4,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens móveis e direitos de aquisição de imóvel (Anexo III), avaliados os primeiros em R$ 2.400.000,00",
+  "Penhora dos bens nas execuções fiscais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, quando solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens ou valores",
+  "Declarar não ter alienado ou onerado bens para frustrar a recuperação de créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de bens",
+  "Autorizar compensação de restituições, ressarcimentos ou reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6757/2022",
+  "Declarar veracidade de informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade perante PGFN, RFB e FGTS, regularizando débitos em até 90 dias",
+  "Manter-se como optante do regime de tributação pelo lucro real durante toda a negociação",
+  "Comunicar em até 60 dias a quitação integral da dívida que onera o bem imóvel objeto de garantia",
+  "Não realizar desistência unilateral da transação",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil",
+  "Peticionar nos processos judiciais em até 60 dias, noticiando a celebração da transação e indicando bens em garantia",
+  "Providenciar formalização da penhora dos bens em até 60 dias",
+  "Cumprir obrigações tributárias correntes e acessórias"
+ ],
+ "special_clauses": [
+  "Nomeação da União como procuradora em causa própria para receber indenização em caso de desapropriação de bens dados em garantia",
+  "Obrigação de substituir ou reforçar garantia em caso de perecimento/depreciação superior a 25% do valor do bem, no prazo de 30 dias",
+  "Compromisso de manutenção do regime de lucro real em razão de utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL, com abatimento de R$ 398.713,75 sobre saldo do Anexo I"
+ ],
+ "sector": "Comércio de utilidades domésticas",
+ "confidence": {
+  "taxpayer": 0.95,
+  "modality": 0.95,
+  "approval_date": 0.6,
+  "sector": 0.5,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "cujo montante totaliza, na presente data, R$ 79.051.224,40 (setenta e nove milhões, cinquenta e um mil, duzentos e vinte e quatro reais e quarenta centavos)",
+  "total_discount_pct": "Não identificado - o documento apresenta descontos separados por Anexo (35% e 30%), sem valor consolidado único de desconto total",
+  "installments": "Não identificado - o documento apresenta prazos separados por Anexo (60 e 120 parcelas), sem número total único explícito"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "58fe6d41bcfb",
+ "title": "Termo de Transação Individual - Comercial São João de Utilidades Domésticas LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualComercialSoJoodeUtilidadesDomsticasLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualComercialSoJoodeUtilidadesDomsticasLTDA.pdf",
+ "sha256": "c5a523d3d5d41a3c780bcaded0666e784d0079623cc9a2f9098a7bc7368e8e0c",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

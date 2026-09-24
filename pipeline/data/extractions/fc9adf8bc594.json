@@ -1,0 +1,83 @@
+{
+ "taxpayer": "BENEX BENEFICIAMENTO TÊXTIL LTDA. - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-06-26",
+ "consolidated_amount": 33193156.46,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens já penhorados em execução fiscal movida pela Fazenda Nacional em face da devedora",
+  "Máquina de tratamento de malhas - modelo DMS 22, fabricante DMS, valor total R$ 4.675.000,00"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de bens do ativo não circulante",
+  "Cumprir exigências das Portarias PGFN/ME nº 6757/2022 e 2382/2021",
+  "Declarar veracidade de informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União",
+  "Manter Certificado de Regularidade do FGTS",
+  "Fornecer informações bancárias e empresariais à PGFN quando solicitado",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não distribuir lucros ou dividendos a sócios/acionistas até aprovação do plano de recuperação judicial",
+  "Não desistir ou cancelar a transação unilateralmente",
+  "Declarar não possuir créditos líquidos e certos ou precatórios em desfavor da União",
+  "Manter livros e documentos fiscais por 5 anos em razão de uso de créditos de PF/BCN",
+  "Manter regime de tributação do lucro real durante o acordo",
+  "Apresentar situação econômico-financeira sempre que solicitado pela PGFN",
+  "Manter em dia pagamento de impostos e tributos sobre bens dados em garantia"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal (PF) e base de cálculo negativa de CSLL (BCN) no montante de R$ 7.129.776,80 para abatimento do saldo devedor previdenciário",
+  "Garantia flexibilizada mediante bens já penhorados e máquina do ativo imobilizado",
+  "Juros SELIC acumulados mensalmente mais 1% no mês do pagamento",
+  "Pagamento exclusivo via DARF emitido pelo sistema REGULARIZE"
+ ],
+ "sector": "Têxtil",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.9,
+  "modality": 0.95,
+  "sector": 0.6,
+  "judicial_recovery": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.6
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O DEVEDOR possui em aberto os débitos tributários relacionados nos Anexos I e II, que totalizam, em 26/04/2024, R$ 33.193.156,46 (trinta e três milhões, cento e noventa e), e seu rating de classificação de recuperabilidade é \"D\" (empresa em recuperação judicial)."
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "special_clauses"
+ ],
+ "id": "fc9adf8bc594",
+ "title": "Termo de Transação Individual - Benex Beneficiamento Têxtil LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualBenexBeneficiamentoTxtilLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualBenexBeneficiamentoTxtilLTDATarjado.pdf",
+ "sha256": "8ba9f6146c9569671217ec64a369b45756d9ee19b878d5b421aac23da130c06f",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

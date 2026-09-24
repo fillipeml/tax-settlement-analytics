@@ -1,0 +1,71 @@
+{
+ "taxpayer": "INDÚSTRIA DE PLÁSTICO E VIDRO BRAÇO LTDA",
+ "approval_date": "2025-02-24",
+ "consolidated_amount": 18554211.14,
+ "modality": "Transação individual",
+ "total_discount_pct": 51.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 51.0
+ },
+ "installments": 37,
+ "down_payment_pct": 0.4,
+ "guarantees": [
+  "Manutenção das garantias associadas aos débitos transacionados (art. 7º, II, Portaria PGFN nº 6.757/2022), incluídos bens objeto de constrição nas Execuções Fiscais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações judiciais/administrativas relativas à Dívida Transacionada",
+  "Confissão irrevogável e irretratável da dívida",
+  "Peticionar em 30 dias nos processos judiciais para noticiar a Transação e desistir de ações",
+  "Manter regularidade perante PGFN e Receita Federal",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Manter regularidade perante o FGTS",
+  "Permanecer optante do regime de lucro real até extinção da Dívida Transacionada",
+  "Manter livros e documentos comprobatórios de prejuízo fiscal e base negativa de CSLL",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Dar ciência à Credora de alterações societárias em 30 dias"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação de até 38% do saldo remanescente",
+  "Utilização de depósitos judiciais mediante transformação em pagamento definitivo, sem incidência de descontos",
+  "Possibilidade de utilização de créditos de restituições, ressarcimentos, reembolsos e precatórios federais para amortização das parcelas"
+ ],
+ "sector": "Indústria (plástico e vidro)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.75,
+  "discounts": 0.7,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "judicial_recovery": 0.3,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Inscrições previdenciárias constantes do ANEXO I, totalizando R$7.450.116,43 ... Inscrições não previdenciárias constantes do ANEXO I, totalizando R$11.104.094,71",
+  "total_discount_pct": "Concessão do desconto máximo de 51% (cinquenta e um por cento) incidente sobre a Dívida Transacionada de natureza previdenciária e não previdenciária pertencente à FAZENDA NACIONAL",
+  "installments": "Pagamento do saldo remanescente da Dívida Transacionada de natureza previdenciária e não previdenciária efetuado em 37 (trinta e sete) prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "consolidated_amount"
+ ],
+ "id": "31894bd7be8f",
+ "title": "Termo de Transação Individual - Indústria de Plástico e Vidro Braço LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualIndstriadePlsticoeVidroBraoLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualIndstriadePlsticoeVidroBraoLTDATarjado.pdf",
+ "sha256": "92bb9d2accd9da762883ddd7502151ff3314ef8825d727c6db48319f581e377b",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

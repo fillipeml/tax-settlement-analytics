@@ -1,0 +1,70 @@
+{
+ "taxpayer": "PRONTOCARDIO PRONTO ATENDIMENTO CARDIOLÓGICO LTDA. – EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2023-10-17",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 70.0
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias os débitos que vierem a ser inscritos em dívida ativa ou que se tornarem exigíveis após a formalização do acordo",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil",
+  "Manter, durante 05 anos, os livros e documentos exigidos pelas normas fiscais relativos ao prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Recolher as obrigações tributárias correntes",
+  "Verter para pagamento da dívida qualquer crédito de precatório ou outro meio",
+  "Peticionar em até 60 dias nos processos judiciais noticiando a celebração do acordo",
+  "Permanecer no regime de tributação por Lucro Real durante a vigência da transação",
+  "Manter os gravames decorrentes de arrolamento de bens e medida cautelar fiscal"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal acumulado e de base de cálculo negativa da CSLL para quitação de até 70% do saldo devedor após desconto, respeitando o desconto máximo da CAPAG",
+  "Transferência de saldo de conta de parcelamento (PERT PREV) para conta de transação individual, mantendo benefícios das parcelas vencidas e liquidadas",
+  "Pagamento da dívida de FGTS em parcela única (Modalidade 38 da simulação)",
+  "Desconto máximo de até 70% por se tratar de ME, vedada a redução do montante principal"
+ ],
+ "sector": "Saúde",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.4,
+  "discounts": 0.7,
+  "down_payment_pct": 0.0,
+  "installments": 0.5,
+  "judicial_recovery": 1.0,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments_other": "Pagamento da dívida transacionada de natureza não previdenciária em 120 (cento e vinte) prestações mensais, conforme indicado no ANEXO II",
+  "installments_prev": "Pagamento da dívida transacionada de natureza previdenciária em 60 (sessenta) prestações mensais, conforme indicado no ANEXO II",
+  "discounts.charges_pct": "Desconto máximo de até 70% a cada uma das inscrições, por se tratar de ME, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa juros e encargo legal)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "guarantees",
+  "sector"
+ ],
+ "id": "a572535c548f",
+ "title": "Termo de Transação Individual - ProntoCardio - Pronto Atendimento Cardiológico",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualProntoCardioProntoAtendimentoCardiolgicoLTDAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualProntoCardioProntoAtendimentoCardiolgicoLTDAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "e5e74b71f21e1ee3e7669dac984cd8f65222d1b7fb1f394e1f511c0607e1a55a",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

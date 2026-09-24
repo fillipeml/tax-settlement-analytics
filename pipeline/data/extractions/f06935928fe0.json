@@ -1,0 +1,80 @@
+{
+ "taxpayer": "ANIN INDÚSTRIA E COMÉRCIO DE PAPEL LTDA e outras (grupo econômico: AJ & TDA HOLDING E PARTICIPAÇÕES LTDA, A&L ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA, OUROPPEL COMÉRCIO E DISTRIBUIÇÃO DE PAPEL LTDA, RIO BRANCO HOLDING E PARTICIPAÇÕES LTDA, TDA COMÉRCIO E DISTRIBUIÇÃO DE PAPEL LTDA)",
+ "approval_date": "2024-12-18",
+ "consolidated_amount": 22367554.61,
+ "modality": "Transação individual (recuperação judicial)",
+ "total_discount_pct": 50.41,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, de medida cautelar fiscal e das garantias prestadas administrativamente ou nas ações de execução fiscal ou em qualquer outra ação judicial"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Declarar preenchimento dos requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Não utilizar a Transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens",
+  "Declarar não alienação/oneração de bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a transação",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicar a Fazenda Nacional",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Manter-se optante pelo lucro real durante a vigência do acordo, se utilizado prejuízo fiscal/BCN"
+ ],
+ "special_clauses": [
+  "Desconto máximo de 70% por CDA, vedada redução do principal, aplicado proporcionalmente sobre multa, juros e encargos",
+  "Utilização de crédito de Prejuízo Fiscal e base de cálculo negativa da CSLL limitado a 70% do saldo após desconto, no valor aproximado de R$ 7.764.099,46",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL suspensa até confirmação pela autoridade competente",
+  "Direcionamento obrigatório de créditos de precatórios/depósitos judiciais para os saldos devedores da Transação",
+  "Vedação de nova transação por 2 anos em caso de rescisão"
+ ],
+ "sector": "Indústria de papel",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.2,
+  "guarantees": 0.5,
+  "judicial_recovery": 0.9,
+  "obligations": 0.8,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 22.367.554,61 (vinte e dois milhões trezentos e sessenta e sete mil quinhentos e cinquenta e quatro reais e sessenta e um centavos)",
+  "total_discount_pct": "Desconto máximo de 70,00% (setenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), gerando desconto global médio de 50,41%.",
+  "installments": "Pagamento da Dívida Transacionada, de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\"), em 48 (quarenta e oito) prestações mensais iguais e sucessivas, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees"
+ ],
+ "id": "f06935928fe0",
+ "title": "Termo de Transação Individual - Anin Indústria e Comércio de Papel LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAninIndstriaeComrciodePapelLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAninIndstriaeComrciodePapelLTDATarjado.pdf",
+ "sha256": "17be0127b1ddf0b67764e64c78e7154a13a363d92ae43bf51592244cc88c76bd",
+ "extracted_at": "2026-07-22T14:22:35+00:00",
+ "simulated": false
+}

@@ -1,0 +1,80 @@
+{
+ "taxpayer": "GRUPO JC GONTIJO (composto por JOSE CELSO GONTIJO ENGENHARIA S/A e diversas outras pessoas jurídicas relacionadas)",
+ "approval_date": "2022-06-08",
+ "consolidated_amount": 163595800.51,
+ "modality": "Transação Individual (art. 171 CTN, Lei 13.988/2020, arts. 190/191 CPC, Portaria PGFN nº 9.917/20)",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 44,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca de imóveis (72 lotes de Residencial, casa, apartamento e gleba) avaliados em R$ 70.462.915,68 (mar/2020)",
+  "Seguro-garantia no valor de R$ 80.998.562,49, emitido pela Seguradora BMG SEGUROS S.A"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos do ANEXO I",
+  "Renúncia a alegações de direito e questionamentos administrativos/judiciais sobre os débitos",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa no prazo de 90 dias",
+  "Manter as garantias oferecidas no ANEXO II",
+  "Informar previamente à PGFN alienação/disposição de bens do ativo não circulante",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou pagamentos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Registrar hipoteca no prazo de 45 dias contados da assinatura",
+  "Apresentar aditivo da apólice do seguro-garantia no prazo de 45 dias",
+  "Renovar seguro-garantia até 60 dias antes do fim da vigência da apólice",
+  "Apresentar renúncia/desistência de processos judiciais e administrativos em 30 dias",
+  "Apresentar situação econômico-financeira anualmente ou quando solicitado pela PGFN"
+ ],
+ "special_clauses": [
+  "Desconto máximo possível de 50%, vedada incidência sobre o principal do débito, em razão de as dívidas serem consideradas irrecuperáveis ou de difícil recuperação (art. 38, §6º, Portaria PGFN 9917/20)",
+  "Possibilidade de adesão a novo programa de regularização fiscal mais benéfico, mantendo as garantias até liquidação integral (Cláusula 39)",
+  "Fazenda Nacional nomeada procuradora para receber indenização em caso de desapropriação dos imóveis dados em garantia (Cláusula 15)",
+  "Reconhecimento de grupo econômico de fato, com corresponsabilidade de todos os integrantes pelos débitos (Cláusula 3ª, XIV)"
+ ],
+ "sector": "Construção civil/incorporação imobiliária e hotelaria",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.98,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam R$ 163.595.800,51 (Cento e sessenta e três milhões, quinhentos e noventa e cinco mil, oitocentos reais e cinquenta e um centavos), atualizado no mês de maio de 2022",
+  "total_discount_pct": "a presente transação envolve concessão do desconto máximo possível de 50% (cinquenta por cento), vedada a incidência sobre o principal do débito",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (demais) e previdenciários será de 44 (quarenta e quatro) meses, conforme o seguinte plano de amortização"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "ff734dd059bf",
+ "title": "Termo de Transação Individual - Grupo JC Gontijo (2022)",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoInvidividualGrupoJCGONTIJO.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoInvidividualGrupoJCGONTIJO.pdf",
+ "sha256": "51753050fd538ca4312c04cb48113c4e69e59ca9f6a319ff82a80134bab4c6e0",
+ "extracted_at": "2026-07-22T14:22:25+00:00",
+ "simulated": false
+}

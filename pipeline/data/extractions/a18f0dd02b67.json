@@ -1,0 +1,74 @@
+{
+ "taxpayer": "UNIMED DO ABC COOPERATIVA DE TRABALHO MÉDICO",
+ "approval_date": "2024-05-13",
+ "consolidated_amount": 29813082.37,
+ "modality": "Transação Individual",
+ "total_discount_pct": 60.78,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar origem/destinação de bens, direitos e valores",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais prestadas",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa após a Transação",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da Transação, desistir de impugnações/recursos/ações e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Não haverá oferta de garantia vinculada à Transação, considerando que a negociação teve como objetivo a redução considerável do prazo para pagamento",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 70% do saldo da dívida após aplicação dos descontos",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL ficará suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo de 5 anos"
+ ],
+ "sector": "Saúde/medicina (cooperativa de trabalho médico)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "down_payment_pct": 0.9,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.3,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 29.813.082,37 (Vinte e nove milhões, oitocentos e treze mil, oitenta e dois reais e trinta e sete centavos).",
+  "total_discount_pct": "ocasionando um desconto global médio de 60,78% (sessenta vírgula setenta e oito por cento), na forma do Anexo II.",
+  "installments": "Pagamento da Dívida Transacionada, tanto a de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 48 (quarenta e oito) prestações iguais e sucessivas e a de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 1 (uma) prestação, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "a18f0dd02b67",
+ "title": "Termo de Transação Individual -Unimed do ABC Cooperativa de Trabalho Médico",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualUnimeddoABCCooperativadeTrabalhoMdicoTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualUnimeddoABCCooperativadeTrabalhoMdicoTarjado.pdf",
+ "sha256": "b35552de3e2f79a7ee67270d5ca44414ff0c6d4215c3f7be456a6181d44f4a09",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

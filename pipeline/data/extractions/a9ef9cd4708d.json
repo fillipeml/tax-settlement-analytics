@@ -1,0 +1,77 @@
+{
+ "taxpayer": "PERNAMBUCO CONSTRUTORA EMPREENDIMENTOS LTDA, PERNAMBUCO DESENVOLVIMENTO INDUSTRIAL LTDA e PERNAMBUCO FROTA LTDA (Grupo Econômico)",
+ "approval_date": "2024-04-29",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Plano de Regularização Fiscal (Portaria PGFN nº 6.757/2022)",
+ "total_discount_pct": 40.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Terreno São Lourenço (Gleba 1A) - R$ 10.584.000,00",
+  "Terreno São Lourenço (Gleba 1B) - R$ 1.666.000,00",
+  "Terreno Barra de Jangada - R$ 13.452.000,00",
+  "Manutenção de garantias já associadas aos débitos (inclusive penhoras em execuções fiscais)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de ativos não circulantes",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais com prestações do acordo",
+  "Individualizar valores recolhidos nas contas vinculadas dos trabalhadores",
+  "Fornecer relação de bens e direitos de propriedade no ato de assinatura",
+  "Apresentar situação econômico-financeira anualmente",
+  "Pagar regularmente tributos correntes"
+ ],
+ "special_clauses": [
+  "Transformação em pagamento definitivo do saldo integral dos depósitos judiciais das Execuções Fiscais nº 0808442-66.2023.4.05.8300 e 0820576-28.2023.4.05.8300, sem descontos, com posterior revisão do saldo devedor",
+  "Corresponsabilização mútua dos devedores por reconhecimento de grupo econômico de fato",
+  "Oferta de bens de terceiros em garantia, com anuência dos respectivos representantes legais",
+  "Em caso de rescisão, alienação dos bens dados em garantia pelo sistema COMPREI com limite mínimo de 50% do valor de avaliação"
+ ],
+ "sector": "Construção civil/imobiliário",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "judicial_recovery": 0.3,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "para pagamento no prazo de 120 (cento e vinte) meses, a dívida não-previdenciária, e no prazo de 60 (sessenta) meses, a dívida previdenciária, com aproveitamento do desconto máximo de até 40% (quarenta por cento), conforme CAPAG revisada e plano de pagamento contido no ANEXO",
+  "installments": "para pagamento no prazo de 120 (cento e vinte) meses, a dívida não-previdenciária, e no prazo de 60 (sessenta) meses, a dívida previdenciária"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "a9ef9cd4708d",
+ "title": "Termo de Transação Individual - Pernambuco Construtora Empreendimentos LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualPernambucoConstrutoraEmpreendimentosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualPernambucoConstrutoraEmpreendimentosLTDATarjado.pdf",
+ "sha256": "4a910879fd7533c4da20e5d958a8cf161edf09958347a184f380834bc7fbfdff",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

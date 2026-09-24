@@ -1,0 +1,85 @@
+{
+ "taxpayer": "IGREJA EVANGÉLICA ASSEMBLÉIA DE DEUS",
+ "approval_date": "2022-12-19",
+ "consolidated_amount": 2418114.51,
+ "modality": "Transação Individual (Plano de Regularização Fiscal - FGTS)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel (descrição tarjada/ilegível no documento)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável os débitos relacionados no Anexo I",
+  "Renunciar a alegações de direito e questionamentos sobre os créditos incluídos na transação",
+  "Manter regularidade das obrigações para com o FGTS e tributárias federais correntes",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis",
+  "Manter as garantias oferecidas até o integral cumprimento das condições",
+  "Autorizar compensação de restituições, ressarcimentos ou reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais como reforço do plano de amortização",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou pagamentos",
+  "Não alienar/onerar bens com propósito de frustrar recuperação dos créditos",
+  "Não utilizar a transação de forma abusiva ou para limitar concorrência",
+  "Não utilizar pessoa interposta para ocultar bens/direitos",
+  "Notificar migração ou aquisição de atividades operacionais por outra pessoa jurídica",
+  "Individualizar valores recolhidos nas contas vinculadas dos trabalhadores",
+  "Manter em dia pagamento de impostos e taxas sobre o imóvel dado em garantia",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil",
+  "Peticionar nos processos judiciais/administrativos em 30 dias noticiando a transação",
+  "Adimplir emolumentos de protesto cartorário eventual"
+ ],
+ "special_clauses": [
+  "Permissão de substituição de garantias com anuência da FAZENDA NACIONAL (Cláusula 2, V)",
+  "União nomeada procuradora em causa própria em caso de desapropriação do bem garantido (§2º Cláusula 7ª)",
+  "Possibilidade de alienação do bem garantido mediante prévia anuência da FAZENDA NACIONAL, com valor destinado à amortização (Cláusula 10ª)",
+  "Manutenção de hipoteca/penhora sobre o bem independentemente da ordem de preferência do art. 655 CPC e art. 11 Lei 6.830/80 (Cláusula 12ª)"
+ ],
+ "sector": "Religioso/Terceiro setor",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "As inscrições indicadas no Anexo I totalizam a quantia TOTAL SEM descontos de R$ 2.418.114,51 (dois milhões e quatrocentos e dezoito mil e cento e catorze reais e cinquenta e um centavos) atualizada até outubro de 2022."
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "sector",
+  "judicial_recovery"
+ ],
+ "id": "d7ebec6c539f",
+ "title": "Termo de Transação Individual - Igreja Evangélica Assembleia de Deus",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualIgrejaEvanglicaAssembleiadeDeusInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualIgrejaEvanglicaAssembleiadeDeusInformaesSigilosasSuprimidas.pdf",
+ "sha256": "55e5281d87121e17dce25227e54cfdcfba95090dea128e2a6161b7c704a86135",
+ "extracted_at": "2026-07-22T14:22:23+00:00",
+ "simulated": false
+}

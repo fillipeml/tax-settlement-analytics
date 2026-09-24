@@ -1,0 +1,76 @@
+{
+ "taxpayer": "ISOLETRI INDÚSTRIA DE MATERIAIS ISOLANTES LTDA.",
+ "approval_date": "2025-01-22",
+ "consolidated_amount": 16594196.28,
+ "modality": "Transação Individual (modalidade DEMAIS)",
+ "total_discount_pct": 46.7,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança dos sócios ANTONIO CARLOS JACOMINI e PEDRO TOREZIM"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Declarar sob as penas da lei que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter-se regular e em dia com as Transações e Parcelamentos em curso",
+  "Manter durante 5 anos os livros e documentos exigidos pelas normas fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Permanecer no regime do lucro real durante a vigência da transação"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor em valor correspondente a R$ 3.265.292,11",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/BCN fica suspensa até confirmação pela autoridade competente",
+  "Compromisso de permanecer no regime do lucro real durante a vigência da transação, sob pena de rescisão"
+ ],
+ "sector": "Industrial (materiais isolantes)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "installments": 1.0,
+  "down_payment_pct": 0.9,
+  "discounts": 0.2,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.6,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal transacionado da Requerente é composto pelos créditos inscritos em Dívida Ativa indicados no Anexo I... TOTAL 16.594.196,28",
+  "total_discount_pct": "PERCENTUAL DE DESCONTO MÉDIO DEMAIS 46,70%",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em 60 (sessenta) prestações mensais e sucessivas, conforme Anexo II, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "67f56402880f",
+ "title": "Termo de Transação Individual - Isoletri Indústria de Materiais Isolantes LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIsoletriIndstriadeMateriaisIsolantesLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIsoletriIndstriadeMateriaisIsolantesLTDATarjado.pdf",
+ "sha256": "352012539e1c4bf60efc1e35dc394c35a738499d763ac0062ff6361cbd1b488c",
+ "extracted_at": "2026-07-22T14:22:45+00:00",
+ "simulated": false
+}

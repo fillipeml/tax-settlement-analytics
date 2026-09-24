@@ -1,0 +1,65 @@
+{
+ "taxpayer": "COMPANHIA DE SANEAMENTO DO PARÁ (COSANPA)",
+ "approval_date": "2023-07-19",
+ "consolidated_amount": 1348277795.83,
+ "modality": "Transação individual (Primeiro Termo Aditivo)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança do Estado do Pará (GARANTIDOR)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter a regularidade das obrigações de FGTS e tributárias federais"
+ ],
+ "special_clauses": [
+  "Aditamento à transação individual por acordo mútuo entre as partes (CLÁUSULA 36 do termo original)",
+  "Inclusão de novos débitos inscritos em Dívida Ativa da União (maio de 2023) antes da operacionalização da transação nos sistemas da Fazenda Nacional",
+  "Substituição do Anexo I do termo de transação original pelo Anexo I do presente Termo Aditivo",
+  "Ratificação das demais cláusulas do termo original não modificadas"
+ ],
+ "sector": "Saneamento básico",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.3,
+  "installments": 0.85,
+  "down_payment_pct": 0.2,
+  "discounts": 0.2,
+  "guarantees": 0.5,
+  "obligations": 0.7,
+  "special_clauses": 0.7,
+  "judicial_recovery": 0.2
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal da DEVEDORA inscrito em dívida ativa da União, parte desta transação, é composto por todos os seus créditos fiscais relacionados no ANEXO I, que totalizam R$ 1.348.277.795,83 (um bilhão, trezentos e quarenta e oito milhões, duzentos e setenta e sete mil, setecentos e noventa e cinco reais e oitenta e três centavos), atualizado no mês de junho de 2023",
+  "installments": "01ª a 120ª ... TOTAL ... (débitos NÃO previdenciários) e 01ª a 60ª ... (débitos previdenciários) - Resumo parcelas base ambas as modalidades (prev e demais): Parcela 01ª a 60ª e Parcela 61ª a 120ª"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "bf7a3e0dc9ad",
+ "title": "Primeiro Termo Aditivo - Cosanpa",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/PrimeirotermoaditivotransaoindividualCosanpaInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/PrimeirotermoaditivotransaoindividualCosanpaInformaesSigilosasSuprimidas.pdf",
+ "sha256": "4192db312681490bf7f317c2b0f58e50820db42468f7b6a4048db0e73093f71b",
+ "extracted_at": "2026-07-21T19:01:06+00:00",
+ "simulated": false
+}

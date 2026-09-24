@@ -1,0 +1,68 @@
+{
+ "taxpayer": "DFC ADMINISTRADORA DE IMÓVEIS LTDA, BONANZA SUPERMERCADOS LTDA e ALIANÇA DISTRIBUIDORA DE GÊNEROS ALIMENTÍCIOS LTDA (Grupo Djalma Farias Cintra)",
+ "approval_date": "2020-12-30",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Plano de Regularização Fiscal",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Fornecer demonstrações contábeis dos últimos 3 exercícios sociais",
+  "Apresentar relação nominal completa dos credores",
+  "Apresentar relação de bens e direitos de propriedade com laudo econômico-financeiro",
+  "Declarar não utilização de pessoa interposta para ocultar bens",
+  "Não alienar, onerar ou ocultar bens com propósito de frustrar recuperação de créditos",
+  "Apresentar situação econômico-financeira anualmente",
+  "Manter recolhimento das obrigações tributárias correntes",
+  "Regularizar débitos de FGTS no prazo de 45 dias"
+ ],
+ "special_clauses": [
+  "Adesão condicionada à confirmação de faturamento como Empresa de Pequeno Porte para gozo do prazo estendido",
+  "Plano de amortização com parcelas escalonadas e valor reduzido nos 24 primeiros meses para dívida previdenciária",
+  "Possibilidade de aproveitamento de crédito de processo judicial (exclusão do ICMS da base de cálculo do PIS/COFINS) para quitação ou compensação, com renúncia à pretensão de restituição",
+  "Reconhecimento de grupo econômico para fins de corresponsabilidade solidária e unidade de garantia da execução (art. 28 da LEF)"
+ ],
+ "sector": "Comércio/Supermercados e Administração de Imóveis",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.5,
+  "judicial_recovery": 0.95,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 50% (cinquenta por cento), baseado na capacidade de pagamento dos DEVEDORES",
+  "installments": "para pagamento no prazo de 145 (cento e quarenta e cinco) meses, a dívida não-previdenciária, e no prazo de 60 (sessenta meses), a dívida previdenciária"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "sector",
+  "guarantees"
+ ],
+ "id": "6046f7713b0b",
+ "title": "Termo de Transação Individual - Grupo Bonanza",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualGrupoBonanza.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualGrupoBonanza.pdf",
+ "sha256": "2c72d4bdb0c0c31641d95255ee1843fff41c1b3196d9bafef2b322ad88caeaae",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

@@ -1,0 +1,52 @@
+{
+ "taxpayer": "Not identified",
+ "approval_date": "Not identified",
+ "consolidated_amount": null,
+ "modality": "Not identified",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.0,
+  "approval_date": 0.0,
+  "modality": 0.0,
+  "sector": 0.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "document_unreadable",
+  "taxpayer",
+  "approval_date",
+  "modality",
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "guarantees",
+  "obligations",
+  "special_clauses",
+  "judicial_recovery"
+ ],
+ "id": "9149b9e23c05",
+ "title": "AGESPISA- Águas e Esgotos do Piauí SA - AnexoII",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/AGESPISAguaseEsgotosdoPiauSAAnexoII.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/AGESPISAguaseEsgotosdoPiauSAAnexoII.pdf",
+ "sha256": "9c5e934ace4f42252da65a0ca7ca8d9af927596304ab483db0242c1f0fdfca52",
+ "extracted_at": "2026-07-21T19:00:40+00:00",
+ "simulated": false
+}

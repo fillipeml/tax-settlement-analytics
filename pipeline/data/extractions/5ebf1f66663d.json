@@ -1,0 +1,67 @@
+{
+ "taxpayer": "MUNICÍPIO DE PEDRO VELHO",
+ "approval_date": "2024-05-22",
+ "consolidated_amount": 6251170.96,
+ "modality": "Transação Individual - Plano de Regularização Fiscal (débitos de FGTS)",
+ "total_discount_pct": 28.8,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 80,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de garantias anteriormente existentes no âmbito judicial ou administrativo (Cláusula 4ª, caput)"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens/valores",
+  "Não alienar, onerar ou ocultar bens com propósito de frustrar recuperação de créditos",
+  "Apresentar situação econômico-financeira anualmente (balanço contábil)",
+  "Manter recolhimento das obrigações tributárias correntes e acessórias",
+  "Verter direito creditório superveniente (precatórios, restituições) em proveito da transação"
+ ],
+ "special_clauses": [
+  "Aproveitamento de montante disponível na execução fiscal 0806379-06.2016.4.05.8400 (TRF-5ª Região, processo nº 0461635-37.2020.4.05.0000) para adimplemento da parcela inaugural (Cláusula 4ª, §1º)",
+  "Não implica redução do montante principal do crédito inscrito em dívida ativa, apenas desconto sobre juros/multa/encargos (Cláusula 3ª)",
+  "Tratando-se de ente público, não haverá cancelamento de precatório expedido previamente à assinatura, apenas suspensão das requisições (Cláusula 4ª, §3º)"
+ ],
+ "sector": "Administração pública municipal",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.4,
+  "obligations": 0.8,
+  "judicial_recovery": 0.5,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "PRINCIPAL (DEP + JAM) - Valores devidos aos Trabalhadores ... Valor a Parcelar: 6.251.170,96",
+  "total_discount_pct": "Modalidade 63: Desconto: 28,80%",
+  "installments": "Modalidade 63: ... Nº Parcelas: 80"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "5ebf1f66663d",
+ "title": "Termo de Transação Individual - Estado da Paraíba",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualEstadodaParabatarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualEstadodaParabatarjado.pdf",
+ "sha256": "d0dcfd743a784c9e7e78ddfff2160634fd33c8c0f288765f2621ef3de32b0530",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

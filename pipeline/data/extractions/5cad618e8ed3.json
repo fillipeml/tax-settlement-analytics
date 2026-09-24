@@ -1,0 +1,74 @@
+{
+ "taxpayer": "SOCIEDADE UNIFICADA DE ENSINO AUGUSTO MOTTA (SUAM)",
+ "approval_date": "2022-08-05",
+ "consolidated_amount": 286015514.89,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 70.0
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens Imóveis relacionados no ANEXO III",
+  "Depósito judicial realizado na forma da Lei nº 9.703/98, nos autos da execução fiscal nº 0100782-50.2017.4.02.5101 (12ª Vara Federal de Execuções Fiscais do Rio de Janeiro), no montante equivalente a 3 (três) vezes o valor da soma das parcelas"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Efetuar o pagamento de todas as parcelas, inclusive das intermediárias, necessariamente em dinheiro",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Autorizar acesso pela CREDORA às suas declarações e escritas fiscais e informações sobre movimentação financeira",
+  "Não alienar bens ou direitos próprios ou de seus controladores, administradores, gestores e representantes legais sem comunicação à Fazenda Nacional",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva",
+  "Não utilizar pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Apresentar contrato celebrado com as Instituições Financeiras no prazo de 30 dias",
+  "Comunicar aos juízos das execuções fiscais a celebração do acordo no prazo de 30 dias",
+  "Apresentar matrículas de RGI atualizadas dos imóveis relacionados nos Anexos III e IV no prazo de 30 dias"
+ ],
+ "special_clauses": [
+  "Repasse parcial das parcelas via Fundo Nacional de Desenvolvimento da Educação (FNDE), utilizando recursos do FIES penhorados na Execução Fiscal nº 0100782-50.2017.4.02.5101",
+  "Direcionamento de 40% dos recebíveis de mensalidades/anualidades dos alunos para conta em instituição financeira privada indicada, como condição para liberação de recebíveis",
+  "Autorização de venda direta dos imóveis do Anexo IV pelo valor mínimo de avaliação, com destinação do produto à amortização do saldo devedor",
+  "Anuência para utilização do programa COMPREI (Portaria PGFN nº 3.050/2022) para alienação dos imóveis do Anexo IV",
+  "Depósito judicial complementar a cada mudança de Faixa de Pagamento, mantendo o valor total depositado equivalente a 3 vezes a soma das parcelas devidas"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.75,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.6,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal da DEVEDORA, inscrito em Dívida Ativa da União, é composto pelos débitos discriminados no ANEXO I, totalizando R$ 286.015.514,89 referente ao mês de julho de 2022.",
+  "total_discount_pct": "Débitos não previdenciários ... % Desconto efetivo Possível ... até 70% / Débitos previdenciários ... % Desconto efetivo Possível ... até 70%",
+  "installments": "O Plano de Pagamento dos Demais Débitos consiste no recolhimento de 145 parcelas mensais, de acordo com a seguinte progressão, considerando o montante total a ser transacionado, após a aplicação dos descontos."
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "total_discount_pct"
+ ],
+ "id": "5cad618e8ed3",
+ "title": "Termo de Transação Individual - Sociedade Unificada de Ensino Augusto Motta",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualSociedadeUnificadadeEnsinoAugustoMotta.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualSociedadeUnificadadeEnsinoAugustoMotta.pdf",
+ "sha256": "44cba51a0028d8cba78a8af182771b4d32437ed13978db0e34429bfaaea4e282",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

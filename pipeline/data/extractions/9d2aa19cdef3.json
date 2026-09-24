@@ -1,0 +1,79 @@
+{
+ "taxpayer": "JOD'S CONFECCOES LTDA EM RECUPERACAO JUDICIAL",
+ "approval_date": "2025-05-30",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis de titularidade da Requerente, matriculados no 1º CRI de Bragança Paulista sob os n. 43584, 43585, 43586, 43587, 43587, 43588, 43591, 43592 e 43593"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Declarar que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/valores",
+  "Declarar que não alienou/onerou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a Transação",
+  "Não alienar bens que possam inviabilizar o pagamento sem comunicar a Fazenda Nacional",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos fiscais, inclusive comprobatórios de prejuízo fiscal e base negativa CSLL",
+  "Manter-se no regime de lucro real durante a vigência do acordo em caso de utilização de prejuízo fiscal/base negativa CSLL"
+ ],
+ "special_clauses": [
+  "Cumprimento do plano de recuperação judicial (processo nº 1009709-70.2022.8.26.0099) como desiderato da transação",
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL limitado a 70% do saldo da dívida após descontos, no valor aproximado de R$624.086,44",
+  "Possibilidade de alienação de bens imóveis dados em garantia mediante anuência da Fazenda Nacional e uso do sistema COMPREI",
+  "Direcionamento de créditos de precatórios/depósitos judiciais para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Confecções/Vestuário",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo à luz da capacidade de pagamento de aproximadamente 70% (setenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada, de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\"), em 84 (oitenta e quatro) prestações mensais iguais e sucessivas, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "9d2aa19cdef3",
+ "title": "Termo de Transação Individual - Jod's Confecções LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualJodsConfecesLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualJodsConfecesLTDA.pdf",
+ "sha256": "ccc6a65df574345124c426052defbf73fa2697bae9c4c3a1ba5e4e3ac411e635",
+ "extracted_at": "2026-07-22T14:22:45+00:00",
+ "simulated": false
+}

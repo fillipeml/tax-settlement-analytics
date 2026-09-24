@@ -1,0 +1,65 @@
+{
+ "taxpayer": "MUNICIPIO DE MATA GRANDE/AL",
+ "approval_date": "2024-07-12",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Pagamento regular dos tributos correntes",
+  "Apresentação anual de demonstrações de resultados/balanço contábil apurado",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Cumprimento das obrigações tributárias e fundiárias correntes"
+ ],
+ "special_clauses": [
+  "Cláusula 4ª: inscrição de FGTS FGAL 202100120 considerada inexigível e excluída da negociação devido a sentença de nulidade da inscrição, com apelação da União pendente de análise pelo TRF da 5ª Região; em caso de reversão, regularização em 90 dias"
+ ],
+ "sector": "Administração pública municipal",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de até 65% em cada uma das inscrições, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa juros e encargo legal), conforme cálculo do sistema;",
+  "installments": "Pagamento da dívida não previdenciária da seguinte forma: 6% do valor com desconto em 12 parcelas; 10% do saldo remanescente em 12 parcelas; 20% do saldo remanescente em 12 parcelas e 84 parcelas restantes lineares; (total 12+12+12+84=120 parcelas, conforme tabela 'PARCELAS 1 a 12... 120')"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector",
+  "guarantees"
+ ],
+ "id": "d36f4c6e026a",
+ "title": "Termo de Transação Individual -  Município de Mata Grande  AL",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMunicpiodeMataGrandeALTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMunicpiodeMataGrandeALTarjado.pdf",
+ "sha256": "af265e6a9186722c237a1e1220a2c2e7ceb4e450271370db10538e4e9561a3f0",
+ "extracted_at": "2026-07-22T14:35:18+00:00",
+ "simulated": false
+}

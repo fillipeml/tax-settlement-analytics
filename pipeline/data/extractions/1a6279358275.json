@@ -1,0 +1,69 @@
+{
+ "taxpayer": "CUCAÚ AÇÚCAR E ETANOL S/A e outras (grupo econômico: UTINGA AÇÚCAR E ETANOL S/A, COMPANHIA GERAL DE MELHORAMENTOS EM PERNAMBUCO, KELBE PARTICIPAÇÕES LTDA, DESTILARIA GAMELEIRA S/A, EDITORA FOLHA DE PERNAMBUCO LTDA) - em recuperação judicial",
+ "approval_date": "2024-09-13",
+ "consolidated_amount": null,
+ "modality": "Transação individual - Termo de Revisão (Substituição de Garantia)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis rurais de terceiros (intervenientes-anuentes), avaliados conjuntamente em R$ 45.300.000,00, dados em hipoteca em favor da União",
+  "Hipoteca a ser constituída no prazo de 30 dias sobre os novos imóveis rurais",
+  "Crédito decorrente do cumprimento de sentença em trâmite na 9ª Vara Cível da Seção Judiciária do Distrito Federal (processo nº 1073912-27.2023.4.01.3400), vinculado como garantia via STEP-UP VII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Constituir hipoteca em favor da União sobre os novos imóveis rurais dados em garantia no prazo de 30 dias",
+  "Obter liberação dos créditos decorrentes do Processo nº 0014506-10.1995.4.05.8300 (7ª Vara Federal/PE), no montante atualizado de R$ 46.923.540,14 (data-base 21/08/2024), para pagamento integral dos débitos exigíveis e amortização das contas de transação",
+  "Manter o regular pagamento das parcelas mensais acordadas para cada modalidade do Termo de Transação Individual",
+  "Peticionar na Execução Fiscal nº 0802174-33.2017.4.05.8000 (5ª Vara Federal/AL) comunicando a liberação da garantia incidente sobre o imóvel de matrícula tarjada, permitindo alienação a terceiros mediante formalização de permuta",
+  "Protocolar petição no Recurso Especial nº 2039293 (STJ) informando a disponibilização dos valores do processo em favor da União"
+ ],
+ "special_clauses": [
+  "Substituição do imóvel de matrícula tarjada (358,4600ha da FAZENDA UTINGA, parte IV) por imóveis de terceiros avaliados em R$ 45.300.000,00",
+  "Previsão de alienação do bem via plataforma COMPREI em caso de rescisão da transação, com limite mínimo de 50% do valor de avaliação",
+  "Possibilidade de parcelamento da compra do bem alienado em até 30 meses, com entrada mínima de 25%, em caso de proposta pelo valor de avaliação",
+  "Vinculação de crédito de cumprimento de sentença em trâmite na 9ª Vara Cível do DF como garantia adicional, com concordância do STEP-UP VII FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
+  "Condição resolutiva: não produção de efeitos do termo de revisão caso não cumpridas as exigências relativas à liberação dos créditos do Processo nº 0014506-10.1995.4.05.8300, mantendo-se as condições originais da transação"
+ ],
+ "sector": "Agronegócio (açúcar e etanol)",
+ "confidence": {
+  "taxpayer": 0.8,
+  "sector": 0.7,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "guarantees_imoveis_terceiros": "avaliados conjuntamente em R$ 45.300.000,00 (quarenta e cinco milhões e trezentos mil reais), de propriedade de terceiros, que figuram como intervenientes-anuentes neste Termo de Revisão",
+  "obrigacao_processo_7vara": "no montante atualizado de R$ 46.923.540,14, data-base de 21/08/2024, para pagamento da integralidade dos débitos exigíveis dos devedores"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments"
+ ],
+ "id": "1a6279358275",
+ "title": "Termo de Transação Individual - Cacaú Açúcar e Etanol SA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCacaAcareEtanolSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCacaAcareEtanolSATarjado.pdf",
+ "sha256": "4e9e2c0a7cae82d287597ac8161b0a379506055cdc4d8465e1a6c38c535f7fb9",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

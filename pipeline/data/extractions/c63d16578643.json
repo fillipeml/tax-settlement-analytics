@@ -1,0 +1,55 @@
+{
+ "taxpayer": "OSX BRASIL S/A - em recuperação judicial (CNPJ 09.112.685/0001-32); OSX BRASIL Porto do Açu S/A - em recuperação judicial (CNPJ 11.198.242/0001-58); OSX Serviços Operacionais Ltda - em recuperação judicial (CNPJ 11.437.203/0001-66)",
+ "approval_date": "2025-07-09",
+ "consolidated_amount": 230077786.41,
+ "modality": "Transação Individual",
+ "total_discount_pct": 63.39,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Contratos e recebíveis"
+ ],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Naval/Óleo e gás",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.4,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.9,
+  "discounts": 0.2,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.3,
+  "special_clauses": 0.3
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada Total: R$230.077.786,41",
+  "total_discount_pct": "Desconto efetivo médio Total: 63,39%",
+  "installments": "Número de parcelas Previdenciária: 60 Demais débitos: 60"
+ },
+ "review_fields": [
+  "sector",
+  "discounts",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "c63d16578643",
+ "title": "Sumário - OSX Brasil SA, Osx Brasil Porto Do Açu, OSX Serviços Operacionais LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/SumrioOSXBrasilSAOsxBrasilPortoDoAuOSXServiosOperacionaisLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/SumrioOSXBrasilSAOsxBrasilPortoDoAuOSXServiosOperacionaisLTDA.pdf",
+ "sha256": "7c88f2c0bd1247b65ca308374628cecd9c99ead5945dba893ace374802edd4b3",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

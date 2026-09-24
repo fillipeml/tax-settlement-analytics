@@ -1,0 +1,72 @@
+{
+ "taxpayer": "GEOSISTEMAS ENGENHARIA E PLANEJAMENTO LTDA",
+ "approval_date": "2021-05-11",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Arrolamento de bens e direitos mantido - imóveis de matrículas nº 27.967 e 27.968 do 4º Serviço de Registro de Imóveis de Recife/PE (processo administrativo 10480.732988/2014-81)"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear/prejudicar a livre concorrência",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa após a formalização do acordo",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional durante o cumprimento do acordo",
+  "Fornecer demonstrações contábeis dos 3 últimos exercícios sociais no ato da assinatura",
+  "Apresentar relação nominal de credores e relação de bens e direitos",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias"
+ ],
+ "special_clauses": [
+  "Cláusula 4ª - possibilidade de inclusão de outros débitos inscritos em DAU posteriormente, mediante requerimento próprio, observados os mesmos requisitos",
+  "Cláusula 8ª - manutenção de arrolamento de bens já existente de processo administrativo anterior",
+  "Débitos compreendidos em parcelamentos especiais (Lei 11941-RFB, L.12996-RFB) em fase de rescisão na Receita Federal, com possibilidade de inclusão futura"
+ ],
+ "sector": "Engenharia/Construção",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.4,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "para pagamento da dívida não previdenciária no prazo de 84 (oitenta e quatro) meses e da dívida previdenciária, no prazo de 60 (sessenta meses)",
+  "total_discount_pct": "vedada a redução do montante principal do crédito inscrito em dívida ativa da União e a redução superior a 50%(cinquenta porcento) do valor total dos créditos a serem transacionados, conforme disposição legal"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "3d3e1bfb4aba",
+ "title": "Termo de Transação Individual - Geosistemas",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-geosistemas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-geosistemas.pdf",
+ "sha256": "7ef1a64a54577df25e370b2304c9888f0535c88a412c7ccbac399537d0eaa8f8",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

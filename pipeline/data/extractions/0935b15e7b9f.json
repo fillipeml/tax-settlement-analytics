@@ -1,0 +1,68 @@
+{
+ "taxpayer": "CATA TECIDOS E EMBALAGENS INDUSTRIAIS S/A",
+ "approval_date": "2021-09-01",
+ "consolidated_amount": 20661893.83,
+ "modality": "Transação individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Serão mantidas todas as garantias associadas aos débitos com a finalidade de garantir a dívida contemplada na transação individual."
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar os instrumentos de negociação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir lucros ou dividendos a sócios e acionistas até a aprovação do plano de recuperação judicial",
+  "Regularizar, no prazo de 90 (noventa) dias, os débitos que vierem a ser inscritos em dívida ativa ou que se tornarem exigíveis após a formalização da negociação",
+  "Recolhimento das obrigações tributárias correntes devidas pelo devedor, nem o cumprimento das obrigações acessórias dependentes da obrigação principal"
+ ],
+ "special_clauses": [
+  "CLÁUSULA 20ª. A SPIN – SOCIEDADE, PARTICIPAÇÕES E INVESTIMENTOS LTDA – EM RECUPERAÇÃO JUDICIAL... declara-se integrante de grupo econômico com a requerente e, portanto, corresponsável pelos débitos ora objeto de transação.",
+  "CLÁUSULA 18ª. Na hipótese do advento de norma futura que permita melhores condições de pagamento, restará facultado à DEVEDORA optar pela realização de nova adesão a eventual nova modalidade de transação/parcelamento.",
+  "Parágrafo único da Cláusula 19ª: Caso a situação financeira da DEVEDORA permita, poderão ser realizadas amortizações superiores ao valor das parcelas acordadas."
+ ],
+ "sector": "Têxtil/Embalagens industriais",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.5,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.2,
+  "guarantees": 0.6,
+  "obligations": 0.9,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "o saldo do passivo previdenciário foi de R$ 14.524.421,43, atualizado para agosto/2021... o saldo do passivo não previdenciário foi de R$ 6.137.472,4, atualizado para agosto/2021",
+  "total_discount_pct": "foi concedido e aplicado sobre o total dos débitos inscritos em nome da DEVEDORA, individualmente, desconto de 70%, limitado ao valor principal da dívida",
+  "installments": "será equalizado mediante o pagamento de 120 prestações"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "guarantees"
+ ],
+ "id": "0935b15e7b9f",
+ "title": "Termo de Transação Individual - CATA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-cata.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-cata.pdf",
+ "sha256": "b260d03423a317fd7c68ff4cb9bc04a312ba8f6bf076febed2581c89a8c8903f",
+ "extracted_at": "2026-07-22T14:22:25+00:00",
+ "simulated": false
+}

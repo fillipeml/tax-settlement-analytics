@@ -1,0 +1,83 @@
+{
+ "taxpayer": "SOCIEDADE ANHANGUERA DE ENSINO LTDA",
+ "approval_date": "2024-01-10",
+ "consolidated_amount": 60242377.0,
+ "modality": "Transação Individual",
+ "total_discount_pct": 67.95,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 136,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fazenda Potala - Matrícula 506 - R$10.825.000,00",
+  "6 Lotes urbanos (Matrículas 317.020, 317.021, 317.022, 317.023, 317.024, 317.025) - R$11.412.000,00",
+  "Imóveis avaliados em R$ 22.237.000,00 conforme laudo (Cláusula 7ª, §2º)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos relacionados no ANEXO I",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar não utilização de interposta pessoa",
+  "Autorizar compensação de valores de restituições/ressarcimentos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Individualizar valores recolhidos nas contas vinculadas de FGTS dos trabalhadores",
+  "Anuir com eventual modificação de competência para reunião de processos",
+  "Informar previamente à PGFN alienação/disposição de bens e recebimento de precatório",
+  "Indicar existência de processos judiciais contra a União",
+  "Declarar inexistência de precatórios ou créditos líquidos e certos contra a União",
+  "Nomear à penhora os imóveis do Anexo II no prazo de 30 dias",
+  "Manter em dia pagamento de impostos e taxas sobre imóveis dados em garantia",
+  "Desistir de impugnações/recursos/ações judiciais relativas aos débitos do ANEXO I",
+  "Peticionar nos processos judiciais em até 30 dias noticiando a celebração do acordo"
+ ],
+ "special_clauses": [
+  "Flexibilização das regras para aceitação, avaliação, substituição e liberação de garantias (Cláusula 1ª, Parágrafo único, III)",
+  "Desconto limitado a até 67,95%, vedada incidência sobre o principal do débito, por serem dívidas de difícil recuperação (Cláusula 5ª, §1º)",
+  "Parcelamento diferenciado: 136 meses para débitos não previdenciários e 54 meses para débitos previdenciários (Cláusula 5ª, §2º)",
+  "FAZENDA NACIONAL nomeada procuradora para receber indenização em caso de desapropriação do imóvel em garantia (Cláusula 10)"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal do DEVEDOR inscrito em dívida ativa da União, parte desta transação, é composto por todos os seus créditos fiscais relacionados no ANEXO I, que totalizam R$ 60.242.377,00, atualizado no mês de novembro de 2023",
+  "total_discount_pct": "a presente transação envolve a concessão de descontos limitados ao máximo de até 67,95%, vedada a incidência sobre o principal do débito",
+  "installments": "o parcelamento do saldo se dará em 136 (cento e trinta e seis) meses para os débitos não previdenciários e em 54 (cinquenta e quatro) meses para os débitos previdenciários"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "783667205db3",
+ "title": "Termo de Transação Individual - Sociedade Anhanguera de Ensino LTDA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualSociedadeAnhangueradeEnsinoLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualSociedadeAnhangueradeEnsinoLTDATarjado.pdf",
+ "sha256": "7ae6d48b676ba36d529028dd6a248f2c86f6eed6c7de52cbb3f69a8dfac445c4",
+ "extracted_at": "2026-07-22T14:22:25+00:00",
+ "simulated": false
+}

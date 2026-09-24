@@ -1,0 +1,72 @@
+{
+ "taxpayer": "ALPITEL BRASIL IMPLANTAÇÕES DE SISTEMAS LTDA, PSC DO BRASIL ADMINISTRAÇÃO DE OBRAS EIRELI e CONSÓRCIO PSC – ALPITEL",
+ "approval_date": "2023-09-03",
+ "consolidated_amount": 83996451.32,
+ "modality": "Transação Individual",
+ "total_discount_pct": 42.22,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à Procuradoria-Geral da Fazenda Nacional conhecer suas situações econômicas",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar de qualquer forma a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores",
+  "Declarar que não alienaram ou oneraram bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas à administração tributária são verdadeiras e que não foram omitidas informações quanto à propriedade de bens, direitos e valores",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União, reconhecidos em decisão judicial transitada em julgado, ou precatórios federais expedidos em favor do contribuinte",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 (noventa) dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos",
+  "Manter, durante 5 anos, os livros e os documentos exigidos pelas normas fiscais, inclusive comprobatórios dos montantes de prejuízo fiscal e de base de cálculo negativa da CSLL",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Considerando que a negociação teve como objetivo a redução do prazo para pagamento e que se tratam de empresas em Recuperação Judicial, não haverá oferta de garantia vinculada à Transação",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 59,75% do saldo da dívida após a aplicação dos descontos",
+  "A cobrança do saldo liquidado com uso de créditos decorrentes de prejuízo fiscal e de base de cálculo negativa da CSLL ficará suspensa até a confirmação dos créditos utilizados pela autoridade competente, dentro do prazo legal de cinco anos de sua utilização",
+  "Os débitos do Anexo VI serão consolidados na mesma conta das inscrições do anexo I, o que gerará saldo devedor nas parcelas, o qual deverá ser quitado no prazo de 30 (trinta) dias"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.9,
+  "discounts": 0.2,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 83.996.451,32 (Oitenta e três milhões, novecentos e noventa e seis mil, quatrocentos e cinquenta e um reais e trinta e dois centavos) – Valores atualizados até junho/2024.",
+  "total_discount_pct": "cujo desconto médio global concedido no presente acordo é de 42,22% (quarenta e dois vírgula vinte e dois por cento), conforme se observa dos Anexos II e III",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") e a de natureza previdenciária (\"Dívida Transacionada – Previdenciária\") no prazo de 48 (quarenta e oito) prestações mensais iguais e sucessivas, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "c1b351249e58",
+ "title": "Termo de Transação Individual - Alpitel Brasil Implantações de Sistemas LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAlpitelBrasilImplantaesdeSistemasLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAlpitelBrasilImplantaesdeSistemasLTDATarjado.pdf",
+ "sha256": "1920bf30089ee83ed093d52e79fb005e1efac46de97400dcc069ef63dae30c98",
+ "extracted_at": "2026-07-22T14:22:35+00:00",
+ "simulated": false
+}

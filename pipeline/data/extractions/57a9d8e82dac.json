@@ -1,0 +1,64 @@
+{
+ "taxpayer": "DORINALDO M. DA SILVA (AUTO POSTO DADO) / DORINALDO MOURA DA SILVA / S CAMPOS DA SILVA / SIMONE CAMPOS DA SILVA",
+ "approval_date": "2022-07-06",
+ "consolidated_amount": null,
+ "modality": "Transação individual (Primeiro Termo Aditivo)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca de imóvel rural situado no distrito de Campo Verde, Município de Itaituba/PA (matrícula substituída pelo Aditivo)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Promover, no prazo de 30 dias a contar da assinatura do Termo, o registro da garantia sobre o imóvel na forma de hipoteca, apresentando à Fazenda Nacional a matrícula atualizada do bem",
+  "Manter em dia o pagamento de todos os impostos e taxas federais, estaduais e municipais que incidam sobre o imóvel dado em garantia",
+  "Informar previamente à PGFN as condições de eventual venda do imóvel hipotecado, inclusive o valor da operação, destinando o montante à amortização ou liquidação do saldo devedor transacionado",
+  "Substituir o bem dado em garantia por outro de igual valor, livre e desimpedido de ônus, caso não seja possível registrar a hipoteca, em até 10 dias após o vencimento do prazo",
+  "Custear as despesas com lavratura e averbação do instrumento de hipoteca no Registro de Imóveis"
+ ],
+ "special_clauses": [
+  "Substituição do imóvel originalmente oferecido em garantia (matrícula encerrada por desmembramento) por novo imóvel de matrícula distinta, com autorização expressa dos novos proprietários (Garantidores) para oferecimento do bem como garantia hipotecária",
+  "Garantidores (terceiros não devedores) admitem a hipoteca independentemente da ordem de preferência disposta no art. 655 do CPC e no art. 11 da Lei 6.830/80",
+  "Avaliação do imóvel não vincula execuções fiscais em trâmite, podendo ser exigida nova avaliação por avaliador oficial do Juízo"
+ ],
+ "sector": "Comércio de combustíveis (auto posto)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "57a9d8e82dac",
+ "title": "Termo Aditivo - S CAMPOS DA SILVA (AUTO POSTO DADO)",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermoAditivodeTransaoIndividualSCAMPOSAUTOPOSTO.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermoAditivodeTransaoIndividualSCAMPOSAUTOPOSTO.pdf",
+ "sha256": "41948a9d6a6f5255912de01eae5304baba4685a6491bfa02896c3c46dc48647c",
+ "extracted_at": "2026-07-21T19:02:27+00:00",
+ "simulated": false
+}

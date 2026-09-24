@@ -1,0 +1,68 @@
+{
+ "taxpayer": "ASIS PROJETOS DE INFORMATICA LTDA",
+ "approval_date": "2024-05-03",
+ "consolidated_amount": 11556468.56,
+ "modality": "Transação Individual",
+ "total_discount_pct": 46.82,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 100,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Permanecer no regime de apuração do Lucro Real enquanto perdurar a vigência da presente transação",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito no valor de R$2.780.102,49, a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, para amortização do saldo devedor após a aplicação dos descontos",
+  "A cobrança do saldo liquidado com uso de créditos decorrentes de prejuízo fiscal e de base de cálculo negativa da CSLL ficará suspensa até a confirmação dos créditos utilizados pela autoridade competente, dentro do prazo legal de cinco anos"
+ ],
+ "sector": "Tecnologia/Informática",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.9,
+  "modality": 0.95,
+  "sector": 0.5,
+  "consolidated_amount": 0.7,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.75,
+  "guarantees": 0.5,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "DEMAIS R$ 4.597.738,57 / PREV R$ 6.958.729,99 (Anexo II - Do plano de pagamento)",
+  "total_discount_pct": "Descontivo efetivo 46,82% (Anexo II - Do plano de pagamento)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 100 (cem) prestações mensais"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "judicial_recovery",
+  "consolidated_amount",
+  "guarantees"
+ ],
+ "id": "5b0efc12fa15",
+ "title": "Termo de Transação Individual - Asis Projetos de Informática LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAsisProjetosdeInformaticaLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAsisProjetosdeInformaticaLTDATarjado.pdf",
+ "sha256": "3d67dcafc23ffbcfdb1d1ff16710eabc8681418b9d7f8116dc2d92c7bb194d00",
+ "extracted_at": "2026-07-22T14:22:36+00:00",
+ "simulated": false
+}

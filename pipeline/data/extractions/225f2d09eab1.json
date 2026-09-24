@@ -1,0 +1,84 @@
+{
+ "taxpayer": "ENTIDADE AUTÁRQUICA DE ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL DO ESTADO DE RONDÔNIA – EMATER-RO",
+ "approval_date": "2024-08-16",
+ "consolidated_amount": 63397050.26,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": 6.0,
+ "guarantees": [
+  "Hipoteca/penhora sobre bens (ANEXO II - descrito como 'Outros' no valor de R$ 63.397.050,26; bens imóveis e móveis avaliados em R$ 0,00)",
+  "Responsabilidade subsidiária do ESTADO DE RONDÔNIA como GARANTIDOR, com retenção de valores no Fundo de Participação dos Estados (FPE)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável os débitos do ANEXO I",
+  "Renunciar a alegações de direito sobre ações judiciais relativas aos créditos do ANEXO I",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa no prazo de 90 dias",
+  "Manter garantias oferecidas até cumprimento integral",
+  "Informar previamente à PGFN alienação/disposição de bens e recebimento de precatórios",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado",
+  "Anuir com eventual modificação de competência para reunião de processos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou para prejudicar livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não possuir precatórios federais ou outros créditos líquidos e certos",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Desistir de impugnações e recursos administrativos/judiciais no prazo de 30 dias",
+  "Registrar hipoteca/penhora sobre bens garantidos no prazo de 90 dias",
+  "Comunicar previamente alienação de bens do ANEXO II",
+  "Manter em dia pagamento de impostos/taxas sobre imóvel dado em garantia"
+ ],
+ "special_clauses": [
+  "Flexibilização das regras para aceitação, avaliação, substituição e liberação de garantias (Cláusula 1ª, IV)",
+  "Flexibilização das regras para constrição ou alienação de bens (Cláusula 1ª, V)",
+  "Garantia prestada pelo Estado de Rondônia como GARANTIDOR com responsabilidade subsidiária, com retenção de valores no FPE (Cláusulas 12 e 13)",
+  "Bens imóveis e móveis avaliados em R$ 0,00, com garantia classificada como 'Outros' no valor total da dívida (Cláusula 14)"
+ ],
+ "sector": "Agronegócio (assistência técnica e extensão rural)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.85,
+  "down_payment_pct": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal do DEVEDOR inscrito em dívida ativa da União e do FGTS, parte desta transação, é composto apenas pela inscrição de nº 371168759, relacionada no ANEXO I, que totaliza R$ 63.397.050,26, atualizado no mês de julho/2024.",
+  "total_discount_pct": "a presente transação envolve a concessão de descontos limitados ao máximo de até 65% (sessenta e cinco por cento), vedada a incidência sobre o principal do débito",
+  "installments": "PLANO DE PAGAMENTO DÉBITOS PREVIDENCIÁRIOS ... Entrada 6% do valor consolidado (parcelas 1-6) ... Parcelas 7-60 (Valor com desconto - Entrada) ... TOTAL 60 R$ 22.188.967,56",
+  "down_payment_pct": "Entrada 6% do valor consolidado (parcelas 1-6) R$ 633.970,50 6 R$ 3.803.823,00"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "225f2d09eab1",
+ "title": "Termo de Transação Individual -Emater - RO",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualEmaterROTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualEmaterROTarjado.pdf",
+ "sha256": "0df1bd6497ce945aae6a8ab45bcfb20ea1c019704e59fcbe2ec4af2181687238",
+ "extracted_at": "2026-07-22T14:22:22+00:00",
+ "simulated": false
+}

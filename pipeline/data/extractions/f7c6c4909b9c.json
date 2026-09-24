@@ -1,0 +1,73 @@
+{
+ "taxpayer": "YMPACTUS COMERCIAL S.A - FALIDA (Grupo Telexfree)",
+ "approval_date": "2024-07-05",
+ "consolidated_amount": 5122709567.99,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": 65.0,
+  "interest_pct": 65.0,
+  "charges_pct": 65.0
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção das garantias já realizadas nos débitos transacionados",
+  "Execução de garantias prestadas judicial e extrajudicialmente em caso de rescisão"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações administrativas ou judiciais relativas à Dívida Transacionada",
+  "Reconhecimento e confissão irrevogável e irretratável da dívida",
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Manter regularidade perante o FGTS",
+  "Comprovar existência, regularidade e disponibilidade dos créditos de prejuízo fiscal/CSLL por laudo contábil",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União em até 90 dias",
+  "Dar ciência à Credora de alterações na natureza jurídica ou societária em até 30 dias",
+  "Manter obrigações tributárias correntes e acessórias"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação de até 70% do saldo remanescente",
+  "Pagamento do saldo remanescente em 90 dias",
+  "Situação falimentar da devedora considerada para condições especiais",
+  "Análise da regularidade dos créditos pela PGFN pode ocorrer em até 5 anos"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.3,
+  "modality": 0.95,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.8,
+  "discounts": 0.75,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "judicial_recovery": 0.6,
+  "guarantees": 0.6,
+  "obligations": 0.85,
+  "special_clauses": 0.8,
+  "approval_date": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizando R$ 1.830.810.754,77 ... 06.2024. ... totalizando R$ 3.291.898.813,22 ... 06.2024.",
+  "total_discount_pct": "Concessão do desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "installments",
+  "judicial_recovery",
+  "guarantees",
+  "consolidated_amount"
+ ],
+ "id": "f7c6c4909b9c",
+ "title": "Termo de Transação Individual - Ympactus Comercial SA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualYmpactusComercialSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualYmpactusComercialSATarjado.pdf",
+ "sha256": "88ea0bedaa72aa6a3f6ca7167de87fca748f3fc15dec7b395b3b98a3e1425543",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

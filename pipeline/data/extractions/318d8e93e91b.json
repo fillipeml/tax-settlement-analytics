@@ -1,0 +1,82 @@
+{
+ "taxpayer": "ESPÓLIO DE JOSÉ PERCI RIBEIRO DA COSTA",
+ "approval_date": "2021-11-25",
+ "consolidated_amount": 153692729.18,
+ "modality": "Transação individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": 5.0,
+ "guarantees": [
+  "Imóveis descritos no Anexo IV (alienação vinculada ao pagamento das parcelas)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos inscritos listados no Anexo I",
+  "Desistência de ações, recursos e incidentes contrários aos pedidos de redirecionamento no prazo de 30 dias",
+  "Petição nos processos judiciais em 10 dias para noticiar a transação",
+  "Digitalização dos processos judiciais em 30 dias",
+  "Registro do Termo de Transação em cartório de títulos e documentos em até 30 dias",
+  "Comunicação à Procuradoria sobre alienação de imóveis do anexo IV com antecedência mínima de 10 dias",
+  "Compromisso de pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa e/ou FGTS em até 90 dias",
+  "Manter regularidade perante o FGTS",
+  "Comprovar semestralmente situação de obrigações e empréstimos perante instituições financeiras",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Apresentar semestralmente, em janeiro e julho, documentos comprobatórios do recolhimento regular",
+  "Informar à Procuradoria sobre existência de bens e direitos em nome do espólio",
+  "Declarar não utilizar pessoa interposta para ocultar bens",
+  "Declarar não ter alienado bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais e econômico-fiscais",
+  "Informar expedição de precatório ou depósito judicial passível de levantamento"
+ ],
+ "special_clauses": [
+  "Pagamento das parcelas de entrada e prestações subsequentes mediante imputação de 100% dos valores decorrentes da alienação dos imóveis descritos no Anexo IV, deduzidas despesas de corretagem e imposto de renda sobre ganho de capital, além de pagamento em dinheiro de R$ 22.000,00",
+  "Pagamento de parcela reduzida de R$ 22.000,00 subsidiariamente na ausência de imputação de valores da alienação dos imóveis",
+  "Prazo de imputação de valores decorrentes da alienação dos imóveis de até 12 meses em caso de venda conjunta de mais de um imóvel",
+  "Liberação dos imóveis listados no Anexo IV após quitação integral do valor consolidado, com valores remanescentes das vendas permanecendo com o DEVEDOR"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.2,
+  "modality": 0.95,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.9,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.1,
+  "discounts.interest_pct": 0.1,
+  "discounts.charges_pct": 0.1,
+  "guarantees": 0.6,
+  "judicial_recovery": 0.1,
+  "obligations": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$ 10.067.200,34 / R$138.265.189,65 / R$ 894.924,66 / R$ 4.465.414,53 (soma dos valores consolidados das inscrições listadas na tabela do item 3.1)",
+  "total_discount_pct": "será concedido desconto de 70% sobre a dívida consolidada",
+  "installments": "O plano de pagamento relativo aos débitos não previdenciários prevê o recolhimento em 145 prestações mensais, de acordo com a progressão prevista no anexo III",
+  "down_payment_pct": "Entrada correspondente a 5% sobre o valor consolidado da dívida com desconto de 70%, a ser paga em 12 prestações mensais, com primeiro vencimento no mês de assinatura da transação"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "318d8e93e91b",
+ "title": "Termo de Transação Individual - Espólio de José Perci Ribeiro da Costa",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-espolio-de-jose-perci-ribeiro-da-costa.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-espolio-de-jose-perci-ribeiro-da-costa.pdf",
+ "sha256": "e213a0fababb0e29551c302419d4f165dce5f74f4aa21f71bd7626a885b7cc64",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

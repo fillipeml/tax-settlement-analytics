@@ -1,0 +1,61 @@
+{
+ "taxpayer": "Transmatic Transporte e Comércio Ltda",
+ "approval_date": "Not identified",
+ "consolidated_amount": 23048542.2,
+ "modality": "Modalidade nº 02 (Simples Nacional) - 30% e Modalidade nº 58 (FGTS) - 31,69%",
+ "total_discount_pct": 60.1,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantém eventuais garantias existentes",
+  "Imóveis"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [
+  "Créditos de PF/BCN utilizados: Total R$ 3.400.000,00 (Previdenciária R$ 1.900.000,00; Demais Débitos R$ 1.500.000,00)"
+ ],
+ "sector": "Transporte",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.4,
+  "approval_date": 0.0,
+  "modality": 0.85,
+  "judicial_recovery": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.9,
+  "installments": 0.6,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL R$ 23.048.542,20",
+  "total_discount_pct": "DESCONTO EFETIVO MÉDIO - PGFN (em percentual %) TOTAL 60,1%",
+  "installments": "NÚMERO DE PARCELAS - PGFN Previdenciária 60 Demais Débitos 120"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "obligations"
+ ],
+ "id": "38d616bc0e5c",
+ "title": "Sumário - Transmatic Transporte e Comércio LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/SumrioTransmaticTransporteeComrcioLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/SumrioTransmaticTransporteeComrcioLTDA.pdf",
+ "sha256": "eafcd0fa5a011b1aff916cff3cbe5d3f921d75f27f78a5960f90d73de37ad8dc",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

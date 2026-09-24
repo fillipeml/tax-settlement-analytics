@@ -1,0 +1,86 @@
+{
+ "taxpayer": "MAFRIAL MATADOURO E FRIGORÍFICO LTDA",
+ "approval_date": "2021-09-10",
+ "consolidated_amount": 29230999.16,
+ "modality": "Transação Individual Excepcional",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis relacionados no ANEXO III (matrículas anexas)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável os débitos do ANEXO II",
+  "Renunciar a alegações de direito e questionamentos administrativos e judiciais sobre os débitos",
+  "Reconhecer as dívidas e admitir interesse comum nos fatos geradores, com corresponsabilidade solidária",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Garantir ou parcelar novos débitos inscritos em dívida ativa após a assinatura, em até 90 dias",
+  "Manter as garantias oferecidas no ANEXO III até integral cumprimento da transação",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos, recebimento de precatório ou levantamento de depósito judicial",
+  "Fornecer informações sobre bens, direitos e situação econômica sempre que solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou pagamentos",
+  "Anuir com eventual modificação de competência para reunião de processos",
+  "Efetuar tempestivamente os pagamentos de amortizações mensais e anuais",
+  "Não utilizar a transação de forma abusiva contra livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais e patrimoniais",
+  "Desistir de impugnações, recursos e ações judiciais relativas aos débitos em 30 dias",
+  "Apresentar reavaliação particular dos imóveis a cada 3 anos",
+  "Apresentar demonstrações de resultados/balanço contábil anualmente ou quando solicitado",
+  "Manter em dia tributos incidentes sobre bens dados em garantia"
+ ],
+ "special_clauses": [
+  "Cláusula 21: possibilidade de substituição de garantias por outros imóveis, depósito ou seguro-garantia mediante prévia análise da PFN/MG",
+  "Cláusula 38: suspensão de pagamentos em caso de adesão a programa de parcelamento extraordinário mais benéfico, com transferência proporcional de garantias",
+  "Cláusula 15, §1º: regra de liberação parcial de garantia proporcional ao valor efetivamente amortizado, mesmo quando avaliação do bem for superior à dívida",
+  "Terceira garantidora/interveniente anuente (JRC Participações Negócios e Empreendimentos LTDA) assumindo corresponsabilidade"
+ ],
+ "sector": "Frigorífico/agroindústria (abate e processamento de carnes)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.6,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal da MAFRIAL inscrito em dívida ativa da União e do FGTS, incluído nesta transação é composto pelos créditos 70 6 06 033283-60 e 70 7 06 004900-83, calculados em setembro/2021, com valor total de R$ 29.230.999,16",
+  "total_discount_pct": "TOTAL SEM DESCONTO - R$ 29.230.999,16 / TOTAL COM DESCONTO - 50% - R$14.615.499,58",
+  "installments": "O prazo para pagamento dos débitos não previdenciários, ora transacionados, é de 84 meses em prestações mensais e sucessivas."
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery",
+  "special_clauses"
+ ],
+ "id": "91d537c48498",
+ "title": "Termo de Transação Individual - Mafrial (Parte I)",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-mafrial-parte-i.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-mafrial-parte-i.pdf",
+ "sha256": "484d98e0937511d1a475e2256a4e82304ba3d84b4e6b65c82b0351ee7242ee16",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

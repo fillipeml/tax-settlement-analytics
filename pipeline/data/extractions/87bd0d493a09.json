@@ -1,0 +1,79 @@
+{
+ "taxpayer": "URBAN SERVICOS E TRANSPORTES LTDA. (CNPJ 12.964.775/0001-66)",
+ "approval_date": "2022-10-26",
+ "consolidated_amount": null,
+ "modality": "Transação Individual Tributária - Plano de Pagamento Parcelado",
+ "total_discount_pct": 0.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens/direitos constantes do Termo de Arrolamento identificado no Anexo III, no valor total de R$ 7.167.542,00",
+  "Veículos com arrolamento administrativo averbado em seus prontuários (restrições)",
+  "Quotas societárias que o devedor possui junto à empresa CONTROLSET Controladoria de Serviços e Transportes LTDA, com arrolamento administrativo averbado junto à JUCIS/RS"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar que não utiliza pessoa interposta para ocultar/dissimular bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de bens do ativo não circulante",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN/ME nº 6757/2022",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União",
+  "Manter Certificado de Regularidade do FGTS",
+  "Fornecer informações bancárias e empresariais sempre que solicitado",
+  "Demonstrar ausência de prejuízo decorrente do cumprimento das obrigações em caso de alienação/oneração de bens",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Manter em dia pagamento de impostos, taxas e tributos sobre bens dados em garantia",
+  "Apresentar situação econômico-financeira anualmente por balanço contábil ou quando a PGFN solicitar",
+  "Peticionar nos processos judiciais noticiando a celebração da transação no prazo de 60 dias"
+ ],
+ "special_clauses": [
+  "Cláusula 11 - nomeação da União como procuradora do devedor para receber indenização em caso de desapropriação de bens dados em garantia",
+  "Cláusula 12 - obrigação de substituir/reforçar garantia em caso de perecimento, depreciação ou deterioração que reduza mais de 25% do valor do bem"
+ ],
+ "sector": "Transporte",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.9,
+  "modality": 0.9,
+  "sector": 0.4,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.6,
+  "installments": 0.5,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.75,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "installments": "As inscrições indicadas no Anexo I (DÉBITOS PREVIDENCIÁRIOS) serão objeto de plano de pagamento em 60 (sessenta) amortizações mensais... O plano relativo às inscrições indicadas no Anexo II (DEMAIS DÉBITOS) prevê o pagamento em 120 (cento e vinte) parcelas mensais",
+  "total_discount_pct": "sem a concessão de descontos (rating transacional não permite descontos)",
+  "guarantees": "perfazendo o valor total de R$ 7.167.542,00"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "sector",
+  "judicial_recovery"
+ ],
+ "id": "87bd0d493a09",
+ "title": "Termo de Transação Individual - Urban Serviços e Transportes LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualUrbanServicoseTransportesLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualUrbanServicoseTransportesLTDA.pdf",
+ "sha256": "a109ed9a2e4295d916e649719ba76c64a324d61fdd5992db4e2852b367955e69",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

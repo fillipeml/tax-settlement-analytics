@@ -1,0 +1,87 @@
+{
+ "taxpayer": "IRMÃOS DI CUNTO LTDA",
+ "approval_date": "2023-02-07",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (modalidades DEMAIS e PREV)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": 6.0,
+ "guarantees": [
+  "Imóvel objeto da matrícula nº 21.564 junto ao 7º Registro de Imóveis de São Paulo-SP, de propriedade da Requerente",
+  "Imóvel objeto da matrícula nº 127.853 junto ao 9º Registro de Imóveis de São Paulo-SP, de propriedade da Requerente",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens",
+  "Declarar que não alienou ou onerou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar o pagamento sem comunicar a Fazenda Nacional",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Solicitar à RFB em até 30 dias o envio para inscrição em DAU dos débitos do Anexo II",
+  "Comunicar à Fazenda Nacional a efetivação do envio para inscrição em DAU",
+  "Recolher valores das prestações vencidas do Anexo II até o último dia útil do mês da reconsolidação",
+  "Manter por 5 anos livros e documentos fiscais, inclusive comprobatórios de prejuízo fiscal e base negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Oferecer e formalizar penhora do imóvel em até 60 dias",
+  "Peticionar nos processos judiciais em até 60 dias para noticiar a transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de R$ 2.343.828,59 a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor após aplicação dos descontos",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL fica suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de 5 anos",
+  "Desconto máximo de até 65% a cada CDA individualmente, vedada redução do montante principal, aplicado proporcionalmente sobre acréscimos legais",
+  "Consideração do rating D da Requerente e situação de crise transitória na definição das condições"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.3,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.75,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de até 65% (sessenta e cinco por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "down_payment_pct": "Na modalidade DEMAIS, entrada de 6% da dívida sem descontos e parcelamento do saldo devido em até 48 (quarenta e oito) prestações mensais e sucessivas",
+  "installments": "parcelamento do saldo devido em até 48 (quarenta e oito) prestações mensais e sucessivas, conforme Anexo III, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "total_discount_pct"
+ ],
+ "id": "a764c86ab25a",
+ "title": "Termo de Transação Individual - Irmãos Di Cunto LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIrmosDiCuntoLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIrmosDiCuntoLTDA.pdf",
+ "sha256": "a94c69e7806fc806e8a0f410542deb9ec5b5768cd69cc7f1b8521f807fcd8ffe",
+ "extracted_at": "2026-07-22T14:22:45+00:00",
+ "simulated": false
+}

@@ -1,0 +1,79 @@
+{
+ "taxpayer": "PERNAMBUCO QUÍMICA S/A",
+ "approval_date": "2021-03-26",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Garantias já existentes nas respectivas execuções fiscais, mantidas pelo devedor (Cláusula 14)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação, inclusive na Ação Anulatória nº 0800904-40.2019.4.05.8311",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após a formalização do acordo",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Efetuar pagamento dos honorários advocatícios da Ação Anulatória 080012-39.2016.4.05.8311 por parcelamento administrativo em 6 vezes",
+  "Desistir da Ação Anulatória nº 0800904-40.2019.4.05.8311",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo"
+ ],
+ "special_clauses": [
+  "Créditos do Parcelamento da Lei 11941/2009 (PGFN PREV arts. 1º e 3º) mantidos naquele programa, com regularização de saldo devedor por amortizações mensais até outubro/2024 (§3º)",
+  "Créditos do Parcelamento da Lei 12.865/2013 (PGFN DEMAIS DÉBITOS, código 3835) migrados para a Transação Individual, com rescisão do parcelamento e aproveitamento dos valores pagos (§4º)",
+  "Valores pagos em modalidades do parcelamento da Lei 12.865 rejeitadas na consolidação serão aproveitados para amortizar o saldo devedor via restituição/DARF avulso (§5º)",
+  "Pagamento de honorários advocatícios da Ação Anulatória 080012-39.2016.4.05.8311 parcelado em 6 vezes (§6º)",
+  "Desistência da Ação Anulatória nº 0800904-40.2019.4.05.8311 em fase de perícia, com desistência da União quanto à condenação em honorários (§7º)"
+ ],
+ "sector": "Químico/Agroindustrial",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.1,
+  "total_discount_pct": 0.1,
+  "down_payment_pct": 0.1,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.1,
+  "discounts.interest_pct": 0.1,
+  "discounts.charges_pct": 0.1,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "judicial_recovery": 0.1,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "É concedida ao devedor a possibilidade de pagar em 84 parcelas os débitos não previdenciários e em 60 parcelas os débitos previdenciários. Além do parcelamento, serão concedidos descontos que irão variar de 20 a 50% sobre o total devido, a depender das particularidades de cada inscrição.",
+  "discount_range": "serão concedidos descontos que irão variar de 20 a 50% sobre o total devido, a depender das particularidades de cada inscrição. O percentual dos descontos incidentes sobre cada uma das inscrições constará do ANEXO I ao presente termo."
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "73d423930e38",
+ "title": "Termo de Transação Individual - Pernambuco Química",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-pernambuco-quimica-s-a.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-pernambuco-quimica-s-a.pdf",
+ "sha256": "1ca7e23bf6f0b74cb62617edeb150f37d446af970a00af722cddfc38c63237e8",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

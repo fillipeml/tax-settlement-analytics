@@ -1,0 +1,65 @@
+{
+ "taxpayer": "LE SAC COMERCIAL CENTER COUROS LTDA.",
+ "approval_date": "2025-03-07",
+ "consolidated_amount": null,
+ "modality": "Transação individual (Termo Aditivo)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Manter, durante 5 anos, os livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios dos montantes de prejuízo fiscal e de base de cálculo negativa da CSLL, promovendo, nesse caso, a baixa dos valores nos respectivos livros fiscais",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União, reconhecidos em decisão judicial transitada em julgado, ou precatórios federais expedidos em favor do contribuinte",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo, tendo em vista a utilização de prejuízo fiscal e base de cálculo negativa de contribuição social sobre o lucro líquido na presente transação"
+ ],
+ "special_clauses": [
+  "2.1.4. Utilização de crédito de prejuízo fiscal e de base de cálculo negativa da CSLL, limitado a 54,61% do saldo devedor a ser consolidado em uma nova conta, na modalidade DEMAIS DÉBITOS, após a aplicação dos descontos legais possíveis previstos na cláusula 2.1.2",
+  "2.1.5. A utilização dos créditos previstos na cláusula 2.1.4 não se aplica à dívida PREV, à dívida junto ao FGTS e aos montantes já pagos na conta de transação individual 6097201",
+  "2.1.6. A cobrança do saldo liquidado com uso de créditos decorrentes de prejuízo fiscal e de base de cálculo negativa da CSLL ficará suspensa até a confirmação dos créditos utilizados pela autoridade competente, dentro do prazo legal de cinco anos da sua utilização. Em caso de não confirmação dos montantes indicados, o interessado será intimado em até 30 dias para apresentar recurso comprovando os montantes indicados ou efetuar o pagamento do saldo remanescente, sob pena de rescisão do acordo.",
+  "7.1.15. A não confirmação do Prejuízo Fiscal e/ou da Base de Cálculo Negativa pela autoridade competente, nos termos do art. 39 da Portaria PGFN nº 6.757/22, sem o correspondente recolhimento, via DARF, em até 30 dias, da diferença apontada."
+ ],
+ "sector": "Comércio de couros",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.6,
+  "obligations": 0.9,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees"
+ ],
+ "id": "23f66bbd14f2",
+ "title": "Termo de Transação Individual - Le Sac Comercial Center Couros LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualLeSacComercialCenterCourosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualLeSacComercialCenterCourosLTDATarjado.pdf",
+ "sha256": "4a213929cc55f1c52d0aaaff6c9932ff2957eb5cf9685e875aa2ad315d3f75ea",
+ "extracted_at": "2026-07-22T14:22:46+00:00",
+ "simulated": false
+}

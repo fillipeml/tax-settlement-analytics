@@ -1,0 +1,79 @@
+{
+ "taxpayer": "ITAIQUARA ALIMENTOS S.A., CIA AGRO PASTORIL DO RIO GRANDE, USINA AÇUCAREIRA PASSOS S.A., AGRO PECUÁRIA VALE DO RIO GRANDE S.A. e CIA AÇUCAREIRA RIO GRANDE (grupo econômico)",
+ "approval_date": "2023-12-19",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (modalidades DEMAIS e PREV, em Recuperação Judicial)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": 65.0,
+  "interest_pct": 65.0,
+  "charges_pct": 65.0
+ },
+ "installments": 108,
+ "down_payment_pct": 3.0,
+ "guarantees": [
+  "Imóveis listados nos Anexos IV e V",
+  "Penhora de imóveis a ser formalizada em até 90 dias"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Regularização dos débitos devidos nas CDAs do FGTS via Modalidade 01 da Simulação da Caixa Econômica Federal",
+  "Encerramento de litígios administrativos e judiciais",
+  "Oferecimento, aceitação e liberação de garantias",
+  "Manter regularidade perante o FGTS para competências não regularizadas via NJP",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter-se regular com Transações, NJP e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de créditos líquidos e certos ou precatórios em desfavor da União",
+  "Manter-se optante pelo lucro real durante toda a vigência do acordo",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL (Itaiquara Alimentos e Usina Açucareira Passos) em até 70% do saldo devedor com descontos, respeitado limite de capacidade de pagamento (valor tarjado)",
+  "Anuência da PGFN para alienação de imóveis do Anexo IV antes do cancelamento do gravame, desde que 100% do valor arrecadado seja destinado à amortização parcial da Transação",
+  "Reconhecimento de corresponsabilidade solidária entre as Requerentes (arts. 124, I, 132 e 133 do CTN)",
+  "Imputação preferencial de pagamentos antecipados e produto de alienação de imóveis na Dívida Transacionada previdenciária",
+  "Suspensão da cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL até confirmação pela autoridade competente"
+ ],
+ "sector": "Agronegócio (alimentos, açúcar e agropecuária)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.8,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.85,
+  "down_payment_pct": 0.9,
+  "discounts.fine_pct": 0.85,
+  "discounts.interest_pct": 0.85,
+  "discounts.charges_pct": 0.85,
+  "guarantees": 0.7,
+  "obligations": 0.8,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "installments": "parcelamento do saldo residual em até 108 (cento e oito) prestações mensais e sucessivas",
+  "down_payment_pct": "entrada de 3% da dívida total (Anexos I e II) sem descontos a ser paga em até 12 meses a contar da inclusão da conta de Transação no SISPAR",
+  "discounts": "desconto máximo de até 65% (sessenta e cinco por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "sector",
+  "special_clauses",
+  "guarantees"
+ ],
+ "id": "32ed4d419d31",
+ "title": "Termo de Transação Individual - Itaiquara Alimentos",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualItaiquaraAlimentosS.ATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualItaiquaraAlimentosS.ATarjado.pdf",
+ "sha256": "0e1648c7b6e85a0626dde2ad6298e73375c5dcb256a2ada738168f0636fb762f",
+ "extracted_at": "2026-07-22T14:22:45+00:00",
+ "simulated": false
+}

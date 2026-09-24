@@ -1,0 +1,60 @@
+{
+ "taxpayer": "GEOSISTEMAS ENGENHARIA E PLANEJAMENTO LTDA",
+ "approval_date": "2021-07-16",
+ "consolidated_amount": null,
+ "modality": "Transação individual (com termos aditivos)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Recolher mensalmente os DARFs relativos a cada uma das contas formalizadas no sistema informatizado",
+  "Todas as contas compõem uma transação única, de forma que eventual inadimplência constatada para qualquer dessas contas implicará a inadimplência de toda a transação"
+ ],
+ "special_clauses": [
+  "Cláusula 1ª (Terceiro Aditivo): Ficam incluídas no acordo de transação individual as seguintes CDAS não previdenciárias (DEMAIS DÉBITOS): 40221006181-49, 40721003788-45 (processo 10480.400124/2013-12), 40221006182-20 e 40621015606-07 (processo 10480.722.851/2015-08)",
+  "Parágrafo primeiro (Terceiro Aditivo): Para a inclusão dos novos débitos não previdenciários (DEMAIS DÉBITOS), está formalizada a conta SISPAR nº. 4617061, modalidade DEMAIS DÉBITOS, com as mesmas condições de desconto e prazo total de parcelamento da conta 4406951, sendo as parcelas da nova conta escalonadas na mesma proporção do escalonamento da referida conta 4406951, conforme previsão da Cláusula 4ª, Parágrafo segundo, do Termo de Transação Individual",
+  "Cláusula 1ª (Quarto Aditivo): Ficam incluídas no acordo de transação individual diversas CDAS não previdenciárias (DEMAIS DÉBITOS) oriundas de parcelamentos excluídos (L12996-RFB-DEMAIS e L11941-RFB-DEMAIS-Art.1º)",
+  "Parágrafo primeiro (Quarto Aditivo): Para a inclusão dos novos débitos não previdenciários (DEMAIS DÉBITOS), está formalizada a conta SISPAR nº. 4634076, modalidade DEMAIS DÉBITOS, com as mesmas condições de desconto e prazo total de parcelamento da conta 4406951, sendo as parcelas da nova conta escalonadas na mesma proporção do escalonamento da referida conta 4406951, conforme previsão da Cláusula 4ª, Parágrafo segundo, do Termo de Transação Individual"
+ ],
+ "sector": "Engenharia/Construção",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "modality": 0.7,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "judicial_recovery": 0.0,
+  "sector": 0.3,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "judicial_recovery",
+  "sector",
+  "guarantees",
+  "discounts"
+ ],
+ "id": "a27787ef3e95",
+ "title": "Terceiro Termo Aditivo - Geosistemas",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/terceiro-termo-aditivo-geosistemas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/terceiro-termo-aditivo-geosistemas.pdf",
+ "sha256": "48dd2d4c541b6b81f416379baf687dbfc506d3e1e94e94a87c41fb13fb0e5586",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

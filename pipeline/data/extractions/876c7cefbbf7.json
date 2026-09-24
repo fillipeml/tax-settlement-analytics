@@ -1,0 +1,80 @@
+{
+ "taxpayer": "NIGRO ALUMÍNIO LTDA",
+ "approval_date": "2023-02-16",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": 65.0,
+  "interest_pct": 65.0,
+  "charges_pct": 65.0
+ },
+ "installments": 108,
+ "down_payment_pct": 5.0,
+ "guarantees": [
+  "Imóvel objeto das matrículas nº 1.394, 5.650, 153.412, 33.339, 15.976, 132.236 e 153.413 do 1º Registro de Imóveis de Araraquara-SP, avaliado em R$ 25.116.243,00",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em execuções fiscais/ações judiciais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar/dissimular bens, direitos e valores",
+  "Declarar que não alienou/onerou bens para frustrar recuperação dos créditos inscritos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar ou reduzir capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos fiscais, inclusive de prejuízo fiscal e base negativa de CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação, desistir de impugnações/recursos/ações e renunciar aos direitos",
+  "Oferecer à penhora o imóvel indicado em até 60 dias"
+ ],
+ "special_clauses": [
+  "Direcionamento de eventuais créditos (precatórios, depósitos judiciais) para amortização dos saldos devedores da Transação",
+  "Conversão imediata de depósitos judiciais vinculados aos débitos em pagamento definitivo ou renda da União antes da consolidação da conta de Transação",
+  "Vedação de nova transação por 2 anos em caso de rescisão"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.95,
+  "modality": 0.85,
+  "sector": 0.2,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.3,
+  "discounts.fine_pct": 0.8,
+  "discounts.interest_pct": 0.8,
+  "discounts.charges_pct": 0.8,
+  "down_payment_pct": 0.9,
+  "installments": 0.85,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "down_payment_pct": "Entrada de 5% da dívida sem descontos e parcelamento do saldo devido em até 108 (cento e oito) prestações mensais e sucessivas",
+  "installments": "parcelamento do saldo devido em até 108 (cento e oito) prestações mensais e sucessivas, conforme Anexo II",
+  "discounts.fine_pct": "Na modalidade DEMAIS, desconto máximo de até 65% (sessenta e cinco por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "judicial_recovery",
+  "modality"
+ ],
+ "id": "876c7cefbbf7",
+ "title": "Termo de Transação Individual - Nigro Alumínio LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualNigroAlumnioLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualNigroAlumnioLTDA.pdf",
+ "sha256": "72c2427938e49dd34a7a6b5fa1247a21580616ee8b3c7dc9eff7966f3f22f4bc",
+ "extracted_at": "2026-07-22T14:22:49+00:00",
+ "simulated": false
+}

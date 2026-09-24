@@ -1,0 +1,84 @@
+{
+ "taxpayer": "OMEGA CONSTRUTORA E LOCADORA DE EQUIPAMENTOS LTDA",
+ "approval_date": "2024-04-10",
+ "consolidated_amount": 26229136.89,
+ "modality": "Transação individual",
+ "total_discount_pct": 50.79,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens móveis (Veículos) - avaliação total R$ 7.296.000,00 (ANEXO II)",
+  "Hipoteca ou penhora sobre bens do ANEXO II (Cláusula 12)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar irrevogável e irretratavelmente os débitos do ANEXO I",
+  "Renunciar a alegações de direito sobre os créditos do ANEXO I",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa após assinatura no prazo de 90 dias",
+  "Manter as garantias oferecidas até integral cumprimento",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado",
+  "Anuir com eventual modificação de competência para reunião de processos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva",
+  "Não utilizar pessoa interposta para ocultar bens/direitos",
+  "Declarar não possuir precatório federal ou outros créditos líquidos e certos contra a União",
+  "Autorizar compensação de valores de restituições/ressarcimentos com prestações do acordo",
+  "Desistir de impugnações e recursos administrativos e ações judiciais no prazo de 30 dias",
+  "Efetuar registro de hipoteca ou penhora sobre os bens em garantia no prazo de 90 dias",
+  "Manter em dia pagamento de impostos e taxas sobre imóvel dado em garantia",
+  "Substituir bem em garantia em caso de perecimento/deterioração significativa no prazo de 15 dias"
+ ],
+ "special_clauses": [
+  "Flexibilização das regras para aceitação, avaliação, substituição e liberação de garantias (Cláusula 1, IV)",
+  "Flexibilização das regras para constrição ou alienação de bens (Cláusula 1, V)",
+  "Possibilidade de utilização de créditos líquidos e certos decorrentes de decisões transitadas em julgado (art. 100, §11, CF) (Cláusula 1, VI)",
+  "Produto da venda dos imóveis do ANEXO II destinado à quitação do plano de pagamentos (Cláusula 6)",
+  "Venda direta por iniciativa particular via plataforma COMPREI/PGFN subsidiariamente (Cláusula 7)",
+  "FAZENDA NACIONAL nomeada procuradora para receber indenização em caso de desapropriação do imóvel em garantia (Cláusula 16)"
+ ],
+ "sector": "Construção civil / Locação de equipamentos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.8,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam R$ 26..229.136,89, atualizado no mês de março/2024",
+  "total_discount_pct": "Total R$ 26.229.136,89 ... Total R$ 12.909.056,34",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (demais) será de 120 (cento e vinte) meses, enquanto que o prazo para os débitos previdenciários será de 60 (sessenta) meses"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "04569fd8e44d",
+ "title": "Termo de Transação Individual - Ômega Construtora e Locadora de Equipamentos LTDA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualmegaConstrutoraeLocadoradeEquipamentosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualmegaConstrutoraeLocadoradeEquipamentosLTDA.pdf",
+ "sha256": "d55c2fc502d7c1af329a55bfcd620b8db650eb10158ec589420855a22d6daabe",
+ "extracted_at": "2026-07-22T14:22:25+00:00",
+ "simulated": false
+}

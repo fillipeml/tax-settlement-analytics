@@ -1,0 +1,67 @@
+{
+ "taxpayer": "CIA USINA BULHÕES e outras (grupo econômico: Souza Beltrão Administração Participação Ltda, Camaçari Agroindustrial Ltda, Duas Unas Empreendimentos Imobiliários Ltda)",
+ "approval_date": "2023-10-02",
+ "consolidated_amount": 6231251.86,
+ "modality": "Transação Individual (Primeiro Termo Aditivo) - Modalidades 7, 20 e 22 (créditos de FGTS e Contribuição Social)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Recolher mensalmente os documentos de arrecadação relativos a cada uma das contas formalizadas no sistema informatizado",
+  "Realizar os pagamentos por meio de documento de arrecadação emitido pela Caixa Econômica Federal"
+ ],
+ "special_clauses": [
+  "Inclusão de créditos de FGTS e Contribuição Social da Lei nº 10/2001 no acordo de transação individual já firmado em 19/01/2022",
+  "Formalização de 4 contas de transação operacionalizadas pela CAIXA Econômica Federal",
+  "Todas as contas compõem uma transação única - inadimplência em qualquer conta implica inadimplência de toda a transação",
+  "Parcelamento de Juros/Multa/Encargos será iniciado após o pagamento do parcelamento do valor principal (Modalidade 20)"
+ ],
+ "sector": "Agroindústria/Sucroalcooleiro",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.7,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.5,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "CSPE201900456 110.539,20; FGPE199800098 2.164.310,64; FGPE200100814 3.574,16; FGPE201900455 1.359.234,89; CSPE200900827 63.528,44; FGPE200900825 434.103,15; FGPE200900826 1.026.676,38; FGPE201100336 599.899,27; FGPE201200257 914.777,41; FGPE201600567 64.756,75; FGPE201600568 4.231,78 *Valores referentes ao mês de agosto de 2023"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector",
+  "guarantees",
+  "consolidated_amount"
+ ],
+ "id": "473389e2afbc",
+ "title": "Termo de Transação Individual - Aditivo -  Cia Usina Bulhôes,  Souza Beltrão Administração, Participação LTDA, Camaçari Agroindustrial LTDA e Duas Unas Empreendimentos Imobiliários LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualAditivoCiaUsinaBulhesSouzaBeltroAdministraoParticipaoLTDACamaariAgroindustrialLTDAeDuasUnasEmpreendimentosImobiliriosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualAditivoCiaUsinaBulhesSouzaBeltroAdministraoParticipaoLTDACamaariAgroindustrialLTDAeDuasUnasEmpreendimentosImobiliriosLTDA.pdf",
+ "sha256": "0ea754ed4cb2de5a9bbb3cf2e7e594ec73bf35d5f6ab0a6cace42323ebe5c603",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

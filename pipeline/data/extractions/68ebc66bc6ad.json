@@ -1,0 +1,82 @@
+{
+ "taxpayer": "TRANSPORTADORA CORTES LTDA – EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "Not identified",
+ "consolidated_amount": 162389053.38,
+ "modality": "Transação Individual (modalidades DEMAIS e PREV)",
+ "total_discount_pct": 60.82,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis matriculados sob os nº 65.609; 67.485; 21.847; e 67.486 do RGI do Guarujá",
+  "Manutenção das garantias dos débitos eventualmente existentes até a quitação integral do saldo devedor"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Regularizar a integralidade do passivo de FGTS, no prazo de 3 meses, renováveis por 3 meses",
+  "Declarar que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a Transação",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos fiscais, inclusive comprobatórios de prejuízo fiscal e base negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Manter-se optante pelo regime de lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Parcelamento com início 60 dias após autorização de venda do imóvel Matrícula 9.987 do 1º RGI de Santos pelo Juízo da Recuperação Judicial – 4ª Vara Cível do Guarujá",
+  "Utilização de crédito de R$ 34.811.216,66 a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL suspensa até confirmação pela autoridade competente, dentro do prazo de 5 anos",
+  "Modalidade PREV com parcelamento em prestação única"
+ ],
+ "sector": "Transporte/logística",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.95,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total R$ 162.389.053,38 (DEMAIS R$ 75.669.252,45 + PREV R$ 86.719.800,93)",
+  "total_discount_pct": "Desconto efetivo MÉDIO 60,82%",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 120 (cento e vinte) prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "approval_date",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "68ebc66bc6ad",
+ "title": "Termo de Transação Individual - Transportadora Cortes LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTransportadoraCortesLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTransportadoraCortesLTDATarjado.pdf",
+ "sha256": "8b765e86e70f3f1f6111376a86a55424e703e03204e4bc7778dbbc2ec8afdd40",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

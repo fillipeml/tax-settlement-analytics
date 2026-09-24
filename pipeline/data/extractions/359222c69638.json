@@ -1,0 +1,78 @@
+{
+ "taxpayer": "BRAZIL TRADING LTDA",
+ "approval_date": "2023-08-10",
+ "consolidated_amount": 1068725172.3,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": 3.0,
+ "guarantees": [
+  "Imóvel (terreno com construção comercial) situado na Avenida Anhanguera, Bairro Rodoviário, Goiânia/GO",
+  "Imóvel lote nº 13, quadra K, loteamento Jardim Adalgisa II, Osasco/SP",
+  "2% da receita bruta mensal da DEVEDORA (penhora de faturamento)",
+  "Seguro-garantia no valor de R$ 300.000.000,00, apólice BMG Seguros"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações administrativas ou judiciais relativas à dívida transacionada",
+  "Confissão irrevogável e irretratável da dívida",
+  "Manutenção de livros e documentos comprobatórios dos créditos de prejuízo fiscal/CSLL por até 5 anos",
+  "Pagamento regular dos tributos federais, estaduais e municipais sobre os imóveis dados em garantia",
+  "Não alienar bens sem comunicação à Fazenda Nacional",
+  "Permanecer nos parcelamentos já aderidos",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa no prazo de 90 dias",
+  "Manter regularidade perante o FGTS e individualizar valores recolhidos",
+  "Apresentar laudo de avaliação atualizado dos imóveis em garantia no prazo de 90 dias",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado pela CREDORA"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação de até 25% do saldo remanescente",
+  "Possibilidade de alienação dos imóveis dados em garantia mediante anuência da CREDORA",
+  "Compensação de precatórios federais e restituições/ressarcimentos com prestações do acordo",
+  "Cláusula de desapropriação total ou parcial dos imóveis em garantia, com a CREDORA como procuradora para receber indenização"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.3,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.95,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizando R$ 1.068.725.172,30 (Um bilhão, sessenta e oito milhões, setecentos e vinte e cinco mil, cento e setenta e dois reais, trinta centavos), atualizados em 08.2023",
+  "total_discount_pct": "Concessão do desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a Dívida Transacionada de natureza não-previdenciária pertencente à FAZENDA NACIONAL",
+  "installments": "Pagamento do saldo remanescente a ser efetuado em 108 (cento e oito) prestações mensais e sucessivas",
+  "down_payment_pct": "Pagamento de entrada correspondente a 3% do valor consolidado do débito, sem desconto, em 12 (doze) parcelas mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "359222c69638",
+ "title": "Termo de Transação Individual - Brazil Trading LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualBrazilTradingLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualBrazilTradingLTDAtarjado.pdf",
+ "sha256": "c87a25c6f590da9aa6d40e7ba1a777a2377d527526e5a680e33a6eab2d3c8524",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

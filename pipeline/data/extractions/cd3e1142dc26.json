@@ -1,0 +1,65 @@
+{
+ "taxpayer": "GOL LINHAS AEREAS S.A.",
+ "approval_date": "Not identified",
+ "consolidated_amount": 1157208751.3,
+ "modality": "Transação individual (débitos inscritos em DAU previdenciários e não previdenciários, incluindo reparcelamento de confissão de débitos e débitos objeto de procedimentos administrativos/processos judiciais)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão de débitos - REPARCELAMENTO CONFISSÃO DE DÉBITOS 025/DECEA/2021",
+  "Confissão e declaração à RFB, no prazo de 30 dias a contar da assinatura do termo, dos débitos com fato gerador anterior à assinatura relacionados no Anexo IV (IRPJ/CSLL Estimativa; IRPJ/CSLL Anual decorrente da inclusão do Processo Administrativo nº 16561.720033/2018-91; IR sobre contraprestação de arrendamento operacional de aeronaves e motores; IR sobre juros de operações de mútuo; PIS e COFINS reflexos de autos de infração)"
+ ],
+ "special_clauses": [
+  "Anexo III relaciona débitos objeto de procedimentos administrativos (parcelamentos, PERDCOMP's) e processos judiciais que serão incluídos na transação se e quando inscritos em DAU",
+  "Anexo IV relaciona débitos com fato gerador anterior à assinatura do Termo, a serem confessados e declarados à RFB no prazo de 30 dias, que serão incluídos na transação se e quando inscritos em DAU",
+  "Anexo I relaciona inscrições em DAU previdenciárias objeto do acordo (8 inscrições em nome de GOL LINHAS AEREAS S.A., CNPJ 07.575.651/0001-59)",
+  "Anexo V relaciona passivo transacionado detalhado por processo/CDA com valores de principal, multa, juros e descontos aplicados"
+ ],
+ "sector": "Aviação civil / transporte aéreo",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.8,
+  "modality": 0.6,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.55,
+  "installments": 0.85,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.0,
+  "obligations": 0.6,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "ALTERAR VALOR CONFORME BOLETO 1.157.208.751,30",
+  "installments": "REPARCELAMENTO CONFISSÃO DE DÉBITOS 025/DECEA/2021 - PARCELA 1 DE 60 ... PARCELA 60 DE 60"
+ },
+ "review_fields": [
+  "approval_date",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "judicial_recovery",
+  "modality",
+  "obligations",
+  "sector"
+ ],
+ "id": "cd3e1142dc26",
+ "title": "Anexo I",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/AnexoIcompactado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/AnexoIcompactado.pdf",
+ "sha256": "e9b99f14404fa6b437abda43e0d10afa172f7d37e5180c8d8bffa12a316731a8",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

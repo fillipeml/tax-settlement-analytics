@@ -1,0 +1,78 @@
+{
+ "taxpayer": "RODOVIÁRIO TRANSBUENO LIMITADA",
+ "approval_date": "2023-03-04",
+ "consolidated_amount": 90826757.48,
+ "modality": "Transação Individual",
+ "total_discount_pct": 59.73,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 55,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Imóvel - matrícula 19.039 (Jacareí/SP)",
+  "Imóvel - matrícula 24.312 (Jacareí/SP)",
+  "Imóvel - matrícula 15.941 (Jacareí/SP)",
+  "Imóvel - matrícula 7.274 (Jacareí/SP)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicar a Fazenda Nacional",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir de ações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 70% do saldo da dívida após aplicação dos descontos",
+  "Cobrança do saldo liquidado com uso de créditos de PF/BCN suspensa até confirmação pela autoridade competente, dentro do prazo de 5 anos",
+  "Desconto máximo de 65% por CDA, vedada redução do montante principal"
+ ],
+ "sector": "Transporte rodoviário",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "approval_date": 1.0,
+  "modality": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "installments": 1.0,
+  "down_payment_pct": 1.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 1.0,
+  "obligations": 0.95,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 90.826.757,48 (noventa milhões, oitocentos e vinte e seis mil, setecentos e cinquenta e sete reais e quarenta e oito centavos)",
+  "total_discount_pct": "resultando em um desconto médio global de 59,73% (cinquenta e nove vírgula setenta e três por cento) aplicado a todo o passivo transacionado",
+  "installments": "em 55 (cinquenta e cinco) prestações mensais iguais e sucessivas, na forma discriminada no Anexo Il"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "02fdca9f2ab4",
+ "title": "Termo de Transação Individual - Rodoviário Transbueno Limitada",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRodovirioTransbuenoLimitada.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRodovirioTransbuenoLimitada.pdf",
+ "sha256": "f57755e1206a6bfe1643dd8b543ed526bd00dd0baaa45cb34bae62535b7f479b",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

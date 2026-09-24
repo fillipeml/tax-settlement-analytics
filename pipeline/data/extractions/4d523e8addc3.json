@@ -1,0 +1,51 @@
+{
+ "taxpayer": "Coopecardio - Cooperativa de Trabalho dos Médicos Cardiologistas de Pernambuco, CNPJ n. 00.599.741/0001-30",
+ "approval_date": "Not identified",
+ "consolidated_amount": 10846571.65,
+ "modality": "Transação Individual",
+ "total_discount_pct": 58.7,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 50,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Manutenção de eventuais garantias eventualmente existentes nos processos em curso"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Saúde (cooperativa médica - cardiologia)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.9,
+  "down_payment_pct": 0.9,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada Total: R$ 10.846.571,65 ... Demais débitos: R$ 10.846.571,65",
+  "total_discount_pct": "Desconto efetivo médio Total: 58,70 ... Demais débitos: 58,70%",
+  "installments": "Número de parcelas Previdenciária: prejudicado / Demais débitos: 50 / Simples Nacional: prejudicado",
+  "down_payment_pct": "Exigência de entrada: Não"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector"
+ ],
+ "id": "4d523e8addc3",
+ "title": "Sumário - Coopecardio — Cooperativa de Trabalho dos Médicos Cardiologistas de Pernambuco",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/SumrioCoopecardioCooperativadeTrabalhodosMdicosCardiologistasdePernambuco.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/SumrioCoopecardioCooperativadeTrabalhodosMdicosCardiologistasdePernambuco.pdf",
+ "sha256": "10b34770b1bade0e0e17a435de4b5aedead6ea5a92aa484ff08ad8b5f69863c2",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

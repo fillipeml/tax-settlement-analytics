@@ -1,0 +1,82 @@
+{
+ "taxpayer": "Metalúrgica Buzin Ltda",
+ "approval_date": "2021-10-29",
+ "consolidated_amount": null,
+ "modality": "Transação individual tributária - Plano de Pagamento Parcelado do Débito Fiscal",
+ "total_discount_pct": 45.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens listados no Anexo V (não detalhados no corpo do texto)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PFN conhecer sua situação econômica",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria PGFN 9.917/20",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais quando envolver capacidade de pagamento",
+  "Manter regularidade perante o FGTS e proceder à individualização dos valores recolhidos nas contas vinculadas dos trabalhadores",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após a formalização do acordo",
+  "Manter em dia o pagamento de todos os impostos, taxas e demais tributos incidentes sobre os bens dados em garantia",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil ou demonstrações complementares",
+  "Peticionar nos processos judiciais noticiando a celebração da transação tributária",
+  "Apresentar petição nas execuções fiscais listadas requerendo apensamento dos processos e constrição dos bens em garantia"
+ ],
+ "special_clauses": [
+  "Desconto máximo de 45% por inscrição, observados os limites do §2º do art. 11 da Lei 13.988/20 (Anexo I, exceto FGTS - 84 parcelas)",
+  "Plano relativo ao FGTS: desconto máximo de 28,86% em até 48 parcelas (cálculo apresentado pela Caixa Econômica Federal)",
+  "Plano relativo às inscrições do Anexo II: pagamento em 60 parcelas mensais, desconto máximo de 45% por inscrição",
+  "Não abrange inscrições de Contribuição Social dos artigos 1º e 2º da LC 110/2001",
+  "Débito CSRS202000357 e correlatos devem ser regularizados pelo devedor no prazo de 30 dias",
+  "Créditos líquidos e certos de ações judiciais favoráveis ao devedor podem ser usados para pagamento das parcelas finais, se houver disponibilidade financeira",
+  "Cláusula de flexibilização/substituição de garantia em caso de desapropriação, perecimento, depreciação ou deterioração que reduza significativamente (>20%) o valor do bem, no prazo de 30 dias",
+  "Necessidade de autorização judicial para garantia envolvendo bens de terceiros, sob pena de rescisão"
+ ],
+ "sector": "Metalúrgica/Industrial",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.4,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.75,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "total_discount_pct": "sendo concedido o desconto máximo de 45% por inscrição, observados os limites do §2º do art. 11 da Lei n. 13.988/20",
+  "installments": "serão objeto de plano de pagamento em 84 (oitenta e quatro) amortizações mensais e sucessivas, conforme valores estipulados no Anexo IV"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "8495d4dcc8e6",
+ "title": "Termo de Transação Individual - Metalúrgica Buzin LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/termo-de-transacao-individual-metarlugica-buzin-ltda.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/termo-de-transacao-individual-metarlugica-buzin-ltda.pdf",
+ "sha256": "b43af917d6f1935f8822306264652a601b5f474ab6cb562daa6c4b3d42d5449b",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

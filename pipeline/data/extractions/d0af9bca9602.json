@@ -1,0 +1,80 @@
+{
+ "taxpayer": "ARMAVALE - ARMAZENS GERAIS DO VALE DO PARAÍBA LTDA",
+ "approval_date": "2024-03-14",
+ "consolidated_amount": null,
+ "modality": "Transação individual (DEMAIS e PREV)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bem imóvel matriculado sob o nº 43.404, no CRI da Comarca de Jacareí, São Paulo, de propriedade da Requerente"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Declarar que preenchem os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva",
+  "Declarar que não utiliza pessoa interposta para ocultar bens",
+  "Declarar que não alienou ou onerou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Regularizar em 30 dias saldo decorrente de reconsolidação",
+  "Não alienar bens que possam inviabilizar capacidade de pagamento sem comunicar à Fazenda Nacional",
+  "Manter-se regular e em dia com Transações e Parcelamentos",
+  "Manter por 5 anos livros e documentos fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa de CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo",
+  "Formalizar garantia oferecida em 30 dias, mediante oferecimento do bem à penhora",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor após aplicação dos descontos em 15,78% para modalidade DEMAIS DÉBITOS",
+  "Possibilidade de alienação do bem imóvel dado em garantia mediante prévia anuência da Fazenda Nacional, com uso do sistema COMPREI",
+  "Consideração da situação de Recuperação Judicial do Requerente e rating D para concessão das condições da transação",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL ficará suspensa até confirmação dos créditos pela autoridade competente, prazo de 5 anos"
+ ],
+ "sector": "Armazéns gerais/logística (agronegócio)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts": 0.3,
+  "judicial_recovery": 1.0,
+  "guarantees": 0.9,
+  "obligations": 0.95,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Na modalidade DEMAIS, desconto máximo de até 65% (sessenta por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 120 prestações mensais e sucessivas, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "d0af9bca9602",
+ "title": "Termo de Transação Indivudual - Armavale Armazens Gerais do Vale do Paraíba LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndivudualArmavaleArmazensGeraisdoValedoParabaLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndivudualArmavaleArmazensGeraisdoValedoParabaLTDAtarjado.pdf",
+ "sha256": "eca975475a03e08f15bc89dd2f2f37d6005a2d14289ebfc0fe2764c29beb0b88",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

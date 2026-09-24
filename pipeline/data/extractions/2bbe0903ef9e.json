@@ -1,0 +1,57 @@
+{
+ "taxpayer": "ROYAL FIC DISTRIBUIDORA DE DERIVADOS DE PETRÓLEO S.A",
+ "approval_date": "2022-05-03",
+ "consolidated_amount": null,
+ "modality": "Transação individual (Aditivo à Transação Individual)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Nos 30 (trinta) dias subsequentes à assinatura deste Termo, o REQUERENTE deverá peticionar nas Execuções Fiscais relativas aos débitos transacionados para noticiar aos juízos a celebração do presente ADITIVO."
+ ],
+ "special_clauses": [
+  "Aditivo altera apenas os valores das prestações mensais, com vencimento a partir de março/2022 (prestação nº 21 do plano de pagamento), passando a progressão das prestações prevista na Tabela 3 da cláusula 3.3 do Termo de Transação Individual original a vigorar com nova redação (valores tarjados no documento)."
+ ],
+ "sector": "Distribuição de derivados de petróleo",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.65,
+  "down_payment_pct": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.8,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "installments": "Tabela 3: PLANO DE PAGAMENTO MENSAL – PROGRESSÃO DAS PRESTAÇÕES ... Faixas 1 a 10, nº da prestação inicial 01, nº da prestação final 84"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "2bbe0903ef9e",
+ "title": "Termo Aditivo - Royal Fic",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/ADITIVOtransaoindividualROYAL.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/ADITIVOtransaoindividualROYAL.pdf",
+ "sha256": "1b1fe88baca8b1d0386f6162ea5857ba6219e3587ab4f8de4541419de9b52b06",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

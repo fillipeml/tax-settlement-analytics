@@ -1,0 +1,75 @@
+{
+ "taxpayer": "REATA CITRUS AGRO INDUSTRIA LTDA",
+ "approval_date": "2024-04-30",
+ "consolidated_amount": 2674770.85,
+ "modality": "Transação Individual",
+ "total_discount_pct": 44.58,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": false,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta para ocultar ou dissimular bens, direitos e valores",
+  "Declarar que não alienaram ou oneraram bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Reconhecer responsabilidade solidária pela totalidade dos débitos transacionados",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da Transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Desconto máximo de 46,96% a cada uma das CDAs, vedada a redução do montante principal, aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 70% do saldo da dívida após a aplicação dos descontos, tendo sido concedida amortização de aproximadamente 63,91% sobre o saldo devedor",
+  "Não haverá oferta de garantia vinculada à presente Transação, considerando a redução considerável do prazo para pagamento"
+ ],
+ "sector": "Agronegócio",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.9,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.5,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 2.674.770,85 (Dois milhões, seiscentos e setenta e quatro mil, setecentos e setenta reais e oitenta e cinco centavos) (Valores atualizados para março de 2024)",
+  "total_discount_pct": "o que implica numa média concedida aproximada de 44,58% (quarenta e quatro vírgula cinquenta e oito por cento) no presente acordo",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária ('Dívida Transacionada – Demais Débitos') à vista em parcela única e a de natureza previdenciária ('Dívida Transacionada - Previdenciária') em 36 (trinta e seis) prestações iguais e sucessivas, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "sector",
+  "judicial_recovery",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "56cf3302eccd",
+ "title": "Termo de Transação Individual - Reata Citrus Agro Indústria LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualReataCitrusAgroIndstriaLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualReataCitrusAgroIndstriaLTDATarjado.pdf",
+ "sha256": "2b9610cdb66b728221e776c54e8966dd234db29fc9dbb26a3274a90bdc999922",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

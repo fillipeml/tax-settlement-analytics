@@ -1,0 +1,63 @@
+{
+ "taxpayer": "SINA INDÚSTRIA DE ALIMENTOS LTDA. e outras (grupo SINA/FAS/FAMA)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 1371121742.05,
+ "modality": "Transação individual",
+ "total_discount_pct": 59.82,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Manutenção de eventuais garantias eventualmente existentes nos processos em curso",
+  "Imóveis (residenciais, comerciais e UPI)",
+  "Direito creditório reconhecido em sentença (ICMS base PIS/COFINS)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [
+  "Parcelas Lineares = PREV; Escalonadas = DEMAIS",
+  "Direito creditório reconhecido em sentença (ICMS base PIS/COFINS) como garantia"
+ ],
+ "sector": "Alimentos",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "approval_date": 0.2,
+  "modality": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.7,
+  "down_payment_pct": 0.9,
+  "discounts": 0.2,
+  "guarantees": 0.85,
+  "obligations": 0.3,
+  "judicial_recovery": 0.9,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada: Total: R$ 1.371.121.742,05",
+  "total_discount_pct": "Desconto efetivo médio: Total: 59,82%",
+  "installments": "Número de parcelas: Previdenciária: 60 / Demais débitos: 120"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "obligations"
+ ],
+ "id": "5e7d35ef6fb3",
+ "title": "Termo de Transação Individual - Sina Indústria de Alimentos LTDA - Sumário",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSinaIndstriadeAlimentosLTDASumrioTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSinaIndstriadeAlimentosLTDASumrioTarjado.pdf",
+ "sha256": "b71f0e1afa202b27f111dba5d4728b5e6a53a06ec9e79bf411c3067dfc394d94",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

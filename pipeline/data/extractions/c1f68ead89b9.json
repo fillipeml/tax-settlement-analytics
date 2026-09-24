@@ -1,0 +1,79 @@
+{
+ "taxpayer": "MINERAÇÃO MÔNEGO LTDA",
+ "approval_date": "2023-09-11",
+ "consolidated_amount": 101268622.57,
+ "modality": "Transação Individual",
+ "total_discount_pct": 41.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis descritos no Anexo V, objeto de penhora nas execuções fiscais"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar a recuperação dos créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de ativo não circulante",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN nº 6757/22",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito e desistir de ações/recursos relativos aos créditos incluídos",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos ou se tornarem exigíveis",
+  "Manter livros e documentos fiscais por 5 anos em razão do uso de créditos de PF/BCN",
+  "Individualizar valores recolhidos ao FGTS nas contas vinculadas dos trabalhadores",
+  "Formalizar penhora dos imóveis em garantia no prazo de 90 dias",
+  "Peticionar nos processos judiciais no prazo de até 60 dias noticiando a transação",
+  "Apresentar situação econômico-financeira sempre que solicitado pela PGFN",
+  "Manter obrigações tributárias correntes e acessórias",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições"
+ ],
+ "special_clauses": [
+  "Uso de créditos de prejuízo fiscal (PF) e base de cálculo negativa de CSLL (BCN) exclusivamente na conta previdenciária, sujeito a homologação em até 5 anos pela RFB",
+  "Valores depositados em juízo (exceto autos nº 5065637-63.2021.404.7100) serão aproveitados no saldo da negociação",
+  "Montante depositado nos autos nº 5065637-63.2021.404.7100 será usado para quitação da conta de transação CSRS e primeira parcela da conta FGRS",
+  "Rating de classificação de recuperabilidade da devedora é 'C'"
+ ],
+ "sector": "Mineração",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.8,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.7,
+  "judicial_recovery": 0.5
+ },
+ "source_excerpts": {
+  "consolidated_amount": "cujo montante totaliza em setembro/2023 – R$ 101.268.622,57 (cento e um milhões, duzentos e sessenta e oito centavos, seiscentos e vinte e dois reais e cinquenta e sete centavos)",
+  "total_discount_pct": "Sobre as inscrições indicadas no anexo I será aplicado desconto médio de 41%, observados os limites do §2º do art. 11 da Lei n. 13.988/20",
+  "installments": "o saldo restante será objeto de plano de pagamento em 120 (sessenta) amortizações escalonadas, mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "c1f68ead89b9",
+ "title": "Termo de Transação Individual - Mineração Mônego LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/copy_of_TermodeTransacaoIndividualMineracaoMonegoLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/copy_of_TermodeTransacaoIndividualMineracaoMonegoLTDA.pdf",
+ "sha256": "fe22e9578598b20ff6dfef738036ec31820e058f85f3518f38a97a7f7acd934a",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

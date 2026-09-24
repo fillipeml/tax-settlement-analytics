@@ -1,0 +1,77 @@
+{
+ "taxpayer": "GRAFICA SANTA CRUZ LTDA",
+ "approval_date": "2024-03-21",
+ "consolidated_amount": 55050530.69,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "10% de recebíveis oriundos dos direitos de crédito do devedor junto aos clientes/credores",
+  "Imóveis (terreno e imóveis diversos em Mendes/RJ) - detalhados em tabela",
+  "Equipamentos industriais (impressoras, corte e vinco, coladeiras, guilhotina, etc.) - detalhados em tabela"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações judiciais/administrativas relativas à Dívida Transacionada",
+  "Manter regime de apuração de IRPJ pelo lucro real até extinção da Dívida Transacionada",
+  "Manter livros e documentos comprobatórios dos créditos de prejuízo fiscal/CSLL por até 5 anos",
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens/valores",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa no prazo de 90 dias",
+  "Manter regularidade perante o FGTS",
+  "Comunicar alterações societárias no prazo de 30 dias"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação de até 50% do saldo remanescente",
+  "Possibilidade de desoneração ou substituição de garantias mediante requerimento administrativo",
+  "Compensação de restituições, ressarcimentos, reembolsos ou precatórios federais com prestações do acordo"
+ ],
+ "sector": "Gráfica/Indústria gráfica",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.8,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Das inscrições previdenciárias, constantes do ANEXO I, totalizando R$6.916.597,82 ... Das inscrições não previdenciárias, constantes do ANEXO II, totalizando R$ 48.133.932,87",
+  "total_discount_pct": "Concessão do desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento do saldo remanescente dos débitos de natureza não previdenciária efetuado em 120 (cento e vinte) meses, por meio de parcelas lineares"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "approval_date"
+ ],
+ "id": "b82580e1a7fc",
+ "title": "Termo de Transação Individual - Gráfica Santa Cruz",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualGraficaSantaCruztarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualGraficaSantaCruztarjado.pdf",
+ "sha256": "9949be85e5f5469f4f94cfb837598f51cab0239d99808e71d90c8e202728c95c",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

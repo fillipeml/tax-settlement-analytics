@@ -1,0 +1,80 @@
+{
+ "taxpayer": "APPA SERVIÇOS TEMPORÁRIOS E EFETIVOS LTDA e outras (grupo econômico com várias empresas de terceirização de serviços e pessoas físicas - dados tarjados)",
+ "approval_date": "2024-08-19",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis listados no Anexo IV, já arrolados na medida cautelar fiscal nº 5000418-37.2022.403.6182, no valor total de R$157.483.744,00",
+  "Recebíveis oriundos do contrato derivado do Registro de Preços nº 90002/2024 (processo administrativo nº 13032.99544/2024-71), no valor de R$30.024.983,64, firmado com a União Federal"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Declarar que preenche os requisitos da Lei nº 13.988/2020",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens, direitos ou valores",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam reduzir significativamente a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Peticionar em até 30 dias nos processos judiciais relativos à Dívida Transacionada para desistência, confissão e outras providências"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação dos imóveis dados em garantia mediante prévia anuência da Fazenda Nacional, com uso do sistema COMPREI da PGFN",
+  "Débitos ainda não inscritos (processos administrativos específicos) serão incluídos na transação quando da inscrição em dívida ativa",
+  "Execução automática de garantia sobre recebíveis: 5% dos pagamentos depositados judicialmente em caso de rescisão"
+ ],
+ "sector": "Serviços terceirizados/temporários",
+ "confidence": {
+  "taxpayer": 0.5,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.1,
+  "total_discount_pct": 0.1,
+  "down_payment_pct": 0.1,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.1,
+  "discounts.interest_pct": 0.1,
+  "discounts.charges_pct": 0.1,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.1,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais, escalonadas na forma discriminada no Anexo III",
+  "guarantees": "As Requerentes oferecem como garantia os imóveis, listados no Anexo IV, já listados na medida cautelar fiscal nº 5000418-37.2022.403.6182, no valor total de R$157.483.744,00, bem como outros bens arrolados no feito."
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "bbbe7427b414",
+ "title": "Transação Individual - Grupo Appa Serviços Temporários e Efetivos LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TransaoIndividualGrupoAppaServiosTemporrioseEfetivosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TransaoIndividualGrupoAppaServiosTemporrioseEfetivosLTDATarjado.pdf",
+ "sha256": "2ee120896ee892b57932f0833d0cdf99dcca325e44b6798c53d3e0192e30bb5b",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

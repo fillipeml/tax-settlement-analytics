@@ -1,0 +1,70 @@
+{
+ "taxpayer": "VIAÇÃO CIDADE DO AÇO LTDA - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-07-12",
+ "consolidated_amount": 37017499.81,
+ "modality": "Transação individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 70.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de propriedade da devedora, constante do anexo VI."
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Manter livros e documentos fiscais durante o período de análise dos créditos (cláusula 2.3)",
+  "Manter regime de apuração de IRPJ pelo lucro real até extinção da Dívida Transacionada (cláusula 2.4)",
+  "Comunicar alienação de bens (cláusula 5.6.1 e 5.7.2)",
+  "Não utilizar pessoa interposta para ocultar bens/direitos (cláusula 5.6.2 e 5.7.3)",
+  "Dar ciência de alterações societárias em 30 dias (cláusula 5.7.1)",
+  "Fornecer informações econômico-financeiras quando solicitado (cláusula 5.7.4)",
+  "Pagar, parcelar ou garantir novos débitos inscritos em DAU em até 90 dias (cláusula 5.7.8)",
+  "Manter regularidade perante o FGTS (cláusula 5.7.9)",
+  "Desistir de impugnações, recursos e ações judiciais relativas à dívida transacionada (cláusula 4.1 a 4.3)"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidar até 40% do saldo remanescente (cláusula 2.1.2)",
+  "Compensação de valores de restituições, ressarcimentos, reembolsos e precatórios federais com prestações do acordo (cláusulas 4.5 e 4.6)",
+  "Pagamento de débitos de FGTS à vista, sem desconto, em 30 dias após finalização de PRDIs específicos (cláusula 4.8)",
+  "Adesão do sistema COMPREI para eventual alienação de bens penhorados (cláusula 3.3.1)"
+ ],
+ "sector": "Transporte",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.85,
+  "installments": 0.85,
+  "down_payment_pct": 0.3,
+  "discounts": 0.6,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.95,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "1.2.1. Das inscrições previdenciárias, constantes do ANEXO I, totalizando R$ 5.461.420,61, atualizados em maio/2024; 1.2.2. Das inscrições não previdenciárias, constantes do ANEXO II, totalizando R$ 28.824.721,39, atualizados em maio/2024; 1.2.3. Da inscrição relativa ao Fundo de Garantia por Tempo de Serviço (FGTS), totalizando R$ 2.731.357,81, CDA nº FGRJ202100445, atualizados em maio/2024;",
+  "total_discount_pct": "2.1.1. Concessão do desconto máximo de 70% de desconto incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "2.1.4. Pagamento do saldo remanescente dos débitos de natureza não previdenciária efetuado em 120 (cento e vinte meses) meses, por meio de parcelas escalonadas da seguinte forma:"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "consolidated_amount"
+ ],
+ "id": "cad776a1e80b",
+ "title": "Termo de Transação Individual - Viação Cidade do Aço LTDA em recuperação judicial",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualViaoCidadedoAoLTDAemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualViaoCidadedoAoLTDAemrecuperaojudicialtarjado.pdf",
+ "sha256": "40027347fe19860cf15d6e93da6bdd184f073836148fba3149b8b826e4134f28",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

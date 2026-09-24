@@ -1,0 +1,62 @@
+{
+ "taxpayer": "CERMAG COMERCIAL IMPORTADORA E EXPORTADORA LTDA (CNPJ: 55.893.069/0001-83)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 99872716.77,
+ "modality": "Transação Individual",
+ "total_discount_pct": 61.63,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Precatório"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [
+  "Parcelas lineares",
+  "Exigência de entrada",
+  "Créditos de PF/BCN utilizados: R$ 1.493.929,05 (Demais débitos)"
+ ],
+ "sector": "Comércio importador/exportador",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.98,
+  "total_discount_pct": 0.98,
+  "installments": 0.95,
+  "down_payment_pct": 0.3,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.0,
+  "special_clauses": 0.7,
+  "judicial_recovery": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total: R$ 99.872.716,77",
+  "total_discount_pct": "Desconto efetivo médio Total: 61,63%",
+  "installments": "Demais débitos: 120"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "obligations"
+ ],
+ "id": "277bf51b824b",
+ "title": "Sumário - Cermag Comercial Importadora e Exportadora",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/copy_of_SumrioCermagComercialImportadoraeExportadora.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/copy_of_SumrioCermagComercialImportadoraeExportadora.pdf",
+ "sha256": "d6199a0b05f139bcb1c7d74cdcd9e7f46217801ba7788e5eed67f72aea1a75ec",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

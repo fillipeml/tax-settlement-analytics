@@ -1,0 +1,74 @@
+{
+ "taxpayer": "FIBRA CONSTRUTORA E INCORPORADORA LTDA (EM RECUPERACAO JUDICIAL)",
+ "approval_date": "2025-01-02",
+ "consolidated_amount": 5369559.69,
+ "modality": "Transação Individual - Plano de Regularização Fiscal (débitos previdenciários e não previdenciários), com fundamento nas Portarias PGFN nº 2.382/2020 e 6.757/2022",
+ "total_discount_pct": 50.31,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Área de terra medindo 1.458 hectares (avaliada em R$ 1.450.000,00)",
+  "Unidade autônoma nº 011-Restaurante (avaliada em R$ 1.270.000,00)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Peticionar em todas as execuções ajuizadas informando a oferta dos bens em garantia",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Não alienar, onerar ou ocultar bens com propósito de frustrar recuperação de créditos",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados/balanço contábil",
+  "Verter direitos creditórios supervenientes (precatórios, restituições tributárias) em proveito da transação",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos incluídos",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo"
+ ],
+ "special_clauses": [
+  "Reconhecimento de corresponsabilidade solidária entre integrantes da PARTE DEVEDORA como grupo econômico",
+  "Garantias ofertadas não configuram bens de capital essenciais ao cumprimento do plano de recuperação judicial (§2º Cláusula 4ª)",
+  "Venda de bens dados em garantia condicionada à aquiescência da Fazenda Nacional",
+  "Em caso de rescisão, alienação dos bens via sistema COMPREI com limite mínimo de 50% do valor de avaliação",
+  "Juros das prestações equivalentes à Selic acumulada mensalmente, mais 1% no mês do pagamento"
+ ],
+ "sector": "Construção civil/incorporação imobiliária",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.5,
+  "total_discount_pct": 0.6,
+  "installments": 0.7,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Consolidado 3.611.194,90",
+  "total_discount_pct": "50,31%",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 120"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "8f7337d8224f",
+ "title": "Termo de Transação Individual - Fibra Construtora e Incorporadora LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualFibraConstrutoraeIncorporadoraLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualFibraConstrutoraeIncorporadoraLTDATarjado.pdf",
+ "sha256": "33944c16fe4e85512c3544dc46bd84d5e422c38082d203a2cddcabb444fbad04",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

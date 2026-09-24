@@ -1,0 +1,84 @@
+{
+ "taxpayer": "GRUPO ISOLEV (ISOLEV INSTALAÇÕES LTDA e ISOLEV SOLUÇÕES EM CLIMATIZAÇÃO LTDA)",
+ "approval_date": "2024-04-04",
+ "consolidated_amount": 12005392.44,
+ "modality": "Transação Individual (modalidades DEMAIS e PREV)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas administrativamente ou em ações de execução fiscal/judicial",
+  "Fiança pessoal de JEFFERSON DAHER DAUD (Anexo II - Termo de Garantia Fidejussória), com renúncia ao benefício de ordem, garantindo o valor previsto nos itens 2.1.5 e 2.1.6, no montante atual de R$ 12.005.392,44"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar preenchimento dos requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não utilizar a transação de forma abusiva à livre concorrência",
+  "Declarar inexistência de interposição de pessoas para ocultar bens/valores",
+  "Declarar não ter alienado/onerado bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais/patrimoniais/econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Regularizar em 30 dias saldo decorrente de reconsolidação de débitos 'EM COBRANÇA'",
+  "Não alienar bens que possam inviabilizar pagamento sem comunicar a Fazenda Nacional",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos fiscais comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Manter-se optante pelo regime de lucro real durante a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização de 34,09% da dívida consolidada com desconto (item 2.1.5)",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL fica suspensa até confirmação pela autoridade competente, dentro do prazo legal de 5 anos (item 2.1.6)",
+  "Reconhecimento de corresponsabilidade solidária entre as Requerentes como mesmo grupo econômico, nos termos do art. 54, §4º, II da Portaria PGFN 6.757/2022",
+  "Fiança pessoal do sócio Jefferson Daher Daud com renúncia ao benefício de ordem, vinculada especificamente aos itens 2.1.5 e 2.1.6"
+ ],
+ "sector": "Instalações e climatização (engenharia/instalação de sistemas)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.85,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "em caso de descumprimento de acordo firmado junto a PROCURADORIA GERAL DA FAZENDA NACIONAL - PGFN, no montante atual de R$ 12.005.392,44 nos termos e condições estipuladas no referido Termo de Transação Individual",
+  "total_discount_pct": "Na modalidade DEMAIS, desconto máximo de até 65% (sessenta por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 84 prestações mensais e sucessivas, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "consolidated_amount"
+ ],
+ "id": "45fc323e55ab",
+ "title": "Termo de Transação Individual - Isolev Instalações LTDA, Isolev Soluções em Climatização LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIsolevInstalaesLTDAIsolevSoluesemClimatizaoLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIsolevInstalaesLTDAIsolevSoluesemClimatizaoLTDA.pdf",
+ "sha256": "438d2dbcd8d6f18e50778e177a12374b99a9cd75c5ed0fbd28d08c31739caffd",
+ "extracted_at": "2026-07-22T14:22:45+00:00",
+ "simulated": false
+}

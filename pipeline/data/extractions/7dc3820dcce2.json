@@ -1,0 +1,79 @@
+{
+ "taxpayer": "INCORPORADORA SÃO SIMÃO LTDA",
+ "approval_date": "2024-07-22",
+ "consolidated_amount": 29880380.92,
+ "modality": "Transação Individual - Plano de Regularização Fiscal",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": null,
+ "guarantees": [
+  "apartamento 401 do Edf. São Simão, Avenida Boa Viagem, 2316, Recife-PE, matrícula 87.775, avaliado em R$ 6.600.000,00",
+  "apartamento 501 do Edf. São Simão, Avenida Boa Viagem, 2316, Recife-PE, matrícula 87.776, avaliado em R$ 6.600.000,00",
+  "apartamento 601 do Edf. São Simão, Avenida Boa Viagem, 2316, Recife-PE, matrícula 87.777, avaliado em R$ 6.600.000,00",
+  "apartamento 901 do Edf. São Simão, Avenida Boa Viagem, 2316, Recife-PE, matrícula 87.779, avaliado em R$ 17.127.000,00",
+  "lote de terreno próprio nº 6, quadra A, Rua Ernesto de Paula Santos, Boa Viagem, Recife-PE, matrícula 36.016, avaliado em R$ 3.700.000,00",
+  "terreno de áreas próprias denominado 'Minas Pequeno' em Barra de Jangada - Jaboatão dos Guararapes-PE, matrícula 10.821, avaliado em R$ 29.000.000,00",
+  "lote de terreno próprio nº 6, quadra 56, loteamento Cidade Jardim Piedade, Rua Bacharel José Mário de Oliveira, Candeias - Jaboatão dos Guararapes-PE, matrícula 32.962, avaliado em R$ 500.000,00",
+  "terreno de gleba 'A', margem direita da BR-101, área total de 68.243 m², Jaboatão dos Guararapes-PE, matrícula 31.046, avaliado em R$ 31.000.000,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens",
+  "Pagar regularmente os tributos correntes",
+  "Apresentar situação econômico-financeira anualmente",
+  "Manter livros e documentos fiscais por 5 anos relativos a créditos de prejuízo fiscal e base negativa de CSLL",
+  "Permanecer ou retornar ao regime de tributação pelo lucro real durante 5 anos",
+  "Comprovar existência, regularidade escritural e disponibilidade dos créditos de prejuízo fiscal e base negativa de CSLL"
+ ],
+ "special_clauses": [
+  "Aproveitamento de crédito de prejuízo fiscal e de base de cálculo negativa de CSLL para quitação do saldo devedor remanescente, limitado a 70% da dívida remanescente",
+  "Condicionamento da venda de bens à aquiescência da Fazenda Nacional enquanto não liquidada a dívida",
+  "Em caso de rescisão, alienação dos bens penhorados por leilão judicial ou plataforma COMPREI, com limite mínimo de 50% do valor de avaliação"
+ ],
+ "sector": "Incorporação imobiliária",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.95,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total com reduções (A - C - B): 276.078,36 (débitos previdenciários) + 7.885.897,63 (demais débitos)",
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 65%",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES): 48 MESES / PLANO DE PAGAMENTO: LINEAR EM 48 MESES"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "consolidated_amount"
+ ],
+ "id": "7dc3820dcce2",
+ "title": "Termo de Transação Individual - Incorporadora São Simão  LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualIncorporadoraSoSimoLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualIncorporadoraSoSimoLTDATarjado.pdf",
+ "sha256": "427ba2b23c4d5a0042910eb8b7664a2d5fd5c609451921953d6bfe4adfd0b9e6",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

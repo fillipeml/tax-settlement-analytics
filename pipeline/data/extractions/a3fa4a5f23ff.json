@@ -1,0 +1,86 @@
+{
+ "taxpayer": "LIDERPRIME – ADMINISTRADORA DE CARTÕES DE CRÉDITO LTDA. (Grupo Silvio Santos)",
+ "approval_date": "2024-01-24",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 64.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis de propriedade da Proponente e da Interveniente Anuente Silvio Santos Participações S.A. (Anexo IV)",
+  "Marca registrada no INPI 'BAÚ DA FELICIDADE', de propriedade da Interveniente Anuente BF Utilidades Domésticas Ltda (Anexo V)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Regularização fiscal dos débitos tributários",
+  "Confissão irrevogável e irretratável da Dívida Transacionada",
+  "Desistência de impugnações, recursos e ações judiciais relativas à Dívida Transacionada",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens",
+  "Declarar não alienação/oneração de bens com propósito de frustrar recuperação de créditos",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e notas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar capacidade de pagamento sem comunicação à Fazenda",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Manter por 5 anos livros e documentos fiscais comprobatórios de prejuízo fiscal e base negativa de CSLL",
+  "Manter-se optante pela tributação pelo lucro real durante a vigência do acordo",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Formalizar penhora dos imóveis e marca em 30 dias",
+  "Quitar honorários de sucumbência em até 30 dias",
+  "Requerer desistência de demandas judiciais específicas",
+  "Liquidar multa do art. 81 do CPC em 90 dias"
+ ],
+ "special_clauses": [
+  "Reconhecimento de grupo econômico entre Proponente e Intervenientes Anuentes, com corresponsabilidade apenas em caso de rescisão",
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL no limite de R$ 36.714.510,95",
+  "Uso de depósitos judiciais vinculados a processo específico para pagamento da transação",
+  "Possibilidade de alienação de bem imóvel dado em garantia mediante Sistema COMPREI da PGFN",
+  "Cronograma escalonado de percentuais de parcela variando de 0,591% a 1,216% do valor consolidado ao longo do tempo",
+  "Exclusão de honorários de sucumbência em processos específicos listados"
+ ],
+ "sector": "Comércio/entretenimento (grupo econômico Silvio Santos - cartões de crédito, utilidades domésticas)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.8,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "total_discount_pct": "O desconto médio aplicado à transação é de aproximadamente 64% (sessenta e quatro por cento), em respeito à vedação de redução do montante principal",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "sector",
+  "judicial_recovery",
+  "taxpayer"
+ ],
+ "id": "a3fa4a5f23ff",
+ "title": "Termo de Transação Individual -Liderprime - Administradora de Cartões de Crédito LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualLiderprimeAdministradoradeCartesdeCrditoLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualLiderprimeAdministradoradeCartesdeCrditoLTDATarjado.pdf",
+ "sha256": "4b3a327c0499d0749b16487551feceecce5a3591b7898106cfeac2b2389b37eb",
+ "extracted_at": "2026-07-22T14:22:46+00:00",
+ "simulated": false
+}

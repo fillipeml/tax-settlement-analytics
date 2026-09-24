@@ -1,0 +1,81 @@
+{
+ "taxpayer": "DAGNESE E CIA LTDA",
+ "approval_date": "2025-04-17",
+ "consolidated_amount": 114552905.41,
+ "modality": "Transação Individual (Previdenciários e Demais Débitos)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens penhorados em Execuções Fiscais",
+  "Escrituras públicas de garantias hipotecárias (caso bem não reste constrito)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações à PGFN",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/valores",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de bens do ativo não circulante",
+  "Cumprir exigências da Portaria PGFN nº 6.757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos relativos aos créditos incluídos",
+  "Manter regularidade perante o FGTS (CRF)",
+  "Manter regularidade perante PGFN e RFB, regularizando débitos supervenientes em até 90 dias",
+  "Destinar créditos líquidos e certos ou precatórios contra a União ao pagamento das parcelas",
+  "Não desistir unilateralmente do acordo",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Peticionar nos processos judiciais noticiando a transação em até 60 dias",
+  "Manter em dia pagamento de taxas sobre bens dados em garantia",
+  "Apresentar situação econômico-financeira quando solicitado pela PGFN",
+  "Recolher obrigações tributárias correntes e acessórias",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições"
+ ],
+ "special_clauses": [
+  "Descontos concedidos com base na Capag decorrente de recuperação extrajudicial",
+  "Uso facultado de valores de processos judiciais específicos (aprox. R$33.381,49) para pagamento parcial da parcela final",
+  "Rating de classificação como irrecuperável ou de difícil recuperação"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.9,
+  "modality": 0.9,
+  "sector": 0.2,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.3,
+  "down_payment_pct": 0.3,
+  "installments": 0.6,
+  "guarantees": 0.7,
+  "obligations": 0.9,
+  "judicial_recovery": 0.3,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "A DEVEDORA possui aberto os débitos tributários relacionados nos Anexos I e II que totalizam em fevereiro de 2025 o montante de R$114.552.905,41",
+  "installments_social_securitys": "em 60 meses, amortizações escalonadas, mensais e sucessivas",
+  "installments_other": "sendo objeto de plano de pagamento em 120 (cento e vinte), com amortizações escalonadas, mensais e sucessivas",
+  "discount_social_security": "As inscrições indicadas no Anexo I (DÉBITOS PREVIDENCIÁRIOS) que totalizam cerca de R$32.209.370,71, passariam a R$16.413.026,36, desconto de 49,04%",
+  "discount_other": "As inscrições indicadas no Anexo II (DEMAIS DÉBITOS), que totalizam aproximadamente R$82.343.534,70, passariam R$31.188.681,44, desconto de 62,12%"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "judicial_recovery"
+ ],
+ "id": "b23cb858d1d2",
+ "title": "Termo de Transação Individual - Dagnese e Cia LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualDagneseeCiaLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualDagneseeCiaLTDA.pdf",
+ "sha256": "f69b12d9ca99cceb98597c2be403262f508c3611fc59cd33cdca336fb20b1234",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

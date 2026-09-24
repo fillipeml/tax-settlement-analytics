@@ -1,0 +1,68 @@
+{
+ "taxpayer": "TEBASA S/A (corresponsável pelos débitos de KM BRASIL LTDA. e INDUSTRIAL CIRNE LTDA., além de COTTON INDUSTRIA E COMERCIO TEXTIL LTDA.)",
+ "approval_date": "2023-05-09",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Aditivo)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel - Matrícula (número tarjado), Cartório de Registro de Imóveis, Comarca de Fortaleza/CE, com área (tarjada)",
+  "Imóvel - Matrícula (número tarjado), Cartório de Registro de Imóveis, Comarca de Fortaleza/CE, com área (tarjada)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço, obrigando-se a regularizar o passivo atualmente existente em até 90 (noventa) dias",
+  "Declarar a inexistência de créditos líquidos e certos em desfavor da União, reconhecidos em decisão judicial transitada em julgado, ou precatórios federais expedidos em seu favor"
+ ],
+ "special_clauses": [
+  "Autorização para utilização de créditos de prejuízo fiscal acumulados e de base de cálculo negativa da CSLL, nos termos do art. 8º, I, da Portaria PGFN nº 6.757/2022, para quitação de até 60% do saldo devedor após aplicação do desconto de até 70% sobre o débito",
+  "Corresponsabilização da TEBASA pelos débitos da KM BRASIL LTDA. e da INDUSTRIAL CIRNE LTDA.",
+  "Os débitos DEMAIS e PREV, ora incluídos na transação, terão como prazo os meses remanescentes dos débitos já transacionados originalmente"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.8,
+  "sector": 0.1,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "total_discount_pct": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "para quitação de até 60% (sessenta por cento) do saldo devedor após aplicação do desconto de até 70% (setenta por cento) sobre o débito"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "e8a937591f72",
+ "title": "Termo Aditivo - Tebasa",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/AditivoTermodeTransaoIndividualTebasaSAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/AditivoTermodeTransaoIndividualTebasaSAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "a768d5281ef40cc301b78a3391380efd75738e2e6534cac3a9c58ce0f2829261",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

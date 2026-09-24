@@ -1,0 +1,62 @@
+{
+ "taxpayer": "Grupo Escola Viva (ESCOLA VIVA - ENSINO FUNDAMENTAL E MÉDIO LTDA.; ESCOLA VIVA - ARTE EXPRESSÃO E EDUCAÇÃO INFANTIL LTDA.; ATELIER CURSOS LIVRES LTDA.)",
+ "approval_date": "2022-03-07",
+ "consolidated_amount": null,
+ "modality": "Transação individual (Aditivo ao Termo de Transação Individual - Negócio Jurídico Processual)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável da exigibilidade líquida e certa das dívidas listadas",
+  "Compromisso de quitação das dívidas nos termos já acordados nas Cláusulas contratuais do Negócio Jurídico Processual",
+  "Amortização integral das dívidas ativas nºs 18.019.206-0 e 18.019.207-8 com as parcelas mensais e sucessivas de fevereiro, março e abril de 2022"
+ ],
+ "special_clauses": [
+  "Inclusão adicional de inscrições em dívida ativa ao plano de amortização já acordado no Anexo II (item I)",
+  "Reordenação da ordem de quitação das dívidas prevista no Anexo I (item IV)",
+  "Ratificação de que as demais cláusulas do Plano de Amortização do NJP nº 19839.100507/2021-71 permanecem inalteradas, desde que não colidentes com as alterações deste aditivo"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.8,
+  "modality": 0.85,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.7,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "0d2995a5256c",
+ "title": "Termo de Transação Individual - Escola Viva Ensino Fundamental e Médio LTDA - Primeiro Termo Aditivo",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransacaoIndividualEscolaVivaEnsinoFundamentaleMedioLTDAPrimeiroTermoAditivo.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransacaoIndividualEscolaVivaEnsinoFundamentaleMedioLTDAPrimeiroTermoAditivo.pdf",
+ "sha256": "fceb47438965a279a31a2057fed018306227f2e5b2ed78367be12fcd8e11176f",
+ "extracted_at": "2026-07-22T14:22:33+00:00",
+ "simulated": false
+}

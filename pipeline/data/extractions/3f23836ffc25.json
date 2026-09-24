@@ -1,0 +1,73 @@
+{
+ "taxpayer": "FREITAS & LABEGALINI LTDA / PORTO LOGÍSTICA E TRANSPORTES LTDA",
+ "approval_date": "2024-07-30",
+ "consolidated_amount": 32928594.27,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal/judicial",
+  "Fiança pessoal do sócio Edivano Marcelino de Oliveira (Anexo II)"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização",
+  "Regularizar em 30 dias o saldo decorrente da reconsolidação de conta de transação individual",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular e em dia com as Transações e Parcelamentos em curso",
+  "Manter, durante 5 anos, livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor, com descontos de 42,90% (DEMAIS DÉBITOS) e 48,32% (PREVIDENCIÁRIO), limitado ao crédito disponível apresentado de R$ 9.022.918,41",
+  "Reconhecimento de grupo econômico entre as Requerentes, com corresponsabilidade da PORTO LOGÍSTICA E TRANSPORTES LTDA em caso de rescisão (art. 54, §4º, II, Portaria PGFN 6.757/2022)",
+  "Fiança pessoal do sócio Edivano Marcelino de Oliveira como garantia adicional"
+ ],
+ "sector": "Logística e transportes",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.4,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "As inscrições em DAU transacionadas estão especificadas no Anexo I do Termo, e alcançam, hoje, a quantia de R$ 32.928.594,27, não considerados os benefícios concedidos pela Transação.",
+  "total_discount_pct": "Nas modalidades DEMAIS DÉBITOS e PREVIDENCIÁRIOS, desconto máximo de até 65% (sessenta por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS DÉBITOS e PREVIDENCIÁRIOS em até 60 prestações mensais e sucessivas, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "3f23836ffc25",
+ "title": "Termo de Transação Individual - Freitas e Labegalini TDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualFreitaseLabegaliniTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualFreitaseLabegaliniTDATarjado.pdf",
+ "sha256": "a2e1c31ba0351084ec71a098ac067f0e547b5707d5fd758841012fd01c8141c9",
+ "extracted_at": "2026-07-22T14:22:42+00:00",
+ "simulated": false
+}

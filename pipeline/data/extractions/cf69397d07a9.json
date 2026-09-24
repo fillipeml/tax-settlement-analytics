@@ -1,0 +1,70 @@
+{
+ "taxpayer": "VALTELLINA DO BRASIL SERVIÇOS PARA INDÚSTRIA LTDA",
+ "approval_date": "2024-10-21",
+ "consolidated_amount": 44388838.32,
+ "modality": "Transação individual",
+ "total_discount_pct": 40.0,
+ "discounts": {
+  "fine_pct": 40.0,
+  "interest_pct": 40.0,
+  "charges_pct": 40.0
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Apólice de seguro garantia emitida pela BMG Seguros S.A."
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações administrativas ou judiciais relativas à dívida transacionada",
+  "Reconhecimento e confissão irrevogável e irretratável dos débitos",
+  "Peticionar em 30 dias para noticiar a celebração da transação e desistir de ações em curso",
+  "Autorizar acesso da CREDORA às declarações e informações financeiras e escrituração fiscal",
+  "Manter regime de apuração do IRPJ e CSLL com base no Lucro Real durante 5 anos e guardar livros/documentos comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Não utilizar pessoa interposta para ocultar/dissimular origem ou destinação de bens",
+  "Não alienar ou onerar bens com propósito de frustrar recuperação de créditos",
+  "Fornecer informações sobre bens, direitos, valores e transações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar livre concorrência",
+  "Manter regularidade perante PGFN e Receita Federal e pagar/parcelar/garantir débitos que se tornarem exigíveis em 90 dias",
+  "Manter regularidade perante o FGTS e individualizar valores recolhidos dos trabalhadores"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e de base de cálculo negativa da CSLL para liquidação de até 40% do saldo devedor após desconto",
+  "Análise da regularidade da utilização dos créditos pode ser realizada em até 5 anos",
+  "Apólice de seguro garantia com vigência de 26/08/2024 a 29/09/2028, podendo a Seguradora ser incluída como corresponsável em caso de não pagamento da indenização no prazo"
+ ],
+ "sector": "Indústria",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.95,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.9,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal da DEVEDORA objeto da presente transação, que totaliza R$ 44.388.838,32 (quarenta e quatro milhões, trezentos e oitenta e oito mil, oitocentos e trinta e oito reais e trinta e dois centavos)",
+  "total_discount_pct": "Concessão do desconto de 40% (quarenta por cento) sobre a dívida transacionada, observada a vedação de redução do montante principal dos créditos inscritos em Dívida Ativa da União, sendo o referido desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento à vista do saldo remanescente das inscrições listadas nos Anexos I e II após o abatimento das concessões previstas nas cláusulas 2.1.1 e 2.1.2."
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "cf69397d07a9",
+ "title": "Termo de Transação Individual - Valtellina do Brasil Serviços para Indústria LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualValtellinadoBrasilServiosparaIndstriaLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualValtellinadoBrasilServiosparaIndstriaLTDAtarjado.pdf",
+ "sha256": "5739889919229b85f0273ddb6e4bf35a132b1ff9686aa3078c389ded06a28728",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

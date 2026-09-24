@@ -1,0 +1,78 @@
+{
+ "taxpayer": "FOREVER LIVING PRODUCTS BRASIL LTDA",
+ "approval_date": "2023-03-22",
+ "consolidated_amount": 179237971.43,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 54,
+ "down_payment_pct": null,
+ "guarantees": [
+  "5% da receita bruta mensal da DEVEDORA",
+  "Penhora nos processos judiciais relativos à dívida transacionada",
+  "Manutenção das garantias já existentes"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Comunicar à Fazenda Nacional alienação de bens ou direitos",
+  "Não utilizar pessoa natural ou jurídica interposta para ocultar/dissimular origem ou destino de bens, direitos e valores",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Renunciar alegações de direito sobre ações judiciais incluídas na transação, com requerimento de extinção do processo com resolução de mérito",
+  "Permanecer nos parcelamentos já aderidos, honrando os pagamentos até quitação das CDAs",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União no prazo de 90 dias após a formalização do acordo",
+  "Manter regularidade perante o FGTS",
+  "Pagar ou parcelar, no prazo de 90 dias, as verbas honorárias oriundas das ações ordinárias 5016519-29.2019.4.02.5101 e 5077468-82.2020.4.02.5101",
+  "Autorizar a CREDORA a acessar declarações, escritas fiscais e informações financeiras"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e de base de cálculo negativa da CSLL para liquidação de até 40% do saldo remanescente das inscrições, após incidência dos descontos",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL fica suspensa até confirmação dos créditos utilizados, mantendo-se as garantias existentes",
+  "CREDORA desiste do recurso de Embargos de Declaração na ação ordinária nº 5016519-29.2019.4.02.5101",
+  "CREDORA concorda com redução do valor da causa da ação ordinária 5077468-82.2020.4.02.5101 para refletir o valor das inscrições em DAU após concessão dos descontos, para fins de liquidação dos honorários já arbitrados em sentença"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 1.0,
+  "approval_date": 1.0,
+  "modality": 1.0,
+  "sector": 0.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 1.0,
+  "discounts.charges_pct": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizando R$ 179.237.971,43 (cento e setenta e nove milhões, duzentos e trinta e sete mil, novecentos e setenta e um reais, quarenta e três centavos) atualizado em 28.03.2023",
+  "installments": "Pagamento do saldo remanescente em 54 prestações mensais e sucessivas.",
+  "discounts.charges_pct": "Concessão do desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a Dívida Transacionada de natureza previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "judicial_recovery"
+ ],
+ "id": "96bfc8d3ac7f",
+ "title": "Termo de Transação Individual - Forever Living Products Brasil",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualForeverLivingProductsBrasil.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualForeverLivingProductsBrasil.pdf",
+ "sha256": "c1e79ff79f05cb8af5630e4aa3c714ea96cdc1c5502195f3b2d46c3a91ea7b31",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

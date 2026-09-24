@@ -1,0 +1,77 @@
+{
+ "taxpayer": "MARCHESAN IMPLEMENTOS E MÁQUINAS AGRÍCOLAS TATU S/A",
+ "approval_date": "2023-07-31",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": 4.0,
+ "guarantees": [
+  "Bens listados no Anexo IV (não detalhados no corpo do texto)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Promover a desistência de impugnações, recursos e ações administrativos ou judiciais referentes à Dívida Transacionada, no prazo de 30 dias contados da assinatura do Acordo",
+  "Adimplir a Transação, observadas as condições previstas na cláusula 3",
+  "Promover o pagamento de eventual saldo devedor, calculado na hipótese e na forma prevista na cláusula 3.1 a 3.3",
+  "Não alienar bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos na Transação, sem proceder à devida comunicação à Fazenda Nacional",
+  "Pagar, parcelar ou garantir, por meio de depósito, carta de fiança, seguro garantia ou outra garantia suficiente e idônea, no prazo de 90 dias, débitos inscritos em Dívida Ativa após a formalização da Transação e caso não constem da relação da Dívida Transacionada",
+  "Manter regular a situação dos parcelamentos atualmente vigentes",
+  "Manter a regularidade perante o Fundo de Garantia do Tempo de Serviço - FGTS",
+  "Renunciar a quaisquer alegações de direito, atuais ou futuras, sobre as quais se fundem ações judiciais, incluídas as coletivas, ou recursos que tenham por objeto a Dívida Transacionada",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à Fazenda Nacional conhecer sua situação econômica",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Realizar todas as comunicações exigidas no Acordo através de requerimento administrativo via SICAR/REGULARIZE"
+ ],
+ "special_clauses": [
+  "Descontos e condições nos mesmos moldes da transação excepcional vigente à data do pedido da transação individual, nos termos do art. 53 da Portaria PGFN nº 6757/2022 (negociação 7037624)",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em execuções fiscais, inclusive as relativas às dívidas transacionadas por adesão (excepcional)",
+  "Bens listados no Anexo IV poderão ser inseridos no modelo de negócio COMPREI (art. 3º, inciso II, Portaria PGFN nº 3050/2022)",
+  "Não serão devidos honorários advocatícios em razão da renúncia apresentada nos autos das ações ordinárias nº 004356-46.2015.401.3400 e 1069491-96.2020.401.3400, resguardadas custas processuais e encargos legais",
+  "Faculdade da Fazenda Nacional requerer a convolação da recuperação judicial em falência em caso de rescisão"
+ ],
+ "sector": "Agronegócio (implementos e máquinas agrícolas)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.9,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.4,
+  "obligations": 0.9,
+  "judicial_recovery": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "down_payment_pct": "Pagamento da Dívida Transacionada (\"Dívida Transacionada – Demais Débitos\") em 48 (quarenta e oito) prestações, sendo a entrada de 4% dividida em 12 prestações e o restante em 36 meses, conforme cálculos simulados no Anexo III;",
+  "installments": "O prazo máximo previsto para pagamento será de 48 (quarenta e oito) meses para a Dívida Transacionada"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "sector"
+ ],
+ "id": "9669ad8fb8d1",
+ "title": "Termo de Transação Individual - Marchesan Implementos e Máquinas Agrícolas Tatu SA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransacaoIndividualMarchesanImplementoseMquinasAgrcolasTatuSAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransacaoIndividualMarchesanImplementoseMquinasAgrcolasTatuSAtarjado.pdf",
+ "sha256": "fddc14a2f44c9ae0657cd8a50d9aecc0d3cd9e0cb71812f5a5b1356cd88e1896",
+ "extracted_at": "2026-07-22T14:22:34+00:00",
+ "simulated": false
+}

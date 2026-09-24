@@ -1,0 +1,76 @@
+{
+ "taxpayer": "SANTA CASA DE MISERICÓRDIA DE CASTELO",
+ "approval_date": "2024-03-29",
+ "consolidated_amount": 2318641.6,
+ "modality": "Transação Individual (Modalidade 7)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 105,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica ou eventuais fatos que impliquem a rescisão do acordo",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens, direitos e valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas dos respectivos trabalhadores",
+  "Peticionar em até 60 dias após a assinatura nos processos judiciais relativos à Dívida Transacionada, para noticiar a celebração da Transação, desistir de impugnação/recurso/ação e renunciar aos direitos, confessando a dívida de forma irrevogável e irretratável"
+ ],
+ "special_clauses": [
+  "Vedada a redução de valores devidos aos trabalhadores (DEP+JAM), com desconto aplicado apenas sobre juros/multa/encargos",
+  "Desconto diferenciado: 59,13% para CDA da Contribuição Social (LC 110/2001) pago à vista e 30,99% para dívidas de FGTS parceladas em até 105 meses",
+  "Ausência de garantias em razão de declaração de ausência de bens, salvo o acervo mobiliário que guarnece a Requerente"
+ ],
+ "sector": "Saúde/Assistência hospitalar (entidade filantrópica)",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.0,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Total: 1.915.296,68 (parcelamento FGTS) + Valor Total: 403.344,92 (Contribuição Social)",
+  "installments": "O saldo devido será pago à vista quanto à CDA relativa à contribuição social instituída pela Lei Complementar nº 110/2001 e parcelado em até 105 (cento e cinco) meses para liquidação da dívida com o FGTS",
+  "discount_percentual_fgts": "Desconto máximo de 59,13% ... aplicado à CDA relativa à contribuição social instituída pela Lei Complementar nº 110/2001, e 30,99% ..., quanto às dívidas para com o FGTS, vedada a redução de valores devidos aos trabalhadores"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "consolidated_amount"
+ ],
+ "id": "9af42f05d367",
+ "title": "Termo de Transação Individual - Santa Casa de Misericórdia de Castelo",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualSantaCasadeMisericrdiadeCasteloTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualSantaCasadeMisericrdiadeCasteloTarjado.pdf",
+ "sha256": "06b4e1d16ee0d2d38a6f83f3488221e824e88aad4283aa65dcef712de82f5984",
+ "extracted_at": "2026-07-22T14:22:31+00:00",
+ "simulated": false
+}

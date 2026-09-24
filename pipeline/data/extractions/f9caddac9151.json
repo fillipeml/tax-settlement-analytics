@@ -1,0 +1,75 @@
+{
+ "taxpayer": "PEFISA SA CREDITO FINANCIAMENTO E INVESTIMENTO",
+ "approval_date": "2024-08-27",
+ "consolidated_amount": 731987721.9,
+ "modality": "Transação Individual",
+ "total_discount_pct": 28.52,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 12,
+ "down_payment_pct": 80.0,
+ "guarantees": [
+  "Seguro garantia de apólice nº 01741202300107750108189, vinculado à CDA n 80.2.20.117066-05, valor originário de R$ 513.436,73, vencimento em 16/09/2026",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, de medida cautelar fiscal e das garantias prestadas administrativamente ou nas ações de execução fiscal ou em qualquer outra ação judicial"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar a livre concorrência",
+  "Declarar não utilizar pessoa natural ou jurídica interposta",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos exigidos, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de prejuízo fiscal e base de cálculo negativa no valor aproximado de R$ 242.952.869,99, pertencente à empresa controladora Arthur Lundgren Tecidos S.A., para amortização do saldo devedor",
+  "Cobrança do saldo liquidado com uso de créditos decorrentes de prejuízo fiscal ficará suspensa até confirmação dos créditos pela autoridade competente",
+  "Direcionamento obrigatório de créditos obtidos por precatório ou depósito judicial para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Financeiro/Crédito e Financiamento",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.85,
+  "installments": 0.85,
+  "discounts": 0.3,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.3
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor da dívida R$ 731.987.721,90",
+  "total_discount_pct": "será aplicado o desconto de 28,52%, sendo o pagamento do valor remanescente será composto de uma entrada de 80% do débito e 12 parcelas lineares do restante do débito",
+  "installments": "e 12 parcelas lineares do restante do débito",
+  "down_payment_pct": "sendo o pagamento do valor remanescente será composto de uma entrada de 80% do débito"
+ },
+ "review_fields": [
+  "sector",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "f9caddac9151",
+ "title": "Termo de Transação Individual - Refisa SA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRefisaSATarajado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRefisaSATarajado.pdf",
+ "sha256": "7cde81ab3258e6383c501a1e75a92b33727210beca1d32c74733dca5e1999fb4",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

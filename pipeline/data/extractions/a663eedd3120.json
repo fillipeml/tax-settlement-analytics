@@ -1,0 +1,77 @@
+{
+ "taxpayer": "V R CONSTRUÇÕES LTDA",
+ "approval_date": "Not identified",
+ "consolidated_amount": 18264808.38,
+ "modality": "Transação individual",
+ "total_discount_pct": 58.52,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis discriminados no ANEXO III (hipoteca)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar irrevogavelmente os débitos do ANEXO I",
+  "Renunciar a alegações de direito sobre os créditos",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa em até 90 dias",
+  "Manter as garantias oferecidas até integral cumprimento",
+  "Informar previamente à PGFN alienação/disposição de bens",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Anuir com eventual modificação de competência",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva",
+  "Não utilizar pessoa interposta para ocultar bens/valores",
+  "Manter em dia impostos e taxas sobre o imóvel dado em garantia"
+ ],
+ "special_clauses": [
+  "Flexibilização das regras para aceitação, avaliação, substituição e liberação de garantias",
+  "Flexibilização das regras para constrição ou alienação de bens",
+  "Possibilidade de utilização de créditos líquidos e certos decorrentes de decisões transitadas em julgado (art. 100, §11, CF)",
+  "Desconto limitado ao máximo de 61,01%, vedada incidência sobre o principal do débito, considerando rating D de dificuldade de recuperação"
+ ],
+ "sector": "Construção civil",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam R$ 18.264.808,38, atualizado no mês de JULHO de 2024",
+  "total_discount_pct": "DEMAIS DÉBITOS | VR CONSTRUÇÕES | 18.264.808,38 | 58,52% | R$ 7.576.186,37",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (\"Demais\") será de 145 (cento e quarenta e cinco) meses, sendo o plano de amortização composto por prestações mensais lineares."
+ },
+ "review_fields": [
+  "approval_date",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector",
+  "guarantees"
+ ],
+ "id": "a663eedd3120",
+ "title": "Termo de Transação Individual - VR Construções LTDA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualVRConstruesLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualVRConstruesLTDATarjado.pdf",
+ "sha256": "5f6c713ec049b606e9df13a655474fa5654f823bd6090554c977fa03384aa36a",
+ "extracted_at": "2026-07-22T14:22:25+00:00",
+ "simulated": false
+}

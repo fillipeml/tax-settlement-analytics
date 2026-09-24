@@ -1,0 +1,78 @@
+{
+ "taxpayer": "CONSTRUTORA HUMBERTO LOBO LTDA",
+ "approval_date": "2023-09-05",
+ "consolidated_amount": 1745438.23,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhoras em execuções fiscais mantidas até efetiva quitação",
+  "Bens listados no Anexo II com possibilidade de alienação para liquidação da transação"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de bens",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas do FGTS",
+  "Fornecer relação de bens e direitos de propriedade no ato da assinatura",
+  "Fornecer relatórios analíticos de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Apresentar situação econômico-financeira anualmente via balanço contábil",
+  "Prestar contas semestralmente das vendas dos bens do Anexo II e enviar certidão de matrícula a cada 6 meses"
+ ],
+ "special_clauses": [
+  "Aproveitamento de prejuízo fiscal e base de cálculo negativa de CSLL para pagamento do saldo da dívida (§2º Cláusula do plano de pagamento)",
+  "Possibilidade de alienação dos bens do Anexo II para liquidação da transação, com direcionamento integral do preço à Fazenda Nacional",
+  "Manutenção do acordo condicionada à homologação pelo Juízo da Recuperação Judicial quanto aos bens dados em garantia",
+  "Duas contas independentes de transação: Débitos Previdenciários (60 meses) e Demais Débitos (120 meses)"
+ ],
+ "sector": "Construção civil/imobiliário",
+ "confidence": {
+  "taxpayer": 0.98,
+  "approval_date": 0.95,
+  "modality": 0.95,
+  "sector": 0.5,
+  "consolidated_amount": 0.8,
+  "total_discount_pct": 0.6,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.1,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "após aplicação dos descontos definidos no caput, no valor total informado (R$ 1.745.438,23)",
+  "total_discount_pct": "Serão concedidos descontos de até 70% (setenta por cento) sobre cada inscrição, considerando a situação em recuperação judicial",
+  "installments": "Serão formalizadas duas contas independentes de transação, uma para Débitos Previdenciários (60 meses) e uma conta para Demais Débitos (120 meses)"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "0042f8a1b8ed",
+ "title": "Termo de Transação Individual - Construtora Humberto Lobo",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualConstrutoraHumbertoLoboLTDAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualConstrutoraHumbertoLoboLTDAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "01b3f7e44c443ef831559c3b2a77e893e1e3412e1ea049e9cdd14bb1434ec499",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

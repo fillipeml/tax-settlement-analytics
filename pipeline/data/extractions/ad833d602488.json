@@ -1,0 +1,83 @@
+{
+ "taxpayer": "CERMAG COMERCIAL IMPORTADORA E EXPORTADORA LTDA",
+ "approval_date": "2025-04-30",
+ "consolidated_amount": 99872716.77,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 114,
+ "down_payment_pct": 6.0,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal ou outra ação judicial",
+  "Crédito de precatório oriundo do cumprimento de sentença sob nº 0017912-49.2008.4.01.3400 em trâmite na 6ª Vara Federal Cível da Seção Judiciária do Distrito Federal",
+  "Manutenção das garantias dos débitos eventualmente existentes até a quitação integral do saldo devedor"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar sob as penas da lei que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a formalização",
+  "Não alienar bens que possam inviabilizar o cumprimento do acordo sem comunicação prévia",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos exigidos pelas normas fiscais",
+  "Manter-se optante pelo lucro real durante a vigência do acordo (em razão de uso de PF/BCN)",
+  "Cumprir obrigações das cláusulas 3.2 e 4.3 (precatórios)"
+ ],
+ "special_clauses": [
+  "Utilização de crédito decorrente de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, limitado a 70% do saldo da dívida após descontos, no valor aproximado de R$ 1.493.929,05",
+  "Uso de crédito de precatório (Cumprimento de Sentença nº 0020034-53.2013.4.03.6100) como garantia e para pagamento das parcelas",
+  "Uso de crédito de precatório (Cumprimento de Sentença nº 0017912-49.2008.4.01.3400) como garantia",
+  "Depósitos judiciais vinculados aos autos nº 0039325-50.2014.4.03.6182 e nº 0035913-82.2012.4.03.6182 transformados em pagamento definitivo"
+ ],
+ "sector": "Comércio importador e exportador",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor da dívida inscrita em 19/03/2025 R$ 99.872.716,77",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "down_payment_pct": "pagamento de entrada em 6 parcelas correspondentes a seis porcento da dívida inscrita consolidada",
+  "installments": "seguida do pagamento residual em dinheiro em 114 parcelas mensais iguais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "judicial_recovery",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "ad833d602488",
+ "title": "Termo de Transação Individual - Cermag Comercial Importadora e Exportadora",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCermagComercialImportadoraeExportadora.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCermagComercialImportadoraeExportadora.pdf",
+ "sha256": "682a1ce29a37e3daeb51822e472c269284888fab8dbeccb2f8caf0e4ca817568",
+ "extracted_at": "2026-07-22T14:22:38+00:00",
+ "simulated": false
+}

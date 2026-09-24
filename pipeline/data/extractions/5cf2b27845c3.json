@@ -1,0 +1,74 @@
+{
+ "taxpayer": "CORREA RABELLO, COSTA & ASSOCIADOS - ADVOGADOS E CONSULTORES",
+ "approval_date": "2022-12-08",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Plano de Regularização Fiscal (Portaria PGFN nº 6.757/2022)",
+ "total_discount_pct": 69.46,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Cessão fiduciária de créditos de precatórios e RPVs federais em favor da União",
+  "Manutenção automática de gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em execuções fiscais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável da dívida",
+  "Desistência de impugnações, recursos administrativos e ações judiciais relativas aos débitos",
+  "Apresentar situação econômico-financeira anualmente (balanço contábil/DRE)",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar/dissimular bens, direitos ou valores",
+  "Formalizar cessão fiduciária de precatórios no prazo de 60 dias",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo",
+  "Manter recolhimento das obrigações tributárias correntes e acessórias"
+ ],
+ "special_clauses": [
+  "Cessão fiduciária de múltiplos precatórios e RPVs federais para amortização da dívida (Cláusula 4ª)",
+  "Resguardo de 30% sobre qualquer direito creditório futuro do devedor, incluindo precatórios, para pagamento da transação (Cláusula 16ª)",
+  "Possibilidade de exclusão de CDAs específicas (não-previdenciárias) pendentes de análise de prescrição pela Receita Federal (Cláusula 2ª e §3º da Cláusula 4ª)",
+  "Condições diferenciadas de prazo e desconto autorizadas com base no enquadramento como microempresa/EPP nos termos da LC 123/2006 (§3º da Cláusula 3ª)"
+ ],
+ "sector": "Advocacia/Consultoria jurídica",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 69,46% (sessenta e nove, vírgula quarenta e seis por cento), baseado na capacidade de pagamento do DEVEDOR",
+  "installments": "para pagamento no prazo de 145 (cento e quarenta e cinco) meses da dívida não-previdenciária"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "5cf2b27845c3",
+ "title": "Termo de Transação Individual - Corrêa Rabello, Costa & Associados - Advogados e Consultores",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCorreaRabelloCostaAssociadosAdvogadoseConsultores.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCorreaRabelloCostaAssociadosAdvogadoseConsultores.pdf",
+ "sha256": "13d576048dbe0d595a584ff2eab73cacb8d6961e1f7394e62cb78c433af869a4",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

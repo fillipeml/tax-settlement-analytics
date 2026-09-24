@@ -1,0 +1,77 @@
+{
+ "taxpayer": "S.A. FÁBRICA DE PAPELÃO TIMBÓ",
+ "approval_date": "Not identified",
+ "consolidated_amount": 39814898.05,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": 65.0,
+  "interest_pct": 65.0,
+  "charges_pct": 65.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção das garantias associadas aos débitos já existentes",
+  "Penhora de bens na Execução Fiscal nº 5010289-41.2018.4.04.7205"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar/dissimular bens",
+  "Declarar que não alienou/onerou bens para frustrar a recuperação dos créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de ativo não circulante",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos relativos aos créditos incluídos",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade fiscal perante PGFN e RFB, regularizando débitos supervenientes em até 90 dias",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais de que seja credora",
+  "Não desistir do acordo sob pena de rescisão",
+  "Apresentar situação econômico-financeira (balanço, DRE) sempre que solicitado pela PGFN",
+  "Peticionar nos processos judiciais informando a transação em até 90 dias",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições abrangidas"
+ ],
+ "special_clauses": [
+  "Nomeação da União como procuradora em causa própria para receber indenização em caso de desapropriação de bens dados em garantia",
+  "Substituição/reforço de garantia em caso de redução significativa (>25%) do valor do bem garantidor, sob pena de rescisão",
+  "Obrigação de formalização de penhora na Execução Fiscal nº 5010289-41.2018.4.04.7205 em até 120 dias"
+ ],
+ "sector": "Papel e celulose/embalagens",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "discounts": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "cujo montante totaliza, na presente data, R$ 39.814.898,05 (trinta e nove milhões, oitocentos e quatorze mil, oitocentos e noventa e oito reais e cinco centavos).",
+  "total_discount_pct": "Sobre o valor de cada uma das inscrições indicadas no Anexo I será aplicado o desconto de 65% (sessenta e cinco por cento) nas multas, nos juros e nos encargos legais, vedada a redução do montante principal do crédito",
+  "installments": "o saldo restante será objeto de plano de pagamento em 60 (sessenta) prestações mensais e lineares para os débitos previdenciários, cada uma equivalente a 1,667% do saldo consolidado, e 120 (cento e vinte) prestações mensais para os demais débitos, sendo as 60 primeiras equivalentes a 0,302% e as 60 últimas a 1,365% do valor consolidado após os descontos."
+ },
+ "review_fields": [
+  "approval_date",
+  "down_payment_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "180d56776532",
+ "title": "Termo de Transação Individual - SA Fábrica de Papelão Timbó",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualSAFbricadePapeloTimb.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualSAFbricadePapeloTimb.pdf",
+ "sha256": "36acf528dfb795f7d00865a6991355a28f8731afc04e87c3a25c08cb177fe660",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

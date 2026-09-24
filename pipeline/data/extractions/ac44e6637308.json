@@ -1,0 +1,51 @@
+{
+ "taxpayer": "CLINICA ENIO SERRA LTDA (42.152.439/0001-80)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 29236638.58,
+ "modality": "Transação Individual",
+ "total_discount_pct": 50.84,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Imóveis"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Saúde/Clínica médica",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.6,
+  "down_payment_pct": 0.9,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada Total: R$ 29.236.638,58",
+  "total_discount_pct": "Desconto efetivo médio Total: 50,84%",
+  "installments": "Número de parcelas Previdenciária: 60 / Demais débitos: 120"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "installments"
+ ],
+ "id": "ac44e6637308",
+ "title": "Sumário - Clínica Ênio Serra LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/SumrioClnicanioSerraLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/SumrioClnicanioSerraLTDA.pdf",
+ "sha256": "39ca94e2c6b783defd4e7303144d32bad57a1db22c0c40e8e61f8508c92dc112",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

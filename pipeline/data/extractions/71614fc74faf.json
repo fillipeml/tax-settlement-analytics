@@ -1,0 +1,74 @@
+{
+ "taxpayer": "COVOLAN INDÚSTRIA TÊXTIL LTDA",
+ "approval_date": "2024-10-31",
+ "consolidated_amount": 117057015.11,
+ "modality": "Transação Individual",
+ "total_discount_pct": 48.6,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal/judicial"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou/onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União ou precatórios",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Reconhecer responsabilidade solidária pela totalidade dos débitos transacionados",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Vedada a redução do montante principal, desconto aplicado apenas sobre acréscimos legais (multa, juros e encargos)",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e base de cálculo negativa da CSLL, limitado a 58,72% do saldo da dívida após descontos",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL fica suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de 5 anos",
+  "Eventuais créditos por precatório ou levantamento de depósito judicial deverão ser direcionados para adimplemento dos saldos devedores da Transação",
+  "Manutenção da obrigação de manter-se optante pelo lucro real devido à utilização de prejuízo fiscal e base negativa de CSLL"
+ ],
+ "sector": "Têxtil",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.85,
+  "discounts": 0.3,
+  "guarantees": 0.6,
+  "judicial_recovery": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 117.057.015,11 (Cento e dezessete milhões, cinquenta e sete mil, quinze reais e onze centavos)",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), o que implica numa média concedida aproximada de 48,60% (quarenta e oito vírgula sessenta por cento) no presente acordo, conforme detalhado no Anexo II",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 84 (oitenta e quatro) prestações escalonadas e a de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 60 (sessenta) meses prestações escalonadas"
+ },
+ "review_fields": [
+  "sector",
+  "discounts",
+  "guarantees"
+ ],
+ "id": "71614fc74faf",
+ "title": "Termo de Transação Individual - Covalan Indústria Têxtil LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCovalanIndstriaTxtilLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCovalanIndstriaTxtilLTDATarjado.pdf",
+ "sha256": "26cbf92af5ed4c9a6f8ea18b31e383330c2738f42b0ccc77b55c0883d2569f70",
+ "extracted_at": "2026-07-22T14:22:39+00:00",
+ "simulated": false
+}

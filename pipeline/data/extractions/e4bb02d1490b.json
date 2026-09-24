@@ -1,0 +1,61 @@
+{
+ "taxpayer": "BGC FRIGORIFICOS LTDA EM RECUPERACAO JUDICIAL",
+ "approval_date": "Not identified",
+ "consolidated_amount": 4509152.84,
+ "modality": "Not identified",
+ "total_discount_pct": 38.84,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantém eventuais garantias existentes"
+ ],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Agroindústria (frigorífico)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.0,
+  "modality": 0.0,
+  "sector": 0.5,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.0,
+  "special_clauses": 0.0,
+  "judicial_recovery": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "DÍVIDA TRANSACIONADA - PGFN | TOTAL | 4.509.152,84",
+  "total_discount_pct": "DESCONTO EFETIVO MÉDIO - PGFN (em percentual %) | TOTAL | 38,84%",
+  "installments": "NÚMERO DE PARCELAS - PGFN | Previdenciária 60 | Demais Débitos 60"
+ },
+ "review_fields": [
+  "approval_date",
+  "modality",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "e4bb02d1490b",
+ "title": "Sumário - BGC Frigoríficos LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioBGCFrigorficosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioBGCFrigorficosLTDA.pdf",
+ "sha256": "7c6fab7b382a1520ee08ad0deb98595cc0633c64f4fd78606406bc23879a297a",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

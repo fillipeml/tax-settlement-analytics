@@ -1,0 +1,78 @@
+{
+ "taxpayer": "BRASILMAXI LOGISTICA LTDA. - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-09-05",
+ "consolidated_amount": null,
+ "modality": "Transação individual (recuperação judicial)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em Dívida Ativa ou tornarem-se exigíveis após a formalização",
+  "Regularizar, no prazo de 30 dias, saldo decorrente da reconsolidação da(s) conta(s) de transação individual",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento, sem comunicação à Fazenda Nacional",
+  "Manter, durante 5 anos, livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Desconto máximo de até 65% em cada CDA, vedada a redução do montante principal, aplicado proporcionalmente sobre acréscimos legais (multa, juros e encargos)",
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para liquidação do saldo remanescente, limitada a 70% para demais débitos e previdenciários",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL fica suspensa até confirmação pela autoridade competente, dentro do prazo de 5 anos",
+  "Eventuais créditos que a Requerente venha a dispor (precatório, depósito judicial etc.) deverão ser direcionados ao adimplemento dos saldos devedores da Transação",
+  "Depósitos judiciais vinculados às inscrições transacionadas serão convertidos em renda da União sem incidência de descontos"
+ ],
+ "sector": "Logística/Transporte",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "judicial_recovery": 1.0,
+  "guarantees": 0.6,
+  "obligations": 0.9,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de até 65% a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 84 prestações mensais lineares;"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "sector",
+  "guarantees"
+ ],
+ "id": "585a9d4e3815",
+ "title": "Termo de Transação Individual - Brasilmaxi Logística LTDA em recuperação judicial",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualBrasilmaxiLogsticaLTDAemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualBrasilmaxiLogsticaLTDAemrecuperaojudicialtarjado.pdf",
+ "sha256": "de8c359142290eecd476a41d2eb619742ac3e8620142b59f702caebd80ed3f3a",
+ "extracted_at": "2026-07-22T14:22:36+00:00",
+ "simulated": false
+}

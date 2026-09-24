@@ -1,0 +1,62 @@
+{
+ "taxpayer": "Not identified",
+ "approval_date": "Not identified",
+ "consolidated_amount": 80467340.69,
+ "modality": "0077 - DEMAIS DEBITOS -PJ- DEMAIS- ATE 120 MESES - REDUCAO DE ATE 65% (Transação Individual) e 0078 - DEBITOS PREVIDENCIARIOS -PJ- DEMAIS- ATE 60 MESES -REDUCAO DE ATE 65%",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.1,
+  "sector": 0.1,
+  "modality": 0.8,
+  "approval_date": 0.1,
+  "consolidated_amount": 0.55,
+  "total_discount_pct": 0.3,
+  "down_payment_pct": 0.1,
+  "installments": 0.6,
+  "discounts": 0.2,
+  "guarantees": 0.3,
+  "obligations": 0.3,
+  "special_clauses": 0.3,
+  "judicial_recovery": 0.1
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total sem reduções (A) 10.440.920,74 2.152.935,94 4.238.837,38 2.989.686,44 19.822.380,00 (Modalidade 0077) e Total sem reduções (A) 26.591.343,11 6.902.809,63 18.243.045,44 8.907.762,51 60.644.960,69 (Modalidade 0078)",
+  "installments": "Quantidade Máxima de Prestações: 120 / Prestações selecionadas: 120 (Modalidade 0077) e Quantidade Máxima de Prestações: 60 / Prestações selecionadas: 60 (Modalidade 0078)"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "approval_date",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.charges_pct",
+  "discounts.interest_pct",
+  "discounts.fine_pct",
+  "guarantees",
+  "obligations",
+  "special_clauses",
+  "judicial_recovery"
+ ],
+ "id": "d107b6d6557e",
+ "title": "Anexo I - Viação Graciosa LTDA, Viação Marumbi LTDA, Graciosa Transporte e Turismo LTDA, Empresa Curitiba Cerro Azul LTDA, Eluiza Helena Schaedler, Lidia Beatriz Schaedler Alves Pereira",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/AnexoIViaoGraciosaLTDAViaoMarumbiLTDAGraciosaTransporteeTurismoLTDAEmpresaCuritibaCerroAzulLTDAEluizaHelenaSchaedlerLidiaBeatrizSchaedlerAlvesPereira.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/AnexoIViaoGraciosaLTDAViaoMarumbiLTDAGraciosaTransporteeTurismoLTDAEmpresaCuritibaCerroAzulLTDAEluizaHelenaSchaedlerLidiaBeatrizSchaedlerAlvesPereira.pdf",
+ "sha256": "deb31b6020b4fc13e04915d976816701d6e929724a263bd7874fa0345e8270c1",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

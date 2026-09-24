@@ -1,0 +1,82 @@
+{
+ "taxpayer": "HOSPITAL PROHOPE LTDA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-02-16",
+ "consolidated_amount": 66740835.43,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Marca 'HOSPITAL PROHOPE' registrada no INPI, com vigência até 22 de novembro de 2026",
+  "Penhora sobre 5% (cinco por cento) do faturamento mensal (receita bruta) da empresa, a ser executada em caso de rescisão do acordo"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável os débitos do ANEXO I, renovada a cada pagamento periódico",
+  "Renunciar a quaisquer alegações de direito e questionamentos administrativos ou judiciais dos débitos",
+  "Manter a regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa em até 90 dias",
+  "Informar previamente à PGFN a alienação/disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não constituir nova pessoa jurídica que possa diminuir garantias ou pagamentos",
+  "Anuir com eventual modificação de competência para reunião de processos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Autorizar compensação de precatórios e restituições/ressarcimentos com prestações do acordo",
+  "Apresentar laudo de avaliação da marca Hospital Prohope e nomeá-la à penhora em 60 dias",
+  "Manter livros e documentos comprobatórios dos créditos de prejuízo fiscal e base negativa de CSLL por até 5 anos"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL limitada a 33,50% do saldo a ser pago após desconto",
+  "Desconto máximo de até 70% em razão de presunção de irrecuperabilidade por estar em recuperação judicial",
+  "Valor bloqueado de R$ 3.533.340,94 no executivo fiscal nº 1022777-19.2022.4.01.3300 será utilizado para amortizar parcelas vincendas da modalidade previdenciária",
+  "Créditos ainda em fase de cobrança administrativa (RFB), vencidos até 30/11/2022, poderão integrar supervenientemente o acordo se inscritos em Dívida Ativa em até 180 dias da assinatura",
+  "FGBA 201700665 (R$ 5.586.273,11) excluído do acordo por decisão liminar/sentença em Ação Ordinária nº 1036909-52.2020.4.01.3300",
+  "Desistência da FAZENDA NACIONAL do Agravo de Instrumento nº 1028219-35.2023.4.01.000 e do DEVEDOR do Agravo nº 1023618-83.2023.4.01.0000, ambos relativos ao valor bloqueado"
+ ],
+ "sector": "Saúde/Hospitalar",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.9,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 1.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam R$ 66.740.835,43 (sessenta e seis milhões, setecentos e quarenta mil, oitocentos e trinta e cinco reais e quarenta e três centavos), atualizados no mês de novembro de 2023",
+  "total_discount_pct": "a presente transação envolve a concessão de descontos limitados ao máximo de até 70% (setenta por cento), uma vez que as dívidas são consideradas presumidamente irrecuperáveis pela PGFN, diante da presunção de irrecuperabilidade dos contribuintes em processo de recuperação judicial",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (demais) será de 120 (cento e vinte) meses (inciso V, art.15, da Portaria PGFN 6757/22), enquanto que o prazo para os débitos previdenciários será de 60 (sessenta) meses"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "installments"
+ ],
+ "id": "0740b4048b29",
+ "title": "Termo de Transação Individual - Hospital Prohope LTDA em recuperação judicial",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualHospitalProhopeLTDAemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualHospitalProhopeLTDAemrecuperaojudicialtarjado.pdf",
+ "sha256": "f457977bd5fdafeafb404fa4d8a14eab72cd003f778ddb42d9fbc561d03f0510",
+ "extracted_at": "2026-07-22T14:22:23+00:00",
+ "simulated": false
+}

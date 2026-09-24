@@ -1,0 +1,75 @@
+{
+ "taxpayer": "IMASA INDÚSTRIA DE MÁQUINAS AGRÍCOLAS LTDA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2023-04-12",
+ "consolidated_amount": 15418341.64,
+ "modality": "Transação Individual Tributária",
+ "total_discount_pct": 64.59,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel matrícula nº 8.920 do Registro de Imóveis de Jacareí - SP, avaliado em R$ 3.470.583,00 (ANEXO V), para quitação eventual da parcela nº 49 da conta Débitos Previdenciários"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar/dissimular bens",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos",
+  "Cumprir exigências e obrigações da Portaria PGFN 6.757/2022 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações judiciais relativas aos créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União e o Certificado de Regularidade do FGTS",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após o acordo",
+  "Manter livros e documentos comprobatórios de PF/BCN por 5 anos",
+  "Apresentar situação econômico-financeira anualmente (balanço contábil/DRE)",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições abrangidas"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de Prejuízo Fiscal (PF) e Base de Cálculo Negativa de CSLL (BCN) no valor nominal de R$ 12.191.837,92, sob condição resolutória de homologação pela RFB em até 5 anos",
+  "Garantia real (imóvel) vinculada especificamente à parcela nº 49 da conta Débitos Previdenciários, com possibilidade de alienação mediante autorização judicial",
+  "Pagamento integral da verba rescisória do FGTS na primeira parcela (R$ 452.189,99 - novembro de 2022)",
+  "Cláusula de vedação de redução de créditos além do previsto no termo (Cláusula 18)"
+ ],
+ "sector": "Agronegócio (indústria de máquinas agrícolas)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "installments": 0.9,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 1.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Consolidado: 15.418.341,64",
+  "installments": "O plano relaEvo às inscrições indicadas no Anexo II (demais débitos) prevê o pagamento em 120 (cento e vinte) parcelas mensais e sucessivas",
+  "total_discount_pct": "sendo concedido o desconto médio de 64,59%, conforme simulações anexas e observados os limites do §3º do art. 11 da Lei n. 13.988/20"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "275eda4fb34b",
+ "title": "Termo de Transação Individual - Imasa Indústria de Máquinas Agrícolas LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/copy_of_TermodeTransaoIndividualImasaIndstriadeMquinasAgrcolasLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/copy_of_TermodeTransaoIndividualImasaIndstriadeMquinasAgrcolasLTDATarjado.pdf",
+ "sha256": "2012ed3f44abc3f453ef7185275c1415921a0185488bce7eebb809de87d9a952",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

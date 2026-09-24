@@ -1,0 +1,79 @@
+{
+ "taxpayer": "GRUPO DISBRAVE (DISTRIBUIDORA BRASILIA DE VEICULOS S/A e outras empresas do grupo, e Carlos Alberto Giansella Taurisano)",
+ "approval_date": "2021-09-06",
+ "consolidated_amount": 272067718.64,
+ "modality": "Transação Individual",
+ "total_discount_pct": 45.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca de primeiro grau sobre bens imóveis relacionados no ANEXO II",
+  "Bloco de edifícios, posto de gasolina e terreno na SEP 503 Norte",
+  "Terreno matrícula 159.070",
+  "Bloco com salas comerciais na SEP Norte 504"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar irrevogável e irretratavelmente os débitos do ANEXO I",
+  "Renunciar a alegações de direito e questionamentos sobre os débitos",
+  "Reconhecer o grupo econômico e a corresponsabilidade solidária",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Garantir ou parcelar novos débitos inscritos em dívida ativa no prazo de 90 dias",
+  "Manter as garantias oferecidas até integral cumprimento",
+  "Informar previamente à PGFN alienação e/ou disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não constituir nova pessoa jurídica em benefício próprio ou de terceiros para diminuir garantias",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva",
+  "Não utilizar pessoa interposta para ocultar bens",
+  "Desistir dos parcelamentos fiscais vigentes em até 05 dias corridos da assinatura",
+  "Registrar hipoteca de primeiro grau no prazo de 45 dias",
+  "Apresentar situação econômico-financeira anualmente ou quando a PGFN reputar oportuno"
+ ],
+ "special_clauses": [
+  "Cláusula 36: possibilidade de suspensão dos pagamentos em caso de programa de parcelamento extraordinário mais benéfico",
+  "Cláusula 16: substituição de garantia em caso de perecimento/deterioração superior a 20% do valor do bem",
+  "Cláusula 20: substituição de garantia em caso de necessidade de venda de ativos arrolados no ANEXO II"
+ ],
+ "sector": "Comércio de veículos e combustíveis (concessionárias, postos de combustível, locação de veículos)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "approval_date": 0.95,
+  "modality": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.3,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "sector": 0.7,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal dos DEVEDORES inscrito em dívida ativa da União e do FGTS, parte desta transação, é composto por todos os créditos fiscais relacionados no ANEXO I, totalizando R$ 272.067.718,64, atualizado no mês de junho de 2021",
+  "total_discount_pct": "DÍVIDA PREVIDENCIÁRIA R$ 12.731.604,32 (desconto efetivo aproximado - 45%)",
+  "installments": "O prazo para pagamento dos débitos previdenciários será de 60 (sessenta) meses e para os débitos não previdenciários de 84 meses."
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "c9b6980b3eb8",
+ "title": "Termo de Transação Individual - DISBRAVE",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-disbrave.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-disbrave.pdf",
+ "sha256": "ee325868787491fb73bb0ed728a57607fb275e166bf7a30a80c38b83cc781930",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

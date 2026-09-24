@@ -1,0 +1,85 @@
+{
+ "taxpayer": "NORTE BUSS TRANSPORTES S.A",
+ "approval_date": "2020-04-29",
+ "consolidated_amount": 248964960.55,
+ "modality": "Transação individual",
+ "total_discount_pct": 40.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 40.0
+ },
+ "installments": 81,
+ "down_payment_pct": 2.0,
+ "guarantees": [
+  "Recebíveis oriundos dos contratos nº 039/2019 e 040/2019 com a Prefeitura Municipal de São Paulo",
+  "1.182 veículos de propriedade do DEVEDOR, fabricados a partir de 2014",
+  "Imóveis das matrículas nº 152.490, 152.491 e 152.492 do 15º Registro de Imóveis da Comarca de São Paulo",
+  "Atuais e futuros depósitos judiciais e precatórios cujo favorecido seja o DEVEDOR"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos, renovada a cada pagamento periódico",
+  "Renúncia a alegações de direito, ações judiciais ou recursos sobre os créditos transacionados, em 30 dias",
+  "Adimplemento do plano de pagamento previsto nos itens 3.3 e 3.4",
+  "Reconhecimento de incidência de juros Selic sobre as parcelas",
+  "Compromisso de pagar por meio de documentos emitidos pela plataforma REGULARIZE",
+  "Efetivação da penhora sobre os bens oferecidos em garantia em 30 dias",
+  "Compromisso de pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa em 90 dias",
+  "Compromisso de manter regular a situação dos parcelamentos vigentes",
+  "Compromisso de manter regularidade perante o FGTS",
+  "Apresentação semestral de demonstrativo de remuneração dos contratos SPTRANS",
+  "Comprovação semestral da situação de obrigações e empréstimos perante instituições financeiras",
+  "Autorização de acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Apresentação semestral de comprovantes de pagamento (janeiro e julho)",
+  "Comunicação de abertura de novas pessoas jurídicas controladas ou coligadas em até 10 dias",
+  "Declaração de não alienação de bens sem comunicação prévia",
+  "Fornecimento de informações sobre bens, direitos e valores quando solicitado",
+  "Não utilização da transação de forma abusiva",
+  "Declaração de não utilização de pessoa interposta para ocultar bens",
+  "Registro do termo em cartório de títulos e documentos em até 30 dias"
+ ],
+ "special_clauses": [
+  "Reconhecimento de corresponsabilidade entre o DEVEDOR e a empresa TRANSCOOPER Cooperativa de Transporte de Pessoas e Cargas da Região Sudeste, nos termos dos arts. 124, I, 132 e 133 do CTN",
+  "Possibilidade de substituição de veículo dado em garantia por outro de valor igual ou superior, mediante prévia anuência da Fazenda Nacional",
+  "Débitos de FGTS restritos à inscrição FGSP201000854, parcelada administrativamente junto à CEF",
+  "Vedação de 2 anos para nova transação em caso de rescisão"
+ ],
+ "sector": "Transporte (ônibus/coletivo urbano)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 1.0,
+  "installments": 0.9,
+  "down_payment_pct": 0.9,
+  "discounts": 0.6,
+  "guarantees": 0.95,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Débitos não previdenciários: Valor Consolidado das Inscrições (R$) 165.383.047,98; Débitos Previdenciários: Valor Consolidado (R$) 83.581.912,57",
+  "total_discount_pct": "será concedido desconto de 40% sobre a dívida consolidada",
+  "installments": "O plano de pagamento relativo aos débitos não previdenciários (Anexo II) prevê o recolhimento de 81 parcelas mensais",
+  "down_payment_pct": "entrada correspondente a 2% do valor da dívida consolidada com descontos, a ser paga em 3 prestações mensais"
+ },
+ "review_fields": [
+  "sector",
+  "discounts",
+  "judicial_recovery",
+  "consolidated_amount",
+  "installments"
+ ],
+ "id": "dc9fb94139d9",
+ "title": "Termo de Transação Individual - Norte Buss Transportes S.A",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-norte-buss-transportes-s-a-inf-suprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-norte-buss-transportes-s-a-inf-suprimidas.pdf",
+ "sha256": "3013082c7b47145f97e80f70d97b91307e473a3069b6e56ec7f83f933bbaba0d",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

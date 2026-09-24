@@ -1,0 +1,80 @@
+{
+ "taxpayer": "COOPERATIVA MISTA TUCUNDUVA LTDA",
+ "approval_date": "2025-04-23",
+ "consolidated_amount": 4994820.47,
+ "modality": "Transação Individual",
+ "total_discount_pct": 51.22,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": false,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens, direitos e valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de bens do ativo não circulante",
+  "Autorizar compensação de valores de restituições, ressarcimentos ou reembolsos reconhecidos pela RFB com prestações do acordo",
+  "Autorizar compensação de valores relativos a precatórios federais de que seja credor",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria PGFN nº 6757/22 e na proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais quando a transação envolver capacidade de pagamento",
+  "Renunciar a alegações de direito sobre ações judiciais ou recursos referentes aos créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando em até 90 dias débitos que se tornarem exigíveis",
+  "Não desistir do acordo (desistência configura rescisão)",
+  "Manter, durante 5 anos, livros e documentos comprobatórios de PF/BCN utilizados na transação",
+  "Manter-se no regime de tributação do lucro real durante todo o período de cumprimento do acordo",
+  "Peticionar nos processos judiciais em até 30 dias após assinatura, noticiando a transação e desistindo de embargos/exceções"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de Prejuízo Fiscal (PF) e Base de Cálculo Negativa de CSLL (BCN) no valor nominal de R$ 6.820.779,64, sob condição resolutória de homologação pela RFB em até 5 anos",
+  "Abatimento de 25% do crédito de prejuízo fiscal sobre o saldo, correspondente a redução efetiva de R$ 1.705.194,91",
+  "Obrigação de manutenção do regime de lucro real durante todo o cumprimento do acordo em razão da utilização de créditos de PF/BCN",
+  "Desconto médio de 51,22% sobre as inscrições previdenciárias, observados os limites do §2º do art. 11 da Lei 13.988/20"
+ ],
+ "sector": "Agronegócio (cooperativa)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.9,
+  "installments": 1.0,
+  "down_payment_pct": 0.3,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "guarantees": 0.5,
+  "judicial_recovery": 0.6,
+  "obligations": 0.95,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "A DEVEDORA possui em aberto os débitos elegíveis relacionados no Anexo | que totalizam, em abril/2025, o montante de R$ 4.994.820,47 (quatro milhões, novecentos e noventa e quatro mil, oitocentos e vinte reais e quarenta e sete centavos)",
+  "total_discount_pct": "Sobre as inscrições previdenciárias indicadas no Anexo III, que totalizam em abril/2025 o montante de R$ 4.994.820,47 [...] será aplicado desconto médio de 51,22%, observados os limites do §2º do art. 11 da Lei n. 13.988/20",
+  "installments": "o saldo restante de R$ 730.797,82 (setecentos e trinta mil, setecentos e noventa e sete reais e oitenta e dois centavos), que será objeto de parcelamento em 60 prestações mensais, sucessivas e lineares R$ 12.179,96 (doze mil, cento e setenta e nove reais e noventa e seis centavos)"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "6573941d7bb0",
+ "title": "Termo de Transação Individual - Cooperativa Mista TucunduvA LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCooperativaMistaTucunduvALTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCooperativaMistaTucunduvALTDA.pdf",
+ "sha256": "1e985624539beeff2a6694eb2ffb10828137f87dc3d28fbc1873551e383f071a",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

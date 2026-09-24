@@ -1,0 +1,73 @@
+{
+ "taxpayer": "JAIME CORSO e JACQUELINE MIRANDA TORRES CORSO",
+ "approval_date": "2024-10-30",
+ "consolidated_amount": 24537344.27,
+ "modality": "Transação individual",
+ "total_discount_pct": 62.17,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bem imóvel (Matrícula n. 6.760 registrado no CRI de Cristalina/GO) - Fazenda Manga ou Estiva, avaliação R$ 17.000.000,00, com hipoteca proveniente de crédito rural"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar débitos que se tornarem exigíveis após a formalização do acordo no prazo de 90 dias",
+  "Manter a garantia oferecida até o integral cumprimento das condições",
+  "Informar previamente à PGFN a alienação e/ou disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Efetuar tempestivamente os pagamentos referentes às amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Atualizar a Matrícula n. 6.760 do CRI de Cristalina/GO constando a penhora no prazo de 60 dias",
+  "Manter em dia o pagamento de impostos e taxas sobre o imóvel dado em garantia",
+  "Utilizar produto da venda do imóvel para quitação do plano de pagamento"
+ ],
+ "special_clauses": [
+  "Cláusula 6ª: produto da venda do imóvel do ANEXO II utilizado para quitação do plano de pagamento, até o limite do saldo devedor",
+  "Cláusula 7ª: possibilidade de venda direta por iniciativa particular via plataforma COMPREI/PGFN, subsidiariamente",
+  "Cláusula 12ª: saldo depositado em juízo na Execução Fiscal 0026156-98.2007.4.01.3400 deve ser usado para quitação integral da CDA 10824000311-16 no valor de R$ 42.005,96"
+ ],
+ "sector": "Agronegócio",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "consolidated_amount": 0.98,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85,
+  "approval_date": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam R$ 24.537.344,27 (vinte e quatro milhões e quinhentos e trinta e sete mil e trezentos e quarenta e quatro reais e vinte e sete centavos), atualizado para o mês de outubro de 2024",
+  "total_discount_pct": "Descanto máximo efetivo 62,17% ... Dívida COM desconto R$ 9.282.477,33",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (demais) será de 145 (cento e quarenta e cinco) meses, sendo o plano de amortização composto por prestações mensais."
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "3121bc7ff995",
+ "title": "Termo de Transação Individual - Jaime Corso",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualJaimeCorsotarjado1r.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualJaimeCorsotarjado1r.pdf",
+ "sha256": "03df13fa96a620f34e33594bbdc8a49edb9fb1cfcbd4dbebf060bc61f29d3bb4",
+ "extracted_at": "2026-07-22T14:22:23+00:00",
+ "simulated": false
+}

@@ -1,0 +1,77 @@
+{
+ "taxpayer": "VANGUARDA REFRATÁRIOS ESPECIAIS LTDA.",
+ "approval_date": "2024-06-06",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de Matrícula 13.348, registrado no Cartório de Registro de Imóveis e Anexos de Valinhos, localizado na Rua João Previtale, nº 2.810, Casa 10 - Jardim Alto da Colina, Condomínio Residencial Le Village, Valinhos, de propriedade de terceiro que anuiu com o oferecimento da garantia"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos ou precatórios federais em seu favor",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Apresentar protocolo de petição requerendo penhora do bem em garantia em até 30 dias",
+  "Peticionar nos processos judiciais em até 60 dias noticiando a transação e desistindo de impugnações/recursos/ações"
+ ],
+ "special_clauses": [
+  "Oferecimento de garantia real (imóvel de terceiro) mediante anuência do proprietário",
+  "Manutenção automática de gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas",
+  "Direcionamento de eventuais créditos (precatórios, depósitos judiciais) para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Indústria (refratários)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "sector": 0.4,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "total_discount_pct": "O desconto é de 65%, sendo que a dívida previdenciária será dividida em 60 parcelas, enquanto a dívida dos débitos não previdenciários será parcelada em 120 vezes.",
+  "installments": "a dívida dos débitos não previdenciários será parcelada em 120 vezes"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "b6e83e128e7f",
+ "title": "Termo de Transação Individual - Vanguarda Refratários Especiais LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualVanguardaRefratriosEspeciaisLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualVanguardaRefratriosEspeciaisLTDA.pdf",
+ "sha256": "397df2bf4cc8c86c5d6b6b53becc7593482e5a33e0d5840dc14c847cd6e10039",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

@@ -1,0 +1,71 @@
+{
+ "taxpayer": "TUX COMERCIO DE ROUPAS LTDA",
+ "approval_date": "2025-06-12",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN quando solicitado",
+  "Autorizar o acesso da Fazenda Nacional a suas declarações e escritas fiscais",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação prévia à Fazenda Nacional",
+  "Manter a regularidade perante o FGTS",
+  "Manter a regularidade perante a PGFN e a RFB, regularizando em até 90 dias débitos que se tornarem exigíveis",
+  "Peticionar em até 60 dias da assinatura nos processos judiciais relativos à Dívida Transacionada para desistência e renúncia",
+  "Manter livros e documentos fiscais e contábeis relativos ao uso de PF/BCN por 5 anos ou até liquidação integral",
+  "Promover a baixa dos montantes de PF/BCN utilizados nos livros e escriturações contábeis próprias",
+  "Manter regime de apuração do IRPJ pelo lucro real durante a vigência da Transação, caso utilizados créditos de PF/BCN"
+ ],
+ "special_clauses": [
+  "Autorização de uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) para amortização da dívida, limitado a R$ 5.491.588,43 e até 70% do saldo devedor após descontos, por rubrica (Previdenciária, Demais Débitos, Simples Nacional)",
+  "Cobrança do valor liquidado com uso de créditos de PF/BCN fica suspensa até confirmação pela autoridade competente (prazo de 5 anos, sob pena de homologação tácita)",
+  "Não foram negociadas garantias ao acordo (Anexo V)"
+ ],
+ "sector": "Comércio de roupas/varejo de vestuário",
+ "confidence": {
+  "taxpayer": 1.0,
+  "approval_date": 1.0,
+  "modality": 0.95,
+  "sector": 0.5,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.3,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Previdenciária será adimplido em 48 (quarenta e oito) prestações mensais sucessivas",
+  "total_discount_pct": "Concede-se o desconto máximo de 65% (sessenta e cinco por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "judicial_recovery"
+ ],
+ "id": "42ad915b7a22",
+ "title": "Termo de Transação Individual - TUX Comércio de Roupas LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTUXComrciodeRoupasLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTUXComrciodeRoupasLTDA.pdf",
+ "sha256": "bbd9f8031a7f225c574fc2777c63451bf6e9ec66d12b2043d0b112b7a71986a8",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

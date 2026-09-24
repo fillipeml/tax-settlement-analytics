@@ -1,0 +1,79 @@
+{
+ "taxpayer": "FABRIMA MÁQUINAS AUTOMÁTICAS LTDA e MASIPACK INDÚSTRIA E COMÉRCIO DE MÁQUINAS AUTOMÁTICAS S/A",
+ "approval_date": "2024-07-18",
+ "consolidated_amount": 256492388.85,
+ "modality": "Transação Individual",
+ "total_discount_pct": 46.98,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens/direitos que possam inviabilizar capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se optante pelo regime do lucro real durante toda a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação, desistir de impugnações/recursos/ações e renunciar aos direitos"
+ ],
+ "special_clauses": [
+  "Reconhecimento expresso de grupo econômico entre as Requerentes, com responsabilidade tributária solidária (arts. 124 e 125 do CTN)",
+  "Não haverá oferta de garantia vinculada à Transação, considerando a redução do prazo total de pagamento e o reconhecimento do grupo econômico",
+  "Penhoras de bens efetivadas antes da assinatura permanecerão hígidas até pagamento da última prestação e confirmação dos créditos de Prejuízo Fiscal/Base Negativa CSLL",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, limitado a 70% do saldo da dívida após descontos",
+  "Pagamento da Dívida Transacionada FGSP202202494 modalidade 58, com desconto de 27,46%, pagamento do valor devido aos trabalhadores R$ 160.078,14 à vista e saldo em 50 prestações",
+  "Pagamento da Dívida Transacionada CSSP202202495 modalidade 7, desconto de 46,30%, pagamento à vista",
+  "Valores penhorados/bloqueados nas Execuções Fiscais n. 0004117-92.2017.403.6119 e 5005501-63.2021.4.03.6119 serão transformados em pagamento definitivo"
+ ],
+ "sector": "Indústria de máquinas automáticas",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.6,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.3,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 256.492.388,85 (Duzentos e cinquenta e seis milhões, quatrocentos e noventa e dois mil, trezentos e oitenta e oito reais e oitenta e cinco centavos)",
+  "total_discount_pct": "ocasionando um desconto global médio de 46,98% (quarenta e seis vírgula noventa e oito por cento), na forma do Anexo Il",
+  "installments": "Pagamento da Dívida Transacionada, tanto de natureza não previdenciária (\"Dívida Transacionada — Demais Débitos\"), quanto de natureza previdenciária (\"Dívida Transacionada — Débitos Previdenciários\") em 48 (quarenta e oito) prestações"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "29697b3a7417",
+ "title": "Termo de Transação Individual - Fabrima Máquinas Automáticas",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualFabrimaMquinasAutomticas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualFabrimaMquinasAutomticas.pdf",
+ "sha256": "144dab6c098387e88264ec0b928f27cf522f20def232e14b4a41ecaf17a4a73b",
+ "extracted_at": "2026-07-22T14:22:42+00:00",
+ "simulated": false
+}

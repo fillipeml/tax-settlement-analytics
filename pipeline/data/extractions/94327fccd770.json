@@ -1,0 +1,77 @@
+{
+ "taxpayer": "SINDICATO DOS EMPREGADOS EM ESTABELECIMENTOS DE SERVIÇOS DE SAÚDE DE BRASÍLIA – SINDSAÚDE-DF",
+ "approval_date": "2023-04-14",
+ "consolidated_amount": 20511739.61,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessa irrevogável e irretratavelmente os débitos relacionados no ANEXO I",
+  "Renuncia expressamente a quaisquer alegações de direito sobre ações judiciais que tenham por objeto os créditos do ANEXO I",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes a partir da assinatura",
+  "Regularizar novos débitos inscritos em dívida ativa após a assinatura, no prazo máximo de 90 dias",
+  "Manter as garantias oferecidas até integral cumprimento das condições",
+  "Informar previamente à PGFN alienação e/ou disposição de bens e direitos",
+  "Utilizar créditos líquidos e certos como reforço do plano de amortização",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Anuir com eventual modificação da competência relativa para reunião de processos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Autorizar compensação de valores relativos a precatórios federais"
+ ],
+ "special_clauses": [
+  "Cláusula 7ª: valor da primeira parcela (aprox. R$ 1.000.000,00) será oriundo de valor depositado em juízo nos autos da ação judicial nº 0002331-25.2012.5.10.0003, promovida pelo Ministério Público do Trabalho",
+  "Parágrafo 1º da Cláusula 7ª (pág.6): valores das parcelas mensais escalonadas decorreram de valores retidos nas contas bancárias do DEVEDOR na mesma ação judicial",
+  "Desconto máximo de até 65% limitado conforme Art. 8º, I, da Portaria PGFN nº 6.757/2022, vedada incidência sobre o principal, considerando capacidade de pagamento e caráter irrecuperável da dívida (art. 24, IV, da Portaria PGFN nº 6757/2022)"
+ ],
+ "sector": "Sindicato/Entidade de classe (saúde)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.7,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.3,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal da DEVEDORA inscrito em dívida ativa da União, parte desta transação, é composto por todos os seus créditos fiscais relacionados no ANEXO I, que totalizam R$ 20.511.739,61, atualizado no mês de abril de 2023",
+  "total_discount_pct": "Conforme autorizados pelo Art. 8ª, I, da Portaria PGFN nº 6.757/2022, a presente transação envolve a concessão de descontos limitados ao máximo de até 65% (sessenta e cinco por cento), vedada a incidência sobre o principal do débito, considerando a capacidade de pagamento do DEVEDOR, vez que as dívidas são consideradas irrecuperáveis pela PGFN (art. 24, IV, da Portaria PGFN nº 6757/2022)",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (demais) será de 120 (cento e vinte) meses; e de 60 meses para os previdenciários"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "94327fccd770",
+ "title": "Termo de Transação Individual - Hospital Prohope LTDA em recuperação judicial",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualSindicatodosEmpregadosemEstabelecimentosdeServiosdeSadedeBrasliaSindisadeDFtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualSindicatodosEmpregadosemEstabelecimentosdeServiosdeSadedeBrasliaSindisadeDFtarjado.pdf",
+ "sha256": "5c1818fb543c95489aea7f02823536f59bd7acd21dc39dc96fa2322607a04a7c",
+ "extracted_at": "2026-07-22T14:22:24+00:00",
+ "simulated": false
+}

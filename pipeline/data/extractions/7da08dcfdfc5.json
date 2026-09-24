@@ -1,0 +1,80 @@
+{
+ "taxpayer": "OSX Brasil S/A, OSX Brasil - Porto do Açu S.A. e OSX Serviços Operacionais Ltda. (grupo OSX)",
+ "approval_date": "2025-06-09",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (recuperação judicial)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Recebíveis do contrato de locação com a GO Tratch Ambiental e Infraestrutura S.A. (área de 40.000m² no Porto do Açu, R$600.000,00 mensais, término em 26.01.2052)",
+  "Recebíveis do contrato de locação com a DOME Serviços Integrados Porto do Açu Operações S.A. (área de 143.406m² no Porto do Açu, R$2.315.887,40 mensais, término em 10.10.2036)",
+  "Recebíveis do contrato de locação com a Alieseo Empreendimentos e Participações S.A., com Consórcio 3T Flexíveis como interveniente anuente (área de 90.000m² no Cais Norte, Lote A-12, R$1.203.750,00 mensais, término em 01.01.2052)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Autorizar acesso da Fazenda Nacional a declarações e escritas fiscais",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando débitos exigíveis em até 90 dias",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a Transação e desistir/renunciar",
+  "Não distribuir lucros ou dividendos até aprovação do plano de recuperação judicial",
+  "Peticionar em até 60 dias no processo de recuperação judicial noticiando a Transação",
+  "Requerer conversão em pagamento definitivo de depósitos judiciais no prazo de 30 dias e comprovar em 60 dias",
+  "Manter livros e documentos fiscais/contábeis relativos ao uso de PF/BCN por 5 anos",
+  "Manter regime de apuração pelo lucro real durante a vigência da Transação, se utilizados créditos de PF/BCN",
+  "Peticionar em 30 dias para formalização de penhora sobre os recebíveis dados em garantia"
+ ],
+ "special_clauses": [
+  "Uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) para amortização de até 70% do saldo devedor após descontos, limitado a R$1.499.247.482,62",
+  "Garantia mediante recebíveis de contratos de locação de áreas portuárias no Porto do Açu, com formalização da penhora condicionada a eventual rescisão do acordo",
+  "Compensação de restituição no valor histórico de R$978.998,17 (processo administrativo nº 12448.909979/2020-65)",
+  "Encerramento de conta de parcelamento/transação anterior (Sispar nº 7604107) para reconsolidação",
+  "Substituição de garantia em caso de rescisão/término dos contratos de locação, em até 30 dias",
+  "Dispensa de reforço de garantia caso todos os bens estejam vinculados ao plano de recuperação judicial",
+  "Autorização para uso da Plataforma Comprei para eventual alienação dos bens dados em garantia"
+ ],
+ "sector": "Naval/Offshore e Infraestrutura Portuária",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "discounts": 0.0,
+  "judicial_recovery": 0.98,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Concede-se o desconto máximo de 70% (setenta por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal.",
+  "installments": "O saldo devedor remanescente da Dívida Transacionada — Previdenciária e Demais Débitos — será adimplido em 60 (sessenta) prestações mensais sucessivas, escalonadas de acordo com os seguintes percentuais:"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "7da08dcfdfc5",
+ "title": "Termo de Transação Individual - OSX Brasil SA, Osx Brasil Porto Do Açu, OSX Serviços Operacionais LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/copy_of_TermodeTransaoIndividualOSXBrasilSAOsxBrasilPortoDoAuOSXServiosOperacionaisLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/copy_of_TermodeTransaoIndividualOSXBrasilSAOsxBrasilPortoDoAuOSXServiosOperacionaisLTDA.pdf",
+ "sha256": "4d4d06cc7a420fcfd8b026262a2a547692da2daa9c01c435eac97c08fa65d725",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

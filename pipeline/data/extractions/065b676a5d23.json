@@ -1,0 +1,89 @@
+{
+ "taxpayer": "NATURAFRIG ALIMENTOS LTDA. (grupo econômico incluindo Navi Carnes, Frigorífico Pirapó, Frigorífico Supremo, Frigonova)",
+ "approval_date": "2022-11-11",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": 0.334,
+ "guarantees": [
+  "Marca \"Naturafrig\" (INPI processo 907557449)",
+  "100% das cotas do Fundo de Investimento Imobiliário F2ZZ (CNPJ 30.178.506/0001-56)",
+  "Imóveis rurais da Atrial - matrículas 1760 e 1761 (1º Cartório de Registro de Imóveis de Nova Andradina/MS), avaliados em R$ 4.000.000,00",
+  "Marca \"Bala de Prata\" (INPI 910393451)",
+  "Diversos veículos (placas listadas)",
+  "Quotas sociais das Requerentes",
+  "Diversos bens imóveis (Fazenda Chapadão, Fazenda Pirapozinho, Estância São Alberto, Chácara Nossa Senhora Aparecida, Imóvel urbano em Nova Andradina, Estância Rio Branco, Fazenda Nova Vida, Porto Madero Residence, Terrenos na Fazenda Pirapó, Prédio residencial em Presidente Prudente, Lote no Chácaras Imperial, Fazenda Renascer, e outros bens imóveis matrículas 21.736, 1.763, 12.046)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/valores",
+  "Declarar que não alienou/onerou bens para frustrar recuperação de créditos",
+  "Autorizar compensação de restituições/ressarcimentos da RFB com prestações",
+  "Autorizar compensação de precatórios federais",
+  "Declarar veracidade das informações cadastrais/patrimoniais/econômico-fiscais",
+  "Autorizar acesso da Fazenda às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar capacidade de pagamento sem comunicar a Fazenda Nacional",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação, desistir de recursos e confessar a dívida",
+  "Informar em 15 dias alterações na estrutura do Fundo ou negociações de ativos que afetem garantias",
+  "Formalizar penhora das garantias em 30 dias nas Execuções Fiscais 0022295-70.2012.403.6182 e 0025020-66.2011.403.6182"
+ ],
+ "special_clauses": [
+  "Flexibilização de garantias mediante levantamento de depósitos judiciais efetuados por terceiros, condicionado a pagamento equivalente pelas Requerentes",
+  "Possibilidade de alienação de imóveis do Fundo mediante prévia anuência da Fazenda Nacional",
+  "Manutenção automática de gravames com exceções listadas para diversos processos",
+  "Desconto de 70% considerando irrecuperabilidade dos débitos (rating D) e pequeno porte da Navi Carnes",
+  "Reconhecimento de devedora solidária por sucessão de fato (CTN art. 133) da Naturafrig em relação às Devedoras baixadas por inaptidão",
+  "Exclusão de CDAs relativas ao FUNRURAL (ADI 4395) da Dívida Transacionada, com oferecimento de garantia específica (imóveis Atrial)",
+  "Reconhecimento de procedência do pedido na Apelação 0038998-08.2014.4.03.6182"
+ ],
+ "sector": "Frigorífico/Alimentos (agroindústria)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.85,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de até 70% (setenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 145 (cento e quarenta e cinco) prestações mensais",
+  "down_payment_pct": "Pagamento, a título de entrada, de valor mensal equivalente a 0,334% do valor consolidado dos créditos transacionados, durante 23 (vinte e três) meses, e o restante em 121 (cento e vinte e um) parcelas mensais e sucessivas."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "065b676a5d23",
+ "title": "Termo de Transação Individual - Naturafrig Alimentos LTDA (“Naturafrig”)",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualNaturafrigAlimentosLTDANaturafrig.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualNaturafrigAlimentosLTDANaturafrig.pdf",
+ "sha256": "f5e79641695f6b472b396e6acba21dbc64d165abad129a1b3e5faf9f0dd2f254",
+ "extracted_at": "2026-07-22T14:22:48+00:00",
+ "simulated": false
+}

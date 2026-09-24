@@ -1,0 +1,68 @@
+{
+ "taxpayer": "MOCOCA S A PRODUTOS ALIMENTICIOS – EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2021-06-18",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": 100.0,
+  "interest_pct": 100.0,
+  "charges_pct": 100.0
+ },
+ "installments": 108,
+ "down_payment_pct": 0.334,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar, falsear ou prejudicar a livre concorrência",
+  "Renunciar a quaisquer alegações de direito sobre os créditos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em dívida ativa (exceto Anexo II)",
+  "Declarar que não utiliza pessoa interposta para ocultar/dissimular origem ou destinação de bens, direitos e valores",
+  "Declarar que não alienou ou onerou bens ou direitos para frustrar a recuperação dos créditos inscritos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais prestadas",
+  "Não alienar bens ou direitos sem prévia comunicação à Fazenda Nacional",
+  "Quitar em 30 dias o saldo devedor decorrente da consolidação dos débitos do Anexo II"
+ ],
+ "special_clauses": [
+  "Prazo de parcelamento de até 48 meses para contribuições sociais previstas no art. 195, I 'a' e II da Constituição, após quitação da entrada",
+  "Débitos do Anexo II serão incluídos na conta de transação assim que inscritos em dívida ativa, gerando saldo devedor a ser quitado em 30 dias",
+  "Desistência dos parcelamentos 1306993, 2661544, 3419549 e 3465536",
+  "Princípio da preservação da empresa (recuperação judicial) mencionado nos considerandos"
+ ],
+ "sector": "Alimentício",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "discounts": 0.9,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "o restante pago com redução de até 100% (cem por cento) do valor dos juros, das multas e dos encargos-legais, observado o limite de até 70% (setenta por cento) sobre o valor total de cada crédito objeto da negociação",
+  "installments": "em até 108 (cento e oito) parcelas mensais e sucessivas",
+  "down_payment_pct": "Efetuar o pagamento, a título de entrada, de valor mensal equivalente a 0,334% (trezentos e trinta e quatro centésimos por cento) do valor consolidado dos créditos transacionados, durante 12 (doze) meses"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "guarantees"
+ ],
+ "id": "fc911639e843",
+ "title": "Termo de Transação Individual -  Mococa",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-mococa.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-mococa.pdf",
+ "sha256": "26a3286d9f6ba290d668d745421c5b4282389bf411241acbc1fa649803edbea3",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

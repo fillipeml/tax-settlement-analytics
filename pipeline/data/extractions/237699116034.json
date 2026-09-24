@@ -1,0 +1,68 @@
+{
+ "taxpayer": "SUPERMERCADO DA FAMILIA LTDA",
+ "approval_date": "2023-06-29",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 30.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil ou demonstrações complementares",
+  "Recolhimento das obrigações tributárias correntes",
+  "Cumprimento das obrigações acessórias dependentes da obrigação principal",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo",
+  "Desistência de impugnações, recursos administrativos e ações judiciais relativas aos débitos incluídos"
+ ],
+ "special_clauses": [
+  "Migração dos saldos de parcelamento da Lei nº 11.941/09, art. 1º, e da Lei nº 12.865/13, art. 1º, nos termos do art. 9º da Portaria PGFN nº 6.757/2022",
+  "Direito creditório superveniente materializado por precatório será vertido para pagamento da transação, inclusive para antecipação de parcelas não vencidas"
+ ],
+ "sector": "Supermercado/Varejo alimentício",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 30% (trinta por cento), observada sua capacidade de pagamento (CAPAG)",
+  "installments": "para pagamento no prazo de 120 (cento e vinte) meses, a dívida não-previdenciária, e no prazo de 60 (sessenta) meses, a dívida previdenciária"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "237699116034",
+ "title": "Termo De Transação Individual -  Supermercado da Família LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermoDeTransaoIndividualSupermercadodaFamliaLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermoDeTransaoIndividualSupermercadodaFamliaLTDA.pdf",
+ "sha256": "27fa3bf55b5935f4a69e2c29d2efe7a084f7ebc7540ec5760aee1c04601a225a",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

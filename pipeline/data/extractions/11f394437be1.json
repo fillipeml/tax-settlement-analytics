@@ -1,0 +1,68 @@
+{
+ "taxpayer": "ONDUNORTE CIA DE PAPEIS E PAPELAO ONDULADO DO NORTE / CIPER - CIA DE PAPEIS E EMBALAGENS DO RECIFE / CICP - COMPANHIA INDUSTRIAL DE CELULOSE E PAPEL / ONDUNORTE CAIXA E PAPEL DA PARAIBA SA (Grupo Ondunorte, todas em Recuperação Judicial)",
+ "approval_date": "2024-11-05",
+ "consolidated_amount": null,
+ "modality": "Termo Aditivo à Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Alienação fiduciária de imóveis (Terras Sergipe) em favor do terceiro-interveniente, preservando 30% em favor da Fazenda Nacional",
+  "Penhora sobre imóveis listados para venda (Cláusula 4ª)",
+  "Precatórios (Processos nº 0020170-02.2007.4.05.8300 e 0011138-79.2007.4.05.8200) aceitos como pagamento antecipado, totalizando R$ 12.025.926,95"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Pagamento de DARF avulso no valor de R$ 1.000.000,00 para amortização do saldo devedor da conta de transação nº 9805069, com vencimento para 29/11/2024",
+  "Apresentação das Certidões de Valor Líquido e Disponível (CVLDs) até 29/11/2024, sob pena de tornar sem efeito o aditamento",
+  "Alienar os imóveis listados na Cláusula 4ª no prazo máximo de 18 meses, respeitando lance mínimo de 50% do valor de avaliação",
+  "Peticionar até 29/11/2024 no Processo nº 0807069-34.2022.4.05.8300 autorizando e requerendo a formalização e registro da penhora sobre os imóveis",
+  "Constituir garantia em favor do terceiro-interveniente no prazo máximo de 180 dias, sob pena de reversão da integralidade dos bens"
+ ],
+ "special_clauses": [
+  "Autorização de constituição de garantia em favor de terceiro-interveniente (IOX Special Fundo de Investimento em Direitos Creditórios) via alienação fiduciária, preservando 30% dos imóveis em favor da Fazenda Nacional",
+  "Limitação de prazo de 36 meses para o terceiro executar a garantia, após o que a integralidade do bem serve à garantia da transação tributária",
+  "Possibilidade de venda direta dos imóveis pelos devedores no prazo de 36 meses, com partilha de 70% para o terceiro-interveniente e 30% para a Fazenda Nacional",
+  "Aceitação de créditos de precatórios como pagamento antecipado, condicionada à validação das CVLDs, sob pena de desassociação e regularização por outro meio",
+  "Alienação dos imóveis não vendidos no prazo via plataforma COMPREI administrada pela PGFN, com regras específicas de comissão (5%), parcelamento (até 30 meses) e proposta mínima (50% do valor de avaliação)"
+ ],
+ "sector": "Papel e celulose/embalagens (agroindustrial/industrial)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.8,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "11f394437be1",
+ "title": "Termo de Transação Individual - Ondunorte Cia de Papeis e Papelão Ondulado do Norte",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualOndunorteCiadePapeisePapeloOnduladodoNorteTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualOndunorteCiadePapeisePapeloOnduladodoNorteTarjado.pdf",
+ "sha256": "ac7f5fce535bced52fd4f3ec05c9ee53bc8201154ae89596c6ef1d1d611f4829",
+ "extracted_at": "2026-07-22T14:35:18+00:00",
+ "simulated": false
+}

@@ -1,0 +1,79 @@
+{
+ "taxpayer": "GRUPO EDUCACIONAL CEV LTDA, GRUPO EDUCACIONAL SUPERIOR CEV LTDA, TF3 PARTICIPAÇÕES S.A e VORTEX EDUCAÇÃO LTDA",
+ "approval_date": "2025-05-21",
+ "consolidated_amount": 133538589.47,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Um imóvel avaliado em R$50.381.713,14, consistente em uma gleba de terras no lugar denominado Aroeiras, Teresina, Piauí, registrado no livro de Registro Geral no 02, à ficha 01, sob o no 38.208 do 2º Ofício de Notas e Registros de Imóveis – 3º Circunscrição da cidade de Teresina, Piauí."
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Autorizar acesso da Fazenda Nacional a declarações e escritas fiscais",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante a PGFN e a Secretaria da Receita Federal do Brasil, regularizando em 90 dias débitos que se tornarem exigíveis",
+  "Peticionar em até 60 dias em todos os processos judiciais relativos à Dívida Transacionada para desistência e renúncia",
+  "Individualizar valores recolhidos nas contas vinculadas dos trabalhadores (FGTS)",
+  "Manter regime de apuração do IRPJ pelo lucro real durante vigência da Transação (para quem usar PF/BCN)",
+  "Formalizar garantia via oferecimento de bens à penhora em até 30 dias da assinatura do Acordo"
+ ],
+ "special_clauses": [
+  "Concessão de desconto máximo de até 70% calculado por débito, aplicado proporcionalmente sobre acréscimos legais (multa, juros e encargos), vedada redução do principal",
+  "Autorização de uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) no valor máximo de R$ 24.939.266,23",
+  "Encerramento de contas de parcelamento/transações anteriores (Sispar nº 8920095, 8964436, 11798093, 11801075 e 11796234) para reconsolidação",
+  "Desconto de 30% para débitos do FGTS, com pagamento nos termos da Modalidade 06 da simulação CEF",
+  "Pagamento das verbas rescisórias do FGTS à vista, a título de entrada",
+  "Possibilidade de alienação dos bens dados em garantia mediante anuência prévia da Fazenda Nacional, inclusive via Plataforma Comprei"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.8,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.5,
+  "total_discount_pct": 0.6,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Soma dos valores 'Va Consolidado' constantes no Anexo IV para todas as inscrições listadas (não há valor total consolidado explícito único no documento; valor estimado a partir da soma dos valores individuais apresentados nas tabelas do Anexo IV)",
+  "total_discount_pct": "Concede-se o desconto máximo de até 70% (setenta por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal.",
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Demais Débitos será adimplido em 145 (prestações) prestações mensais sucessivas, escalonadas de acordo com os seguintes percentuais"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "457c0c287895",
+ "title": "Termo de Transação Individual - Grupo Educacional Cev LTDA, Grupo Educacional Superior Cev LTDA, TF3 Participaçõess.A e Vortex Educacao LTDA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualGrupoEducacionalCevLTDAGrupoEducacionalSuperiorCevLTDATF3Participaess.AeVortexEducacaoLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualGrupoEducacionalCevLTDAGrupoEducacionalSuperiorCevLTDATF3Participaess.AeVortexEducacaoLTDA.pdf",
+ "sha256": "2598353aadc84a4b4af7b5b86a984f14954210bd2b6664da11cd7d3a2a3976c9",
+ "extracted_at": "2026-07-22T14:22:23+00:00",
+ "simulated": false
+}

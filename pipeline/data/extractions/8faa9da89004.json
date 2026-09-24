@@ -1,0 +1,67 @@
+{
+ "taxpayer": "LOJAS GUIDO COMÉRCIO LTDA",
+ "approval_date": "2023-05-17",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Apresentação de relatório analítico da composição, origem, período a que se refere e disponibilidade do prejuízo fiscal e da base de cálculo negativa da CSLL, certificado por profissional contábil com registro regular no CRC",
+  "Pagamento das parcelas até o último dia útil de cada mês, por meio de DARF emitido pela Requerente através da plataforma REGULARIZE"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal acumulados e de base de cálculo negativa da CSLL, nos termos do art. 8º, I, da Portaria PGFN nº 6.757/2022, para amortização de 46,93% do saldo devedor após aplicação do desconto",
+  "Prazo de 60 (sessenta) prestações mensais para a dívida transacionada de natureza previdenciária",
+  "Prazo de 120 (cento e vinte) prestações mensais para a dívida transacionada de natureza não previdenciária",
+  "PGFN poderá analisar a regularidade da utilização dos créditos até a liquidação integral do acordo ou no prazo máximo de 5 (cinco) anos, contados da celebração, o que for posterior"
+ ],
+ "sector": "Comércio (varejo)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "guarantees": 0.3,
+  "obligations": 0.7,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de até 65% a cada uma das inscrições, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa juros e encargo legal), conforme cálculo do sistema",
+  "installments": "Pagamento da dívida transacionada de natureza não previdenciária em 120 (cento) prestações mensais; ... Pagamento da dívida transacionada de natureza previdenciária em 60 (sessenta) prestações mensais"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "8faa9da89004",
+ "title": "Termo de Transação Individual - Lojas Guido Comércio",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualLojasGuidoComrcioLTDAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualLojasGuidoComrcioLTDAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "aabe5bb7e05d96fb88143a0f744f1eeb14136e4bc1092e78f743fbd464aad2d0",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

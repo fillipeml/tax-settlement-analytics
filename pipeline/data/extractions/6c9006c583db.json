@@ -1,0 +1,79 @@
+{
+ "taxpayer": "CONPASUL CONSTRUÇÃO E SERVIÇOS LTDA (grupo econômico: CONPASUL, TBS SUL – SISTEMAS CONSTRUTIVOS E ARQUITETÔNICOS LTDA, BNPS SERVIÇOS DE ASSESSORIA EMPRESARIAL LTDA)",
+ "approval_date": "2024-03-19",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": 4.0,
+ "guarantees": [
+  "Imóveis matriculados sob ns. 2.300, 2.384, 3.826, 6673 perante o CRI de Arroio do Meio",
+  "Imóveis matriculados sob n.s 34.841, 65.646, 65.647, 71.635, 2334, 17.446, 31.784 perante o CRI de Santa Maria/RS"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar não utilização de interposta pessoa",
+  "Declarar não alienação/oneração de bens para frustrar recuperação de créditos",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Cumprir exigências das Portarias PGFN 6757/22 e 2382/21",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em 90 dias débitos inscritos em dívida ativa após o acordo",
+  "Manter-se optante do regime de tributação pelo lucro real durante todo o prazo da transação",
+  "Manter ao menos 4 práticas alinhadas a princípios ESG",
+  "Apresentar demonstrações de resultados/balanço contábil quando solicitado pela PGFN",
+  "Comprovar manutenção das práticas de ESG por certificados e relatórios",
+  "Petição nos processos judiciais em até 60 dias noticiando a transação e desistindo de embargos/exceções",
+  "Providenciar oferecimento e formalização da penhora dos imóveis em até 90 dias"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para abatimento do saldo (limitado a R$ 13.000.000,00 no Anexo I e R$ 15.000.000,00 no Anexo II)",
+  "Compromisso de manutenção de práticas ESG (reflorestamento de áreas mineradas, substituição de areia comum por areia de britagem, aproveitamento de cinza de queima de carvão, reutilização de água)",
+  "Cláusula em causa própria à União para receber indenização em caso de desapropriação dos imóveis dados em garantia",
+  "Rescisão da transação em caso de opção por regime de tributação diferente do lucro real"
+ ],
+ "sector": "Construção civil",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.8,
+  "installments": 0.5,
+  "discounts": 0.3,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "este saldo final será pago em 108 (cento e oito) prestações mensais escalonadas.",
+  "down_payment_pct": "as DEVEDORAS pagarão entrada de 4% do montante total devido sem descontos, em 12 prestações mensais"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "discounts",
+  "sector"
+ ],
+ "id": "6c9006c583db",
+ "title": "Termo de Transação Individual - Conpasul Construção e Serviços LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualConpasulConstruoeServiosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualConpasulConstruoeServiosLTDATarjado.pdf",
+ "sha256": "cb47613763fc37af7bdb167d1fba7bf15582d3fa30dbc08026a2880588c22574",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

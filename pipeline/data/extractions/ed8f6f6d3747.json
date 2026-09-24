@@ -1,0 +1,71 @@
+{
+ "taxpayer": "FRIBURGO AUTO ÔNIBUS LTDA. - FAOL",
+ "approval_date": "2023-11-07",
+ "consolidated_amount": 14763456.24,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel constituído pelo prédio Friburgo Auto Ônibus, localizado na Avenida Governador Roberto Silveira, 3612, Duas Pedras, CEP 28.635-000, Nova Friburgo/RJ, objeto da Matrícula n. 8.151, do Cartório de Registro de Imóveis de Nova Friburgo"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter a regularidade perante o FGTS",
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional",
+  "Desistir dos parcelamentos/transações vigentes relativos às dívidas transacionadas",
+  "Permanecer nos parcelamentos já aderidos não abrangidos pela transação",
+  "No prazo de 90 dias, pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Manter em dia o pagamento de impostos e taxas sobre o imóvel dado em garantia",
+  "Peticionar nos processos judiciais em 30 dias para noticiar o acordo e reconhecer os débitos",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa após a formalização do acordo"
+ ],
+ "special_clauses": [
+  "Garantia formalizada mediante oferta de bem imóvel à penhora em Execução Fiscal específica, com reunião dos demais feitos executivos",
+  "Se o imóvel dado em garantia for alienado com concordância da Fazenda Nacional, 30% do valor auferido deverá ser revertido à conta da Transação como antecipação de parcelas",
+  "Transformação em pagamento definitivo de valores de bloqueios/depósitos judiciais existentes nas execuções fiscais"
+ ],
+ "sector": "Transporte (rodoviário/ônibus)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.95,
+  "installments": 0.9,
+  "discounts": 0.3,
+  "down_payment_pct": 0.2,
+  "judicial_recovery": 0.2,
+  "guarantees": 1.0,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL GERAL R$14.763.456,24",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a dívida transacionada de natureza não previdenciária e previdenciária, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), conforme previsto no artigo 15, da Portaria 6.757/2022",
+  "installments": "O plano de pagamento relativo aos débitos não previdenciários cujo total consolidado, após a incidência dos descontos, é de R$ 586.701,69 (quinhentos e oitenta e seis mil, setecentos e um reais e sessenta e nove centavos), prevê o recolhimento em 120 parcelas, cujos valores seguem discriminados na planilha que constitui o ANEXO II"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "ed8f6f6d3747",
+ "title": "Termo de Transação Individual - Friburgo Auto Ônibus LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualFriburgoAutonibusLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualFriburgoAutonibusLTDAtarjado.pdf",
+ "sha256": "b48f9167c1e7291fa515133e1eaea4a4043f56a4901948945e9293081b86bef2",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

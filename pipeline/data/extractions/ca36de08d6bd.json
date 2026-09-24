@@ -1,0 +1,78 @@
+{
+ "taxpayer": "BLUE ANGELS SEGURANCA PRIVADA E TRANSPORTE DE VALORES LTDA",
+ "approval_date": "2023-08-15",
+ "consolidated_amount": 98673163.41,
+ "modality": "Transação individual",
+ "total_discount_pct": 64.73,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantidas as garantias já existentes até a assinatura do acordo (não foram prestadas garantias adicionais)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou/onerou bens para frustrar recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicar a Fazenda Nacional",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Solicitar à RFB, em até 60 dias, inscrição em Dívida Ativa dos débitos do Anexo II",
+  "Comunicar à Fazenda Nacional a efetivação da inscrição em Dívida Ativa",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a até 70% do saldo da dívida, após aplicação dos descontos",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL fica suspensa até confirmação pela autoridade competente, no prazo de 5 anos",
+  "Concessão extra de PF/BCN pela redução do prazo de pagamento (42% para Demais Débitos e 12% para Previdenciário)"
+ ],
+ "sector": "Segurança privada e transporte de valores",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Simulação de Desconto – BLUE ANGELS SEGURANCA PRIVADA E TRANSPORTE DE VALORES LTDA - VALOR A SER TRANSACIONADO (PGFN): R$ 98.673.163,41",
+  "total_discount_pct": "Desconto pela CAPAG 64,73%",
+  "installments": "Pagamento da Dívida Transacionada de natureza previdenciária e não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 36 prestações mensais, respectivamente, escalonadas na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "ca36de08d6bd",
+ "title": "Termo de transação Individual - Blue Angel Segurança Privada e Transporte de Valores",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodetransaoIndividualBlueAngelSeguranaPrivadaeTransportedeValoresLTDAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodetransaoIndividualBlueAngelSeguranaPrivadaeTransportedeValoresLTDAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "2ab70a1513b396dcb96993cc0efe4a64d23684182b2ed08c224d7029f025128a",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

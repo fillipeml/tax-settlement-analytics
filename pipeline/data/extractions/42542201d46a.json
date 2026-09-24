@@ -1,0 +1,88 @@
+{
+ "taxpayer": "NAPE ADMINISTRACAO E PARTICIPACOES S/A (grupo econômico - 45 devedoras)",
+ "approval_date": "Not identified",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis relacionados no Anexo V (penhoras na execução fiscal n. 5003740-66.2019.404.7112)",
+  "Imóveis de matrículas 48.746 (Osório), 7960 e 27261 (Bagé), 20132 (Alegrete), 11908 (Cruz Alta) e 102.294 (Canoas) garantindo integralmente a inscrição 00 6 20 050 254-86",
+  "Bloqueios/depósitos judiciais vinculados ao IDPJ 5002327-17.2021.4.04.7122"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar não utilização de pessoa interposta",
+  "Declarar não alienação/oneração de bens para frustrar recuperação de créditos",
+  "Cumprir exigências da Portaria PGFN 6757/22 e da proposta",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Utilizar valor integral de precatório para pagamento de parcelas vincendas",
+  "Manter livros e documentos fiscais por 5 anos (créditos de PF/BCN)",
+  "Apresentar situação econômico-financeira quando solicitado pela PGFN",
+  "Peticionar nos processos judiciais no prazo de 90 dias",
+  "Adimplir emolumentos de protesto cartorário"
+ ],
+ "special_clauses": [
+  "Liberação de bens de família indisponibilizados (Cláusula 13)",
+  "Alienação livre de ônus dos imóveis da NAZIONALE INCORPORADORA CONSTRUTORA, com 50% do lucro destinado à quitação de parcelas e 50% para atividade operacional (Cláusula 14)",
+  "Concordância com alienação de veículos de diversas empresas do grupo, com valores destinados a débitos trabalhistas e subsidiariamente ao pagamento das parcelas (Cláusula 15)",
+  "Liberação da penhora sobre faturamento e depósito judicial (Cláusula 16)",
+  "Levantamento de indisponibilidades de cotas/participações societárias (Cláusula 17)",
+  "Utilização de créditos de prejuízo fiscal (PF) e base de cálculo negativa de CSLL (BCN) de 20 empresas do grupo para amortização do saldo (Cláusula 7)",
+  "Reconhecimento expresso de grupo econômico e corresponsabilidade entre todas as pessoas físicas e jurídicas nominadas (Cláusula 4)",
+  "Utilização de bloqueios/depósitos judiciais do IDPJ para pagamento da primeira parcela de reforço (Cláusula 9)"
+ ],
+ "sector": "Agronegócio/Transporte e Logística/Alimentos",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.2,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.75,
+  "down_payment_pct": 0.0,
+  "installments": 0.7,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Sobre as inscrições indicadas no anexo I será aplicado desconto máximo de 70%... e §2º. Sobre as inscrições indicadas no anexo II incidirá o desconto máximo de 70%",
+  "installments": "sendo o saldo devedor consolidado pago em 145 (cento e quarenta e cinco) parcelas escalonadas, mensais e sucessivas, conforme os valores estipulados no anexo III"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "approval_date",
+  "consolidated_amount",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "42542201d46a",
+ "title": "Termo de Transação Individual - Nape Administração e Participações SA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualNapeAdministraoeParticipaesSAtarjdo.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualNapeAdministraoeParticipaesSAtarjdo.pdf",
+ "sha256": "4f31b1d51a507c4a10a7821b2313a3ddffc4b925255e33105ab138214dac58b3",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

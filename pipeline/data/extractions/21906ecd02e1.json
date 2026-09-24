@@ -1,0 +1,78 @@
+{
+ "taxpayer": "NICCHIO CAFÉ S/A EXPORTAÇÃO E IMPORTAÇÃO",
+ "approval_date": "2022-02-21",
+ "consolidated_amount": 79111694.82,
+ "modality": "Transação individual",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel denominado Fazenda Tangará (Cartório de Ofício Único de Santana do Araguaia/PA)",
+  "Galpão (junto ao Cartório do 1º Ofício de Colatina - ES)",
+  "Imóvel (junto ao Cartório do 1º Ofício de Colatina - ES)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações administrativas ou judiciais relativas à Dívida Transacionada",
+  "Confissão irrevogável e irretratável da dívida, renovada a cada pagamento periódico",
+  "Peticionar nos processos judiciais/administrativos em 30 dias para noticiar a transação e desistir de impugnações",
+  "Peticionar no procedimento administrativo nº 15586.720.210/2016-27 em 15 dias",
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional",
+  "Recolher 5% da receita líquida de eventual alienação de imóveis para amortização",
+  "Permanecer nos parcelamentos já aderidos até completa quitação das CDAs",
+  "Pagar, parcelar ou garantir novos débitos inscritos em DAU no prazo de 90 dias",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado",
+  "Autorizar a CREDORA a acessar declarações e escritas fiscais",
+  "Cumprir demandas/comprovações via portal REGULARIZE"
+ ],
+ "special_clauses": [
+  "Cláusula 2.6: em caso de trânsito em julgado da ação nº 0007528.56.2010.4.01.3400, valores depositados deverão ser levantados e utilizados para pagamento da transação",
+  "Cláusula 2.7: transformação em pagamento definitivo de valores depositados judicialmente em diversos autos, no prazo de 15 dias",
+  "Cláusula 5.1: inclusão do débito do procedimento administrativo nº 15586.720.210/2016-27 implicará recálculo das parcelas vincendas sem extensão do prazo máximo",
+  "Cláusula 5.9.5: inscrições objeto desta transação não poderão ser abrangidas por outra transação, resguardada migração para programa mais vantajoso"
+ ],
+ "sector": "Agronegócio (café)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.3,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "judicial_recovery": 0.2,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizando R$ R$ 79.111.694,82 (setenta e nove milhões, cento e onze reais, seiscentos e noventa e quatro reais e oitenta e dois centavos), atualizado em 09.02.2022",
+  "total_discount_pct": "será concedido o desconto máximo possível, de até 50% (cinquenta por cento) incidente sobre a Dívida Transacionada de natureza não previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "o parcelamento do saldo remanescente, após a aplicação do desconto previsto no item 2.1., em 36 (trinta e seis) vezes"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "21906ecd02e1",
+ "title": "Termo de Transação Individual - Nicchio",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualNicchio.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualNicchio.pdf",
+ "sha256": "8459fcc34210ce8039e73e4677ef0e49fd4aef12f223a70855e1c7e22d2a68ac",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

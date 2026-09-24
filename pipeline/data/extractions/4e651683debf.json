@@ -1,0 +1,79 @@
+{
+ "taxpayer": "EMSA EMPRESA SUL AMERICANA DE MONTAGENS S.A",
+ "approval_date": "2021-07-14",
+ "consolidated_amount": 98286821.19,
+ "modality": "Transação individual (excepcional)",
+ "total_discount_pct": 42.57,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": 2.5,
+ "guarantees": [
+  "Precatório no valor aproximado de 80 milhões, originário do processo judicial nº 0028874-20.1997.4.01.3400, utilizável para amortizar até 50% do saldo devedor",
+  "Aeronave descrita no Anexo III, penhorada nos autos do processo judicial nº 0005812-89.2018.4.01.3504",
+  "Bem móvel indisponibilizado por medida judicial na Execução Fiscal nº [tarjado], enumerado no Anexo III",
+  "Fiança do sócio/fiador (Cláusula 22ª)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável os débitos relacionados no Anexo I",
+  "Renunciar a alegações de direito e questionamentos administrativos e judiciais sobre os débitos do Anexo I",
+  "Reconhecer grupo econômico e corresponsabilidade solidária pelos débitos",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes a partir da assinatura",
+  "Garantir ou parcelar novos débitos inscritos em dívida ativa após a assinatura, no prazo máximo de 90 dias",
+  "Manter as garantias oferecidas até o integral cumprimento das condições",
+  "Informar previamente à PGFN alienação ou disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou valor de pagamentos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais e anuais",
+  "Apresentar situação econômico-financeira anualmente ou quando solicitado pela PGFN"
+ ],
+ "special_clauses": [
+  "Uso de precatório de aproximadamente R$80 milhões como garantia, podendo amortizar até 50% do saldo devedor (Cláusula 11ª)",
+  "Possibilidade de substituição de garantias por imóveis, depósito ou seguro-garantia ao longo da vigência (Cláusula 20ª)",
+  "Cláusula de migração para programa de parcelamento extraordinário mais benéfico, com suspensão dos pagamentos da transação (Cláusula 39ª)",
+  "Fiança do sócio com renúncia ao benefício de ordem e à faculdade de exoneração (Cláusula 22ª)"
+ ],
+ "sector": "Montagens industriais/construção",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.9,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "down_payment_pct": 0.9,
+  "installments": 0.8,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.0,
+  "approval_date": 1.0,
+  "guarantees": 0.8,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizando aproximadamente R$ 98.286.821,19 (novecentos e oito milhões, duzentos e oitenta e seis mil, oitocentos e vinte e um reais e dezenove centavos), referente ao mês de julho de 2021",
+  "total_discount_pct": "VALORES ATUALIZADOS PARA 07/2021 ... TOTAL R$98.286.821,19 R$ 56.443.247,16 57,43%",
+  "installments": "A presente transação terá prazo de vigência de 84 meses.",
+  "down_payment_pct": "a) Entrada de 2,5%: R$ 661.093,87"
+ },
+ "review_fields": [
+  "sector",
+  "judicial_recovery",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "4e651683debf",
+ "title": "Termo de Transação Individual - EMSA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-emsa.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-emsa.pdf",
+ "sha256": "85e7d01a7d63d2bc797b5cb8b4659300d7506119e81365d40c8187fa7aa834c6",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

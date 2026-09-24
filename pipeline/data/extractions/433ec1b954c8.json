@@ -1,0 +1,75 @@
+{
+ "taxpayer": "MUNICIPIO DE BOA VISTA DO RAMOS/AM",
+ "approval_date": "2024-03-18",
+ "consolidated_amount": 23682956.66,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Autorização para dedução dos valores devidos dos montantes a serem repassados relacionados às respectivas cotas nos Fundos de Participação ou aos precatórios federais, nos termos do art. 160, §2º, da Constituição Federal",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, de medida cautelar fiscal e das garantias prestadas administrativamente ou nas ações de execução fiscal ou em qualquer outra ação judicial"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou destinação de bens, direitos e valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais prestadas",
+  "Autorizar compensação de valores relativos a restituições, ressarcimentos ou reembolsos com prestações do acordo",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço - FGTS",
+  "Regularizar em 90 dias os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos",
+  "Peticionar em até 60 dias nos processos judiciais relativos à Dívida Transacionada para noticiar a celebração da transação, desistir de impugnação/recurso/ação e renunciar aos direitos, confessando a dívida de forma irrevogável e irretratável"
+ ],
+ "special_clauses": [
+  "Desconto máximo de 65% a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "Pagamento da Dívida Transacionada de natureza previdenciária em 60 prestações e da Dívida Transacionada de natureza não previdenciária em 120 meses, escalonados conforme Anexo II",
+  "Eventuais créditos que a Requerente venha a dispor, por precatório, levantamento de depósito judicial ou qualquer outro meio, perante a União ou outros entes federados, poderão ser direcionados para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Administração pública municipal",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.9,
+  "installments": 0.55,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total de R$ 23.522.264,27 (Dívida Transacionada - PREVIDENCIÁRIA); Total de R$ 160.692,39 (Dívida Transacionada - DEMAIS DÉBITOS)",
+  "total_discount_pct": "2.1.1. Desconto máximo de 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "2.1.2. Pagamento da Dívida Transacionada de natureza previdenciária ('Dívida Transacionada - Previdenciária') em 60 (sessenta) prestações; e pagamento da Dívida Transacionada de natureza não previdenciária ('Dívida Transacionada – Demais Débitos'), em 120 meses, escalonados na forma discriminada no Anexo II;"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "433ec1b954c8",
+ "title": "Termo de Transação Individual - Município de Boa Vista do Ramos AM",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualMunicpiodeBoaVistadoRamosAMtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualMunicpiodeBoaVistadoRamosAMtarjado.pdf",
+ "sha256": "a4e35416b60d4d52fce79dd754093b637aaf29760884759f063712c25a76756e",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

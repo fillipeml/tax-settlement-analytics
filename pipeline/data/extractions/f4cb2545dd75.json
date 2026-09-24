@@ -1,0 +1,65 @@
+{
+ "taxpayer": "INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES MUNICIPAIS DE ARAPOTI (I.P.S.M)",
+ "approval_date": "2023-04-04",
+ "consolidated_amount": 474644.63,
+ "modality": "Transação Individual - 0603 - DEMAIS DEBITOS - 60 MESES - REDUCAO DE ATE 65% - PREST. LINEARES- AUT.",
+ "total_discount_pct": 55.82,
+ "discounts": {
+  "fine_pct": 100.0,
+  "interest_pct": 100.0,
+  "charges_pct": 100.0
+ },
+ "installments": 60,
+ "down_payment_pct": 0.0,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação de créditos",
+  "Cumprir exigências e obrigações da Portaria PGFN 6.757/2022 e da proposta",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis",
+  "Peticionar nos processos judiciais noticiando a celebração da transação",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultado/balanço contábil",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias"
+ ],
+ "special_clauses": [
+  "Cláusula 7ª: Fica afastada, no caso concreto, a necessidade de a autarquia ofertar garantias, mesmo que não integrais, em razão do regime de precatórios (art. 100 da CF) aplicável aos bens públicos de autarquias"
+ ],
+ "sector": "Previdência pública municipal (autarquia municipal)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.9,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.85,
+  "total_discount_pct": 0.95,
+  "discounts.fine_pct": 0.9,
+  "discounts.interest_pct": 0.9,
+  "discounts.charges_pct": 0.9,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.5,
+  "obligations": 0.9,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Consolidado: 474.644,63",
+  "total_discount_pct": "Percentual efetivo de reduções: 55,82%",
+  "installments": "A inscrição acima referida será objeto de plano de pagamento em 60 (sessenta) amortizações mensais e sucessivas"
+ },
+ "review_fields": [
+  "judicial_recovery"
+ ],
+ "id": "f4cb2545dd75",
+ "title": "Termo de Transação Individual - Benderplast Indústria e Comércio de Embalagens",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/copy_of_TermodeTransaoIndividualInstitutodePrevidnciadosServidoresMunicipaisdeArapotiTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/copy_of_TermodeTransaoIndividualInstitutodePrevidnciadosServidoresMunicipaisdeArapotiTarjado.pdf",
+ "sha256": "21aa567c1819386c206a1006502ce85579dc33f07e0c586585f3065532fa336e",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

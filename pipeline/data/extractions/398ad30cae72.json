@@ -1,0 +1,78 @@
+{
+ "taxpayer": "NAGA INDÚSTRIA E COMÉRCIO DE ALIMENTOS LTDA e demais empresas do grupo econômico (SANTA GEMMA ALIMENTOS LTDA, AGROPECUÁRIA INVERNADA REDONDA LTDA, CAPELATI E CIA LTDA, AGROPECUÁRIA AGUA DO TIRO LTDA, TRANSMOYSES TRANSPORTES RODOVIÁRIOS LTDA)",
+ "approval_date": "2025-05-05",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": 60.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": 2.0,
+ "guarantees": [
+  "Imóvel matriculado sob n. 25687, perante o CRI de Umuarama/PR",
+  "Imóvel matriculado sob n. 14.674 perante o CRI de Amabaí/MS",
+  "Imóveis matriculados sob n. 16.075, 16.076, 16.078, 16.079 e 16.080 perante o CRI de Santa Helena/PR"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utilizam pessoa interposta para ocultar bens",
+  "Declarar que não alienaram ou oneraram bens com propósito de frustrar recuperação de créditos",
+  "Autorizar compensação de valores de restituições, ressarcimentos ou reembolsos",
+  "Autorizar compensação de precatórios federais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Manter-se como optantes do regime de tributação pelo lucro real durante toda a negociação",
+  "Implementar ao menos 4 práticas alinhadas aos Objetivos de Desenvolvimento Sustentável",
+  "Apresentar situação econômico-financeira por meio de demonstrações de resultados sempre que solicitado",
+  "Comprovar adoção/manutenção de práticas de Desenvolvimento Sustentável"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação de imóveis penhorados (matrícula 25.687 CRI Umuarama/PR ou 14.674 CRI Amambaí/MS) para abatimento do saldo devedor, com repasse de até 20% ou 30% às devedoras para incremento da atividade",
+  "Compromisso de manutenção do regime de tributação pelo lucro real por todo o prazo da negociação, considerando utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL",
+  "Possibilidade de adjudicação pelo INCRA do imóvel rural matrícula 16.474 (CRI Amambaí/MS), com alocação do valor da carta de adjudicação para amortização das parcelas"
+ ],
+ "sector": "Agroindústria/alimentos",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.8,
+  "down_payment_pct": 0.7,
+  "installments": 0.75,
+  "discounts": 0.2,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "total_discount_pct": "sobre o saldo apurado após entrada incidirá o desconto médio de cerca de 60% - a ser apurado pelo sistema",
+  "installments": "o saldo final será pago em 108 (cento e oito) prestações mensais escalonadas",
+  "down_payment_pct": "a DEVEDORA pagará entrada de 3% do montante total devido"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "down_payment_pct",
+  "installments"
+ ],
+ "id": "398ad30cae72",
+ "title": "Termo de Transação Individual - Naga Indústria e Comércio de Alimentos,  Santa Gemma Alimentos LTDA,  Agropecuária Invernada Redonda LTDA,  Capelati e Cia LTDA,  Agropecuária água do Tiro LTDA,  Transmoyses Transportes Rodoviários LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualNaga....pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualNaga....pdf",
+ "sha256": "64d18d6e900902861b542e7f6ad884e01706986d11ba769492df88b731b421b0",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

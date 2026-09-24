@@ -1,0 +1,75 @@
+{
+ "taxpayer": "CAIXA DE ASSISTÊNCIA DOS ADVOGADOS DO ESTADO DO RIO DE JANEIRO - CAARJ",
+ "approval_date": "2021-07-02",
+ "consolidated_amount": 108175413.51,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca sobre imóveis de titularidade da REQUERENTE (ANEXO III)",
+  "Repasse de parte da anuidade da OAB/RJ destinada à CAARJ"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Adimplemento do plano de pagamento (145 parcelas para débitos não previdenciários e 60 para previdenciários)",
+  "Peticionar nos processos judiciais em até 30 dias para noticiar a transação e confessar os débitos",
+  "Requerer transformação dos depósitos judiciais em pagamento definitivo em até 30 dias",
+  "Formalizar garantia hipotecária em até 120 dias e apresentar laudos de avaliação",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União ou FGTS em até 90 dias",
+  "Manter regularidade perante o FGTS",
+  "Reconhecimento irrevogável e irretratável dos débitos transacionados"
+ ],
+ "special_clauses": [
+  "Transformação de depósitos judiciais vinculados a processos de execução fiscal em pagamento definitivo",
+  "Reversão de parte de valores penhorados em processo judicial para liquidação de créditos previdenciários (cláusula 3.3 e 3.4)",
+  "Cancelamento de inscrições em Dívida Ativa cuja nulidade fora decretada em Embargos à Execução (cláusula 5.4)",
+  "Oferecimento de parte da anuidade da OAB/RJ repassada à CAARJ como garantia adicional (cláusula 4.2)",
+  "Possibilidade de revisão da manutenção das garantias para liberação de excesso (cláusula 4.3)"
+ ],
+ "sector": "Associação privada / classe de advogados (assistência à advocacia)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.3,
+  "installments": 0.9,
+  "down_payment_pct": 0.2,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "guarantees": 0.85,
+  "obligations": 0.8,
+  "judicial_recovery": 0.6,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Débitos de natureza não previdenciária (DEMAIS), cujos valores atualizados, para junho de 2021, somam R$ 95.846.607,57... Débitos de natureza previdenciária (PREV), cujos valores atualizados, para junho de 2021, somam R$ 12.328.805,94",
+  "installments": "O plano de pagamento relativo aos débitos não previdenciários (TABELA 1)... prevê o recolhimento de 145 parcelas mensais no valor de R$ 198.378,96... O plano de pagamento relativo aos débitos previdenciários (TABELA 2)... prevê o pagamento de 60 parcelas mensais no valor de R$ 126.184,55"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "special_clauses"
+ ],
+ "id": "62246c57e890",
+ "title": "Termo de Transação Individual - Caixa de Assistência dos Advogados do Estado do Rio de Janeiro - CAARJ",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualCaixadeAssistnciadosAdvogadosdoEstadodoRiodeJaneiroCAARJ.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualCaixadeAssistnciadosAdvogadosdoEstadodoRiodeJaneiroCAARJ.pdf",
+ "sha256": "a9f2cd7604c7adf1fe3f30650d46d31dc3af78e43a407436655474eed7824dbb",
+ "extracted_at": "2026-07-22T14:22:29+00:00",
+ "simulated": false
+}

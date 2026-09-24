@@ -1,0 +1,80 @@
+{
+ "taxpayer": "AVIBRÁS INDÚSTRIA AEROESPACIAL S.A. em RECUPERAÇÃO JUDICIAL / POWERTRONICS S/A EMPRESA BRASILEIRA DE TECNOLOGIA ELETRÔNICA S.A. (grupo incorporando também TECTRAN INDÚSTRIA E COMÉRCIO S.A. e AVIBRÁS FIBRAS ÓTICAS E TELECOMUNICAÇÕES S.A.)",
+ "approval_date": "2023-11-09",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel denominado Fábrica 01, matrículas nºs 75.197, 87.086, 87.657 (Registro de Imóveis e Anexos de São José dos Campos/SP)",
+  "Imóvel denominado Fábrica 02, matrícula nº 18.931 (Registro de Imóveis da Comarca de Jacareí/SP)",
+  "Imóvel denominado Fábrica 03, matrículas nºs 13.802, 13.296, 13.295, 13.294, 13.293, 13.292, 13.291, 10.188, 6.390, 3.789, 3.788 e 449 (Cartório de Registro de Imóveis da Comarca de Lorena)",
+  "Direitos de Propriedade Industrial (valor tarjado)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens para frustrar a recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo",
+  "Registrar penhora dos imóveis e da propriedade industrial no INPI em até 60 dias",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para liquidação de até 70% do saldo remanescente após descontos",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL suspensa até confirmação pela autoridade competente, prazo de 5 anos",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente",
+  "Transação condicionada à manutenção do regime do lucro real durante toda a vigência do acordo (uso de prejuízo fiscal/CSLL)"
+ ],
+ "sector": "Indústria aeroespacial/defesa e tecnologia eletrônica",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.3,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.95
+ },
+ "source_excerpts": {
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 84 (oitenta e quatro) prestações mensais, escalonadas na forma discriminada no Anexo II",
+  "discount_max_cda": "Desconto máximo de 70% (setenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "02ef511cf1d4",
+ "title": "Termo Transação Individual - Avibrás",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermoTransaoIndividualAvibrsS.Atarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermoTransaoIndividualAvibrsS.Atarjado.pdf",
+ "sha256": "676940bbab96aaf52a02b1e99f7dfb7a59cbef8bf1e7bc187bcd3c71fb11f5e9",
+ "extracted_at": "2026-07-22T14:22:33+00:00",
+ "simulated": false
+}

@@ -1,0 +1,83 @@
+{
+ "taxpayer": "KEKO ACESSÓRIOS S.A (KEKO ACESSÓRIOS LTDA) em recuperação judicial",
+ "approval_date": "2023-08-03",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Marca KEKO, avaliada em R$ 80.000.000,00 (oitenta milhões de reais), objeto de penhora nas execuções fiscais promovidas em face do grupo"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de ativo não circulante",
+  "Cumprir exigências e obrigações da Portaria PGFN 6757/22, 2383/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos que tenham por objeto os créditos incluídos",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis",
+  "Não distribuir lucros ou dividendos a sócios/acionistas até aprovação do plano de recuperação judicial",
+  "Manter por 5 anos livros e documentos comprobatórios dos montantes de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos negociados",
+  "Peticionar nos processos judiciais noticiando a celebração da transação",
+  "Providenciar oferecimento e formalização da penhora dos bens em garantia em até 90 dias",
+  "Substituir ou reforçar garantia em 30 dias em caso de redução significativa de valor"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal (PF) e base de cálculo negativa de CSLL (BCN) para amortização do saldo devedor, sob condição resolutória de homologação pela RFB em até 5 anos",
+  "Vedação à distribuição de lucros ou dividendos a sócios e acionistas até a aprovação do plano de recuperação judicial",
+  "Garantia consistente na marca KEKO avaliada em R$ 80.000.000,00, em vez de garantias tradicionais como imóvel ou seguro-garantia",
+  "Parcelamento do saldo em 120 parcelas mensais escalonadas para débitos do Anexo I (demais débitos) e 60 parcelas mensais escalonadas e sucessivas para débitos do Anexo II (previdenciárias)"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.1,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.3,
+  "discounts": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "guarantees": "A DEVEDORA oferece em garantia da integralidade do débito aqui negociado a marca KEKO, avaliada em R$ 80.000.000,00 (oitenta milhões de reais) que será objeto de penhora nas execuções fiscais promovidas em face do grupo.",
+  "installments_annex_I": "e o saldo devedor será pago em 120 (cento e vinte) parcelas mensais escalonadas.",
+  "installments_annex_II": "o saldo restante será objeto de plano de pagamento em 60 (sessenta) amortizações mensais escalonadas e sucessivas.",
+  "approval_date": "Porto Alegre, 03 de agosto de 2023."
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "special_clauses"
+ ],
+ "id": "905b1190563d",
+ "title": "Termo de Transação Individual - Keko Acessórios SA em recuperação judicial",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualKekoAcessriosSAemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualKekoAcessriosSAemrecuperaojudicialtarjado.pdf",
+ "sha256": "ccc1fb9cc8a01e1c419bbb52077a501c6ff218881ed52469a5350f3d3d66c714",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

@@ -1,0 +1,88 @@
+{
+ "taxpayer": "Grupo Habitacional (Grupo Econômico de Fato composto por: Habitacional Empreendimentos Ltda, Habitacional Construções S/A, Portal Construções SPE Ltda, Habitar Construções SPE Ltda, Indústria Gráfica Tribuna de Aracaju Ltda, Moradas da Torre Construções SPE Ltda, Rádio Jornal de Sergipe Ltda, Costa Sul Construções SPE Ltda, HG Construções SPE Ltda, Costa Alta Construções SPE Ltda, MC Incorporações SPE Ltda, Jundiahy Agropecuária S/A, AJN Agência Jornal de Notícias Ltda)",
+ "approval_date": "2023-12-13",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 53.43,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel sede da Habitacional, em Aracaju-SE (Matrícula R-3-6.254) - Avaliação R$ 9.500.000,00",
+  "Restaurante Centro Médico/Odontológico-Aracaju (Matrícula R-1-13.208) - Avaliação R$ 600.000,00",
+  "Área de Cinema I – Maceió-AL (Matrícula R-1-73.321) - Avaliação R$ 4.000.000,00",
+  "Área de Cinema II – Maceió-AL (Matrícula R-1-73.322) - Avaliação R$ 4.000.000,00",
+  "Prédio comercial (sede II Habitacional) – Maceió-AL (Matrícula R-13-14.390 e 14613) - Avaliação R$ 4.000.000,00",
+  "Apartamento 401-Ed. Juvêncio Leite – Maceió-AL (Matrícula R-3-71.238) - Avaliação R$ 1.000.000,00",
+  "Manutenção de penhoras existentes nos executivos fiscais em trâmite",
+  "Manutenção de gravames de arrolamento de bens e medida cautelar fiscal"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável da dívida",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após a formalização",
+  "Manter livros e documentos comprobatórios de prejuízo fiscal e BCN por 5 anos",
+  "Permanecer no regime de Lucro Real enquanto vigente a transação",
+  "Apresentar demonstrações contábeis e patrimoniais anualmente",
+  "Não alienar bens/direitos do ativo não circulante sem comunicação à Fazenda Nacional",
+  "Desistir de impugnações e recursos administrativos/judiciais relativos aos débitos negociados",
+  "Peticionar em até 60 dias após assinatura nos processos judiciais noticiando a celebração do acordo",
+  "Individualizar valores recolhidos nas contas vinculadas dos trabalhadores, quando for o caso",
+  "Fornecer informações sobre bens, direitos, valores e operações sempre que solicitado pela PGFN",
+  "Pagar à vista as contribuições de FGTS incidentes sobre verbas rescisórias"
+ ],
+ "special_clauses": [
+  "Reconhecimento de Grupo Econômico de Fato entre as devedoras, denominado 'Grupo Habitacional', com corresponsabilização mútua pelos débitos",
+  "Utilização de créditos de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para quitação de até 70% do saldo devedor, limitado a R$19.265.624,75, sendo 70% para conta Previdenciária e 30% para conta Demais",
+  "Venda de bens garantidores por iniciativa particular dos proprietários, sem necessidade de autorização da Fazenda Nacional, condicionada à reversão do produto para quitação do acordo",
+  "Cumprimento do plano de pagamento independe da concretização da alienação dos imóveis dados em garantia",
+  "Precatórios federais, estaduais ou municipais liquidados em favor do Grupo Habitacional deverão ser imediata e integralmente aproveitados na liquidação dos débitos transacionados",
+  "Formalização de quatro contas independentes de transação (PREVI, DEMAIS e duas para FGTS/CSFGTS), sendo que a inadimplência de qualquer delas implica rescisão de toda a transação",
+  "Inclusão futura de débitos não inscritos por meio de repactuação, mediante requerimento administrativo",
+  "Foro eleito: Seção Judiciária de Pernambuco"
+ ],
+ "sector": "Construção civil/imobiliário (habitacional), com atividades correlatas em mídia (rádio, jornal, agência de notícias, gráfica) e agropecuária",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de até 65% em cada uma das inscrições, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa juros e encargo legal), resultando em um percentual geral de desconto da dívida previdenciária e não previdenciária de 53,43%;",
+  "installments": "Pagamento da dívida transacionada de natureza não previdenciária em 120 (cento e vinte) prestações mensais;"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "2086c5a82e03",
+ "title": "TermodeTransaoIndividualHabitacionalEmpreendimentos.pdf",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualHabitacionalEmpreendimentos.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualHabitacionalEmpreendimentos.pdf",
+ "sha256": "c2ffa652914da65c8be7f7820ca316ec58e64d5f37bddedf34bbe3fb73930dd6",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

@@ -1,0 +1,80 @@
+{
+ "taxpayer": "MOFERKO INDUSTRIA E COMERCIO DE FERROS E IMPLEMENTOS AGRICOLAS LTDA",
+ "approval_date": "2025-05-09",
+ "consolidated_amount": 18977901.26,
+ "modality": "Transação Individual",
+ "total_discount_pct": 37.44,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de todas as garantias existentes (indisponibilidades/penhoras/bloqueios) nos processos relacionados aos créditos negociados"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar origem/destinação de bens",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação dos créditos",
+  "Cumprir exigências e obrigações da Portaria PGFN 6.757/22 e da proposta",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando em até 90 dias débitos supervenientes",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Manter-se optante do regime de tributação pelo lucro real durante toda a negociação (por utilização de créditos de prejuízo fiscal/CSLL)",
+  "Não desistir unilateralmente do acordo",
+  "Confessar de forma irrevogável e irretratável a dívida transacionada",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos, no prazo de 30 dias",
+  "Quitar custas processuais pendentes e despesas de cancelamento de leilões",
+  "Apresentar demonstrações de resultado sempre que solicitado pela Fazenda Nacional",
+  "Recolher via DARF, em 30 dias, diferença de créditos de prejuízo fiscal/CSLL não confirmados"
+ ],
+ "special_clauses": [
+  "Liquidação parcial do saldo remanescente com utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL, observado limite de 70% (art. 35 da Portaria PGFN 6.757/2022)",
+  "Compromisso de manutenção do regime de tributação pelo lucro real por todo o prazo da negociação, em razão do uso de créditos de prejuízo fiscal/CSLL",
+  "Escalonamento de prestações com percentuais crescentes ao longo do prazo (tabelas específicas para Demais Débitos e Débitos Previdenciários)",
+  "Aplicação de juros SELIC acumulados mensalmente sobre as prestações, mais 1% no mês do pagamento"
+ ],
+ "sector": "Indústria e comércio de ferros e implementos agrícolas (metalurgia/agropecuário)",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.6,
+  "installments": 0.55,
+  "down_payment_pct": 0.3,
+  "discounts": 0.2,
+  "guarantees": 0.8,
+  "obligations": 0.9,
+  "judicial_recovery": 0.4,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Sobre as inscrições indicadas no Anexo I (Débitos Previdenciários) que totalizam, em abril/2025, o montante de R$ 10.692.477,44 ... $2º. Sobre as inscrições de demais débitos indicadas no Anexo II (Demais Débitos), que totalizam, em abril/2025, R$ 8.285.423,82",
+  "total_discount_pct": "será aplicado desconto médio de 37,44%... incidirá o desconto médio de 37,17%",
+  "installments": "Quantidade Máxima de Prestações: 120 (excluindo as Prestações da entrada) Prestações selecionadas: 120 - Modalidade: 0122 - DEMAIS DEBITOS -PJ- DEMAIS- ATE 120 MESES"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "sector",
+  "judicial_recovery"
+ ],
+ "id": "1e5d16a39e71",
+ "title": "Termo de Transação Individual - Moferko Indústria e Comércio de Ferros e Implementos Agrícolas LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualMoferkoIndstriaeComrciodeFerroseImplementosAgrcolasLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualMoferkoIndstriaeComrciodeFerroseImplementosAgrcolasLTDA.pdf",
+ "sha256": "8f65b7a4889fa744c58b47672d90d029fcc25a723f4cd4fb8a482e66d5a7b30b",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

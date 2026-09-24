@@ -1,0 +1,71 @@
+{
+ "taxpayer": "IMPRESSOS SÃO SEBASTIÃO EDITORA E GRAFICA EIRELI - EPP",
+ "approval_date": "2025-05-08",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 62.87,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 65,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança (sócio Rosaura Augusta da Silva)",
+  "Manutenção automática de gravames decorrentes de arrolamento de bens, medida cautelar fiscal, penhoras ou garantias prestadas administrativamente"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando em 90 dias débitos que se tornarem exigíveis",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a Transação e desistir/renunciar aos direitos",
+  "Não alienar bens sem comunicação e demonstração de ausência de prejuízo",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter livros e documentos fiscais/contábeis relativos ao uso de PF/BCN por 5 anos",
+  "Manter regime de apuração pelo lucro real durante a vigência da Transação (uso de PF/BCN)",
+  "Regularizar em 90 dias débitos do Anexo III que se tornarem exigíveis"
+ ],
+ "special_clauses": [
+  "Autorização de uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) no valor máximo de R$1.841.411,13, limitado a 70% do saldo devedor após descontos, distribuído entre Dívida Previdenciária (até R$887.741,01) e Demais Débitos (até R$953.670,12)",
+  "Garantia por fiança do sócio, com renúncia ao benefício de ordem (art. 827 e 828, I, CC), responsabilizando-se solidariamente pelo total da dívida consolidada sem descontos em caso de inadimplemento",
+  "Possibilidade de alienação dos bens dados em garantia mediante anuência prévia da Fazenda Nacional, com uso da Plataforma Comprei"
+ ],
+ "sector": "Editora e gráfica",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "discounts": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Concede-se o desconto máximo de 62,87% (sessenta e dois inteiros e oitenta e sete centésimos por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal.",
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Demais Débitos será adimplido em 65 (sessenta e cinco) prestações mensais sucessivas, escalonadas de acordo com os seguintes percentuais"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "sector",
+  "installments"
+ ],
+ "id": "eb919f3a0b04",
+ "title": "Termo de Transação Individual e Anexos - Impressos São Sebastião Editora e Gráfica Eireli - EPP",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualeAnexosImpressosSoSebastioEditoraeGrficaEireliEPP.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualeAnexosImpressosSoSebastioEditoraeGrficaEireliEPP.pdf",
+ "sha256": "8f834b2cf4d12d81449baa7cd2299304993a8daae319b783f4279657e2eff0ac",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

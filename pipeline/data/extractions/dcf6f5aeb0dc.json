@@ -1,0 +1,57 @@
+{
+ "taxpayer": "ARCLIMA ENGENHARIA LTDA - EM RECUPERACAO JUDICIAL; ARCODUTO EIRELI; TOTALPARTS AR CONDICIONADO E REFRIGERACAO LTDA",
+ "approval_date": "2022-03-28",
+ "consolidated_amount": 1676.77,
+ "modality": "Transação individual (Primeiro Termo Aditivo)",
+ "total_discount_pct": 12.46,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [
+  "Inclusão de nova CDA (40622002202-43) no acordo de transação individual já existente (conta SISPAR nº 6124169), sem necessidade de criação de nova conta",
+  "Alteração do parágrafo 3º da cláusula 15 do termo original: serão criadas 3 contas independentes de transação - uma para Débitos Previdenciários, uma para Demais Débitos (não previdenciários) e uma para o crédito de Simples Nacional (40419004557-20), recolhido por DAS diferente"
+ ],
+ "sector": "Engenharia/climatização (ar condicionado e refrigeração)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.3,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "40622002202-43 | Valor Consolidado 1.676,77",
+  "total_discount_pct": "40622002202-43 | Desconto 12,46%"
+ },
+ "review_fields": [
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "obligations",
+  "sector"
+ ],
+ "id": "dcf6f5aeb0dc",
+ "title": "PrimeiroTermoAditivoArclima.pdf",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/PrimeiroTermoAditivoArclima.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/PrimeiroTermoAditivoArclima.pdf",
+ "sha256": "7a7b83a3ecc2e56c6d5e5494950825a523f7047d38a7596173c93c8b88b40e52",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

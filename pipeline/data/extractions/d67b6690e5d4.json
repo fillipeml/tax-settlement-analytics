@@ -1,0 +1,81 @@
+{
+ "taxpayer": "IRMANDADE DE SANTA IZABEL DE CABO FRIO",
+ "approval_date": "2024-06-21",
+ "consolidated_amount": 385592.35,
+ "modality": "Transação individual FGTS",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 100,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel - Lote 06, Quadra C, bairro Tocaia, Cabo Frio/RJ, Matrícula 37.210",
+  "Imóvel - Rua Barão do Rio Branco, 72, bairro Passagem, Cabo Frio/RJ, Matrícula 11.341"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter em dia impostos e taxas federais, estaduais e municipais sobre os bens ofertados em garantia",
+  "Comunicar à Fazenda Nacional e ao Juízo das execuções fiscais a superveniência de penhora ou gravame sobre os bens",
+  "Não alienar bens dados em garantia sem concordância da Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Declarar não ter alienado ou onerado bens com propósito de frustrar recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos inscritos em Dívida Ativa ou exigíveis após a formalização",
+  "Não alienar bens/direitos que possam reduzir capacidade de pagamento sem comunicação à Fazenda",
+  "Individualizar os valores recolhidos nas contas vinculadas dos trabalhadores",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da transação, desistir de impugnações/recursos e renunciar a direitos"
+ ],
+ "special_clauses": [
+  "Inclusão futura de débitos de FGTS referentes às competências 02/2015 a 12/2019, ainda não definitivamente constituídos, se e quando inscritos em DAU, sem alargamento do prazo da transação",
+  "Rescisão do parcelamento vigente quanto à inscrição FGRJ201800631, a ser informada à Caixa Econômica Federal",
+  "Bens dados em garantia podem ser substituídos por outros de igual ou maior valor, com concordância da Fazenda Nacional",
+  "Se alienados os bens em garantia, com concordância da Fazenda Nacional, 30% do valor auferido deverá ser revertido à conta da transação individual como antecipação de parcelas"
+ ],
+ "sector": "Saúde/Assistência (Santa Casa/Irmandade hospitalar)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.9,
+  "down_payment_pct": 0.3,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.2,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Total: 385.592,35",
+  "total_discount_pct": "Desconto: 65,00%",
+  "installments": "JUROS/MULTA/ENCARGOS Nº Parcelas: 100"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "d67b6690e5d4",
+ "title": "Termo de Transação Individual - Irmandade de Santa Izabel de Cabo Frio (FGTS)",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualIrmandadedeSantaIzabeldeCaboFrioFGTStarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualIrmandadedeSantaIzabeldeCaboFrioFGTStarjado.pdf",
+ "sha256": "a3363fd5ad7b0798b3f4e563b09529ed9537e5a9b047046aa4cbb08de9a5b817",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

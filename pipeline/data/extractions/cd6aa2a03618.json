@@ -1,0 +1,61 @@
+{
+ "taxpayer": "Pozza S. A. Indústria Moveleira (e devedores solidários: BRV Móveis Ltda, Elare Apoio Administrativo Ltda, BDF Metalúrgica Ltda, VP Indústria de Móveis Ltda, GPB Participações e Investimentos Ltda, Volnei Benini, Rodrigo Pereira Benini)",
+ "approval_date": "2025-02-19",
+ "consolidated_amount": 917714.92,
+ "modality": "Transação Individual (Termo Aditivo)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Pagamento exclusivamente por meio de conta específica de parcelamento da PGFN, via portal REGULARIZE, sendo sem efeito qualquer pagamento realizado de forma diversa"
+ ],
+ "special_clauses": [
+  "Termo aditivo celebrado para formalizar a transação das inscrições 00421108547-51, 00419031229-09 e 00419020844-18 oriundas de débitos do SIMPLES NACIONAL, que demandaram abertura de conta específica de Transação Individual no sistema de parcelamento",
+  "Ratificam-se todos os demais termos da negociação original (Cláusula 3ª)"
+ ],
+ "sector": "Indústria moveleira",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.7,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "As DEVEDORAS possuem em aberto os débitos tributários originados no SIMPLES NACIONAL acima referidos que totalizam, em fevereiro/2025, o montante de R$ 917.714,92 (novecentos e dezessec... s"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "cd6aa2a03618",
+ "title": "Aditivo Pozza",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/AditivoPozzaSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/AditivoPozzaSA.pdf",
+ "sha256": "f3de11b7bf92da58cbbdfada646b92a3a9384b159d93c37d4687e33eb06beb33",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

@@ -1,0 +1,78 @@
+{
+ "taxpayer": "ITAJARA COMERCIO DE CARNES LTDA - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2025-02-21",
+ "consolidated_amount": 88061471.84,
+ "modality": "Transação Individual (recuperação judicial)",
+ "total_discount_pct": 64.16,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Regularizar em 30 dias saldo decorrente da reconsolidação da conta de transação individual",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter por 5 anos livros e documentos exigidos pelas normas fiscais, incluindo comprovação de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação do saldo remanescente, limitada a 39,52% para demais débitos e 70% para débitos previdenciários",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL fica suspensa até confirmação dos créditos pela autoridade competente (prazo de 5 anos)",
+  "Desconto máximo de até 65% por CDA, vedada redução do montante principal, aplicado proporcionalmente sobre multa, juros e encargos",
+  "Direcionamento de eventuais créditos de precatório ou levantamento de depósito judicial para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Comércio de carnes / agronegócio",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "guarantees": 0.3,
+  "obligations": 0.9,
+  "judicial_recovery": 1.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "PASSIVO FISCAL CONSOLIDADO R$ 88.061.471,84",
+  "total_discount_pct": "PERCENTUAL DE DESCONTO MÉDIO 64,16%",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 prestações mensais escalonadas"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "guarantees"
+ ],
+ "id": "2c9988b59ce0",
+ "title": "Termo de Transação Individual - Itajara Comércio de Carnes LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualItajaraComrciodeCarnesLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualItajaraComrciodeCarnesLTDATarjado.pdf",
+ "sha256": "aa56ae7e3fa7b52c1cd0d6668ff8a4e305a5737c050cc8a00fec725ac723a68a",
+ "extracted_at": "2026-07-22T14:22:45+00:00",
+ "simulated": false
+}

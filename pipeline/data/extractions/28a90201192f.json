@@ -1,0 +1,78 @@
+{
+ "taxpayer": "PACER LOGISTICA S.A. EM RECUPERACAO JUDICIAL",
+ "approval_date": "2024-02-15",
+ "consolidated_amount": null,
+ "modality": "Transação individual (em recuperação judicial)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens, direitos e valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Regularizar, no prazo de 30 dias, o saldo decorrente da reconsolidação das contas de transação individual",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter, durante 5 anos, os livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Desconto máximo de 70% a cada uma das CDAs, vedada a redução do montante principal, aplicado de forma proporcional sobre acréscimos legais (multa, juros e encargos)",
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação do saldo remanescente, limitada até 60% para demais débitos e até 64,17% para débitos previdenciários",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL suspensa até confirmação pela autoridade competente, dentro do prazo legal de 5 anos",
+  "Direcionamento de eventuais créditos que a Requerente venha a dispor (precatório, levantamento de depósito judicial etc.) para adimplemento dos saldos devedores da Transação",
+  "Juros de parcela equivalentes à taxa Selic acumulada mensalmente, mais 1% no mês do pagamento"
+ ],
+ "sector": "Logística",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.85,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.6,
+  "judicial_recovery": 1.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 84 (oitenta e quatro) prestações mensais lineares"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees"
+ ],
+ "id": "28a90201192f",
+ "title": "Termo de Transação Individual - Pacer Logistica SA em recuperação judicial",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualPacerLogisticaSAemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualPacerLogisticaSAemrecuperaojudicialtarjado.pdf",
+ "sha256": "3e6023831ba2f0346c3e5c2eb4d1f291b110de9423fd6f8c4981c1a16e534222",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

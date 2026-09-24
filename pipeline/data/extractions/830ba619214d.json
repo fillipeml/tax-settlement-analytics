@@ -1,0 +1,71 @@
+{
+ "taxpayer": "DUARTE CONSTRUÇÕES S.A. EM RECUPERAÇÃO JUDICIAL (grupo econômico, incluindo VILA BRAGANÇA CONSTRUÇÕES S.A., DUARTE EMPREENDIMENTO ESTRELINHA LTDA, DUARTE EDIFICIO SHOPPING PARK RESIDENCE I, II e III LTDA, DUARTE - EDIFICIO SUNVILLE CANDEIAS LTDA, DUARTE - EDIFICIO SITIO DAS ROSEIRAS LTDA, DUARTE - EDIFICIO JARDIM BELA VISTA LTDA)",
+ "approval_date": "2025-02-14",
+ "consolidated_amount": 9492094.45,
+ "modality": "Transação Individual (Plano de Regularização Fiscal) - Portaria PGFN 6.757/2022, com aplicação da Portaria PGFN 2.382/2020 para devedores em recuperação judicial",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção das garantias já existentes (não há liberação de garantias anteriores)",
+  "Bens do ativo não circulante listados no Anexo IV (veículo Voyage, caminhão, grua guindaste, dois imóveis em Recife-PE)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Apresentação de situação econômico-financeira anualmente (balanço/DRE)",
+  "Pagamento regular dos tributos correntes",
+  "Comprovação de créditos de prejuízo fiscal/BCN por profissional contábil",
+  "Permanência no regime de tributação pelo lucro real durante a vigência da transação ou retorno a esse regime",
+  "Manter livros e documentos fiscais por até 5 anos",
+  "Não alienar bens do ativo não circulante sem comunicação à Fazenda Nacional",
+  "Apresentar ECF durante o cumprimento do acordo",
+  "Desistência de impugnações/recursos administrativos e ações judiciais relativas aos débitos incluídos"
+ ],
+ "special_clauses": [
+  "Autorização para utilização de crédito de prejuízo fiscal e base de cálculo negativa de CSLL (montante máximo de PF e BCN de R$ 18.383.532,05 cada, limitado a 70% da dívida remanescente)",
+  "Venda de bens do ativo não circulante condicionada à aquiescência da Fazenda Nacional, com reversão do produto para quitação do acordo",
+  "Em caso de rescisão, alienação dos bens penhorados/garantia via sistema COMPREI, com limite mínimo de 50% do valor de avaliação",
+  "Corresponsabilidade solidária entre os integrantes da PARTE DEVEDORA por reconhecimento como grupo econômico",
+  "Dedução de valores devidos de Estados/Municípios nas cotas dos Fundos de Participação (não aplicável neste caso específico, cláusula geral)"
+ ],
+ "sector": "Construção civil/incorporação imobiliária",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.8,
+  "total_discount_pct": 0.85,
+  "installments": 0.8,
+  "down_payment_pct": 0.1,
+  "discounts": 0.1,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.6,
+  "obligations": 0.8,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total sem reduções (A) ... 9.492.094,45 (Débitos Previdenciários, CNPJ 69.891.661/0001-50)",
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ ... 70%",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) ... 84 MESES (Débitos Não Previdenciários/Demais Débitos)"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "830ba619214d",
+ "title": "Termo de Transação Individual - Duarte Construções SA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualDuarteConstruesSATarajado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualDuarteConstruesSATarajado.pdf",
+ "sha256": "2fee490c96e31959d65a65eda2282436cc2c98abaea8506c64c99e8d8cf34ec2",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

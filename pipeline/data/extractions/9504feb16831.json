@@ -1,0 +1,75 @@
+{
+ "taxpayer": "FIVE STARS DE MACAÉ SERVIÇOS DE PETRÓLEO EIRELI, FAXE DRILLING SERVIÇOS DE PETRÓLEO EIRELI, FIVE STAR INDUSTRIAL COMÉRCIO E SERVIÇOS OFFSHORE LTDA, FIVE STAR OFFSHORE SERVIÇOS E LOCAÇÕES LTDA, AETI ALLIANCE GROUP BRAZIL SISTEMAS E ENERGIA LTDA (todas em Recuperação Judicial)",
+ "approval_date": "2024-12-05",
+ "consolidated_amount": 4183739.09,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel matrícula 19.482 (Cartório do 2º Ofício de Macaé)",
+  "Imóvel matrícula 32.201 (Cartório do 2º Ofício de Macaé)",
+  "Penhora judicial dos imóveis descritos na cláusula 3.1"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações administrativas/judiciais relativas à Dívida Transacionada",
+  "Confissão irrevogável e irretratável da dívida",
+  "Peticionar em 30 dias nos autos das execuções fiscais e da Recuperação Judicial nº 0008727-29.2018.8.19.0028 para noticiar a transação",
+  "Manter pagamento regular de tributos federais, estaduais e municipais incidentes sobre os imóveis dados em garantia",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Manter regularidade perante PGFN, RFB e FGTS",
+  "Individualizar valores recolhidos aos trabalhadores via SEFIP",
+  "Comunicar alterações societárias em até 30 dias",
+  "Fornecer informações econômico-financeiras quando solicitado"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação dos imóveis dados em garantia via plataforma COMPREI, com anuência da CREDORA e destinação do valor à quitação de parcelas vincendas",
+  "Compensação de créditos de precatórios federais com prestações do acordo (cláusula 4.5), apesar da declaração 5.6.5 de que as DEVEDORAS não possuem precatórios federais expedidos em seu favor",
+  "Nomeação da CREDORA como procuradora para receber indenização em caso de desapropriação dos imóveis garantidores",
+  "Vedação de migração das inscrições listadas no Anexo VIII para outra transação por adesão, exceto programas mais benéficos sem perda das garantias já constituídas"
+ ],
+ "sector": "Petróleo e serviços offshore",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal das DEVEDORAS é composto das inscrições FGRJ200902170, FGRJ201301261, FGRJ20150005... que totalizam o valor de R$4.183.739,09, atualizados até abril de 2024."
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "special_clauses"
+ ],
+ "id": "9504feb16831",
+ "title": "Termo de Transação Individual - FIve Stars (FGTS)",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualFIveStarsFGTS.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualFIveStarsFGTS.pdf",
+ "sha256": "21717917bd7aa4e954de57f1a7a5b4b17b857bcfe48ef840ba5db8965e4ebe18",
+ "extracted_at": "2026-07-22T14:22:29+00:00",
+ "simulated": false
+}

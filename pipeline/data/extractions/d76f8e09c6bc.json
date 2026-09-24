@@ -1,0 +1,81 @@
+{
+ "taxpayer": "RIBEIRO ENGENHARIA LTDA",
+ "approval_date": "2021-12-20",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Área de terras medindo 30.000 m2, desmembrada de maior porção da gleba nº 13, situada em local com dados tarjados, matriculada no Cartório do 2º Ofício de Registro Geral de Imóveis de Guarapari",
+  "Oito caminhões Mercedes Benz individualizados (Anexo III)",
+  "Crédito de Precatório em face do Município de Mage/RJ (Anexo IV)",
+  "Lotes de terrenos nºs 18 ao 32 e mais 35 ao 40, da quadra 80, situados em Loteamento no município da Serra/ES (Anexo V)",
+  "Fiança/garantia fidejussória dos GARANTIDORES"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos inscritos listados no Anexo I",
+  "Renúncia a quaisquer alegações de direito sobre ações judiciais/recursos referentes aos créditos transacionados",
+  "Adimplemento do plano de pagamento mensal",
+  "Reconhecimento de acréscimo de juros Selic + 1% sobre as parcelas",
+  "Compromisso de pagar/parcelar/garantir novos débitos inscritos em Dívida Ativa em até 90 dias",
+  "Manutenção da regularidade dos parcelamentos vigentes",
+  "Manutenção da regularidade perante o FGTS",
+  "Autorização de acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Não alienar bens sem comunicação prévia à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Quitação antecipada, em até 120 dias, do débito previdenciário parcelado no REFIS"
+ ],
+ "special_clauses": [
+  "Cláusula 9.5: faculdade de migração dos débitos não quitados para parcelamentos especiais supervenientes com melhores condições, mantendo as garantias da cláusula 4",
+  "Cláusula 9.6: comunicação entre as partes por troca de e-mails entre procuradores/representantes legais",
+  "Cláusula 4.4: faculdade de alienação dos imóveis dados em garantia, sujeita a requisitos específicos",
+  "Cláusula 4.6: garantia fidejussória dos GARANTIDORES, com renúncia à faculdade de exoneração do art. 835 do Código Civil e manutenção mesmo em caso de novação, fusão ou incorporação da PROPONENTE",
+  "Cláusula 3.9: valores depositados na Execução Fiscal nº 00059294420064025001 serão usados para amortização das últimas parcelas"
+ ],
+ "sector": "Construção civil/engenharia",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de 70% (setenta por cento) incidente sobre a Dívida Transacionada de natureza não previdenciária e previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos) (Anexo I).",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 145 (cento e quarenta e cinco meses) prestações mensais;"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "d76f8e09c6bc",
+ "title": "Termo de Transação Individual - Ribeiro Engenharia - Primeiro Termo Aditivo",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualRibeiroEngenhariaPrimeiroTermoAditivo.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualRibeiroEngenhariaPrimeiroTermoAditivo.pdf",
+ "sha256": "b775e601e866d949415dac21b76c931f07eef7c8bf2935a3ce4e63f98291cb09",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

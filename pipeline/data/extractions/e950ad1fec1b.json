@@ -1,0 +1,54 @@
+{
+ "taxpayer": "SOPROVAL EMBALAGENS PLASTICAS LTDA — EM RECUPERAÇÃO JUDICIAL (56.173.370/0001-85)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 18196003.07,
+ "modality": "Transação individual",
+ "total_discount_pct": 50.16,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Embalagens plásticas",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.6,
+  "installments": 0.5,
+  "guarantees": 0.9,
+  "obligations": 0.3,
+  "judicial_recovery": 0.9,
+  "special_clauses": 0.3
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada Total: R$ 18.196.003,07",
+  "total_discount_pct": "Desconto efetivo médio Total: 50,16%",
+  "installments": "Número de parcelas Previdenciária: 60 / Demais débitos: 120 / Simples Nacional: 0"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "installments",
+  "obligations",
+  "special_clauses",
+  "down_payment_pct"
+ ],
+ "id": "e950ad1fec1b",
+ "title": "SumrioSoprovalEmbalagensPlsticas.pdf",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioSoprovalEmbalagensPlsticas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioSoprovalEmbalagensPlsticas.pdf",
+ "sha256": "57be01cb1b15ca6a9f2c5a7b33efbbbdeec23fcbf22e4dc354695195565c0226",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

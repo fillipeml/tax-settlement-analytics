@@ -1,0 +1,69 @@
+{
+ "taxpayer": "CRUZEIRO ESPORTE CLUBE",
+ "approval_date": "2021-08-02",
+ "consolidated_amount": 36985355.88,
+ "modality": "Transação Tributária Individual (Primeiro Termo Aditivo)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel 'Toca 1' (Matrícula nº 125.723 do 6º Ofício do Registro de Imóveis de BH/MG)",
+  "Imóvel 'Sede' (Matrícula nº 68.174 do 7º Ofício do Registro de Imóveis de BH/MG) - liberado para alienação/desapropriação",
+  "Bens e direitos indicados no Anexo III"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistir das discussões judiciais e administrativas relativas à sua exclusão dos parcelamentos especiais da Lei nº 13.155/15: PROFUT-FGTS e PROFUT-RFB-PREV",
+  "Desistir da discussão referente ao limite de 20 salários mínimos para apuração da base de cálculo de 'contribuições parafiscais arrecadadas por conta de terceiros' relativa às dívidas do Anexo II",
+  "Oferecer nova garantia na Execução Fiscal nº 1031811-41.2020.4.01.3800, consubstanciada no imóvel denominado 'Toca 1'",
+  "Pagamento integral e sem descontos da dívida FGMG201504267 no prazo de 5 dias contado do recebimento dos valores da alienação/desapropriação do imóvel 'Sede'",
+  "Pagamentos de dívidas trabalhistas vencidas e a vencer até o limite de R$ 21.000.000,00"
+ ],
+ "special_clauses": [
+  "Desconstituição da constrição na Execução Fiscal nº 1031811-41.2020.4.01.3800 para possibilitar alienação do bem 'Sede', com utilização da quantia obtida para pagamento de dívidas FIFA e dívida trabalhista até o limite de R$ 10.000.000,00, ficando o valor restante vinculado ao acordo de transação",
+  "Destinação específica dos valores da alienação/desapropriação do imóvel 'Sede': (I) pagamento integral da dívida FGMG201504267 (R$ 7.973.547,27); (II) pagamento de valores residuais dos débitos incluídos por este aditivo, utilizando o valor depositado na Execução Fiscal (penhora de R$ 15.127.501,50); (III) pagamento antecipado de parcelas; (IV) pagamento de dívidas trabalhistas até R$ 21.000.000,00; (V) saldo remanescente para pagamento antecipado de parcelas",
+  "Liberação da penhora sobre o imóvel 'Sede' mediante sub-rogação em parte do valor da indenização paga pela alienação/desapropriação, com oferecimento do imóvel 'Toca 1' em garantia",
+  "Débito FGMG201504267 não constituirá impedimento à emissão de Certificado de Regularidade do FGTS - CRF a partir da assinatura do termo aditivo, desde que cumpridos os compromissos",
+  "Certidões de regularidade fiscal e do FGTS emitidas com base no termo aditivo terão validade de até 75 dias"
+ ],
+ "sector": "futebol/entretenimento",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.9,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total ... R$ 36.985.355,88 (linha Total da tabela 'Não Previdenciária')"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "consolidated_amount"
+ ],
+ "id": "7bd334a9084d",
+ "title": "Primeiro Termo Aditivo - Cruzeiro Esporte Clube",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/primeiro-termo-aditivo-a-transacao-tributaria-individual-cruzeiro-esporte-clube.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/primeiro-termo-aditivo-a-transacao-tributaria-individual-cruzeiro-esporte-clube.pdf",
+ "sha256": "33d584e73570ac0c5cb5cdbc3f8530e50d619ce10a23b68e75adbcc5e740b4c4",
+ "extracted_at": "2026-07-22T14:22:25+00:00",
+ "simulated": false
+}

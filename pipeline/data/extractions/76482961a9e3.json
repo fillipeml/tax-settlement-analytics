@@ -1,0 +1,75 @@
+{
+ "taxpayer": "ATDL TRANSPORTES RODOVIÁRIOS LTDA, AUTO TÉCNICA DIESEL LTDA e KM SERVIÇOS LTDA (grupo econômico - todos em recuperação judicial)",
+ "approval_date": "2022-12-12",
+ "consolidated_amount": 56480202.46,
+ "modality": "Transação individual (com capacidade de pagamento, uso de créditos de PF/BCN e parcelamento)",
+ "total_discount_pct": 52.59,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de terceiros (anuentes/intervenientes garantidores), matriculado perante o 2º Ofício de Registro de Imóveis de Maringá/PR, objeto de penhora nos autos de Execução Fiscal"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utilizam pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienaram ou oneraram bens com propósito de frustrar a recuperação dos créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de ativo não circulante",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria PGFN 6757/22 e na proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação, extinguindo ações judiciais",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não distribuir lucros ou dividendos a sócios/acionistas até aprovação do plano de recuperação judicial",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil",
+  "Individualizar valores recolhidos nas contas vinculadas dos trabalhadores (FGTS)"
+ ],
+ "special_clauses": [
+  "Cláusula 11: valor depositado nos autos de Execução Fiscal 5003470-15.2018.404.7003 destinado ao pagamento da transação após autorização judicial",
+  "Garantia consiste em imóvel de terceiros (intervenientes garantidores/anuentes), não das próprias devedoras",
+  "Utilização de créditos de Prejuízo Fiscal (IRPJ) e Base de Cálculo Negativa de CSLL (PF/BCN) no valor nominal de R$ 14.922.897,70, sob condição resolutória de homologação pela RFB em até 5 anos",
+  "Débitos de FGTS (Anexo III) com descontos que não incidem sobre rubricas devidas aos trabalhadores"
+ ],
+ "sector": "Transporte rodoviário / serviços",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.8,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.2,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "As DEVEDORAS possuem em aberto os débitos tributários relacionados nos Anexos I e II que totalizam R$ 56.480.202,46 (cinquenta e seis milhões, quatrocentos e oitenta mil, duzentos e dois reais e quarenta e seis centavos), e seu rating de classificação de recuperabilidade é 'D'.",
+  "total_discount_pct": "Sobre as inscrições indicadas no anexo I... em dezembro/2022, aplicou-se o desconto médio de 52,59%, observado os limites do §2º do art. 11 da Lei n. 13.988/20... / Sobre as inscrições indicadas no anexo II... aplicou-se desconto médio de 52,59%, observados os limites do §2º do art. 11 da Lei n. 13.988/20",
+  "installments": "o saldo restante será pago em 120 (cento e vinte) parcelas mensais escalonadas, conforme estipulado no anexo IV"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "76482961a9e3",
+ "title": "Termo de Transação Individual - Auto Técnica Diesel LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAutoTcnicaDieselLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAutoTcnicaDieselLTDATarjado.pdf",
+ "sha256": "39c3f00fda2597abe7c9f4aa73b5e1fe9e1354eeccea8bda16eed4b50973591b",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

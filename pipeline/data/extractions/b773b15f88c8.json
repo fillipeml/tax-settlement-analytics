@@ -1,0 +1,69 @@
+{
+ "taxpayer": "Americanas S/A - em Recuperação Judicial",
+ "approval_date": "2025-06-10",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Carta de Fiança nº 45.00.02495, no valor de R$ 138.211.212,82, com prazo de validade indeterminado, emitida pela instituição financeira Banco BMG S/A"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Manter a regularidade perante o Fundo de Garantia por Tempo de Serviço",
+  "Manter a regularidade perante a Procuradoria-Geral da Fazenda Nacional e a Secretaria da Receita Federal do Brasil, regularizando, no prazo de 90 (noventa) dias, os débitos que se tornarem exigíveis após a formalização da Transação",
+  "Em até 60 (sessenta) dias da assinatura do Acordo, peticionar em todos os processos judiciais que tenham por objeto a Dívida Transacionada",
+  "Não distribuir lucros ou dividendos a sócios e acionistas até a aprovação do plano de recuperação judicial",
+  "Em até 60 (sessenta) dias da assinatura do Acordo, peticionar no processo de recuperação judicial, a fim de noticiar a celebração da Transação",
+  "Autorizar o acesso da Fazenda Nacional a suas declarações e escritas fiscais",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos ora assumidos"
+ ],
+ "special_clauses": [
+  "Autorização de utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) para amortização de até 36% do saldo devedor da Dívida Transacionada - Previdenciária e 53% do saldo devedor da Dívida Transacionada - Demais Débitos, apurado após a incidência dos descontos, limitado a R$138.211.212,82",
+  "Colaboração da Fazenda Nacional com o Juízo da recuperação judicial, Ministério Público e administrador judicial, prestando informações sobre viabilidade do plano de recuperação",
+  "Possibilidade de não alienação de bens que reduzam capacidade de pagamento, salvo previsão expressa no Plano de Recuperação Judicial homologado",
+  "Faculdade da Fazenda Nacional requerer a convolação da recuperação judicial em falência em caso de rescisão"
+ ],
+ "sector": "Varejo",
+ "confidence": {
+  "taxpayer": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "modality": 0.9,
+  "sector": 0.5,
+  "judicial_recovery": 1.0,
+  "discounts": 0.2,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "7.4.1. O saldo devedor remanescente da Dívida Transacionada será pago em parcela única."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "b773b15f88c8",
+ "title": "Termo de Transação Individual - Americanas SA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualAmericanasSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualAmericanasSA.pdf",
+ "sha256": "fa7a2115e68032ef8c97e1e15bc103e96e81bad871a0a7f3fce1a20ee6fda4e1",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

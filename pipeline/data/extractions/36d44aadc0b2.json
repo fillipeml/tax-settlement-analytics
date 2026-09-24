@@ -1,0 +1,85 @@
+{
+ "taxpayer": "BRAMINEX - BRASILEIRA DE MARMORE EXPORTADORA S.A (e grupo econômico: BRAMINEX MINERAÇÃO LTDA, GRANBRASIL - GRANITOS DO BRASIL S/A, TRIANON ADMINISTRAÇÃO E COMERCIO LTDA, ROMA ADMINISTRAÇÃO E COMÉRCIO LTDA, MINERAÇÃO SERRA AZUL LTDA, BRAMINEX MINERACAO DE CALCARIO SA)",
+ "approval_date": "2021-07-29",
+ "consolidated_amount": 60187030.33,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Área de terreno, medindo 2,4 hectares, situada no lugar 'Duas Barras', matriculada sob o nº 24.755, avaliada em R$4.800.000,00",
+  "Área de terreno de forma irregular, com 16.455 m2, situada no 'Trevo', matriculada sob o nº 1337",
+  "Área de terreno medindo 10.000 m2, situada no 'Trevo', matriculada sob o nº 3216",
+  "Área de terreno de forma trapezoidal, medindo 3.185 m2, situada no 'Trevo', matriculada sob o nº 2.809",
+  "Um terreno com 6.120 m2, situado no 'Trevo', matriculado sob o nº 2805",
+  "Duas áreas anexas de 7.293,54 m2, matriculadas sob o nº 3702",
+  "Uma área de posse de terras, sem registro, com 5.003 m2 (itens 4.1.2 a 4.1.6 e 4.1.7 avaliados em conjunto em R$58.867.200,00)",
+  "Garantia fidejussória/fiança dos GARANTIDORES como devedores solidários"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos inscritos listados no Anexo I",
+  "Renúncia a alegações de direito sobre ações judiciais relativas aos créditos transacionados",
+  "Adimplemento do plano de pagamento mensal",
+  "Compromisso de manter regular a situação dos parcelamentos vigentes",
+  "Compromisso de manter regularidade perante o FGTS",
+  "Autorização de acesso da Fazenda Nacional às declarações e escritas fiscais da PROPONENTE",
+  "Providenciar registro do imóvel do item 4.1.7 no prazo de 90 dias",
+  "Efetivação da penhora sobre os bens oferecidos em garantia no prazo de 30 dias",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa no prazo de 90 dias",
+  "Não alienar bens sem comunicação à Fazenda Nacional",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação dos imóveis dados em garantia mediante condições específicas (item 4.6)",
+  "Garantia fidejussória prestada pelos GARANTIDORES com renúncia à exoneração do art. 835 do Código Civil",
+  "Possibilidade de substituição de garantia em caso de ausência de registro imobiliário",
+  "Transferência parcial de dívidas para programa de parcelamento extraordinário mais benéfico (item 9.5)",
+  "Comunicação entre as partes por e-mail entre procuradores"
+ ],
+ "sector": "Mineração/Extração e comércio de mármore e granito",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal da PROPONENTE inscrito em divida ativa da União e do FGTS, parte desta transação, é composto por todos os créditos tributários relacionados no ANEXO I, totalizando R$ 60.187.030,33, referente ao mês de maio de 2021",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária ('Dívida Transacionada – Demais Débitos') em 84 (oitenta e quatro) prestações mensais"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "special_clauses"
+ ],
+ "id": "36d44aadc0b2",
+ "title": "Termo de Transação Individual - BRAMINEX",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualBRAMINEX.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualBRAMINEX.pdf",
+ "sha256": "2a3ed683484d66d09c428cc02235b1e01936ac2e603660abdc2afcc54824b36f",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

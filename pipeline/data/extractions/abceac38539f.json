@@ -1,0 +1,82 @@
+{
+ "taxpayer": "GRUPO AFINIDADE",
+ "approval_date": "2022-03-08",
+ "consolidated_amount": 85856863.81,
+ "modality": "Transação Individual",
+ "total_discount_pct": 40.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca de bens imóveis (ANEXO II-B) avaliados em R$ 28.148.708,80",
+  "Manutenção de garantias, penhoras e gravames existentes nas execuções fiscais (ANEXO II-A) avaliados em R$ 57.083.077,50",
+  "Valores bloqueados cautelarmente em execuções fiscais totalizando R$ 1.042.232,83"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos do ANEXO I",
+  "Renúncia a alegações de direito e questionamentos sobre os débitos",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa no prazo de 90 dias",
+  "Manter as garantias oferecidas até integral cumprimento das condições",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou valores de pagamento",
+  "Anuir com eventual modificação de competência para reunião de processos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou para limitar concorrência",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou bens com propósito de frustrar recuperação de créditos",
+  "Registrar hipoteca sobre os bens no prazo de 90 dias",
+  "Apresentar situação econômico-financeira anualmente ou quando solicitado",
+  "Desistir de impugnações e recursos administrativos/judiciais no prazo de 30 dias"
+ ],
+ "special_clauses": [
+  "Reconhecimento de grupo econômico de fato (GRUPO AFINIDADE), incluindo a ASSOCIACAO DE BENEFICIOS AFINIDADE CLUBE, com todos os integrantes inseridos como corresponsáveis pelos débitos",
+  "Substituição da indisponibilidade cautelar decretada na execução fiscal nº 1061742-91.2021.4.01.3400 pela penhora dos imóveis ofertados em hipoteca",
+  "Possibilidade de desoneração ou substituição de garantias na proporção da amortização da dívida",
+  "Desistência de programas de benefício fiscal vigentes, com amortização dos pagamentos nas dívidas antes da consolidação do acordo",
+  "Cláusula de suspensão dos pagamentos em caso de adesão a programa de parcelamento extraordinário mais benéfico"
+ ],
+ "sector": "Consultoria e corretagem de seguros/benefícios",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal do DEVEDOR inscrito em dívida ativa da União e do FGTS, parte desta transação, é composto por todos os seus créditos fiscais relacionados no ANEXO I, que totalizam R$ 85.856.863,81, atualizado no mês de janeiro de 2022",
+  "total_discount_pct": "a presente transação envolve concessão do desconto máximo possível de 40% (quarenta por cento), vedada a incidência sobre o principal do débito",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (demais) será de 84 (oitenta e quatro) meses, enquanto que o prazo para os débitos previdenciários será de 60 (sessenta) meses"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "abceac38539f",
+ "title": "Termo de Transação Individual - Grupo Afinidade",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-grupo-afinidade.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-grupo-afinidade.pdf",
+ "sha256": "8bef11109e0ffbbea5ec4f9d2c481789f8540a908b63ab7fe64f38e5cdce0966",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

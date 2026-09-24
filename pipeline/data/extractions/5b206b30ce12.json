@@ -1,0 +1,83 @@
+{
+ "taxpayer": "FRIGOESTRELA S.A. - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2021-11-25",
+ "consolidated_amount": 156975024.39,
+ "modality": "Transação Tributária Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Créditos tributários a serem auferidos com a execução judicial dos Mandados de Segurança nº 0031745-65.2007.4.03.6100, nº 0019321-88.2007.4.03.6100 e nº 5001902-18.2017.4.03.6100 (ANEXO III)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável os débitos do ANEXO I",
+  "Renunciar a alegações de direito e questionamentos administrativos e judiciais dos débitos do ANEXO I",
+  "Desistir de discussões administrativas e realizar pedidos de inscrição em DAU dos débitos do ANEXO II",
+  "Regularizar débitos em aberto de FGTS em até 10 dias corridos a contar da assinatura",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em DAU após assinatura no prazo máximo de 90 dias",
+  "Manter as garantias oferecidas até integral cumprimento das condições",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Anuir com eventual modificação de competência para reunião de processos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais e anuais",
+  "Não utilizar a transação de forma abusiva",
+  "Não utilizar pessoa interposta para ocultar bens ou valores",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Apresentar situação econômico-financeira quando solicitado pela Fazenda Nacional",
+  "Manter recolhimento das obrigações tributárias correntes e acessórias"
+ ],
+ "special_clauses": [
+  "Cláusula 24ª - possibilidade de migração para programa de parcelamento extraordinário mais benéfico, com perda de descontos para débitos migrados",
+  "Cláusula 9ª e §1º/§2º - garantia via cessão de créditos oriundos de Mandados de Segurança à União",
+  "Cláusula 18ª - caso garantias do ANEXO III sejam insuficientes, respondem todos os demais bens da FRIGOESTRELA sem benefício de ordem",
+  "Parágrafo único da Cláusula 28ª - débitos do ANEXO I e II, enquanto garantidos, terão inscrição suspensa no CADIN"
+ ],
+ "sector": "Frigorífico/Agronegócio",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "A FRIGOESTRELA se obriga a amortizar os débitos relacionados nos ANEXOS I e II, cujo valor total perfaz o importe de R$ 156.975.024,39, atualizado até novembro de 2021",
+  "installments": "O prazo para pagamento dos débitos previdenciários será de 60 (sessenta) meses e para os débitos não previdenciários de 120 (cento e vinte) meses.",
+  "validity": "A presente transação terá prazo de vigência de 120 meses."
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "installments"
+ ],
+ "id": "5b206b30ce12",
+ "title": "Termo de Transação Individual - Frigoestrela",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TERMODETRANSAOINDIVIDUALFRIGOSTRELAS.A..pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TERMODETRANSAOINDIVIDUALFRIGOSTRELAS.A..pdf",
+ "sha256": "1c66d2fd5d602f47b46ba5394a0a966decf2236bb503c1f7eb10f38027c193c7",
+ "extracted_at": "2026-07-22T14:22:33+00:00",
+ "simulated": false
+}

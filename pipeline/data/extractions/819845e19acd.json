@@ -1,0 +1,75 @@
+{
+ "taxpayer": "R.C.O & SITI MÁQUINAS E EQUIPAMENTOS LTDA - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2025-03-28",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (recuperação judicial)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção das garantias dos débitos eventualmente existentes até a quitação integral do saldo devedor",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a formalização",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda",
+  "Manter, durante 5 anos, livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da Transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito no valor aproximado de R$ 287.704,89 a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor, respeitado limite máximo de 70% de utilização após aplicação dos descontos",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL suspensa até confirmação pela autoridade competente, dentro do prazo legal de 5 anos",
+  "Eventuais créditos que a Requerente venha a dispor (precatório, levantamento de depósito judicial etc.) deverão ser direcionados para adimplemento dos saldos devedores da Transação, ainda que seja necessário reduzir o montante de prejuízo fiscal/CSLL"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.6,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.3,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.95
+ },
+ "source_excerpts": {
+  "total_discount_pct": "desconto máximo de até 65% (sessenta e cinco) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 36 (trinta e seis) prestações lineares, mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts"
+ ],
+ "id": "819845e19acd",
+ "title": "Termo de Transação Individual - RCO & SITI Máquinas e Equipamentos LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRCOSITIMquinaseEquipamentosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRCOSITIMquinaseEquipamentosLTDATarjado.pdf",
+ "sha256": "96ada74471a9a6fff5dcd30e9ff9b76cb09888dd03f0a805f5895d0593ffe6dd",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

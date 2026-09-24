@@ -1,0 +1,72 @@
+{
+ "taxpayer": "MUNICÍPIO DE RIBEIRÓPOLIS",
+ "approval_date": "2023-11-17",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Plano de Regularização Fiscal",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção das garantias já associadas aos débitos, inclusive penhoras prévias em execuções fiscais",
+  "Dedução de valores a serem repassados ao Município relacionados às cotas no Fundo de Participação, em caso de descumprimento"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Não alienar, onerar ou ocultar bens com propósito de frustrar recuperação de créditos",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após a formalização do acordo",
+  "Autorizar dedução de valores a serem repassados às cotas no Fundo de Participação Municipal",
+  "Apresentar situação econômico-financeira anualmente via balanço contábil ou quando a PGFN reputar oportuno",
+  "Manter recolhimento das obrigações tributárias correntes e acessórias",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relacionados aos débitos"
+ ],
+ "special_clauses": [
+  "Autorização de dedução de valores do Fundo de Participação Municipal em caso de descumprimento do parcelamento (Cláusula 6ª, §2º e Declaração VI)",
+  "Vedação a nova transação por 2 anos em caso de rescisão (Cláusula 11, Parágrafo único)"
+ ],
+ "sector": "Administração Pública Municipal",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "total_discount_pct": "seguindo as demais parcelas de forma linear no prazo de 60 meses para os valores previdenciários e não previdenciários, com aproveitamento do desconto máximo de até 65% (sessenta e cinco por cento), observadas suas capacidades de pagamento (CAPAG)",
+  "installments": "seguindo as demais parcelas de forma linear no prazo de 60 meses para os valores previdenciários e não previdenciários"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "67481a46939e",
+ "title": "Termo de Transação Individual - Município de Ribeirópolis",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMunicpiodeRibeirpolisTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMunicpiodeRibeirpolisTarjado.pdf",
+ "sha256": "09b1c08c54e1607e0c75ae2cdbc3a74a50a7b07b128b9feaf4b34a39f61c62f7",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

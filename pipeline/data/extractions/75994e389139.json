@@ -1,0 +1,73 @@
+{
+ "taxpayer": "CENTRO EDUCACIONAL DO NORDESTE LTDA",
+ "approval_date": "2020-11-24",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer demonstrações contábeis dos 3 últimos exercícios sociais e as levantadas especialmente para instruir o pedido (balanço patrimonial, demonstração de resultados acumulados, demonstração do resultado desde o último exercício social, relatório gerencial de fluxo de caixa e projeção, descrição das sociedades do grupo societário)",
+  "Fornecer relação nominal completa dos credores",
+  "Fornecer relação de bens e direitos de propriedade do requerente, com laudo econômico-financeiro e de avaliação dos bens e ativos",
+  "Fornecer extratos atualizados das contas do devedor e de aplicações financeiras",
+  "Fornecer descrição das operações realizadas com instituições financeiras",
+  "Fornecer relação dos bens particulares dos controladores, administradores, gestores e representantes legais",
+  "Fornecer relação de todas as ações judiciais trabalhistas em que figure como parte, com estimativa dos valores demandados",
+  "Declarar que não alienará bens ou direitos sem comunicação à Fazenda Nacional",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Desistir das impugnações, recursos administrativos e ações judiciais relativas aos débitos objeto da transação",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados",
+  "Recolher as obrigações tributárias correntes e acessórias dependentes da obrigação principal",
+  "Liquidar ou parcelar junto à Caixa Econômica Federal os débitos de FGTS existentes, no prazo de 30 dias"
+ ],
+ "special_clauses": [
+  "Plano de recuperação fiscal com base em aporte financeiro de investidor considerado suficiente à quitação do débito",
+  "Desconto máximo de 70% baseado na capacidade de pagamento do DEVEDOR, conforme extração obtida nos Sistemas de Apoio à Transação da PGFN (DW PGFN), limitado ao principal, não implicando redução do montante principal do crédito inscrito em dívida ativa da União",
+  "Rescisão do acordo em caso de decretação de falência ou extinção por liquidação da pessoa jurídica transigente",
+  "Compromisso de liquidar ou parcelar débitos de FGTS junto à Caixa Econômica Federal em 30 dias, sob pena de rescisão"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.9,
+  "judicial_recovery": 0.3,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "com aproveitamento do desconto máximo de 70% (setenta por cento), baseado na capacidade de pagamento do DEVEDOR, conforme extração obtida nos Sistemas de Apoio à Transação da PGFN (DW PGFN), limitado ao principal, não implicando, a negociação, à redução do montante principal do crédito inscrito em dívida ativa da União",
+  "installments": "para pagamento no prazo de 145 (cento e quarenta e cinco) meses, a dívida não-previdenciária, e no prazo de 60 (sessenta meses), a dívida previdenciária"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "sector",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "75994e389139",
+ "title": "Termo de Transação Individual - Centro Educacional do Nordeste",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-centro-educacional-do-nordeste-ltda",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-centro-educacional-do-nordeste-ltda",
+ "sha256": "4a604f6495b488c482dae50debaf14dc3c3c2b44febe90773a3c2a10b4556928",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

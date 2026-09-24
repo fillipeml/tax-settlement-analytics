@@ -1,0 +1,61 @@
+{
+ "taxpayer": "A. V. M. INCORPORACAO DE EMPREENDIMENTOS IMOBILIARIOS LTDA - EM RECUPERACAO JUDICIAL (corresponsáveis: ATRIUM EMPREENDIMENTOS, INCORPORACAO E CONSTRUCAO SPE LTDA; ENGECON CONSTRUCOES E COMERCIO LTDA)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 15746589.53,
+ "modality": "Transação individual",
+ "total_discount_pct": 51.1,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Imóveis"
+ ],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Incorporação imobiliária / construção civil",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "approval_date": 0.0,
+  "modality": 0.8,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.9,
+  "installments": 0.6,
+  "guarantees": 0.9,
+  "obligations": 0.0,
+  "judicial_recovery": 0.9,
+  "special_clauses": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL R$ 15.746.589,53 Previdenciária R$ 7.324.412,85 Demais Débitos R$ 8.422.176,68",
+  "total_discount_pct": "DESCONTO EFETIVO MÉDIO - PGFN (em percentual %) TOTAL 51,10% Previdenciária 49,93% Demais Débitos 52,12%",
+  "installments": "NÚMERO DE PARCELAS - PGFN Previdenciária 48 Demais Débitos 108"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "installments",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "a9f80a6e6ffe",
+ "title": "Sumário - A. V. M. Incorporação de Empreendimentos Imobiliarios LTDA, Atrium Empreendimentos, Incorporacao e Construcao SPE LTDA, Engecon Construções e Comércio LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/SumrioA.V.M.IncorporaodeEmpreendimentosImobiliariosLTDAAtriumEmpreendimentosIncorporacaoeConstrucaoSPELTDAEngeconConstrueseComrcioLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/SumrioA.V.M.IncorporaodeEmpreendimentosImobiliariosLTDAAtriumEmpreendimentosIncorporacaoeConstrucaoSPELTDAEngeconConstrueseComrcioLTDA.pdf",
+ "sha256": "e30df1ce2a4d25989652c08367419323aae222c600e76ff5949d6ea80323d56f",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

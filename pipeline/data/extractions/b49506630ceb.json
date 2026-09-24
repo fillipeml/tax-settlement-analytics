@@ -1,0 +1,60 @@
+{
+ "taxpayer": "JOD'S CONFECCOES LTDA EM RECUPERACAO JUDICIAL (CNPJ 02.424.669/0001-36)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 10595463.64,
+ "modality": "Transação individual",
+ "total_discount_pct": 59.62,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantém eventuais garantias existentes",
+  "Imóveis"
+ ],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [
+  "Mantém eventuais garantias existentes"
+ ],
+ "sector": "Vestuário/Confecções",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "approval_date": 0.0,
+  "modality": 0.7,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.6,
+  "down_payment_pct": 0.9,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.6
+ },
+ "source_excerpts": {
+  "consolidated_amount": "DÍVIDA TRANSACIONADA - PGFN | TOTAL | Previdenciária | Demais Débitos | Simples Nacional | FGTS ... 10.595.463,64 | 4.127.059,97 | 6.468.403,67 | não há | não há",
+  "total_discount_pct": "DESCONTO EFETIVO MÉDIO - PGFN (em percentual %) | TOTAL | Previdenciária | Demais Débitos | Simples Nacional | FGTS ... 59,62 | 64,44 | 54,80 | não há | não há",
+  "installments": "NÚMERO DE PARCELAS - PGFN | Previdenciária | Demais Débitos | Simples Nacional ... 60 | 84 | não há"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "special_clauses"
+ ],
+ "id": "b49506630ceb",
+ "title": "Sumário - Jod's Confecções LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioJodsConfecesLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioJodsConfecesLTDA.pdf",
+ "sha256": "0c7939c3a08687c4bd0c6efd775fe4e0212aa5d97f18cce7bc76973bd9b0fab3",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

@@ -1,0 +1,77 @@
+{
+ "taxpayer": "SBK-BPO SERVICOS TECNOLOGICOS E REPRESENTAÇÕES COMERCIAIS S.A. e SBK – BPO PROCESSAMENTO E GESTÃO EMPRESARIAL LTDA.",
+ "approval_date": "2024-07-11",
+ "consolidated_amount": 60893638.53,
+ "modality": "Transação Individual",
+ "total_discount_pct": 48.62,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens/direitos para frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa ou se tornarem exigíveis após a formalização",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo",
+  "Reconhecer responsabilidade solidária pela totalidade dos débitos transacionados",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da Transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Não haverá oferta de garantia vinculada à presente Transação, considerando que a negociação teve como objetivo a redução do prazo para pagamento",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 23,52% do saldo da dívida após descontos",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL fica suspensa até confirmação dos créditos pela autoridade competente",
+  "Débitos do Anexo IV serão incluídos na conta de transação quando inscritos em dívida ativa, com saldo devedor a ser quitado em 30 dias"
+ ],
+ "sector": "Serviços de tecnologia/BPO (processamento e gestão empresarial)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.3,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.3,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 60.893.638,53 (sessenta milhões, oitocentos e noventa e três mil, seiscentos e trinta e oito reais e cinquenta e três centavos) (Valores atualizados para maio de 2024)",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) a cada uma das CDAs, observada a Capacidade de Pagamento das empresas, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), gerando desconto global médio de 48,62%, na forma do Anexo II.",
+  "installments": "O prazo máximo previsto para pagamento será de 48 (quarenta e oito) meses para a Dívida Transacionada, seja para Dívida Transacionada - Demais Débitos, seja para a Dívida Transacionada - Previdenciária"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "de17b7cd69ae",
+ "title": "Termo de Transação Individual - SBK BPO Serviços Tecnológicos e Representações Comerciais SA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSBKBPOServiosTecnolgicoseRepresentaesComerciaisSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSBKBPOServiosTecnolgicoseRepresentaesComerciaisSATarjado.pdf",
+ "sha256": "d2fc4f0f420bc2ea84a79bb64742281fbf40f202cbb0ee12ec46f3d8bc98be79",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

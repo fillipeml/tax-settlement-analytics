@@ -1,0 +1,78 @@
+{
+ "taxpayer": "BORAQUÍMICA LTDA e outros (grupo econômico)",
+ "approval_date": "2023-09-27",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 11.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 114,
+ "down_payment_pct": 3.344,
+ "guarantees": [
+  "Bens imóveis, automóveis e embarcações de propriedade dos Requerentes indisponibilizados nos autos da ação cautelar fiscal nº 5018248-55.2018.4.03.6182",
+  "Fiança do sócio administrador Fábio Gonçalves Chaves e das pessoas jurídicas BUENO PRESTAÇÃO DE SERVIÇOS EIRELI e TJ-LOG ARMAZÉNS GERAIS LTDA"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar que preenchem os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva",
+  "Declarar que não utiliza pessoa interposta para ocultar bens",
+  "Declarar que não alienou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais e fiscais",
+  "Autorizar acesso às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos futuros inscritos em Dívida Ativa",
+  "Não alienar bens que reduzam capacidade de pagamento sem comunicação",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União"
+ ],
+ "special_clauses": [
+  "Fiança com renúncia ao benefício de ordem (art. 827, parágrafo único, c/c art. 828, I, do Código Civil), responsabilizando fiadores solidariamente pelo total da dívida",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.2,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "down_payment_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "total_discount_pct": 0.6,
+  "installments": 0.85,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "down_payment_pct": "Pagamento de entrada de 3,344% sobre o débito sem incidência de desconto, a ser pago em 6 parcelas mensais",
+  "total_discount_pct": "Desconto sobre o saldo remanescente, após o pagamento da entrada, de 11% (onze por cento), vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 114 (cento e quatorze) prestações mensais iguais e sucessivas"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "judicial_recovery",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "total_discount_pct"
+ ],
+ "id": "b4ce3a0d4f5b",
+ "title": "Termo de Transação Individual - Boraquimica",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualBoraquimicaLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualBoraquimicaLTDA.pdf",
+ "sha256": "af5042d45a6b8029a2d326045f795044842b596d0fae8afb8c1a1b869962596e",
+ "extracted_at": "2026-07-22T14:22:36+00:00",
+ "simulated": false
+}

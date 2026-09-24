@@ -1,0 +1,69 @@
+{
+ "taxpayer": "HOSPITAL ALFA S/A - EM RECUPERAÇÃO JUDICIAL (grupo econômico incluindo GAMA SAÚDE S/A, GARDEN ATLANTICUS EMPRE. IMOB. LTDA, RSP AGRÍCOLA LTDA, CAPITÃO RIBELINHO EMPREENDIMENTOS IMOBILIARIOS LTDA)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 32414454.93,
+ "modality": "Transação Individual (Termo Aditivo)",
+ "total_discount_pct": 66.84,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 18,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis",
+  "Móveis",
+  "Intangíveis (marcas patentes etc)",
+  "Contratos e recebíveis",
+  "Seguro ou fiança",
+  "Fidejussória",
+  "Mantém eventuais garantias existentes"
+ ],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [
+  "Processo de Recuperação Judicial nº 0160454-48.2022.8.17.2001, 26ª Vara Cível da Capital/PE",
+  "Utilização de créditos de PF/BCN no valor total de R$ 6.448.965,24",
+  "Parcelas do tipo Linear (não escalonadas)",
+  "Sem exigência de entrada"
+ ],
+ "sector": "Saúde/Hospitalar",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.75,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.85,
+  "installments": 0.85,
+  "down_payment_pct": 0.9,
+  "discounts": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.55,
+  "obligations": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "DÍVIDA TRANSACIONADA - PGFN TOTAL 32.414.454,93 + 25.082.739,69 7.331.715,24",
+  "total_discount_pct": "DESCONTO EFETIVO MÉDIO - PGFN (em percentual %) TOTAL 66,84%",
+  "installments": "NÚMERO DE PARCELAS - PGFN Previdenciária 18 Demais Débitos 18"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "obligations",
+  "guarantees"
+ ],
+ "id": "88ce0b4700d2",
+ "title": "Sumário - Hospital Alfa S/A, Garden Atlanticus Empre. Imob. LTDA (Sem Débitos), Rsp Agrícola LTDA (Sem Débitos), Gama Saúde S/A (Antigo Hospital Da Bahia S/A), Capitão Ribelinho Empreendimentos Imobiliarios LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/SumrioHospitalAlfaSAGardenAtlanticusEmpre.Imob.LTDASemDbitosRspAgrcolaLTDASemDbitosGamaSadeSAAntigoHospitalDaBahiaSACapitoRibelinhoEmpreendimento.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/SumrioHospitalAlfaSAGardenAtlanticusEmpre.Imob.LTDASemDbitosRspAgrcolaLTDASemDbitosGamaSadeSAAntigoHospitalDaBahiaSACapitoRibelinhoEmpreendimento.pdf",
+ "sha256": "2817cf2dc45cab544f00bf6690251eaa215e99909f3245bfd19cb349346b21f6",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

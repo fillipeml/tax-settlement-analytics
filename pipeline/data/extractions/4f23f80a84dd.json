@@ -1,0 +1,75 @@
+{
+ "taxpayer": "EMPRESA JORNALISTICA OPOVO S/A",
+ "approval_date": "2023-06-06",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhoras em execuções fiscais mantidas até quitação",
+  "Bem imóvel de matrícula 20070 (Fortaleza/CE) ressalvado para liquidação da parcela balão"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Renunciar a alegações de direito sobre créditos transacionados",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos",
+  "Não alienar bens sem comunicação à Fazenda Nacional",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Individualizar valores recolhidos nas contas vinculadas de FGTS",
+  "Apresentar situação econômico-financeira anualmente",
+  "Verter créditos recebidos por precatório para pagamento da dívida"
+ ],
+ "special_clauses": [
+  "Parcela balão de R$ 25.000.000,00 na modalidade DEMAIS e R$ 5.000.000,00 na 60ª parcela previdenciária, a serem pagas com produto da venda do imóvel de matrícula 20070",
+  "Aproveitamento de prejuízo fiscal e base de cálculo negativa da CSLL para pagamento do saldo remanescente, no montante de 51,59%",
+  "Bem disponibilizado para venda via plataforma COMPREI/PGFN caso não seja alienado em 36 meses",
+  "Créditos de FGTS pagos em 64 parcelas lineares; créditos da Contribuição Social da LC 110/2001 pagos à vista"
+ ],
+ "sector": "Jornalismo/Comunicação",
+ "confidence": {
+  "taxpayer": 0.98,
+  "approval_date": 0.95,
+  "modality": 0.95,
+  "sector": 0.6,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.7,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "para pagamento da dívida não-previdenciária, em 120 (cento e vinte) meses, e da dívida previdenciária em 60 (sessenta) meses",
+  "total_discount_pct": "com aproveitamento do desconto de até 65% (sessenta e cinco por cento), baseado na capacidade de pagamento da DEVEDORA"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "sector",
+  "total_discount_pct"
+ ],
+ "id": "4f23f80a84dd",
+ "title": "TermodeTransaoIndividualEmpresaJornalisticaOpovoS.A.pdf",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualEmpresaJornalisticaOpovoS.A.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualEmpresaJornalisticaOpovoS.A.pdf",
+ "sha256": "5c2d4b28bd2a5caf444dc0222fd5c85dabd31cd9dff74c47f824bc8ed6befdaf",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

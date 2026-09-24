@@ -1,0 +1,80 @@
+{
+ "taxpayer": "Águas de Itu Gestão Empresarial S.A. e outras (grupo econômico Contern/Bertin) - Águas de Itu Gestão Empresarial S.A., Comapi Agropecuária S.A., Compacto Participações S.A., Contern Construções e Comércio Ltda, Heber Participações S.A., Cibe Investimentos e Participações S.A., Cibe Participações e Empreendimentos S.A., Doreta Empreendimentos e Participações S.A., Infra Bertin Empreendimentos S.A. (todas em recuperação judicial) - Interveniente Garantidora: Renea Infraestrutura S.A.",
+ "approval_date": "2023-12-15",
+ "consolidated_amount": null,
+ "modality": "Transação individual (recuperação judicial)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis matriculados sob os nºs 6.197 e outros (dados tarjados), de propriedade da Requerente Comapi Agropecuária S.A.",
+  "Oferecimento dos bens à penhora em execuções fiscais (0011101-97.2017.4.03.6182 - 10ª VE/SP; 5000369-93.2022.4.03.6182 - 6ª VEF/SP; 5015829-86.2023.4.03.6182 - 12ª VEF/SP; 5022367-25.2019.4.03.6182 - 9ª VEF/SP; 5019580-57.2018.4.03.6182 - 1ª VEFSP; 0000292-91.2017.4.03.6006 - 1ª VF de Naviraí/MS)",
+  "Renea Infraestrutura S.A. como garantidora do valor de cada parcela mensal e responsável solidária do saldo devedor em caso de rescisão"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas, salvo observância do Plano de Recuperação Judicial",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a formalização da Transação",
+  "Comunicar à Fazenda Nacional nova inscrição em dívida ativa da União",
+  "Recolher em 30 dias valores decorrentes de reconsolidação da conta por novas inscrições",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter por 5 anos livros e documentos exigidos pelas normas fiscais, incluindo comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Contern Construções e Comércio Ltda: manter opção pela tributação pelo regime do lucro real durante toda a vigência do acordo",
+  "Peticionar em até 30 dias nos processos judiciais para noticiar a celebração da Transação, desistir de impugnações/recursos e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação de até 60% do saldo remanescente, de titularidade da Contern Construções e Comércio Ltda",
+  "Regularização de débitos do FGTS mediante transação individual em modalidade específica (30 para FGTS com 27,69% de desconto, entrada de R$ 100.140,65 e saldo em 84 parcelas; modalidade 1 para Contribuição Social com 25% de desconto e parcelamento em 60 meses)",
+  "Interveniente Garantidora Renea Infraestrutura S.A. assina como garantidora e responsável solidária",
+  "Corresponsabilidade entre as Requerentes reconhecida nos termos dos arts. 124, I, 132 e 133 do CTN",
+  "Suspensão das execuções fiscais durante a vigência da Transação sem oposição da Fazenda Nacional"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.3,
+  "modality": 0.85,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.8,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts": 0.0,
+  "guarantees": 0.75,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de 70% sobre as CDAs transacionadas, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Pagamento do remanescente da Dívida Transacionada de natureza não previdenciária ('Dívida Transacionada – Demais Débitos') em 120 (cento e vinte) parcelas mensais, consecutivas e escalonadas de acordo com o Anexo II;"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "guarantees"
+ ],
+ "id": "67ebaa992330",
+ "title": "Termo de Transação Individual - Águas de ITU Gestão empresarial",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodetransaoindividualguasdeITUGestoempresarialS.A..pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodetransaoindividualguasdeITUGestoempresarialS.A..pdf",
+ "sha256": "e5537741dd9173d9cc9551fd166512aff7ccbb41afb7cf1a73ec6192ec3c8d55",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

@@ -1,0 +1,55 @@
+{
+ "taxpayer": "AELBRA EDUCAÇÃO SUPERIOR – GRADUAÇÃO E PÓS-GRADUAÇÃO S.A. EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-02-07",
+ "consolidated_amount": null,
+ "modality": "Transação individual (FGTS) - Primeiro Termo Aditivo",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [
+  "Inclusão da inscrição em dívida ativa FGRS000006480 ao Termo de Transação Individual (FGTS) firmado em janeiro de 2024, mantendo-se ratificadas as demais cláusulas do termo original."
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.3,
+  "special_clauses": 0.9,
+  "judicial_recovery": 0.95
+ },
+ "source_excerpts": {
+  "objeto_aditivo": "Pelo presente aditivo, concordam as partes na inclusão da inscrição em dívida ativa FGRS000006480 ao Termo de Transação mencionado em epígrafe."
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "guarantees",
+  "obligations"
+ ],
+ "id": "c588e9a853d3",
+ "title": "Termo de Transação Individual - AELBRA Educação Superior - Graduação e Pós-graduação SA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAELBRAEducaoSuperiorGraduaoePsgraduaoS.A.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAELBRAEducaoSuperiorGraduaoePsgraduaoS.A.pdf",
+ "sha256": "448c3244e3e3b611b9aaf0233b3d29455e91937841e6f192aada6414d20e9cb9",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

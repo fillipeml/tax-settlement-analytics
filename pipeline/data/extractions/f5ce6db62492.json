@@ -1,0 +1,76 @@
+{
+ "taxpayer": "RODOTÉCNICA INDÚSTRIA DE IMPLEMENTOS RODOVIÁRIOS EIRELLI",
+ "approval_date": "2023-05-23",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Valor objeto do precatório expedido na ação de execução n° 5002872-22.2018.4.04.7113, destinado à quitação do saldo das contas do FGTS e, havendo saldo, aos Débitos Previdenciários e Demais débitos"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar não utilizar pessoa interposta para ocultar bens",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação de créditos",
+  "Cumprir exigências e obrigações da Portaria PGFN 6.757/2022 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União e o Certificado de Regularidade Fiscal do FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Manter por 5 anos livros e documentos comprobatórios de créditos de PF/BCN utilizados",
+  "Apresentar situação econômico-financeira anualmente via balanço contábil ou DRE",
+  "Recolher obrigações tributárias correntes e acessórias",
+  "Adimplir emolumentos de protesto cartorário eventual e anterior"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de Prejuízo Fiscal (PF) e Base de Cálculo Negativa de CSLL (BCN) no valor nominal de R$ 2.271.123,72, sob condição resolutória de homologação pela RFB em até 5 anos",
+  "Pagamento integral da verba rescisória na primeira parcela do Anexo III (R$ 575.006,22, referente a fevereiro de 2023)",
+  "Garantia consistente em precatório judicial destinado prioritariamente à quitação do FGTS"
+ ],
+ "sector": "Indústria (implementos rodoviários)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.75,
+  "judicial_recovery": 0.9
+ },
+ "source_excerpts": {
+  "observacao_geral_discounts": "As inscrições indicadas no Anexo I (débitos previdenciários) serão objeto de plano de pagamento em 60 (sessenta) amortizações mensais e sucessivas, sendo concedido o desconto médio de 49,65%... O plano relativo às inscrições indicadas no Anexo II (demais débitos) prevê o pagamento em 120 (cento e vinte) parcelas mensais e sucessivas... sendo concedido o desconto médio de 64,55%... modalidade Nº 30, 85 (oitenta e cinco) amortizações mensais e sucessivas... sendo concedido o desconto médio de 27,50%... modalidade Nº 05, 25 (vinte e cinco) amortizações mensais e sucessivas... sendo concedido o desconto de 43,99%.",
+  "tax_loss_credits": "Os montantes de créditos de PF e BCN aceitos na transação, no valor nominal de R$ 2.271.123,72 (dois milhões, duzentos e setenta e um mil, cento e vinte e três reais e setenta e três centavos)..."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "f5ce6db62492",
+ "title": "Termo de Transação Individual - Rodotécnica Indústria de Implementos Rodoviários Eirelli",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualRodotecnicaIndustriadeImplementosRodoviariosEirelli.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualRodotecnicaIndustriadeImplementosRodoviariosEirelli.pdf",
+ "sha256": "05df3e0d9c4b1d6648ca3deb55c3a828c37273015dee58924b29b31d24c2d624",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

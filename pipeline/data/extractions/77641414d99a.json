@@ -1,0 +1,72 @@
+{
+ "taxpayer": "SARAIVA TRANSPORTES TÉCNICOS LTDA EM RECUPERACAO JUDICIAL",
+ "approval_date": "2021-10-07",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (empresas em Recuperação Judicial - Portaria PGFN nº 2382/2021)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "O devedor mantém todas as garantias associadas ao débito com a finalidade de garantir a dívida contemplada na transação individual (Cláusula 14)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Renunciar a quaisquer alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar bens",
+  "Declarar que não aliena ou onera bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de bens do ativo não circulante",
+  "Apresentar demonstrações contábeis dos últimos 3 exercícios sociais (balanço patrimonial, DRE, fluxo de caixa)",
+  "Apresentar relação nominal de credores e bens",
+  "Apresentar situação econômico-financeira anualmente (Cláusula 29)"
+ ],
+ "special_clauses": [
+  "Possibilidade de transacionar créditos inscritos de FGTS conforme Portaria PGFN/ME 2382/2021",
+  "Cláusula 30: sobrevindo parcelamento com regras/descontos mais benéficos, fica assegurado ao devedor a faculdade de incluir os débitos transacionados no programa incentivado",
+  "Cláusula 27: possibilidade de repactuação futura para inclusão de novos débitos definitivamente constituídos, vedada a redução do montante principal do crédito inscrito em dívida ativa"
+ ],
+ "sector": "Transportes",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.7,
+  "obligations": 0.8,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Além do parcelamento, serão concedidos descontos que irão variar até 70% sobre o total devido, a depender das particularidades de cada inscrição, considerando que a empresa está em recuperação judicial.",
+  "installments": "É concedida ao devedor a possibilidade de pagar em 120 parcelas os débitos não previdenciários."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "77641414d99a",
+ "title": "Termo de Transação Individual -  Saraiva Transportes",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-saraiva-transportes.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-saraiva-transportes.pdf",
+ "sha256": "4038772204ea629057a2da94feca63505d3963ddb5d11021ce2e2943b35bb29d",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

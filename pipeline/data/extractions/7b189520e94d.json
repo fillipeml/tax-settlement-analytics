@@ -1,0 +1,78 @@
+{
+ "taxpayer": "GRANPORT MULTIMODAL LTDA.",
+ "approval_date": "2021-11-16",
+ "consolidated_amount": 54183472.58,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Veículos (10 veículos identificados por placa/RENAVAM, oferecidos à penhora na execução fiscal nº 5000263-84.2016.4.03.6104)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Desistir de impugnações, recursos e ações administrativas ou judiciais relativas à Dívida Transacionada (item 5.1 e 7.2.1)",
+  "Adimplir a Transação nas condições dos itens 3.1 a 3.4 (item 7.2.2)",
+  "Promover pagamento de eventual saldo devedor (item 7.2.3)",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicar a Fazenda Nacional (item 7.2.4)",
+  "Pagar, parcelar ou garantir débitos inscritos em Dívida Ativa não constantes da Dívida Transacionada, no prazo de 90 dias (item 7.2.5)",
+  "Manter regular a situação dos parcelamentos vigentes (item 7.2.6)",
+  "Manter regularidade perante o FGTS (item 7.2.7)",
+  "Renunciar a alegações de direito sobre ações judiciais relativas à Dívida Transacionada (item 7.2.8)",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado (item 7.2.9)",
+  "Não utilizar a Transação de forma abusiva (item 7.2.10)",
+  "Realizar comunicações via SICAR/REGULARIZE com menção ao processo SEI (item 7.2.11)",
+  "Não distribuir lucros ou dividendos a sócios até pagamento integral da entrada (item 7.2.12)",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa (item 7.2.13)",
+  "Comprovar em até 90 dias a efetivação da penhora dos veículos (item 4.1.4)",
+  "Oferecer veículos à penhora em até 30 dias (item 4.1.2)"
+ ],
+ "special_clauses": [
+  "Item 3.1.6: Em relação ao pedágio exigido pela Portaria 2.382/2021, o contribuinte opta por pagar, no mesmo período, valores superiores ao estabelecido como pedágio.",
+  "Item 3.1.1: Desconto máximo de 70% por inscrição em Dívida Ativa objeto da transação, vedada a redução do montante principal, aplicado proporcionalmente sobre acréscimos legais (multa, juros e encargos).",
+  "Escalonamento progressivo das prestações em faixas crescentes (Tabelas 2 e 3), com parcelas iniciais reduzidas e aumento gradual conforme situação de recuperação judicial."
+ ],
+ "sector": "Logística/transporte multimodal portuário",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 1.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 1.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O valor total dos débitos da empresa com a Fazenda Nacional é de R$ 54.183.472,58, sendo que o crédito transacionado corresponde a R$ 40.695.911,41 (demais débitos) e R$ 13.487.561,17 (débitos previdenciários).",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "7b189520e94d",
+ "title": "Termo de Transação Individual - Granport",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualGranport.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualGranport.pdf",
+ "sha256": "b746c8a8e6ee050b277a7b8714349895a36d2d464632c1042bc09abbf7e1937a",
+ "extracted_at": "2026-07-22T14:22:42+00:00",
+ "simulated": false
+}

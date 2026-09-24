@@ -1,0 +1,73 @@
+{
+ "taxpayer": "USINA BOM JESUS S/A EM RECUPERACAO JUDICIAL",
+ "approval_date": "2022-02-02",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bloqueio de recursos em IDPJ nº 0807395-94.2018.4.05.8312 e IDPJ nº 0807394-12.2018.4.05.8312",
+  "Alienação de ativos imobiliários relacionados no Anexo II (mínimo R$ 18.000.000,00)",
+  "Corresponsabilidade patrimonial das empresas LOTUS ADMINISTRACAO GERENCIA E PARTICIPACOES LTDA, IMOBILIARIA GURJAU S/A, MEGAIPE EMPREENDIMENTOS AGRICOLAS S/A e BOM JESUS COMERCIAL S/A",
+  "Gravames sobre imóveis (Engenho Bom Nome e outros do Anexo II) até baixa condicionada a pagamento"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação prévia à Fazenda Nacional",
+  "Desistência de impugnações e recursos administrativos/judiciais relativos aos débitos do Anexo I e inscrição FGTS FGPE201900454",
+  "Petição em 30 dias para noticiar aos juízos a celebração do acordo",
+  "Fornecimento de demonstrações contábeis dos últimos 3 exercícios sociais no ato da assinatura",
+  "Apresentação anual de demonstrações de resultado/balanço contábil",
+  "Pagamento de R$ 12.000.000,00 em até 6 meses destinados à antecipação de parcelas previdenciárias, com recurso da venda do Engenho Bom Nome",
+  "Alienação de ativos imobiliários do Anexo II em até 18 meses, suficientes para R$ 18.000.000,00",
+  "Recolhimento das obrigações tributárias correntes e acessórias"
+ ],
+ "special_clauses": [
+  "Extensão do prazo da dívida não previdenciária para 120 meses e desconto máximo de 70% decorrente de decisão judicial em Mandado de Segurança nº 0822873-76.2021.4.05.8300, com previsão de reversão para 84 meses e desconto de até 50% caso a decisão seja revertida",
+  "Quitação imediata da dívida de FGTS com recursos bloqueados nos IDPJs",
+  "Possibilidade de venda de imóvel (Engenho Bom Nome) para antecipação de parcelas previdenciárias, com baixa de gravame condicionada ao pagamento",
+  "Alienação via plataforma COMPREI da PGFN em caso de não atingimento do valor mínimo de venda dos imóveis do Anexo II, com regras de compra instantânea, parcelamento e comissão de intermediário",
+  "Cláusula de migração para parcelamento futuro mais benéfico (Cláusula 15)",
+  "Corresponsabilização patrimonial de empresas do grupo como terceiros anuentes, com suspensão de IDPJs enquanto cumprido o acordo"
+ ],
+ "sector": "Agronegócio (usina sucroalcooleira)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "judicial_recovery": 1.0,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "para pagamento, no prazo de 120 (cento e vinte) meses, da dívida fiscal não-previdenciária e no prazo de 60 (sessenta meses), a dívida previdenciária, com aproveitamento do desconto máximo de até 70% (setenta por cento), face ao seu estado de recuperação judicial",
+  "installments": "A extensão do prazo de transação da dívida não previdenciária para 120 (cento e vinte) meses, bem como o aumento do desconto máximo de ambas as contas de transação para até 70% (setenta por cento) decorreu da decisão judicial proferida no Mandado de Segurança n. 0822873-76.2021.4.05.8300"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "sector"
+ ],
+ "id": "75866da9949f",
+ "title": "Termo de Transação Individual - Usina Bom Jesus",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualUsinaBomJesus.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualUsinaBomJesus.pdf",
+ "sha256": "1573de384de61954cbb1e04dafb300d6aa310f983d4bb29807a081bc4b483191",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

@@ -1,0 +1,72 @@
+{
+ "taxpayer": "DIBUTE SOFTWARE LTDA., SWR INFORMÁTICA LTDA. e CS9 SERVIÇOS DE CONSULTORIA E INFORMÁTICA LTDA. (todas em Recuperação Judicial) - Garantidora: GLOBEINBRA LLC",
+ "approval_date": "2021-09-30",
+ "consolidated_amount": 323000169.76,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 5.0,
+ "guarantees": [
+  "Imóveis relacionados no Anexo III (salas comerciais e vagas de garagem em Brasília, BH, Fortaleza e Salvador)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utilizam pessoa interposta para ocultar bens/valores",
+  "Declarar que não alienaram ou oneraram bens para frustrar a recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir lucros ou dividendos a sócios e acionistas até o pagamento integral da entrada",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação de imóveis dados em garantia mediante prévia anuência da Fazenda Nacional (item 4)",
+  "Entrada escalonada conforme Anexo II",
+  "Fazenda Nacional atuará como interveniente anuente em contratos de compra e venda dos imóveis alienados",
+  "Débitos não previdenciários em 120 parcelas e previdenciários em 60 parcelas",
+  "Requerentes incluídas como corresponsáveis nas CDAs umas das outras"
+ ],
+ "sector": "Serviços de informática",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.85,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.5,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.9,
+  "installments": 0.85,
+  "discounts": 0.2,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "down_payment_pct": "Entrada - 5% da Dívida Consolidada",
+  "installments": "Pagamento dos débitos não previdenciários em 120 parcelas mensais e pagamento dos débitos previdenciários em 60 parcelas mensais, na forma prevista no Anexo II",
+  "consolidated_amount": "Dívida Consolidada R$ 322.008.078,28 [Não Previdenciários] / R$ 992.091,48 [Previdenciários]"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "ba254df9a2a4",
+ "title": "Termo de Transação Individual - DIBUTE",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-dibute.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-dibute.pdf",
+ "sha256": "bc4e658efceaf382e811b64c71c6ad110038f707581272525f95ba7b45a03969",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

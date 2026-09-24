@@ -1,0 +1,82 @@
+{
+ "taxpayer": "IGB ELETRÔNICA S/A (em recuperação judicial) e sua subsidiária EMPRESA BRASILEIRA DE TECNOLOGIA DIGITAL LTDA – EBTD (em recuperação judicial)",
+ "approval_date": "2022-07-04",
+ "consolidated_amount": 588966866.32,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca/penhora sobre a Planta Industrial Açaí (terreno, edificações, acessórios e demais benfeitorias), situada à Avenida Açaí, nº 875, Distrito Industrial – Manaus/AM, matrículas nº 662 e nº 1.724, avaliada em R$ 168.000.000,00",
+  "Penhor de direitos incidentes sobre as marcas caracterizadas no ANEXO II-B (ex.: Gradiente, Safe Phone, entre outras)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Manter regularidade das obrigações correntes com o FGTS e tributárias federais a partir da assinatura",
+  "Regularizar novos débitos inscritos em dívida ativa após a assinatura no prazo de 90 dias",
+  "Manter as garantias oferecidas até integral cumprimento das condições",
+  "Informar previamente à PGFN alienação ou disposição de bens e direitos",
+  "Utilizar créditos líquidos e certos como reforço do plano de amortização",
+  "Fornecer informações sobre bens, direitos e situação econômica sempre que solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou valores de pagamento",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Não distribuir lucros enquanto não liquidado o ajuste",
+  "Notificar a Fazenda sobre migração ou aquisição de atividades operacionais por outra pessoa jurídica",
+  "Desistir de impugnações e recursos administrativos/judiciais relativos aos débitos do ANEXO I no prazo de 30 dias",
+  "Registrar hipoteca ou penhora sobre o imóvel garantidor no prazo de 90 dias",
+  "Formalizar o penhor de direitos sobre marcas no prazo de 90 dias, com registro em cartório e no INPI",
+  "Apresentar demonstrações de resultados anualmente ou quando solicitado"
+ ],
+ "special_clauses": [
+  "Possibilidade de utilização de créditos líquidos e certos do contribuinte em desfavor da União, reconhecidos em decisão transitada em julgado, ou precatórios federais próprios ou de terceiros, para amortização ou liquidação do saldo devedor",
+  "Utilização do produto de eventual venda/revenda de ativos ocorrida no bojo da recuperação judicial como reforço do plano de amortização, ainda que não originariamente previsto no plano de recuperação",
+  "Renúncia a decisões havidas no bojo da recuperação judicial que tangenciem a liquidação de valores discutidos em MSs específicos",
+  "Garantia parcial mediante direitos de marca (ANEXO II-B), liberados apenas ao final da quitação",
+  "Possibilidade de adesão a programa de parcelamento extraordinário mais benéfico, ainda que para submissão de apenas parte dos créditos"
+ ],
+ "sector": "Eletroeletrônicos/tecnologia (marcas Gradiente, Safe Phone, entre outras)",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.9,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam R$ 588.966.866,32, atualizado no mês de junho de 2022",
+  "total_discount_pct": "a presente transação envolve a concessão de descontos de até 70% (setenta por cento), vedada a incidência sobre o principal do débito",
+  "installments": "A presente transação terá prazo de vigência de até 120 (cento e vinte) meses."
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "special_clauses"
+ ],
+ "id": "bbea7b92bc1c",
+ "title": "Termo de Transação Individual - IGB Eletrônica",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualIGBEletrnicaSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualIGBEletrnicaSA.pdf",
+ "sha256": "a083aebf504196c03d29258d6ae418124c62f381bbaf235afc5c3175596b0e3d",
+ "extracted_at": "2026-07-22T14:22:23+00:00",
+ "simulated": false
+}

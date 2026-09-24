@@ -1,0 +1,67 @@
+{
+ "taxpayer": "DINIZ ENGENHARIA LTDA",
+ "approval_date": "2020-11-24",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": false,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Fornecer demonstrações contábeis e patrimoniais no ato de assinatura",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil ou demonstrações de resultados",
+  "Manter recolhimento das obrigações tributárias correntes",
+  "Liquidar ou parcelar débitos de FGTS junto à Caixa Econômica Federal no prazo de 30 dias",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos incluídos",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo"
+ ],
+ "special_clauses": [
+  "Transação individual com plano de recuperação fiscal fundamentado em aporte financeiro de investidor, conforme aderência da proposta à situação econômico-fiscal do devedor e suas projeções de geração de resultados"
+ ],
+ "sector": "Engenharia/Construção",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.4,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.8,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.8,
+  "judicial_recovery": 0.5,
+  "special_clauses": 0.6
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Não há citação literal de valor consolidado em reais no documento",
+  "total_discount_pct": "com aproveitamento do desconto máximo de 50% (cinquenta por cento), baseado na capacidade de pagamento do DEVEDOR, conforme extração obtida nos Sistemas de Apoio à Transação da PGFN (DW PGFN), não implicando, a negociação, a redução do montante principal do crédito inscrito em dívida ativa da União",
+  "installments": "para pagamento no prazo de 84 (oitenta e quatro) meses, a dívida não-previdenciária, e no prazo de 60 (sessenta meses), a dívida previdenciária"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "sector",
+  "judicial_recovery",
+  "special_clauses",
+  "installments"
+ ],
+ "id": "bc1cf9551c65",
+ "title": "Termo de Transação Individual - Diniz Engenharia",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-diniz-engenharia",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-diniz-engenharia",
+ "sha256": "86c130feaed415d6bc33bf1114c9aca975437cdd0b5c8552614a1684d469032c",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

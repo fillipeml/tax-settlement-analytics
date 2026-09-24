@@ -1,0 +1,75 @@
+{
+ "taxpayer": "VIAÇÃO NOVA CIDADE - FALIDA (CNPJ 67.571.216/0001-88)",
+ "approval_date": "2023-08-08",
+ "consolidated_amount": 29278786.53,
+ "modality": "Transação Individual (empresa em falência)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": 0.0,
+ "guarantees": [],
+ "judicial_recovery": false,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar/dissimular origem ou destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicar a Fazenda Nacional",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação, desistir de impugnações/recursos e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Desconto máximo de 65% aplicado a cada CDA, vedada redução do principal, em razão de a empresa estar em processo de Falência (não se aplica limite de 21 da Portaria PGFN 2.382/2021)",
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL limitada a 69,66% do saldo da dívida após desconto",
+  "Cobrança do saldo liquidado com PF/BCN suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo de 5 anos",
+  "Sem oferta de garantia vinculada à Transação, por se tratar de pagamento à vista do saldo remanescente e empresa em Falência"
+ ],
+ "sector": "Transporte (viação/transporte rodoviário)",
+ "confidence": {
+  "taxpayer": 0.6,
+  "modality": 0.9,
+  "sector": 0.5,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.7,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada — Total de R$ 29.278.786,53 (Vinte e nove milhões, duzentos e setenta e oito mil, setecentos e oitenta e seis reais e cinquenta e três centavos)",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento do saldo devedor em única parcela no valor de R$ 3.109.124,12."
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "f72cb30c07bf",
+ "title": "Termo de Transação Individual - Viação Nova Cidade - Falida",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualViaoNovaCidadeFalida.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualViaoNovaCidadeFalida.pdf",
+ "sha256": "0d5153e0b6dbcb975e097d6b109f39875a7482a29bf46a479aa841ed0c1a0f43",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

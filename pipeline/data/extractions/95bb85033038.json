@@ -1,0 +1,77 @@
+{
+ "taxpayer": "UNIVEN REFINARIA DE PETRÓLEO LTDA e outras (grupo econômico: UNIVEN REFINARIA DE PETRÓLEO LTDA, PETRONOSSA PETRÓLEO LTDA, VIBRAPAR PARTICIPAÇÕES LTDA, MIDAS DO BRASIL SERVIÇOS E INTERMEDIAÇÃO DE NEGÓCIOS LTDA, TRANSVEM TRANSPORTES LTDA, DJ GESTÃO DE NEGÓCIOS LTDA)",
+ "approval_date": "2024-04-30",
+ "consolidated_amount": null,
+ "modality": "Transação individual (modalidades DEMAIS e PREV)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou penhoras nas ações de execução fiscal",
+  "Penhora de ativos financeiros referentes ao saldo depositado na conta judicial vinculada ao Processo nº 1038536-82-2020.4.01.3400, oriundo do pagamento do Precatório Judicial nº 0234998-32.2019.4.01.9198",
+  "Valores penhorados por ordem judicial na demanda fiscal 0047901-66.2013.4.03.6182"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam reduzir capacidade de pagamento sem comunicação à Fazenda",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos exigidos, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Desistir de impugnações, PRDIs e ações judiciais relativas à Dívida Transacionada em até 30 dias"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor de R$883.360.603,00 para amortização do saldo devedor após descontos",
+  "Pagamento de parcela específica (item 2.1.7.1 b) vinculado a recursos oriundos de conta judicial do Processo nº 1038536-82-2020.4.01.3400, relacionado ao Precatório Judicial nº 0234998-32.2019.4.01.9198 originalmente da empresa Triunfo Agroindustrial S/A",
+  "Reconhecimento de corresponsabilidade entre as Requerentes por integrarem o mesmo grupo econômico",
+  "Cláusula de ressalva quanto à Ação Rescisória nº 1030061-55.2020.4.01.0000 envolvendo Triunfo Agroindustrial S/A em Recuperação Judicial, Usina Caeté S/A, Univen Refinaria de Petróleo Ltda e Rosas Advogados"
+ ],
+ "sector": "Petróleo e derivados / transportes",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.charges_pct": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 60 (sessenta) prestações mensais e sucessivas",
+  "discounts.charges_pct": "desconto máximo de até 65% (sessenta e cinco por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "sector",
+  "judicial_recovery",
+  "discounts.fine_pct",
+  "discounts.interest_pct"
+ ],
+ "id": "95bb85033038",
+ "title": "Termo de Transação Individual - Univen Refinaria de Petróleo LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualUnivenRefinariadePetrleoLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualUnivenRefinariadePetrleoLTDAtarjado.pdf",
+ "sha256": "877b3bf07decde59f20df28f8000a3968609bfa3bfa99e5f28d255a8170c4e55",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

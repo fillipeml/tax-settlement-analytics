@@ -1,0 +1,82 @@
+{
+ "taxpayer": "JKM TRANSPORTES LOGÍSTICA E ARMAZENAGEM LTDA.",
+ "approval_date": "2024-05-06",
+ "consolidated_amount": 25329096.0,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Estruturas Metálicas de Armazenagem – Porta Pallets, avaliadas em R$ 3.185.000,00"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação dos créditos",
+  "Cumprir exigências da Portaria PGFN nº 6757/22 e da proposta",
+  "Renunciar a alegações de direito, ações judiciais e recursos sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Permanecer no regime de tributação pelo lucro real até cumprimento integral do acordo",
+  "Declarar não possuir créditos líquidos e certos ou precatórios em desfavor da União",
+  "Não desistir do acordo",
+  "Manter por 5 anos livros e documentos comprobatórios dos créditos de prejuízo fiscal e BCN da CSLL",
+  "Apresentar situação econômico-financeira sempre que a PGFN reputar oportuno",
+  "Manter em dia pagamento de taxas sobre bens dados em garantia",
+  "Adimplir emolumentos de protesto cartorário das inscrições abrangidas"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal (R$ 1.661.250,00) e base de cálculo negativa da CSLL (R$ 601.200,00) para amortização do saldo devedor",
+  "Utilização de créditos de PF/BCN no valor nominal de R$ 2.262.450,00, sob condição resolutória de homologação em até 5 anos",
+  "Substituição de garantia mantendo valor total de R$3.185.000,00 em caso de bem não constrito",
+  "Inclusão futura, via revisão, das inscrições do §1º da Cláusula 1ª com desconto de até 65% (rating D)",
+  "Parcela balão (aporte maior) na parcela nº 60 da conta previdenciária, cuja falta de pagamento implica rescisão"
+ ],
+ "sector": "Transporte e logística",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.7,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.5,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "cujo montante totaliza, em maio/2024, R$ 25.329.096,00 (vinte e cinco milhões, trezentos e vinte e nove mil e noventa e seis reais)",
+  "installments": "o saldo devedor será pago em 120 (cento e vinte) parcelas escalonadas, mensais e sucessivas, conforme os valores estipulados no Anexo III"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "2739f3602d0b",
+ "title": "Termo de Transação Individual - JKM Transportes Logística e Armazenagem LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualJKMTransportesLogsticaeArmazenagemLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualJKMTransportesLogsticaeArmazenagemLTDATarjado.pdf",
+ "sha256": "73a597ec340b49199492eb7a377fa737b94619a0a805e44e1f64aee8ba08fec6",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

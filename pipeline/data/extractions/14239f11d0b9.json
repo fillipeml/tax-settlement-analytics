@@ -1,0 +1,79 @@
+{
+ "taxpayer": "RIBEIRO ENGENHARIA LTDA.",
+ "approval_date": "2021-12-10",
+ "consolidated_amount": 25133051.57,
+ "modality": "Transação individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Área de terras de 30.000 m2, Fazenda Icaraís e Jaboticaba, Palmeiras, Guarapari/ES",
+  "Oito caminhões Mercedes Benz",
+  "Crédito de Precatório em face do Município de Mage/RJ (processo nº 0001079-30.1997.8.19.0029)",
+  "Lotes de terrenos no Loteamento Jardim Serra Verde, Serra/ES",
+  "Fiança dos GARANTIDORES (garantia fidejussória)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos inscritos listados no Anexo I",
+  "Renúncia a alegações de direito e desistência de ações/recursos relativos à Dívida Transacionada",
+  "Adimplemento do plano de pagamento mensal previsto no item 3.1",
+  "Pagamento das parcelas via sistema SISPAR/REGULARIZE",
+  "Peticionar nos processos judiciais em até 30 dias para noticiar a transação e requerer a penhora dos bens em garantia",
+  "Compromisso de pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa no prazo de 90 dias",
+  "Manter regular a situação dos parcelamentos vigentes",
+  "Manter regularidade perante o FGTS",
+  "Autorizar acesso da Fazenda Nacional às declarações fiscais",
+  "Declarar que não alienará bens sem comunicação à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Quitar antecipadamente e à vista, em até 120 dias, o débito previdenciário parcelado no REFIS"
+ ],
+ "special_clauses": [
+  "Faculdade de alienar imóveis dados em garantia, mediante condições específicas (item 4.4)",
+  "Possibilidade de migração para programa de parcelamento extraordinário mais benéfico (item 9.5)",
+  "Revisão da manutenção de garantias em caso de excesso de garantia (item 4.3)",
+  "Uso de créditos de precatório para amortização das últimas parcelas (item 3.9)"
+ ],
+ "sector": "Construção civil/engenharia",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "installments": 1.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizando R$ 25.133.051,00, já com os descontos concedidos, referente ao mês de dezembro de 2021: DÉBITOS NÃO PREVIDENCIÁRIOS: R$ 25.133.051,57",
+  "total_discount_pct": "Desconto máximo de 70% (setenta por cento) incidente sobre a Dívida Transacionada de natureza não previdenciária e previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos) (Anexo I).",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 145 (cento e quarenta e cinco meses) prestações mensais;"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "14239f11d0b9",
+ "title": "Termo de Transação Individual - Ribeiro Engenharia",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualRibeiroEngenhariaLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualRibeiroEngenhariaLTDAtarjado.pdf",
+ "sha256": "7b2ab0c07c902037ef3de7a13d7d27b380973808b30732b8ab67f3cdd277fcff",
+ "extracted_at": "2026-07-22T14:22:31+00:00",
+ "simulated": false
+}

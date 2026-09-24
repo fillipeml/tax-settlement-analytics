@@ -1,0 +1,79 @@
+{
+ "taxpayer": "CGM - TRANSPORTES E LOCACOES DE EQUIPAMENTOS LTDA e CGM LOGISTICA LTDA",
+ "approval_date": "Not identified",
+ "consolidated_amount": 32745885.43,
+ "modality": "Transação Individual (DEMAIS e PREV)",
+ "total_discount_pct": 43.25,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, de medida cautelar fiscal e das garantias prestadas administrativamente ou em ações de execução fiscal ou qualquer outra ação judicial"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar preenchimento dos requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar não utilização de pessoa interposta",
+  "Declarar não ter alienado bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais e fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis",
+  "Não alienar bens que possam reduzir capacidade de pagamento sem comunicação",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter livros e documentos fiscais por 5 anos",
+  "Declarar inexistência de outros créditos líquidos e certos",
+  "Manter-se optante pelo regime de lucro real durante vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor de R$ 10.826.232,55 para amortização do saldo devedor",
+  "Cobrança do saldo liquidado com uso de créditos de PF/BCN fica suspensa até confirmação pela autoridade competente, em até 5 anos",
+  "Direcionamento obrigatório de créditos de precatórios/depósitos judiciais perante a União para amortização do saldo devedor"
+ ],
+ "sector": "Transporte e Logística",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.0,
+  "modality": 0.9,
+  "sector": 0.6,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.charges_pct": 0.8,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "guarantees": 0.75,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL R$32.745.885,43",
+  "total_discount_pct": "Desconto efetivo MÉDIO 43,25%",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 120 (cento e vinte) prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "approval_date",
+  "down_payment_pct",
+  "sector",
+  "judicial_recovery",
+  "discounts.fine_pct",
+  "discounts.interest_pct"
+ ],
+ "id": "430ff42154bf",
+ "title": "Termo de Transação Individual - CGM - Transportes E Locacoes De Equipamentos LTDA e CGM Logistica LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCGMTransportesELocacoesDeEquipamentosLTDAeCGMLogisticaLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCGMTransportesELocacoesDeEquipamentosLTDAeCGMLogisticaLTDA.pdf",
+ "sha256": "affb623dfbb72750157f060e4255b4d8649ffab6416f70445f049bed32ede71c",
+ "extracted_at": "2026-07-22T14:22:37+00:00",
+ "simulated": false
+}

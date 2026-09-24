@@ -1,0 +1,86 @@
+{
+ "taxpayer": "HOPI HARI S/A, HH PARQUES TEMÁTICOS S/A e HH PARTICIPAÇÕES S/A",
+ "approval_date": "2024-06-20",
+ "consolidated_amount": 454129385.61,
+ "modality": "Transação individual",
+ "total_discount_pct": 88.62,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Marca Hopi Hari (registrada no INPI)",
+  "Recebíveis oriundos de contrato de locação",
+  "Penhora de bem imóvel matriculado sob o nº 8.904, registrado perante o Cartório de Registro de Imóveis da Comarca de Vinhedo/SP"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Declarar preenchimento dos requisitos da Lei 13.988/2020",
+  "Não utilizar a Transação de forma abusiva",
+  "Declarar não utilização de pessoa interposta para ocultar bens",
+  "Declarar não alienação/oneração de bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Manter-se optante pela tributação pelo lucro real durante a vigência do acordo",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Formalizar penhora dos bens ofertados em garantia em 30 dias",
+  "Comprovar formalização das penhoras em 90 dias",
+  "Peticionar nos processos judiciais em até 30 dias para noticiar celebração da transação e confessar dívida"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação da marca Hopi Hari dada em garantia, mediante prévia anuência da Fazenda Nacional (cláusula 4)",
+  "Utilização do sistema COMPREI da PGFN para eventual alienação do imóvel dado em garantia",
+  "Comprovação periódica (a cada 12 meses) do recebimento de valores oriundos de contrato de locação como garantia",
+  "Substituição de garantia em caso de rescisão do contrato de locação",
+  "Suspensão da cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL até confirmação pela autoridade competente",
+  "Débitos de FGTS com condições específicas de desconto (25% e 45%) e parcelamento diferenciado (90 vezes para principal, 30 vezes para juros/multa/encargos; 25 vezes)"
+ ],
+ "sector": "Parques temáticos / entretenimento",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.55,
+  "total_discount_pct": 0.6,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.75,
+  "obligations": 0.9,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total sem reduções (A) ... R$ 315.161.380,00 (Demais) + Total sem reduções (A) ... R$ 138.968.005,61 (Previdenciário)",
+  "total_discount_pct": "Total com reduções (A - C - B) ... 88,62% (Demais)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 84 (oitenta e quatro) prestações mensais"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "0ce5de134fc3",
+ "title": "Termo de Transação Individual - Hopi Hari SA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualHopiHariSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualHopiHariSATarjado.pdf",
+ "sha256": "1be45a7ca4e9b505f1874b921fd1bfeed08e8b647a3c1be60e8c1c3052e76c15",
+ "extracted_at": "2026-07-22T14:22:43+00:00",
+ "simulated": false
+}

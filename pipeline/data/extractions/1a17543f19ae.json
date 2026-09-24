@@ -1,0 +1,76 @@
+{
+ "taxpayer": "MADETEX COMÉRCIO E INDÚSTRIA LTDA EM RECUPERAÇÃO JUDICIAL; SOFÁ DESIGN LTDA EM RECUPERAÇÃO JUDICIAL; ORNAMENTO MÓVEIS LTDA EM RECUPERAÇÃO JUDICIAL; TENDÊNCIA INTERIORES COMÉRCIO DE MÓVEIS EIRELI EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2025-06-12",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Empresa(s) em processo de recuperação judicial",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Veículos declarados pelas requerentes (JEEP/COMPASS LONG TF 2022, VW/5.150 DRC 4X2 2015, YAMAHA/YBR125 FACTOR K1 2014, INTERNATIONAL/NEOBUSTH 2013, JEEP/COMMANDER OVR T270 2022, JEEP/RENEGADE LNGTD AT D 2021, VW/15.180 CNM 2010, M.BENZ/L 1620 2009)",
+  "Manutenção automática de gravames decorrentes de arrolamento de bens, medida cautelar fiscal, penhoras ou garantias prestadas administrativamente"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não distribuir lucros ou dividendos a sócios e acionistas até a aprovação do plano de recuperação judicial",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando em 90 dias débitos que se tornarem exigíveis",
+  "Peticionar em até 60 dias nos processos judiciais/administrativos para noticiar a celebração da Transação e desistir/renunciar",
+  "Peticionar em até 60 dias no processo de recuperação judicial para noticiar a celebração da Transação",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Autorizar acesso da Fazenda Nacional a declarações e escritas fiscais",
+  "Não alienar bens que reduzam significativamente a capacidade de pagamento sem comunicação prévia",
+  "Formalizar garantia via oferecimento de bens à penhora em até 30 dias da assinatura"
+ ],
+ "special_clauses": [
+  "Condições de adimplemento estabelecidas com base na presunção de irrecuperabilidade do art. 11, §5º, da Lei 13.988/2020",
+  "Desconto máximo de 65% aplicado apenas sobre acréscimos legais (multa, juros e encargos), vedada redução do principal",
+  "Possibilidade de alienação dos bens dados em garantia mediante anuência prévia da Fazenda Nacional, com uso da Plataforma Comprei, limite mínimo de 50% do valor FIPE",
+  "Dispensa de substituição/reforço de garantia caso todos os bens estejam vinculados ao plano de recuperação judicial",
+  "Colaboração da Fazenda Nacional com o Juízo da recuperação judicial, Ministério Público e administrador judicial"
+ ],
+ "sector": "Móveis/comércio e indústria de móveis",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.3,
+  "down_payment_pct": 0.0,
+  "installments": 0.8,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 1.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Concede-se o desconto máximo de 65% (sessenta e cinco por cento), calculado por débito e aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), vedada a redução do montante principal.",
+  "installments": "O saldo devedor remanescente da Dívida Transacionada - Demais Débitos será adimplido em 120 (cento e vinte) prestações mensais sucessivas"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "total_discount_pct",
+  "sector"
+ ],
+ "id": "1a17543f19ae",
+ "title": "Termo de Transação Individual - Madetex Comércio e Indústria LTDA, Sofá Design LTDA, Ornamento Móveis LTDA, Tendência Interiores Comércio de Móveis Eireli",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMadetexComrcioeIndstriaLTDASofDesignLTDAOrnamentoMveisLTDATendnciaInterioresComrciodeMveisEireli.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMadetexComrcioeIndstriaLTDASofDesignLTDAOrnamentoMveisLTDATendnciaInterioresComrciodeMveisEireli.pdf",
+ "sha256": "bbd939f7e7aa8897e9731d5d601e6b9b664ea62dde741672ae9cbb54ed0058f8",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

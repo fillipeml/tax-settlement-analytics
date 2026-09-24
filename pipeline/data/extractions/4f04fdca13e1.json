@@ -1,0 +1,79 @@
+{
+ "taxpayer": "Usina Santa Clotilde",
+ "approval_date": "2022-06-28",
+ "consolidated_amount": null,
+ "modality": "Transação Individual para empresas em Recuperação Judicial (Portaria PGFN nº 2382/2021)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel Canoas de Cima (matrícula 5094, RGI de Rio Largo) - garantia integral dos débitos não incluídos na transação (Cláusula 4ª)",
+  "Imóvel Fazenda Milagres (matrícula 1512, Cartório de Rio Largo/AL, avaliado em R$ 15.383.310,00) - hipoteca em garantia dos débitos do acordo (Cláusula 14 e 15)",
+  "Penhoras já existentes nas execuções fiscais (Cláusula 13)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos e valores sempre que solicitado (Cláusula 3ª, I)",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência (Cláusula 3ª, II)",
+  "Manter regularidade perante o FGTS (Cláusula 3ª, III)",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa (Cláusula 3ª, IV)",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de ativo não circulante (Cláusula 3ª, V)",
+  "Comprovar em 15 dias a indicação à penhora do imóvel Canoas de Cima (Cláusula 4ª)",
+  "Formalizar transação de Contribuição Social da LC 110/2001 em 30 dias após disponibilização de ferramenta pela CEF (Cláusula 5ª)",
+  "Fornecer demonstrações contábeis dos últimos 3 exercícios e relação de bens e credores (Cláusula 18)",
+  "Apresentar situação econômico-financeira anualmente (Cláusula 30)",
+  "Comprovar registro da hipoteca em 60 dias (Cláusula 15)",
+  "Promover georreferenciamento do imóvel dado em garantia em 36 meses (Cláusula 15, §5º)"
+ ],
+ "special_clauses": [
+  "Renúncia à alegação de bem essencial à atividade empresarial para os imóveis dados em garantia (Cláusulas 4ª e 14)",
+  "Possibilidade de venda direta/antecipada dos imóveis em garantia via plataforma COMPREI/PGFN, inclusive por 50% do valor de avaliação após 90 dias de exposição (Cláusula 14, §1º e §2º)",
+  "Destinação de valores de precatórios/RPV recebidos para amortização extraordinária do acordo (Cláusula 11)",
+  "Parcela diferenciada (excepcional) de R$ 16.115.826,44 na conta previdenciária, vencível no 48º mês, alocada no sistema no mês 60 por questão operacional (Cláusula 10, §6º)",
+  "Possibilidade de prorrogação do vencimento da parcela excepcional previdenciária até o mês 60 em caso de necessidade de venda do bem em garantia (Cláusula 16, §3º e §4º)",
+  "Faculdade de migração para parcelamento futuro mais benéfico, extinguindo a presente transação (Cláusula 31)"
+ ],
+ "sector": "Agronegócio (usina de açúcar/etanol)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "concessão de descontos de até 70 % sobre o total devido, a depender das particularidades de cada inscrição, considerando a capacidade de pagamento do DEVEDOR e o processamento da recuperação judicial",
+  "installments": "possibilidade de pagamento dos débitos não previdenciários em, no máximo, 120 (cento e vinte) parcelas mensais e consecutivas, conforme previstas na simulação em anexo extraída do sistema SISPAR (ANEXO III)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "4f04fdca13e1",
+ "title": "TermodeTransaoInidvidualUsinaSantaClotilde2022PRFN5TermoassinadocomtarjapretaCGRtj.pdf",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoInidvidualUsinaSantaClotilde2022PRFN5TermoassinadocomtarjapretaCGRtj.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoInidvidualUsinaSantaClotilde2022PRFN5TermoassinadocomtarjapretaCGRtj.pdf",
+ "sha256": "4ddeebe85f69fe0b1457dd3293f4153a9fbee4f45fc987c4514238dd4a47cc22",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

@@ -1,0 +1,74 @@
+{
+ "taxpayer": "Azul Linhas Aéreas Brasileiras S.A",
+ "approval_date": "2024-10-04",
+ "consolidated_amount": 1095280063.28,
+ "modality": "Transação Individual",
+ "total_discount_pct": 29.91,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 1.706,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Formalizar, no prazo de 180 dias, Transação Individual que abranja o restante do passivo tributário inscrito em Dívida Ativa da União, bem como os débitos ainda não inscritos que não estejam sujeitos a contencioso administrativo",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou destinação de bens, direitos e valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 180 dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos"
+ ],
+ "special_clauses": [
+  "Dispensa da oferta de garantia neste Termo de Transação, condicionada à assinatura de acordo de Transação Tributária Individual no prazo de 180 dias que deverá abranger a negociação de todos os demais débitos inscritos em Dívida Ativa, bem como aqueles ainda não inscritos",
+  "Desconto máximo de 29,78% sobre a CDA negociada, vedada a redução do montante principal, sendo o desconto aplicado sobre os acréscimos legais incidentes após a inscrição em Dívida Ativa da União",
+  "Oferta de garantias na futura Transação Tributária servirá para garantir também o presente acordo",
+  "Prazo de 180 dias poderá ser prorrogado a exclusivo critério da Fazenda Nacional"
+ ],
+ "sector": "Aviação/transporte aéreo",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 1.0,
+  "down_payment_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "obligations": 0.95,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 1.095.280.063,28 (Um bilhão, noventa e cinco milhões, duzentos e oitenta mil, sessenta e três reais e vinte e oito centavos).",
+  "total_discount_pct": "80 6 24 180300-42 | 755.240.555,56 | 7.552.405,55 | 226.572.166,66 | 98.936.512,77 | 1.088.301.640,54 | 29,91%",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) meses"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "c9e6fe1bee66",
+ "title": "Primeiro Adtivo ao Termo de Transação Individual - Azul Linhas Aéreas Brasileiras SA  - Tarjado",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAzulLinhasAreasBrasileirasSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAzulLinhasAreasBrasileirasSATarjado.pdf",
+ "sha256": "6ce7a08b136868d436baf48570c9b9a67cc218c4221c5553598bd75361366835",
+ "extracted_at": "2026-07-22T14:22:36+00:00",
+ "simulated": false
+}

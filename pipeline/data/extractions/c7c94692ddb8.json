@@ -1,0 +1,80 @@
+{
+ "taxpayer": "G&P PROJETOS E SISTEMAS S.A",
+ "approval_date": "2023-11-06",
+ "consolidated_amount": 46476893.83,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantidas as garantias já existentes até a assinatura do acordo; não serão prestadas garantias adicionais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência ou livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens ou direitos com propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento",
+  "Manter-se regular e em dia com as Transações e Parcelamentos em curso",
+  "Solicitar à RFB, no prazo máximo de 60 dias, o envio para inscrição em Dívida Ativa dos débitos constantes no Anexo II",
+  "Comunicar à Fazenda Nacional a efetivação do envio para inscrição em Dívida Ativa dos débitos constantes no Anexo II",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Recolher no prazo de 30 dias os valores decorrentes da reconsolidação da conta pela inclusão dos débitos em cobrança na RFB",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 46,22% do saldo da dívida dos 'DEMAIS DÉBITOS' e 6,38% do saldo da dívida 'DÉBITOS PREVIDENCIÁRIOS'",
+  "Cobrança do saldo liquidado com uso de créditos decorrentes de prejuízo fiscal e de base de cálculo negativa da CSLL ficará suspensa até a confirmação dos créditos utilizados pela autoridade competente, dentro do prazo legal de cinco anos"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.1,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.0,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "46.476.893,83 (total da tabela do Anexo I: Relação das Certidões de Dívida Ativa incluídas na Transação)",
+  "installments": "Pagamento da dívida de natureza previdenciária e não previdenciária (demais débitos) em 60 prestações mensais, iguais e sucessivas, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "consolidated_amount"
+ ],
+ "id": "c7c94692ddb8",
+ "title": "Termo de Transação Individual - G&P projetos e sistemas",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodetransaoIndividualGPprojetosesistemasS.A.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodetransaoIndividualGPprojetosesistemasS.A.pdf",
+ "sha256": "258ad8b23b013ab14c4b23db4a35f2230ee1d2b230317b1c9994b44ca3d0d2ab",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

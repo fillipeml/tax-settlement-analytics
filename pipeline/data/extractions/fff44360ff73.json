@@ -1,0 +1,74 @@
+{
+ "taxpayer": "IPANEMA AGROINDUSTRIAL S.A.",
+ "approval_date": "2025-06-13",
+ "consolidated_amount": 6053402.44,
+ "modality": "Transação Individual",
+ "total_discount_pct": 39.9,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Fornecer, sempre que solicitadas, informações sobre bens, direitos, valores, transações e operações",
+  "Autorizar o acesso da Fazenda Nacional a suas declarações e escritas fiscais",
+  "Não alienar bens ou direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação prévia",
+  "Manter a regularidade perante o FGTS",
+  "Manter a regularidade perante a PGFN e a Receita Federal, regularizando em até 90 dias os débitos que se tornarem exigíveis",
+  "Peticionar em até 60 dias da assinatura em todos os processos judiciais para noticiar a Transação, desistir da ação e renunciar aos direitos",
+  "Manter livros e documentos fiscais e contábeis para comprovação dos montantes de PF/BCN por 5 anos ou até liquidação integral da Transação",
+  "Promover a baixa dos montantes de PF/BCN utilizados nos livros e escriturações contábeis próprias",
+  "Manter o regime de apuração do IRPJ pelo lucro real durante toda a vigência da Transação (para valores de PF/BCN utilizados)"
+ ],
+ "special_clauses": [
+  "Autorização de uso de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (PF/BCN) até 41,69% do saldo devedor da Dívida Previdenciária e até 42,60% da Dívida Demais Débitos, limitado a R$ 24.289.092,05",
+  "Créditos de PF/BCN não podem amortizar percentual superior a 70% do saldo devedor apurado após descontos",
+  "Cobrança do valor liquidado com PF/BCN suspensa até confirmação dos créditos pela autoridade competente (prazo de 5 anos, sob pena de homologação tácita)",
+  "Desconto máximo de 65% aplicado apenas sobre acréscimos legais (multa, juros e encargos), vedada redução do montante principal",
+  "Não há garantias vinculadas ao acordo (Anexo V)",
+  "Não se aplica entrada (Anexo IV)"
+ ],
+ "sector": "Agroindústria/Agronegócio",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.9,
+  "discounts.fine_pct": 0.3,
+  "discounts.interest_pct": 0.3,
+  "discounts.charges_pct": 0.3,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.2,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "PASSIVO FISCAL TRANSACIONADO - CONSOLIDADO (sem FGTS) R$ 6.053.402,44",
+  "total_discount_pct": "DESCONTO EFETIVO MÉDIO ESTIMADO 39,90% (sendo 39,02% para DEMAIS e 39,98% para PREV)",
+  "installments": "PRAZO PARA PAGAMENTO 60 MESES"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "fff44360ff73",
+ "title": "Termo de Transação - IPANEMA AGROINDUSTRIAL S",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIPANEMAAGROINDUSTRIALS.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIPANEMAAGROINDUSTRIALS.pdf",
+ "sha256": "5c0ea00b4a5c7a91db87f56f1efe70eda601c91a5855def14abf03190f3bac9d",
+ "extracted_at": "2026-07-22T14:22:34+00:00",
+ "simulated": false
+}

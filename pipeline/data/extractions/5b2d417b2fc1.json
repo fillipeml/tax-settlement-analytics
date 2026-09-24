@@ -1,0 +1,75 @@
+{
+ "taxpayer": "GRUPO AVERAMA",
+ "approval_date": "2022-06-08",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Plano de Pagamento Parcelado",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis de propriedade do corresponsável Célio Batista Martins Filho, avaliados em R$ 35.414.000,00, relacionados no Anexo V, a serem objeto de penhora nas Execuções Fiscais 5007236-44.2016.404.7004 e apensos, 5005340-63.2016.404.7004 e apensos e 5005351-24.2018.404.7004 e apenso"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar a recuperação dos créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de ativo não circulante",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria PGFN 9917/20 e na proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa ou que se tornarem exigíveis após a formalização do acordo",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Não distribuir lucros ou dividendos a sócios e acionistas até a aprovação do plano de recuperação judicial",
+  "Peticionar nos processos judiciais no prazo de 60 dias noticiando a celebração da transação",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados/balanço contábil",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias",
+  "Proceder à individualização dos valores recolhidos ao FGTS nas contas vinculadas dos trabalhadores"
+ ],
+ "special_clauses": [
+  "Nomeação da União como procuradora com cláusula causa própria para receber indenização em caso de desapropriação total ou parcial dos bens dados em garantia (Cláusula 9ª, §1º)",
+  "Desconto de 26,98% sobre débito de FGTS que não incide sobre rubricas devidas aos trabalhadores, com 1ª parcela do FGTS rescisório pago à vista sem desconto e demais parcelas (2ª a 84ª) referentes ao saldo do principal parceladas em 84 prestações (Cláusula 6ª)",
+  "Inscrição CSPR201702287 referente a débitos da Lei Complementar 110/2001 não é objeto deste acordo (§8º da Cláusula 6ª)"
+ ],
+ "sector": "Agronegócio (abate de aves/alimentos)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.95,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "§2° O plano relativo às inscrições indicadas no Anexo II prevê o pagamento em 120 (cento e vinte) parcelas mensais e sucessivas, conforme os valores estipulados no Anexo IV, sendo concedido o desconto máximo de até 70% por inscrição"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts",
+  "installments",
+  "sector"
+ ],
+ "id": "5b2d417b2fc1",
+ "title": "Termo de Transação Individual - Averama Alimentos SA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAveramaAlimentosSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAveramaAlimentosSATarjado.pdf",
+ "sha256": "f84e0c03c46c25521476d9d6eeb9fde24449439b6bb3f332478bc5b2cee636d2",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

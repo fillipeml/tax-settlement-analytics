@@ -1,0 +1,82 @@
+{
+ "taxpayer": "COMITÊ OLÍMPICO BRASILEIRO",
+ "approval_date": "2021-05-12",
+ "consolidated_amount": 240985113.39,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "50% do valor auferido anualmente pelo REQUERENTE a título de patrocínios e licenciamentos",
+  "Depósitos judiciais transformados em pagamento definitivo (ANEXO II)",
+  "Seguro-garantia (em algumas inscrições do Anexo I)",
+  "Penhora (em algumas inscrições do Anexo I)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Reconhecimento da corresponsabilidade pelo REQUERENTE em relação a todos os débitos tratados",
+  "Confissão irrevogável e irretratável de todos os débitos inscritos",
+  "Obrigação de renunciar a quaisquer alegações de direito, atuais ou futuras, sobre os créditos incluídos na transação",
+  "Inclusão de seu CNPJ como codevedora no cadastro da dívida ativa",
+  "Adimplemento do plano de pagamento dos débitos incluídos",
+  "Compromisso de efetuar os pagamentos das parcelas mensais por meio do sistema SISPAR",
+  "Compromisso de, no prazo de 90 dias, regularizar, pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa",
+  "Compromisso de manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Cumprimento das regras previstas nos arts. 18, 18-A, 18-B, 18-C, 18-D e 18-E da Lei nº 9.615/1998",
+  "Autorização de acesso à Fazenda Nacional pelas declarações e escritas fiscais",
+  "Declarar que não alienará bens ou direitos",
+  "Fornecer informações sobre bens, direitos, valores, transações, operações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta",
+  "Declarar que não alienou ou onerou bens ou direitos com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais"
+ ],
+ "special_clauses": [
+  "Garantia consistente em 50% do valor auferido anualmente a título de patrocínios e licenciamentos, exigível de forma indistinta de qualquer patrocinador indicado",
+  "Possibilidade de amortização do saldo remanescente mediante antecipação em parcela única, com redução proporcional da quantidade de parcelas vincendas",
+  "Eventuais créditos de precatório ou levantamento de depósito judicial deverão ser direcionados para adimplemento dos saldos devedores",
+  "Débitos relativos à Confederação Brasileira de Vela e Motor - CBVM também incluídos no passivo transacionado, com corresponsabilidade limitada aos fatos geradores ocorridos até 31/12/2012"
+ ],
+ "sector": "Esporte/entretenimento (olímpico)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$ 240.985.113,39",
+  "total_discount_pct": "70%",
+  "installments": "o recolhimento de 145 parcelas mensais no valor de R$ 498.589,88 (em março de 2021)"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "562dbd74076a",
+ "title": "Termo de Transação Individual - COB - Comitê Olímpico Brasileiro",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/copy_of_TermodeTransacaoIndividualCOBComiteOlimpicoBrasileiro.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/copy_of_TermodeTransacaoIndividualCOBComiteOlimpicoBrasileiro.pdf",
+ "sha256": "488cd1a6b298476db39c531f7455898cf097c63186a50b7fd11d3a3587ce9448",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

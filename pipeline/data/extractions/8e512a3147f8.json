@@ -1,0 +1,80 @@
+{
+ "taxpayer": "MATEC ENGENHARIA E CONSTRUÇÕES LTDA",
+ "approval_date": "2023-10-29",
+ "consolidated_amount": 57930500.29,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantidas as garantias já existentes até a assinatura deste acordo (não foram exigidas garantias adicionais)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos novos inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Solicitar à RFB em até 60 dias envio para inscrição em Dívida Ativa dos débitos do Anexo II",
+  "Comunicar à Fazenda Nacional a efetivação da inscrição em Dívida Ativa",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Recolher em 30 dias valores decorrentes da reconsolidação da conta",
+  "Manter-se optante pelo regime de lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, limitado a 70% do saldo da dívida (Demais Débitos e Previdenciários), após aplicação dos descontos",
+  "Cobrança do saldo liquidado com créditos de PF/BCN fica suspensa até confirmação pela autoridade competente, dentro do prazo de 5 anos",
+  "Obrigação de manter-se no regime do lucro real durante toda a vigência do acordo em razão da utilização de PF/BCN"
+ ],
+ "sector": "Construção civil/engenharia",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "VALOR CONS PGFN RFB 06/2023 R$ 57.930.500,29",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada Previdenciária e Não Previdenciária (demais débitos) em 36 prestações mensais, iguais e sucessivas, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "8e512a3147f8",
+ "title": "Termo de Transação Individual - Matec Engenharia e Construções",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMatecEngenhariaeConstruesLTDAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMatecEngenhariaeConstruesLTDAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "3351dccb992056e82f5ac40cd727f8ea0bb259e752259afa117b3d2d767696ed",
+ "extracted_at": "2026-07-22T14:22:47+00:00",
+ "simulated": false
+}

@@ -1,0 +1,68 @@
+{
+ "taxpayer": "Tenório Empreendimentos Imobiliários S.A e outras empresas do grupo (Tenório Incorporações e Empreendimentos S.A, GC Empreendimentos Imobiliários S.A, Delta Participações & Empreendimentos Ltda, DTT Construções S.A., Concretta Boulevard Desenvolvimento Imobiliário Ltda, Concretta Empreendimentos Imobiliários S.A., Concretta Monet Desenvolvimento Imobiliário Ltda, C.P.P. Comércio e Empreendimentos S.A., Concretta Luxemburgo Desenvolvimento Imobiliário Ltda)",
+ "approval_date": "2025-03-28",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Aditivo)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis (Anexo I): Edifício Praia de Gameleira - apto 301 (Matrícula 126.234), Edifício Praia de Gameleira - apto 201 (Matrícula 126.226), Edifício Praia de Gameleira - apto 203 (Matrícula 126.228), Edifício Praia de Geremias - apto 21101 (Matrícula 78.174)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Regularizar, no prazo de 90 (noventa) dias, os débitos que vierem a ser inscritos em dívida ativa ou que se tornarem exigíveis após a formalização do acordo de transação, sob pena de instauração do procedimento de rescisão",
+  "Pagamento mensal das parcelas no valor acordado em cada modalidade",
+  "Permutas ou outras operações comerciais relativas aos ativos do Anexo I devem ter aquiescência da União mediante requerimento administrativo"
+ ],
+ "special_clauses": [
+  "Inclusão de novas inscrições na DAU referentes a débitos já vencidos na data de formalização da transação que estavam no âmbito da RFB, observado o prazo remanescente do plano de pagamento (Cláusula 2ª, com fundamento no inciso V da Cláusula 3ª do Termo original)",
+  "Substituição de bens imóveis constantes do Anexo I (Cláusula 3ª): exclusão de Edifício Natália - apto 601 e Edifício Praia de Itaunas - apto 1601; inclusão de quatro novos imóveis (Praia de Gameleira aptos 301, 201, 203 e Praia de Geremias apto 21101)",
+  "Manutenção do prazo já acordado de duração da transação, com os novos débitos incluídos seguindo os meses remanescentes do parcelamento original (Cláusula 4ª, Parágrafo Primeiro)",
+  "Formalização de novas contas SISPAR (modalidade DEMAIS DÉBITOS e PREV) para os débitos não previdenciários e previdenciários incluídos, mantendo as mesmas condições de desconto e prazo restante (Cláusula 4ª, Parágrafo Segundo)"
+ ],
+ "sector": "Imobiliário/Construção Civil",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.8,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "approval_date": "Recife, 28 de março de 2025.",
+  "clauses_especiais_transacao_original": "CONSIDERANDO a Transação Individual celebrada, em 14 de março de 2024, FIRMAM o presente ADITIVO À TRANSAÇÃO INDIVIDUAL"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "1a853de7ade9",
+ "title": "Termo de Transação Individual - Tenório Empreendimentos Imobiliários SA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualTenrioEmpreendimentosImobiliriosSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualTenrioEmpreendimentosImobiliriosSATarjado.pdf",
+ "sha256": "664f4cc308860cc7aa11debcd1c4a979d675dccc95ebb2420ba343365faf6fbf",
+ "extracted_at": "2026-07-22T14:35:18+00:00",
+ "simulated": false
+}

@@ -1,0 +1,70 @@
+{
+ "taxpayer": "VALE NORTE CONSTRUTORA LTDA.",
+ "approval_date": "2022-04-28",
+ "consolidated_amount": 52047408.09,
+ "modality": "Transação Individual (Portaria PGFN nº 9.917/2020) - Plano de Regularização Fiscal",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienar bens ou direitos sem prévia comunicação à Fazenda Nacional",
+  "Não utilizar ou reconhecer utilização de pessoa natural ou jurídica interposta para ocultar/dissimular origem ou destinação de bens, direitos e valores",
+  "Apresentar demonstrações contábeis (balanço patrimonial, demonstração de resultados acumulados, demonstração do resultado desde o último exercício social, relatório gerencial de fluxo de caixa) no ato da assinatura",
+  "Manter regularidade das obrigações tributárias correntes",
+  "Cumprir obrigações acessórias dependentes da obrigação principal",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil apurado ou quando a PGFN reputar oportuno",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo de transação individual",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relacionados aos débitos incluídos"
+ ],
+ "special_clauses": [
+  "Transação individual firmada no âmbito de processo de recuperação judicial (RJ nº 0002337-59.2021.8.17.2610, 4ª Vara Cível de Recife), com anuência do administrador judicial",
+  "Confissão irrevogável e irretratável da dívida, com efeitos de interrupção/suspensão do prazo prescricional a cada pagamento (art. 174, parágrafo único, IV, CTN)",
+  "Formalização de 2 contas independentes de transação: uma para débitos previdenciários (até 60 meses) e outra para demais débitos (até 84 meses)",
+  "Parcela mínima de R$ 500,00 para qualquer modalidade",
+  "Desconto máximo de até 50%, não implicando redução do montante principal do crédito inscrito em dívida ativa"
+ ],
+ "sector": "Construção civil",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.2,
+  "guarantees": 0.5,
+  "judicial_recovery": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$ 52.047.408,09",
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 50% (cinquenta por cento), não implicando, a negociação, a redução do montante principal do crédito inscrito em dívida ativa da União",
+  "installments": "para pagamento no prazo de até 84 (oitenta e quatro) meses, da dívida não-previdenciária, e no prazo de até 60 (sessenta meses), da dívida previdenciária"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees"
+ ],
+ "id": "ed0ddb9b813d",
+ "title": "Termo de Transação Individual - Vale Norte Construtora LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/copy2_of_TermodeTransaoIndividualValeNorteConstrutoraLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/copy2_of_TermodeTransaoIndividualValeNorteConstrutoraLTDAtarjado.pdf",
+ "sha256": "8d79970c889d46008b013462e6514385292fa5ab6ef2bc1fc9acb8e99e2c2846",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

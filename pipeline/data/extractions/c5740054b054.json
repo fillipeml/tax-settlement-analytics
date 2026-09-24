@@ -1,0 +1,74 @@
+{
+ "taxpayer": "POLIPRINT INDUSTRIA E COMERCIO DE EMBALAGENS PLASTICAS LTDA e ST FLEX EMBALAGENS FLEXIVEIS - EIRELI",
+ "approval_date": "2023-08-14",
+ "consolidated_amount": 106183010.97,
+ "modality": "Transação Individual",
+ "total_discount_pct": 95.55,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 65.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens, direitos e valores",
+  "Declarar que não alienou ou onerou bens ou direitos com propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa ou se tornarem exigíveis após a Transação",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da Transação e desistir de impugnações/recursos/ações"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor de R$ 46.082.507,65 para amortização do saldo devedor após aplicação dos descontos",
+  "Cobrança do saldo liquidado com uso de créditos de PF/BCN suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de 5 anos",
+  "Direcionamento de eventuais créditos de precatório ou depósito judicial para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Indústria de embalagens plásticas",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.3,
+  "installments": 0.9,
+  "discounts.charges_pct": 0.9,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "guarantees": 0.3,
+  "obligations": 0.85,
+  "judicial_recovery": 0.2,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total R$ 106.183.010,97",
+  "total_discount_pct": "Redução DW 95,55%",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada — Demais Débitos\" em 120 (cento e vinte) prestações mensais, escalonadas na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "c5740054b054",
+ "title": "Termo de Transação Individual - Poliprint Indústria e Comércio de Embalagens Plasticas LTDA,  ST Flex Embalagens Flexiveis – EIRELI",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualPoliprintIndstriaeComrciodeEmbalagensPlasticasLTDASTFlexEmbalagensFlexiveisEIRELI.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualPoliprintIndstriaeComrciodeEmbalagensPlasticasLTDASTFlexEmbalagensFlexiveisEIRELI.pdf",
+ "sha256": "439f7b952d088f647d9ed10f54ef7eeba4bcf322ef03b62bf6b001f0db4f02ac",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

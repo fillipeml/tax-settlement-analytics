@@ -1,0 +1,79 @@
+{
+ "taxpayer": "ENFIL SA CONTROLE AMBIENTAL - EM RECUPERACAO JUDICIAL e CALCAR CONSTRUÇÕES LTDA - EM RECUPERACAO JUDICIAL",
+ "approval_date": "2022-06-16",
+ "consolidated_amount": 51145868.54,
+ "modality": "Transação individual (recuperação judicial)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Terreno em São Roque/SP",
+  "Conjunto comercial na cidade de São Paulo/SP"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens, direitos e valores",
+  "Declarar que não alienaram ou oneraram bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após a formalização da transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Formalizar as hipotecas nos respectivos registros de imóveis no prazo de 30 dias",
+  "Peticionar nos processos judiciais em até 60 dias após a assinatura para noticiar a transação e desistir de recursos/ações",
+  "Peticionar nos processos administrativos do Anexo III em até 30 dias para desistência de recursos"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação de bens imóveis dados em garantia mediante prévia anuência da Fazenda Nacional (cláusula 4)",
+  "Débitos do Anexo III serão incluídos na conta de transação assim que inscritos em dívida ativa, gerando saldo devedor a ser quitado em 30 dias (Parágrafo Terceiro, cláusula 1.2)",
+  "Baixa da alienação fiduciária averbada sobre o imóvel de São Paulo/SP como condição da hipoteca"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.9,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "DEMAIS DÉBITOS: Valor Total R$ 51.145.868,54 (soma de DEMAIS DÉBITOS ENFIL R$ 47.944.156,55 + DEMAIS DÉBITOS CALCAR R$ 3.201.711,99); PREVIDENCIÁRIOS Valor Total R$ 272.531,88 (Anexo V)",
+  "total_discount_pct": "Desconto máximo de 70% (setenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos); ... COM DESÁGIO MÁXIMO (70% DA DÍVIDA OU PISO DO VALOR DO PRINCIPAL) Deságio Efetivo (%) DEMAIS DÉBITOS 54,63% PREVIDENCIÁRIOS 35,79%",
+  "installments": "O prazo máximo previsto para pagamento será de 120 (cento e vinte) meses para a Dívida Transacionada - Demais Débitos e de 60 (sessenta) meses para a Dívida Transacionada - Previdenciária"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "consolidated_amount"
+ ],
+ "id": "ca900e0012ff",
+ "title": "Termo de Transação Individual - ENFIL SA CONTROLE AMBIENTAL",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualENFILSACONTROLEAMBIENTALInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualENFILSACONTROLEAMBIENTALInformaesSigilosasSuprimidas.pdf",
+ "sha256": "3a0eef25a83656f70463e69dde672623048ff98ff7cf60f023dcc220e8d4c2b5",
+ "extracted_at": "2026-07-22T14:22:40+00:00",
+ "simulated": false
+}

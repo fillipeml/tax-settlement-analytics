@@ -1,0 +1,83 @@
+{
+ "taxpayer": "INDÚSTRIA DE BEBIDAS REUNIDAS TATUZINHO 3 FAZENDAS LTDA (corresponsável: AGRICOLA ALMEIDA LTDA)",
+ "approval_date": "2024-06-28",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 114,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis listados no Anexo IV",
+  "Manutenção automática das penhoras existentes"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações administrativas ou judiciais relativas à Dívida Transacionada",
+  "Confissão irrevogável e irretratável da dívida",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens",
+  "Autorizar compensação de restituições/ressarcimentos e precatórios",
+  "Aderir e manter o Domicílio Tributário Eletrônico (DTE)",
+  "Manter regularidade fiscal perante a RFB",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Regularizar em 90 dias as inscrições 80 2 11 052705-19, 80 3 12 000083-60 e 80 6 12 001090-95",
+  "Não alienar bens que possam reduzir a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se optante pelo regime do lucro real durante a vigência do acordo",
+  "Manter por 5 anos livros e documentos comprobatórios de prejuízo fiscal e base negativa de CSLL",
+  "Realizar comunicações via REGULARIZE",
+  "Formalizar penhora dos imóveis do Anexo IV em 30 dias"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL, limitada a 70% do saldo após descontos",
+  "Desconto máximo de 65% incidente sobre a Dívida Transacionada, vedada redução do principal, aplicado proporcionalmente sobre multa, juros e encargos",
+  "Valores bloqueados em execuções fiscais nºs 0011742-35.2009.8.26.0510 e 0011512-81.1995.8.26.0510 destinados ao pagamento da 3ª prestação, com percentual fixado conforme valor histórico dos bloqueios (valor tarjado)",
+  "Alienação dos imóveis dados em garantia condicionada à inclusão da Fazenda Nacional como interveniente anuente, com uso do sistema COMPREI"
+ ],
+ "sector": "Bebidas/Agronegócio",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.3,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\" - Anexo III) em 114 (cento e quatorze) prestações, iguais e sucessivas, com exceção da terceira prestação",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a Dívida Transacionada, vedada a redução do montante principal sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "sector",
+  "judicial_recovery",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "489d27ce795c",
+ "title": "Termo de Transação Individual - Indústria de Bebidas Reunidas Tatuzinho 3 Fazendas LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransacaoIndividualIndstriadeBebidasReunidasTatuzinho3FazendasLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransacaoIndividualIndstriadeBebidasReunidasTatuzinho3FazendasLTDAtarjado.pdf",
+ "sha256": "aa0541547dfed509ca122715ac7a9c2f57e68b9d8ab940c4371e1d67d5464108",
+ "extracted_at": "2026-07-22T14:22:34+00:00",
+ "simulated": false
+}

@@ -1,0 +1,60 @@
+{
+ "taxpayer": "COTRAMOL - COOPERATIVA DOS TRANSPORTADORES DE CARGA DO MEIO OESTE CATARINENSE",
+ "approval_date": "Not identified",
+ "consolidated_amount": 52417034.87,
+ "modality": "Transação Individual",
+ "total_discount_pct": 43.32,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Imóveis (matrículas nº. 11.172, nº. 22.497 e nº. 24.491 do CRI do 1º Ofício de Imóveis da Comarca de Joaçaba/SC)",
+  "Mantém eventuais garantias existentes"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [
+  "Parcelas escalonadas",
+  "Manutenção de garantias existentes"
+ ],
+ "sector": "Transporte de cargas",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.6,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.0,
+  "special_clauses": 0.7,
+  "judicial_recovery": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "DÍVIDA TRANSACIONADA - PGFN ... TOTAL R$ 52.417.034,87",
+  "total_discount_pct": "DESCONTO EFETIVO MÉDIO - PGFN ... TOTAL 43,32%",
+  "installments": "NÚMERO DE PARCELAS - PGFN ... Previdenciária 60 | Demais Débitos 145"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "installments",
+  "discounts",
+  "obligations"
+ ],
+ "id": "1890f4e20b48",
+ "title": "Sumário - Cotramol Cooperativa dos Transportadores de Carga do Meio Oeste Catarinense",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/SumrioCotramolCooperativadosTransportadoresdeCargadoMeioOesteCatarinense.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/SumrioCotramolCooperativadosTransportadoresdeCargadoMeioOesteCatarinense.pdf",
+ "sha256": "36d4629e1f2c07bc479522718f494dc7e2f3eb7e4ac527fce7968a3ddedcfca5",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

@@ -1,0 +1,72 @@
+{
+ "taxpayer": "EMPRESA DE TRANSPORTE COLETIVO DE DIADEMA - ETCD - EM LIQUIDAÇÃO",
+ "approval_date": "2023-12-06",
+ "consolidated_amount": 8648938.48,
+ "modality": "Transação Individual (FGTS)",
+ "total_discount_pct": 30.88,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 30.88
+ },
+ "installments": 80,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Município de Diadema/SP, na condição de sucessor, arcará com os pagamentos das parcelas e sucederá a ETCD nas execuções dos créditos de FGTS",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em execução fiscal"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações à PGFN",
+  "Não utilizar a Transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens",
+  "Declarar não ter alienado bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais e fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos supervenientes",
+  "Comunicar alienação de bens que possam reduzir capacidade de pagamento",
+  "Individualizar valores recolhidos nas contas vinculadas dos trabalhadores",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir de ações/recursos"
+ ],
+ "special_clauses": [
+  "Vedada a redução de valores devidos aos trabalhadores, mesmo com desconto sobre encargos/juros/multa",
+  "Município de Diadema sucede a ETCD nas execuções e garante o pagamento das parcelas",
+  "Eventuais créditos por precatório ou depósito judicial devem ser direcionados ao pagamento da dívida transacionada"
+ ],
+ "sector": "Transporte público/coletivo",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.9,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "installments": 1.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.9,
+  "guarantees": 0.9,
+  "obligations": 0.95,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85,
+  "approval_date": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Total: 8.648.938,48",
+  "total_discount_pct": "Desconto máximo de 30,88% (trinta, oitenta e oito por cento) a cada uma das CDAs, vedada a redução de valores devidos aos trabalhadores",
+  "installments": "O saldo devido parcelado em até 80 (oitenta) meses para liquidação do montante devido aos trabalhadores"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "977cc7279687",
+ "title": "Termo de Transação Individual - Empresa de Transporte Coletivo de Diadema",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualEmpresadeTransporteColetivodeDiademaInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualEmpresadeTransporteColetivodeDiademaInformaesSigilosasSuprimidas.pdf",
+ "sha256": "b8cff151e1580434ddfcab6684c340a62791ff650e40c36df9e94cf594bdbf19",
+ "extracted_at": "2026-07-22T14:22:40+00:00",
+ "simulated": false
+}

@@ -1,0 +1,81 @@
+{
+ "taxpayer": "TRANSJORI TRANSPORTES LTDA",
+ "approval_date": "2023-01-24",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (modalidades DEMAIS e PREV)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": 6.0,
+ "guarantees": [
+  "Imóvel objeto das matrículas nº [tarjado] junto ao 1º Registro de Imóveis de Guarulhos-SP",
+  "44 veículos penhorados judicialmente nas Execuções Fiscais nº 501076646.2021.4.03.6119 e 5002923-93.2022.4.03.6119",
+  "Manutenção dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal ou outra ação judicial"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Regularização da situação fiscal perante a PGFN",
+  "Oferecimento e formalização de garantias no prazo de 45 dias",
+  "Desistência de impugnações, PRDIs e recursos/ações judiciais",
+  "Peticionamento em até 60 dias nos processos judiciais para noticiar a celebração da transação",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar o pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Solicitar à RFB em até 30 dias a inscrição em DAU dos débitos do Anexo II",
+  "Comunicar à Fazenda Nacional a efetivação da inscrição em DAU dos débitos do Anexo II",
+  "Recolher até o último dia útil do mês da consolidação os valores das prestações vencidas do Anexo II",
+  "Manter por 5 anos livros e documentos fiscais, incluindo comprovação de prejuízo fiscal e base negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor após aplicação dos descontos (valor tarjado)",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL negativa ficará suspensa até confirmação pela autoridade competente, em até 5 anos",
+  "Créditos de precatório ou depósito judicial perante a União deverão ser direcionados para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Transportes",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.9,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.5,
+  "obligations": 0.85,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Na modalidade DEMAIS, desconto máximo de até 65% (sessenta e cinco por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "down_payment_pct": "Entrada de 6% da dívida sem descontos e parcelamento do saldo devido em até 108 (cento e oito) prestações mensais e sucessivas",
+  "installments": "Entrada de 6% da dívida sem descontos e parcelamento do saldo devido em até 108 (cento e oito) prestações mensais e sucessivas, conforme Anexo III, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "judicial_recovery",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "special_clauses"
+ ],
+ "id": "fca45bfceacb",
+ "title": "Termo de Transação Individual - Transjori Transportes",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TarjadoTermodeTransaoIndividualUnioFazendaNacional.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TarjadoTermodeTransaoIndividualUnioFazendaNacional.pdf",
+ "sha256": "7e5ef01edca06622050c5c5119d3d37c0f22870146581ec4512eae16e8ac1383",
+ "extracted_at": "2026-07-22T14:22:33+00:00",
+ "simulated": false
+}

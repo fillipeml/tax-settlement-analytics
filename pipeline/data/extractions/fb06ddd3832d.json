@@ -1,0 +1,72 @@
+{
+ "taxpayer": "ONDUNORTE CIA DE PAPEIS E PAPELAO ONDULADO DO NORTE EM RECUPERACAO JUDICIAL; CIPER – CIA DE PAPEIS E EMBALAGENS DO RECIFE EM RECUPERACAO JUDICIAL; CICP – COMPANHIA INDUSTRIAL DE CELULOSE E PAPEL EM RECUPERACAO JUDICIAL",
+ "approval_date": "2022-01-17",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienar bens ou direitos sem proceder à devida comunicação à Fazenda Nacional",
+  "Não utilizar ou reconhecer a utilização de pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores",
+  "Não ter alienado, onerado ou ocultado bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Fornecer demonstrações contábeis dos 3 últimos exercícios sociais e as levantadas especialmente para instruir o pedido",
+  "Fornecer relação nominal completa dos credores, natureza, classificação e valor atualizado do crédito",
+  "Fornecer relação de bens e direitos de propriedade do requerente com laudo econômico-financeiro e avaliação dos bens e ativos",
+  "Apresentar exposição de que o plano de recuperação observa as obrigações, exigências e concessões previstas na Portaria",
+  "Desistir das impugnações ou dos recursos administrativos e das ações judiciais relacionadas aos débitos",
+  "Peticionar nos processos judiciais no prazo de 90 dias noticiando a celebração do acordo",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil apurado",
+  "Recolher obrigações tributárias correntes e obrigações acessórias dependentes da obrigação principal"
+ ],
+ "special_clauses": [
+  "Transação da dívida de FGTS a ser formalizada junto à CAIXA ECONOMICA FEDERAL, mediante intermediação da PGFN, com necessidade de pagamento à vista da parcela do valor rescisório dos trabalhadores",
+  "Serão formalizadas contas independentes de transação para cada empresa",
+  "Cláusula 12: sobrevindo parcelamento com regras e/ou descontos mais benéficos, fica assegurado aos DEVEDORES a faculdade de incluir os débitos transacionados no programa incentivado, extinguindo-se a presente transação sem ônus para os DEVEDORES",
+  "Negócio Jurídico Processual constante do ANEXO III abrangendo demais inscrições exigíveis ou sem garantia"
+ ],
+ "sector": "Indústria de papel e celulose/embalagens",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.3,
+  "obligations": 0.8,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "total_discount_pct": "para pagamento, no prazo de 120 (cento e vinte) meses, da dívida fiscal não-previdenciária, com aproveitamento do desconto máximo de até 70% (setenta por cento), face ao seu estado de recuperação judicial",
+  "installments": "no prazo de 120 (cento e vinte) meses, da dívida fiscal não-previdenciária"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "sector"
+ ],
+ "id": "fb06ddd3832d",
+ "title": "Termo de Transação Individual - Grupo Ondunorte",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualGrupoOndunorte2022PRFN5InformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualGrupoOndunorte2022PRFN5InformaesSigilosasSuprimidas.pdf",
+ "sha256": "6d6ceb166da6f8fe381331c538d8af2c1763cd534d0716b66bece3f8f74da356",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

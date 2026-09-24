@@ -1,0 +1,60 @@
+{
+ "taxpayer": "INTERACTV SERVICOS LIMITADA - 04.260.611/0001-20",
+ "approval_date": "Not identified",
+ "consolidated_amount": 12027976.79,
+ "modality": "Transação individual",
+ "total_discount_pct": 57.88,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Imóveis",
+  "Fidejussória"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.0,
+  "modality": 0.8,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.6,
+  "down_payment_pct": 0.9,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.0,
+  "special_clauses": 0.0,
+  "judicial_recovery": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada Total: R$ 12.027.976,79",
+  "total_discount_pct": "Desconto efetivo médio Total: 57,88%",
+  "installments": "Número de parcelas: Previdenciária: 60 / Demais débitos: 120 / Simples Nacional: 120"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "b7ad5cafcb68",
+ "title": "Sumário - Interactv Serviços LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioInteractvServiosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioInteractvServiosLTDA.pdf",
+ "sha256": "78ea57f81ef2268919cadb8763c541a58563f4a019f58208c90dd693ecdff945",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

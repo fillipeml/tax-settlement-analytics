@@ -1,0 +1,75 @@
+{
+ "taxpayer": "NASCIMENTO PREMOLDADOS LTDA",
+ "approval_date": "2023-05-26",
+ "consolidated_amount": 38117916.73,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Garantia fidejussória (fiança) - LEANDRO SILVA NASCIMENTO como devedor solidário"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/valores",
+  "Declarar que não alienou/onerou bens para frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens/direitos que possam inviabilizar o cumprimento da transação sem comunicação prévia",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Transação vinculada ao cumprimento do plano de recuperação judicial (processo 5029606-82.2021.8.08.0024)",
+  "Possibilidade de inclusão de novos débitos inscritos em até 90 dias com aplicação do desconto máximo ofertado",
+  "Escalonamento progressivo das prestações conforme Tabelas 2 e 3",
+  "Direcionamento de eventuais créditos (precatórios, depósitos judiciais) para amortização dos saldos devedores da transação"
+ ],
+ "sector": "Construção civil/premoldados",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "judicial_recovery": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Demais Débitos R$29.594.107,00 / Débitos Previdenciários R$8.523.809,73",
+  "total_discount_pct": "2.1.1. Desconto máximo de até 70% (setenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "2.1.2. Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais;"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "3f6034c797aa",
+ "title": "Termo de Transação Individual -  Nascimento Premoldados LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualNascimentoPremoldadosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualNascimentoPremoldadosLTDATarjado.pdf",
+ "sha256": "0cb5c97acbdfc96d8702d570965fd8b5b4233ea5a21161a391fb7a04c2418b2c",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

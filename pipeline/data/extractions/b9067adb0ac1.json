@@ -1,0 +1,77 @@
+{
+ "taxpayer": "FAM DA AMAZONIA INDUSTRIA E COMERCIO DE AR-CONDICIONADO LTDA (FRIOTERM DA AMAZONIA INDUSTRIA E COMERCIO LTDA)",
+ "approval_date": "2023-10-10",
+ "consolidated_amount": 11878004.59,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel denominado 'Planta industrial, localizada na Rua Balata, 390 – D. Industrial – Manaus/AM', já ofertada à penhora nos autos nº 1026535-15.2022.4.01.3200; com penhora no rosto dos autos nº 1023128-98.2022.4.01.3200"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessa, de forma irrevogável e irretratável, os débitos relacionados no ANEXO I",
+  "Renuncia expressamente a quaisquer alegações de direito, atuais ou futuras, sobre as ações judiciais",
+  "Assume o compromisso de manter a regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Obriga-se a regularizar os novos débitos inscritos em dívida ativa após a assinatura da transação, no prazo máximo de 90 dias",
+  "Responsabiliza-se por manter as garantias oferecidas até o integral cumprimento das condições previstas na transação",
+  "Assume a obrigação de informar previamente à PGFN a alienação e/ou disposição de bens e direitos",
+  "Obriga-se a utilizar créditos líquidos, certos e exigíveis como reforço do plano de amortização",
+  "Obriga-se a fornecer informações sobre bens, direitos, valores, transações e operações",
+  "Anui com eventual modificação da competência relativa para reunião de processos",
+  "Obriga-se a não utilizar a transação de forma abusiva",
+  "Obriga-se a não utilizar pessoa natural ou jurídica interposta para ocultar bens",
+  "Declara que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Declara não possuir precatório federal ou outros créditos líquidos e certos em desfavor da União",
+  "Autoriza compensação de valores de precatórios federais"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e de base de cálculo negativa da CSLL, limitado a 70% do saldo remanescente após incidência dos descontos",
+  "Desconto máximo possível de até 65%, vedada a incidência sobre o principal do débito, por serem as dívidas consideradas irrecuperáveis pela PGFN em razão da capacidade de pagamento da devedora"
+ ],
+ "sector": "Industrial (fabricação/comércio de ar-condicionado)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal do DEVEDOR inscrito em dívida ativa da União, parte desta transação, é composto por todos os seus créditos fiscais relacionados no ANEXO I, que totalizam R$ 11.878.004,59, atualizado no mês de outubro de 2023",
+  "total_discount_pct": "a presente transação envolve concessão do desconto máximo possível de até 65% (sessenta e cinco por cento), vedada a incidência sobre o principal do débito, uma vez que as dívidas são consideradas irrecuperáveis pela PGFN",
+  "installments": "II – Prazo de pagamento de 60 (sessenta) meses para dívida previdenciária e 120 (cento e vinte) meses para dívida não previdenciária"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "b9067adb0ac1",
+ "title": "Termo de Transação Individual - FAM da Amazônia Indústria e Comércio de Ar-condicionado LTDA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualFAMdaAmazniaIndstriaeComrciodeArcondicionadoLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualFAMdaAmazniaIndstriaeComrciodeArcondicionadoLTDAtarjado.pdf",
+ "sha256": "3f1552389f7b4ccb41300a9d2643d88cac6ee2745495319fdb3757828771ac6d",
+ "extracted_at": "2026-07-22T14:22:22+00:00",
+ "simulated": false
+}

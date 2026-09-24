@@ -1,0 +1,74 @@
+{
+ "taxpayer": "KARNE KEIJO – LOGÍSTICA INTEGRADA LTDA – EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2021-05-26",
+ "consolidated_amount": 40297150.74,
+ "modality": "Transação Individual",
+ "total_discount_pct": 66.84,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": 0.334,
+ "guarantees": [
+  "Garantias já existentes nas respectivas execuções fiscais (mantidas pelo devedor)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Renunciar a alegações de direito sobre as quais se fundem ações judiciais relacionadas aos créditos incluídos",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após o acordo",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais prestadas",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de bens do ativo não circulante",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo",
+  "Pagar honorários advocatícios de R$ 16.211,77 (atualizados até maio/2021) em até 12 prestações mensais, referentes à Ação Anulatória nº 0004490-26.2016.4.01.3400"
+ ],
+ "special_clauses": [
+  "§3º da Cláusula 1ª: inclusão dos honorários da Ação Anulatória nº 0004490-26.2016.4.01.3400 no acordo, com pagamento de R$ 16.211,77 (atualizado até maio/2021) em até 12 prestações mensais, com atualização SELIC por parcela",
+  "Cláusula 5ª: entrada de 0,334% do valor consolidado em 12 meses e restante com redução de até 100% de juros, multas e encargos, limitado a 70% sobre o valor total de cada crédito, em até 108 parcelas mensais"
+ ],
+ "sector": "Logística",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$ 40.297.150,74",
+  "total_discount_pct": "66,84%",
+  "installments": "em até 108 (cento e oito) parcelas mensais e sucessivas",
+  "down_payment_pct": "de valor mensal equivalente a 0,334% (trezentos e trinta e quatro centésimos por cento) do valor consolidado dos créditos transacionados, durante 12 (doze) meses"
+ },
+ "review_fields": [
+  "sector",
+  "guarantees",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "a467c37636cc",
+ "title": "Termo de Transação Individual - KARNE KEIJO",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-karne-keijo-x.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-karne-keijo-x.pdf",
+ "sha256": "c84b036d5f327bcae858f4a5011055972873941e359da12a007546abcd0794b9",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

@@ -1,0 +1,84 @@
+{
+ "taxpayer": "STEVIAFARMA INDUSTRIAL S.A.",
+ "approval_date": "2025-05-09",
+ "consolidated_amount": 56968676.55,
+ "modality": "Transação Individual",
+ "total_discount_pct": 41.95,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel registrado sob matrícula nº 1.560 do 4º Serviço de Registro de Imóveis de Maringá-PR",
+  "Imóvel registrado sob matrícula nº 2.537 do 4º Serviço de Registro de Imóveis de Maringá-PR",
+  "Manutenção de indisponibilidades/penhoras/bloqueios existentes"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva para limitar ou falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/valores",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação de créditos",
+  "Cumprir exigências da Portaria PGFN 6.757/22 e da proposta",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando débitos supervenientes em até 90 dias",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Autorizar compensação de precatórios federais com prestações do acordo",
+  "Manter-se no regime de tributação pelo lucro real durante toda a negociação (por utilizar créditos de prejuízo fiscal/CSLL)",
+  "Não desistir unilateralmente do acordo",
+  "Apresentar demonstrações de resultado quando solicitado pela PGFN",
+  "Quitar custas processuais pendentes e despesas de cancelamento de leilões",
+  "Substituir/reforçar garantia em caso de depreciação superior a 20%",
+  "Peticionar desistência de impugnações/recursos/ações judiciais em até 30 dias",
+  "Adimplir emolumentos de protesto cartorário eventual"
+ ],
+ "special_clauses": [
+  "Liquidação parcial do saldo remanescente com créditos de prejuízo fiscal e base de cálculo negativa de CSLL, limitada a 70% conforme art. 35 da Portaria PGFN 6.757/2022",
+  "Escalonamento de prestações crescentes (de 0,5% a 5,3% para conta PREV em 60 parcelas; de 0,333% a 0,108% para conta DEMAIS em 120 parcelas)",
+  "Manutenção de garantias existentes mesmo em caso de rescisão",
+  "Capacidade de pagamento da devedora classificada como 'D'"
+ ],
+ "sector": "Indústria farmacêutica",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.7,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Sobre as inscrições indicadas no Anexo 1 (Débitos Previdenciários), que totalizam, em abril/2025, R$ 33.593.300,48 ... Sobre as inscrições indicadas no Anexo III (Demais Débitos) que totalizam, em abril/2025, o montante de R$ 23.375.376,07",
+  "total_discount_pct": "incidirá o desconto médio de 41,91%... será aplicado o desconto médio de 41,98%",
+  "installments": "CONTA PREV (ANEXO III): 60 PARCELAS MENSAIS ... CONTA DEMAIS (ANEXO IV): 120 PARCELAS MENSAIS"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "installments",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "618c2e6f573d",
+ "title": "Termo de Transação Individual - Steviafarma Industrial S.A",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualSteviafarmaIndustrialS.A.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualSteviafarmaIndustrialS.A.pdf",
+ "sha256": "a1a8756f67e6c2c2d849db3c48eca28fa538f4907f596b383bba621c004bd050",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

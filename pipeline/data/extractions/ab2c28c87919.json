@@ -1,0 +1,74 @@
+{
+ "taxpayer": "AVOA TRANSPORTES LTDA e AUTO DE VIAÇÃO OURINHOS ASSIS LTDA (em recuperação judicial)",
+ "approval_date": "2023-06-15",
+ "consolidated_amount": null,
+ "modality": "Transação individual (recuperação judicial - modalidades DEMAIS e PREV)",
+ "total_discount_pct": 30.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": 4.0,
+ "guarantees": [
+  "Imóvel matriculado sob o nº 8.034 (CRI de Cândido Mota/SP), de propriedade de AUTO DE VIAÇÃO OURINHOS ASSIS LTDA, avaliado em R$ 1.660.635,00",
+  "Imóvel matriculado sob o nº 24.254 no CRI de Paraguaçu Paulista, de propriedade da AVOA TRANSPORTES LTDA, avaliado em R$ 2.980.028,00"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam reduzir a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular e em dia com as Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos exigidos pelas normas fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de R$ 7.128.363,47 a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor da conta previdenciária",
+  "Possibilidade de alienação dos imóveis dados em garantia mediante prévia anuência da Fazenda Nacional, com uso do sistema COMPREI",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal fica suspensa até confirmação pela autoridade competente"
+ ],
+ "sector": "Transporte",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.6,
+  "down_payment_pct": 0.95,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Nas modalidades DEMAIS e PREV, desconto de 30% (trinta por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "down_payment_pct": "Pagamento de entrada de 4% (quatro por cento) sobre o valor consolidado dos débitos negociados, sem desconto, a ser parcelado em 12 meses",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 108 (cento e oito) prestações mensais e sucessivas, conforme Anexo II"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "ab2c28c87919",
+ "title": "Termo de Transação Individual - Avoa Transportes",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAvoaTransportesLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualAvoaTransportesLTDA.pdf",
+ "sha256": "afb64373ffbd0914e32d0fdf9af0f0ec2c76d71703061a3191f616b954f00443",
+ "extracted_at": "2026-07-22T14:22:36+00:00",
+ "simulated": false
+}

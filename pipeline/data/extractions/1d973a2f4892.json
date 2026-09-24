@@ -1,0 +1,55 @@
+{
+ "taxpayer": "AUGUSTA OFFSHORE BRASILEIRA LTDA",
+ "approval_date": "Not identified",
+ "consolidated_amount": 49371861.77,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [
+  "Parcelas escalonadas",
+  "Contribuinte possuía DARFs pagos e não alocados a nenhuma dívida perante a PGFN, que foram objeto de REDARF e incidiram na inscrição n. 70 6 10 001480-59, antes da aplicação de descontos"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.9,
+  "approval_date": 0.1,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.3,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.9,
+  "obligations": 0.2,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL R$ 49.371.861,77 - Demais Débitos R$ 49.371.861,77",
+  "total_discount_pct": "TOTAL 65% - Demais Débitos 65%",
+  "installments": "Demais Débitos 36"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "down_payment_pct",
+  "obligations"
+ ],
+ "id": "1d973a2f4892",
+ "title": "Sumário - Augusta Offshore Brasileira LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/SumrioAugustaOffshoreBrasileiraLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/SumrioAugustaOffshoreBrasileiraLTDA.pdf",
+ "sha256": "235cc27172c81f8bb74afc55f455430da862f46dddcc06d2f11fef331f5dac11",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

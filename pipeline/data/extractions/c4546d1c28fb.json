@@ -1,0 +1,74 @@
+{
+ "taxpayer": "OI S.A.",
+ "approval_date": "2023-01-06",
+ "consolidated_amount": 863333059.23,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Gravame registrado no INPI incidente sobre a marca OI FIBRA, avaliada em R$ 475.000.000,00 em 24/08/2021"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Compromisso de, no prazo máximo de 90 dias, pagar, parcelar, garantir ou obter decisão que suspenda a exigibilidade de novos débitos inscritos em Dívida Ativa da União após a formalização do acordo",
+  "Compromisso de manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Autorização da DEVEDORA de acesso pela CREDORA às suas declarações e escritas fiscais e informações sobre movimentação financeira",
+  "Não alienar bens ou direitos do sujeito passivo ou do responsável tributário durante o cumprimento do acordo sem comunicação à Fazenda Nacional",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva",
+  "Não utilizar pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Regularizar, no prazo de 90 dias, as dívidas com o FGTS, mantendo a regularidade durante todo o período da transação"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para liquidação de 30% do saldo remanescente das inscrições do Anexo I-A e 50% do Anexo I-B, após incidência dos descontos",
+  "Ressalva de manutenção do requerimento PRDI nº 20200353718, vinculado à inscrição 10 6 20 012580-58, pendente de apreciação pela Receita Federal",
+  "Possibilidade de recálculo do saldo consolidado e parcelas vincendas caso deferido o PRDI nº 20200353718",
+  "Descontos incidem apenas sobre acréscimos legais, não atingindo valor principal ou multas previstas no art. 44 da Lei 9.430/96 e art. 80 §6º da Lei 4.502/64",
+  "Afastada obrigação de comunicação de alienação de bens para alienações previstas no Plano de Recuperação Judicial (processo nº 0203711-65.2016.8.19.0001)"
+ ],
+ "sector": "Telecomunicações",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 0.9,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 1.0,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "A Transação Individual tem como objeto os débitos inscritos em Dívida Ativa da União discriminados no ANEXO I, que totalizam R$ 863.333.059,23 (oitocentos e sessenta e três milhões, trezentos e trinta e três mil, cinquenta e nove reais e vinte e três centavos), referente ao mês de novembro de 2022.",
+  "total_discount_pct": "Descontos máximos legais possíveis de até 70% (setenta por cento) a cada uma das inscrições;",
+  "installments": "Pagamento dos débitos não previdenciários em 120 parcelas iguais, pagas mensalmente."
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "approval_date"
+ ],
+ "id": "c4546d1c28fb",
+ "title": "Termo de Transação Individual - Oi SA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualOiSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualOiSA.pdf",
+ "sha256": "5d163e15444c2193713bb81a3285235908f95790f3406a8bb5dc3ddba94b994a",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

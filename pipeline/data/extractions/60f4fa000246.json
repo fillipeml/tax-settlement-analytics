@@ -1,0 +1,58 @@
+{
+ "taxpayer": "CARRETEIRO ALIMENTOS LTDA (02.892.934/0001-00)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 37205273.19,
+ "modality": "Transação individual",
+ "total_discount_pct": 69.71,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [
+  "Parcelas escalonadas",
+  "Não há exigência de entrada"
+ ],
+ "sector": "Alimentos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "approval_date": 0.0,
+  "modality": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.9,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.0,
+  "judicial_recovery": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada Total: R$ 37.205.273,19",
+  "total_discount_pct": "Desconto efetivo médio Total: 69,71%",
+  "installments": "Número de parcelas ... Demais débitos: 60"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "discounts",
+  "obligations"
+ ],
+ "id": "60f4fa000246",
+ "title": "Termo de Transação Individual - Carreteiro Alimentos LTDA (Sumário)",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualCarreteiroAlimentosLTDASumrio.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualCarreteiroAlimentosLTDASumrio.pdf",
+ "sha256": "48c972fa39e8284bdde09ca576070c2ddad7f32caaa5090aa86f4bc48028e16b",
+ "extracted_at": "2026-07-22T14:22:29+00:00",
+ "simulated": false
+}

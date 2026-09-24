@@ -1,0 +1,71 @@
+{
+ "taxpayer": "COMPANHIA MINUANO DE ALIMENTOS",
+ "approval_date": "2023-09-28",
+ "consolidated_amount": 3950155.59,
+ "modality": "Transação Individual (débitos FGTS)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito e desistir de ações judiciais, impugnações e recursos administrativos relativos aos débitos incluídos",
+  "Manter regularidade fiscal perante a União, inclusive perante o FGTS",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas do FGTS dos respectivos trabalhadores",
+  "Peticionar nos processos judiciais noticiando a celebração da transação e desistindo das ações, no prazo de 30 dias",
+  "Apresentar comprovação do protocolo das petições via sistema Regularize em até 10 dias",
+  "Adimplir emolumentos decorrentes de eventual protesto cartorário das inscrições"
+ ],
+ "special_clauses": [
+  "Cláusula 14: a transação não pode implicar redução do montante dos créditos em percentual maior do que o previsto na cláusula 5, nem renúncia às garantias e privilégios do crédito do Fundo",
+  "Montante devido aos trabalhadores (art. 3º da RCC974/2021) não sofre descontos"
+ ],
+ "sector": "Agroindústria/Alimentos",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.3,
+  "down_payment_pct": 0.2,
+  "installments": 0.5,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "guarantees": 0.5,
+  "judicial_recovery": 0.3,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL 3.950.155,59",
+  "discounts_nota": "* Descontos aproximados de 50% para CS.FGTS e de 32,9% para FGTS.",
+  "payment": "A devedora, nos termos da presente proposta de transação individual, compromete-se a efetuar a regularização das inscrições relacionadas na cláusula 1 mediante pagamento à vista, com desconto que incidirá sobre os juros, multa e encargos, segundo valores constantes no ANEXO I."
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "2c32d7ecea70",
+ "title": "Termo de Transação Individual - Companhia Minuano de Alimentos",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCompanhiaMinuanodeAlimentosTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCompanhiaMinuanodeAlimentosTarjado.pdf",
+ "sha256": "ec7dea7b32f614ea33cc16c0b611d6b860d590970aff091dd1ce8acb851386e4",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

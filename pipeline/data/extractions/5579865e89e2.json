@@ -1,0 +1,81 @@
+{
+ "taxpayer": "CONVENÇÃO DAS IGREJAS EVANGÉLICAS ASSEMBLEIA DE DEUS DE SANTA CATARINA E SUDOESTE DO PARANÁ - CIADESCP",
+ "approval_date": "2024-02-20",
+ "consolidated_amount": 8415396.29,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 59,
+ "down_payment_pct": 12.0,
+ "guarantees": [
+  "Imóveis livres e desembaraçados descritos no Anexo II, avaliados em R$ 66.689.280,00, objeto de penhora nas execuções fiscais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens para frustrar recuperação dos créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações judiciais/recursos relativos aos créditos incluídos",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis",
+  "Peticionar nos processos judiciais em até 60 dias após assinatura, indicando imóveis dados em garantia e desistindo de embargos/exceções",
+  "Providenciar oferecimento e formalização da penhora dos imóveis em até 90 dias"
+ ],
+ "special_clauses": [
+  "Entrada sem desconto de 12% mediante utilização do montante depositado na Execução Fiscal n. 5020455-93.2022.7205, cujo valor em agosto/2023 era R$ 8.415.396,29",
+  "Aplicação de 70% de desconto sobre o saldo remanescente, respeitados os limites do §2º do art. 11 da Lei 13.988/20",
+  "Possibilidade de nomeação da União como procuradora em causa própria em caso de desapropriação dos bens dados em garantia",
+  "Possibilidade de alienação dos imóveis do Anexo III mediante prévia oitiva e concordância da Fazenda Nacional, com destinação do produto ao pagamento do plano",
+  "Alienação por iniciativa particular (art. 880 CPC) ou, após 18 meses, via Sistema COMPREI da PGFN"
+ ],
+ "sector": "Religioso/Entidade evangélica",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.9,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Entrada sem desconto no percentual de 12% do débito mediante utilização do montante depositado na Execução Fiscal n. 5020455-93.2022.7205 cujo valor em agosto/2023 era de R$ 8.415.396,29 (oito milhões, quatrocentos e quinze mil, trezentos e noventa e seis reais e vinte e nove centavos)",
+  "total_discount_pct": "será aplicado o montante de 70% de desconto sobre o saldo, respeitados os limites do §2º do art. 11 da Lei n. 13.988/20",
+  "installments": "o restante do saldo devedor será pago em 59 (cinquenta e nove) amortizações mensais e escalonadas",
+  "down_payment_pct": "Entrada sem desconto no percentual de 12% do débito mediante utilização do montante depositado na Execução Fiscal n. 5020455-93.2022.7205"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "judicial_recovery",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "5579865e89e2",
+ "title": "Termo de Transação Individual - Convenção das Igrejas Evangélicas Assembleia de Deus de Santa Catarina e Sudoeste do Paraná - CIADESCP",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualConvenodasIgrejasEvanglicasAssembleiadeDeusdeSantaCatarinaeSudoestedoParanCIADESCPTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualConvenodasIgrejasEvanglicasAssembleiadeDeusdeSantaCatarinaeSudoestedoParanCIADESCPTarjado.pdf",
+ "sha256": "7a8c88e13c86e99a11a636f984b7cf2444b59dcce36b8eaf5a796586028e5a23",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

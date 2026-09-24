@@ -1,0 +1,77 @@
+{
+ "taxpayer": "GRUPO CBA DIESEL (COMÉRCIO E SERVIÇOS PARA AUTOS BR LTDA e outras 8 empresas relacionadas)",
+ "approval_date": "2023-06-14",
+ "consolidated_amount": 60737746.88,
+ "modality": "Transação Individual",
+ "total_discount_pct": 62.92,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 80,
+ "down_payment_pct": 6.0,
+ "guarantees": [
+  "Faturamento do Grupo CBA Diesel (composto pelas empresas listadas), diante da inexistência de outra garantia suficiente e idônea"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar/falsear/prejudicar a livre concorrência",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienaram ou oneraram bens ou direitos com propósito de frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais prestadas",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens ou direitos que possam inviabilizar/reduzir capacidade de pagamento sem comunicação prévia",
+  "Reconhecer responsabilidade solidária pela totalidade dos débitos transacionados"
+ ],
+ "special_clauses": [
+  "Vedada a redução do montante principal, desconto aplicado apenas sobre acréscimos legais (multa, juros e encargos)",
+  "Responsabilidade solidária entre as empresas do Grupo Econômico, confissão renovada a cada pagamento periódico",
+  "Entrada de R$ 3.700.000,00 composta por conversão em renda de valores bloqueados judicialmente (R$ 2.676.303,77) somada a 4 parcelas complementares (R$ 1.023.696,23), com mecanismo de diluição de diferença caso o valor convertido seja inferior ao previsto"
+ ],
+ "sector": "Comércio/atacado de autopeças (agronegócio/automotivo)",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.85,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 60.737.746,88 (Sessenta milhões, setecentos e trinta e sete mil, setecentos e quarenta e seis reais e oitenta e oito centavos)",
+  "total_discount_pct": "Percentual de desconto médio global aproximado: 62,92%",
+  "installments": "Pagamento em 80 prestações iguais e sucessivas de R$ 264.369,96",
+  "down_payment_pct": "comprometem-se ao pagamento da entrada correspondente a 6% do valor do passivo fiscal consolidado, conforme descriminado na cláusula 2.1.2 e Anexo II"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "8f6146fe7319",
+ "title": "Termo de Transação Individual - CBA Diesel Atacadista de Auto Peças LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCBADieselAtacadistadeAutoPeasLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCBADieselAtacadistadeAutoPeasLTDATarjado.pdf",
+ "sha256": "0165e673ada1262d618ca565c5d0c9f079c8c18ce807367c883cb5fe64866a5f",
+ "extracted_at": "2026-07-22T14:22:36+00:00",
+ "simulated": false
+}

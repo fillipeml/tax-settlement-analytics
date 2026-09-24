@@ -1,0 +1,81 @@
+{
+ "taxpayer": "SINA INDÚSTRIA DE ALIMENTOS LTDA. e outras (grupo econômico SINA/FAS/FAMA e sócios pessoas físicas)",
+ "approval_date": "2025-04-23",
+ "consolidated_amount": null,
+ "modality": "Transação individual (recuperação judicial)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "20% do preço de venda da alienação da UPI Pirapozinho, avaliada em R$ 94.769.000,00 (valor de mercado)",
+  "Direitos creditórios reconhecidos no Processo nº 5016753-57.2020.4.03.6100 (exclusão do ICMS da base de cálculo do PIS/COFINS), avaliados em R$ 13.156.269,17",
+  "Participação de Maria de Fátima Butara Ferreira Abdul Massih, Simon Nemer Ferreira Abdul Massih e Andrea Ferreira Abdul Massih em 28 imóveis listados, avaliados conjuntamente em R$ 20.972.054,74",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações judiciais"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienaram ou oneraram bens com propósito de frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar o pagamento sem comunicação prévia à Fazenda Nacional",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Manter-se optante pelo lucro real durante toda a vigência do acordo",
+  "Formalizar penhora dos bens e direitos em garantia no prazo de 30 dias",
+  "Peticionar nos processos judiciais em até 60 dias para noticiar a transação, desistir e renunciar aos direitos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL: 70% para amortização da Dívida Previdenciária e 47,34% para Demais Débitos, após aplicação dos descontos",
+  "Pagamento de honorários advocatícios de ações anulatórias sentenciadas favoravelmente à União (R$ 4.499.169,93) parcelado em 60 prestações mensais atualizadas pela SELIC",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL suspensa até confirmação pela autoridade competente, dentro do prazo de 5 anos",
+  "Créditos que as Requerentes venham a dispor (precatório, depósito judicial etc.) deverão ser direcionados para amortização do saldo devedor da Transação, ainda que reduza o montante de prejuízo fiscal utilizado",
+  "Anuência com uso do sistema COMPREI para eventual alienação de bens penhorados em execuções fiscais",
+  "Corresponsabilização mútua das Requerentes no sistema da dívida ativa"
+ ],
+ "sector": "Alimentos",
+ "confidence": {
+  "taxpayer": 0.8,
+  "approval_date": 0.9,
+  "modality": 0.9,
+  "sector": 0.6,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais, escalonadas na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "695c02fe8eb6",
+ "title": "Termo de Transação Individual - Sina Indústria de Alimentos LTDA, Faz Empreendimentos e Incorporação LTDA, Sina Industria De Óleos Vegetais LTDA, Fama Indústria e Comércio de Alimentos LTDA, Andrea Ferreira Abdul Assih, Maria de Fatima Butara Ferreira Abdul Massih, Simone Nemer Ferreira Abdul Massih",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSinaIndstriadeAlimentosLTDAFazEmpreendimentoseIncorporaoLTDASinaIndustriaDeleosVegetaisLTDAFamaIndstriaeComrciodeAlimentosLTDAAndreaFerreiraAbdulAssihM.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSinaIndstriadeAlimentosLTDAFazEmpreendimentoseIncorporaoLTDASinaIndustriaDeleosVegetaisLTDAFamaIndstriaeComrciodeAlimentosLTDAAndreaFerreiraAbdulAssihM.pdf",
+ "sha256": "8ced7d5c740e7d7cbae13db4ee1a2ea21c609ba745959d7f217cb729c20e491d",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

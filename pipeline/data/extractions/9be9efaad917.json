@@ -1,0 +1,81 @@
+{
+ "taxpayer": "LUÍS HELENO ROCHA MEDEIROS",
+ "approval_date": "2022-03-06",
+ "consolidated_amount": 20076123.55,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel rural com área de 1.047,304ha, localizado em Serranópolis (GO), com edificações e benfeitorias"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar irrevogável e irretratavelmente o débito",
+  "Renunciar a alegações de direito e questionamentos sobre o débito",
+  "Manter regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Regularizar novos débitos inscritos em dívida ativa no prazo de 90 dias",
+  "Manter a garantia oferecida até integral cumprimento das condições",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos e situação econômica quando solicitado",
+  "Não constituir pessoa jurídica que diminua garantias ou pagamentos",
+  "Anuir com modificação de competência para reunião de processos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais",
+  "Não utilizar a transação de forma abusiva à livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Desistir de impugnações e recursos administrativos/judiciais no prazo de 30 dias",
+  "Apresentar reavaliação particular do imóvel a cada 3 anos",
+  "Atualizar mensalmente a Declaração de Rendimentos no SISPAR"
+ ],
+ "special_clauses": [
+  "Possibilidade de utilização de precatórios federais próprios ou de terceiros para amortização/liquidação do saldo devedor",
+  "Possibilidade de compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Flexibilização das regras para aceitação, avaliação, substituição e liberação de garantias",
+  "Flexibilização das regras para constrição ou alienação de bens",
+  "Substituição de garantia por outros bens, depósito ou seguro-garantia a critério exclusivo da União",
+  "Valor bloqueado cautelarmente na execução fiscal nº1001123-68.2021.4.01.3507 será recolhido via DARF Avulso para amortizar o saldo devedor",
+  "Em caso de rescisão, concordância com uso do modelo Comprei (Portaria PGFN/ME 3.050/2022) para alienação particular do imóvel em garantia",
+  "Regra de parcela mínima vinculada a 1% da receita bruta mensal a partir da 13ª parcela"
+ ],
+ "sector": "Agronegócio",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totaliza R$ 20.076.123,55, atualizado até agosto de 2022",
+  "total_discount_pct": "a presente transação envolve concessão do desconto máximo possível de 70% (setenta por cento), vedada a incidência sobre o principal do débito",
+  "installments": "O prazo para pagamento do débito será de 145 (cento e quarenta e cinco) meses, sendo o plano de amortização composto por prestações mensais"
+ },
+ "review_fields": [
+  "taxpayer",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "9be9efaad917",
+ "title": "Termo de Transação Individual- Empresarial Agrícola Ribeirão LTDA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/copy_of_TermodeTransaoIndividualEmpresarialAgrcolaRibeiroLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/copy_of_TermodeTransaoIndividualEmpresarialAgrcolaRibeiroLTDATarjado.pdf",
+ "sha256": "6b11acd0cdd61fdda3acfaec247574f5ec768dfcc3ae5c516827fef6d49f5917",
+ "extracted_at": "2026-07-22T14:22:25+00:00",
+ "simulated": false
+}

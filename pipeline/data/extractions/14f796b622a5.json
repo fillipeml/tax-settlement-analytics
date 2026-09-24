@@ -1,0 +1,86 @@
+{
+ "taxpayer": "CENTRAL COMERCIAL E IMPORTADORA LTDA e Espólio de Ibrahim Ahmad Assaf e outros (grupo familiar Assaf)",
+ "approval_date": "2022-08-17",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca sobre imóvel Matrícula nº 972 do RGI da Praia Grande (\"Carrefour\")",
+  "Hipoteca sobre Matrículas nº 92.007, 92.008 e 92.009 do RGI de São Vicente (\"Rodoviária\")",
+  "Hipoteca sobre Matrícula nº 115954 do RGI de São Vicente (Loja de São Vicente)",
+  "Hipoteca sobre Matrícula nº 78.399 do 2º RGI de Santos (apto.11)",
+  "Hipoteca sobre Matrícula 78.400 (apto.21)",
+  "Hipoteca sobre Matrícula nº 78.402 do 2º RGI de Santos (apto.41)",
+  "Hipoteca sobre Matrícula nº 78.404 do 2º RGI de Santos (apto.61)",
+  "Depósito judicial vinculado ao Processo nº 0053968-42.2012.4.01.3400, valor atualizado de R$ 5.793.649,11"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens para frustrar recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais/patrimoniais/econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Concordar com compensação de ofício da dívida transacionada",
+  "Formalizar garantia hipotecária em até 60 dias",
+  "Desistir do Processo nº 0053968-42.2012.4.01.3400 e renunciar às alegações de direito material",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação de imóveis dados em garantia mediante prévia anuência da Fazenda Nacional (cláusula 4)",
+  "Aproveitamento de depósito judicial de R$ 5.793.649,11 para amortização do passivo, com recálculo/reconsolidação dos valores inscritos (cláusula 3.3)",
+  "Manutenção automática dos gravames de arrolamento, medida cautelar fiscal e garantias já prestadas (cláusula 3.4)"
+ ],
+ "sector": "Comércio/Importação",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.4,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.8,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de 70% (setenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 145 (cento e quarenta e cinco) prestações mensais, escalonadas na forma discriminada no Anexo II;"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "14f796b622a5",
+ "title": "Termo de Transação Individual - Central Comercial e Importadora LTDA, Espólio de Ibrahim Ahmad Assaf, Mohamad Assaf, Ohmar Ahmad Assaf, Ali Ahmad Assaf",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCentralComercialeImportadoraLTDAEspliodeIbrahimAhmadAssafMohamadAssafOhmarAhmadAssafAliAhmadAssaf.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCentralComercialeImportadoraLTDAEspliodeIbrahimAhmadAssafMohamadAssafOhmarAhmadAssafAliAhmadAssaf.pdf",
+ "sha256": "7612e415e205604cc241dd9743f4483718ba1ee6b7b82ae5dc0d733ba83c9b0d",
+ "extracted_at": "2026-07-22T14:22:38+00:00",
+ "simulated": false
+}

@@ -1,0 +1,84 @@
+{
+ "taxpayer": "FUNDIÇÃO ALUMETAF LTDA",
+ "approval_date": "2024-05-28",
+ "consolidated_amount": 59683716.37,
+ "modality": "Transação Individual - Plano de Pagamento Parcelado do Débito Fiscal (Demais Débitos - PJ)",
+ "total_discount_pct": 37.97,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel situado na Rua Francisco Merlo, Matrícula nº 13.739 do Cartório de Registro de Imóveis de Gaspar/SC, área de 20.020 m², avaliado em R$ 11.670.000,00",
+  "Manutenção das demais garantias existentes (penhoras anteriores registradas na matrícula)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações à PGFN",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens",
+  "Declarar não ter alienado/onerado bens para frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação de ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Cumprir exigências da Portaria PGFN nº 6757/22",
+  "Declarar veracidade das informações cadastrais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações relacionadas aos créditos incluídos",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após o acordo",
+  "Manter-se optante do regime de tributação pelo lucro real durante a negociação (uso de créditos de PF/BCN)",
+  "Declarar não possuir créditos líquidos e certos ou precatórios em desfavor da União",
+  "Apresentar situação econômico-financeira anualmente (balanço contábil)",
+  "Manter, por 5 anos, livros e documentos comprobatórios dos créditos de PF/BCN utilizados",
+  "Peticionar nos processos judiciais em até 60 dias, desistindo de embargos/exceções de pré-executividade",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal (IRPJ) e base de cálculo negativa de CSLL no valor de R$ 16.732.500,00 para redução adicional da dívida, sob condição resolutória de homologação pela RFB em até 5 anos",
+  "Pagamento em 120 parcelas mensais, sucessivas e escalonadas, com percentuais crescentes de amortização (0,4% a 1,5%)",
+  "Juros SELIC acumulados mensalmente sobre as parcelas, mais 1% no mês do pagamento",
+  "Eventuais valores bloqueados judicialmente até a assinatura serão utilizados para quitação dos valores negociados"
+ ],
+ "sector": "Metalurgia/Fundição",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "approval_date": 0.85,
+  "modality": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.3,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.3,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Sobre as inscrições indicadas no Anexo I (DEMAIS DÉBITOS), que totalizam R$ 59.683.716,37 (cinquenta e nove milhões, seiscentos e oitenta e três mil, setecentos e dezesseis reais e trinta e sete centavos)",
+  "total_discount_pct": "foi concedido percentual de descontos de 37,97%, observados os limites do §3º do art. 11 da Lei n. 13.988/20",
+  "installments": "O pagamento será realizado em 120 (cento e vinte) parcelas mensais, sucessivas e escalonadas."
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "6cdd5dcbd236",
+ "title": "Termo de Transação Individual - Fundação Alumetaf LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualFundaoAlumetafLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualFundaoAlumetafLTDATarjado.pdf",
+ "sha256": "bc3943fb03aa3af861c680475dd26c10f5e38031d58c22c1baf70cb83982dfee",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

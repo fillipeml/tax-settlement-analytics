@@ -1,0 +1,79 @@
+{
+ "taxpayer": "Grupo CATIVA (CATIVA TÊXTIL INDÚSTRIA E COMÉRCIO LTDA, CATIVA BENEFICIAMENTOS TÊXTEIS, CATIVA MS TEXTIL, CONDUTA INDÚSTRIA E COMÉRCIO DE MALHAS LTDA, FENIXPAR PARTICIPAÇÕES S.A. - todas em recuperação judicial)",
+ "approval_date": "2023-06-01",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis registrados nas matrículas 12.767 e 12.431 perante o CRI de Pomerode/SC"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não ter alienado ou onerado bens/direitos para frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de ativo não circulante",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações judiciais relativas aos créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União e o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa após o acordo",
+  "Não distribuir lucros ou dividendos a sócios/acionistas até aprovação do plano de recuperação judicial",
+  "Manter, por 5 anos, livros e documentos comprobatórios dos montantes de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Apresentar situação econômico-financeira com demonstração de resultado do exercício quando solicitado",
+  "Peticionar nos processos judiciais noticiando a celebração da transação e oferecendo bens em garantia à penhora"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal (PF) e base de cálculo negativa de CSLL (BCN) na amortização do saldo devedor",
+  "Nomeação da União como procuradora com poderes em causa própria em caso de desapropriação de bens dados em garantia",
+  "Vedação à distribuição de lucros ou dividendos até aprovação do plano de recuperação judicial",
+  "Desconto médio de 58% sobre inscrições do Anexo I (demais débitos), pagamento em 120 parcelas",
+  "Desconto médio de 47% (em abril) sobre inscrições do Anexo II (previdenciárias), pagamento em 60 parcelas"
+ ],
+ "sector": "Têxtil",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.8,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "e do saldo será abatido crédito de prejuízo fiscal e base de cálculo negativa indicado no montante indicado no anexo IV e o saldo devedor será pago em 120 (cento e vinte) parcelas mensais escalonadas."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "installments"
+ ],
+ "id": "cbff0fe8d475",
+ "title": "Termo de Transação Individual - Cativa Têstil Indústria e Comércio LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCativaTstilIndstriaeComrcioLTDATarjado4regio.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualCativaTstilIndstriaeComrcioLTDATarjado4regio.pdf",
+ "sha256": "4974a58deaa5c1a4c7a5cdcef5cbc4e5c5686e149563c79145423f8a8371f4ce",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

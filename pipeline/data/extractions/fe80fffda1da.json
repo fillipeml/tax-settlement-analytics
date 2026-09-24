@@ -1,0 +1,76 @@
+{
+ "taxpayer": "AELBRA EDUCAÇÃO SUPERIOR – GRADUAÇÃO E PÓS-GRADUAÇÃO S.A. EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-01-15",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (FGTS)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 20,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Instituição de garantia sobre 85% do valor de venda dos bens imóveis dedicados à quitação dos credores classe 1, conforme Plano de Recuperação Judicial aprovado em Assembleia Geral de Credores"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Renunciar a quaisquer alegações de direito sobre ações judiciais/administrativas que tenham por objeto os créditos incluídos na transação",
+  "Promover a desistência de impugnações, recursos e ações no prazo de 30 dias a contar da assinatura do acordo",
+  "Efetuar os pagamentos referentes às parcelas acordadas",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas do FGTS dos respectivos trabalhadores, no prazo máximo de 30 dias",
+  "Manter a regularidade nos programas de parcelamento que aderiu antes do acordo, em relação ao FGTS",
+  "Manter regularidade com as obrigações para com o FGTS",
+  "Não alienar ou onerar bens ou direitos próprios que possam inviabilizar ou reduzir a capacidade de pagamento dos compromissos assumidos",
+  "Realizar todas as comunicações relativas à transação por meio de requerimento administrativo no SICAR/REGULARIZE",
+  "Pleitear a homologação do termo perante os demais juízos em que tramitam execuções fiscais"
+ ],
+ "special_clauses": [
+  "Garantia vinculada a 85% do valor de venda de bens imóveis conforme Plano de Recuperação Judicial, vertida como pagamento na medida das alienações dos imóveis",
+  "Possibilidade de reconhecimento administrativo de quitação parcial de débitos anteriores à celebração do acordo, mediante requerimento próprio",
+  "Rescisão por decretação de falência ou extinção permite adesão a nova transação sem aplicação da vedação de 2 anos"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.75,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "installments": "N° Parcelas: 20",
+  "approval_date": "Porto Alegre, de janeiro de 2024."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "approval_date"
+ ],
+ "id": "fe80fffda1da",
+ "title": "Termo de Transação Individual - Alebra Educação Superior Graduação e Pós Graduação SA em recuperação judicial (FGTS)",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAlebraEducaoSuperiorGraduaoePsGraduaoSAemrecuperaojudicialFGTS.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualAlebraEducaoSuperiorGraduaoePsGraduaoSAemrecuperaojudicialFGTS.pdf",
+ "sha256": "290604766c45c01a18460983483e03d58cfad9378dffb30f6dae11644f25b35c",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

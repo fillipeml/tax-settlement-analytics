@@ -1,0 +1,78 @@
+{
+ "taxpayer": "SALGADO EMPREENDIMENTOS IMOBILIÁRIOS S/A e SALGADO AGROPECUÁRIA SA",
+ "approval_date": "2025-05-26",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel rural ENGENHO MERCÊS, matrícula 7.414 - Ofício Único de Ipojuca/PE (Cláusula 5ª)",
+  "Imóvel Engenho Macaco, matrícula 2.462, Ipojuca/PE (oferecido em substituição, Cláusula 4ª)",
+  "Imóvel Engenho Cachoeira, matrícula 882, Ipojuca/PE (oferecido em substituição, Cláusula 4ª)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos (Cláusula 2ª)",
+  "Reconhecimento de corresponsabilidade solidária e de grupo econômico (Cláusula 2ª, §2º)",
+  "Desistência de impugnações, recursos administrativos e ações judiciais relativas aos débitos (Cláusula 9ª)",
+  "Pagamento regular dos tributos correntes (Cláusula 17)",
+  "Apresentação anual de demonstrações de resultados/balanço contábil (Cláusula 15)",
+  "Comprovação em 90 dias da efetivação de penhoras remanescentes nas execuções de FGTS (Cláusula 4ª, §1º)",
+  "Não alienar bens sem comunicação à Fazenda Nacional (Cláusula 11, I)",
+  "Notificar juízos sobre a celebração do acordo (Cláusula 10)"
+ ],
+ "special_clauses": [
+  "Exclusão de débitos de FGTS mediante oferta de imóveis em garantia (Cláusula 4ª)",
+  "Venda do imóvel Engenho Mercês com reversão integral do valor para amortização/quitação (Cláusula 5ª)",
+  "Substituição da penhora do imóvel Engenho Mercês pelos imóveis indicados na cláusula 4ª (Cláusula 5ª, §1º)",
+  "Possibilidade de aditamento excepcional da transação para inclusão de novas inscrições em dívida ativa em até 180 dias (Cláusula 17)",
+  "Condicionamento de venda de outros bens à aquiescência da PGFN com reversão mínima de 50% do produto (Cláusula 7ª)"
+ ],
+ "sector": "Agronegócio/Imobiliário",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.3,
+  "installments": 0.3,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.8,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.2
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de até 65% em cada uma das inscrições, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa juros e encargo legal), conforme cálculo do sistema",
+  "installments": "Pagamento da dívida transacionada de natureza previdenciária e não previdenciária após descontos em 60 e 96 parcelas, respectivamente, com pagamento de 6% da dívida ao ano nas primeiras 24 prestações e demais lineares"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "judicial_recovery"
+ ],
+ "id": "3c92840edd05",
+ "title": "Termo de Transação Individual - Salgado Empreendimentos Imobiliários SA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualSalgadoEmpreendimentosImobiliriosSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualSalgadoEmpreendimentosImobiliriosSATarjado.pdf",
+ "sha256": "a9f776e46bdf081ffbac942548a4583c4af1e55d4281d549301cf82185e0ace2",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

@@ -1,0 +1,72 @@
+{
+ "taxpayer": "HEANLU INDÚSTRIA DE CONFECÇÕES LIMITADA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2023-07-26",
+ "consolidated_amount": 2046074.81,
+ "modality": "Transação Individual",
+ "total_discount_pct": 44.14,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 18,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar/dissimular origem ou destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos novos inscritos em Dívida Ativa",
+  "Não alienar bens que possam reduzir capacidade de pagamento sem comunicar à Fazenda Nacional",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito decorrente de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, limitado a 46,29% do saldo da dívida após descontos",
+  "Não haverá oferta de garantia vinculada à Transação, em razão da redução do prazo de pagamento e por se tratar de empresa em Recuperação Judicial",
+  "Cobrança do saldo liquidado com PF/BCN fica suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de 5 anos"
+ ],
+ "sector": "Confecções/Indústria têxtil",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.9,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 1.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 2.046.074,81 (Dois milhões, quarenta e seis mil, setenta e quatro reais e oitenta e um centavos)",
+  "total_discount_pct": "Percentual de desconto máximo aproximado: 44,14%",
+  "installments": "Pagamento do saldo devedor em 18 (dezoito) prestações de R$ 34.101,85."
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "e6c4e965e19a",
+ "title": "Termo de Transação Individual - Heanlu Indústria de Confecções Limitada",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/copy_of_TermodeTransaoIndividualHeanluIndstriadeConfecesLimitada.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/copy_of_TermodeTransaoIndividualHeanluIndstriadeConfecesLimitada.pdf",
+ "sha256": "3ccc256d67984556d49deb1c40750bbb35a8feb1ddb9f025ddf8600c75568ed6",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

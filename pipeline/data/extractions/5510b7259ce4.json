@@ -1,0 +1,67 @@
+{
+ "taxpayer": "B&Q ENERGIA LTDA",
+ "approval_date": "2024-04-10",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 17.5,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhoras já existentes em execuções fiscais (mantidas)",
+  "Imóvel de Matrícula 5184/RI Beberibe/CE, avaliado em R$ 3.210.000,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Apresentar certidão da matrícula atualizada do imóvel dado em garantia no prazo de 30 dias",
+  "Peticionar em todas as execuções ajuizadas informando a oferta do bem em garantia",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados/balanço contábil",
+  "Pagar regularmente os tributos correntes",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos incluídos"
+ ],
+ "special_clauses": [
+  "Cláusula 6ª: hipótese de rescisão, alienação dos bens penhorados/garantia por leilão judicial ou iniciativa particular via sistema COMPREI, com limite mínimo de 50% do valor de avaliação",
+  "Cláusula 8ª: tratando-se de recuperação judicial, garantias não configuram bens de capital essenciais ao cumprimento do plano de RJ, condicionando formalização das contas à homologação pelo Juízo da Recuperação Judicial"
+ ],
+ "sector": "Energia",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.3,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 17,5% (débitos previdenciários e não previdenciários)",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 120 (débitos não previdenciários); PAGAMENTO PARCELADO EM ATÉ (MESES) 60 (débitos previdenciários)"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "installments",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "5510b7259ce4",
+ "title": "Termo de Transação Individual - B&Q Energia LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualBQEnergiaLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualBQEnergiaLTDAtarjado.pdf",
+ "sha256": "875d5a82e09558ea2474f03eadfa0acee32758731347a989ebac0d72e60bcb76",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

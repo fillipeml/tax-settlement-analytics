@@ -1,0 +1,58 @@
+{
+ "taxpayer": "PAMPA TELECOMUNICAÇÕES E ELETRICIDADE LTDA.",
+ "approval_date": "Not identified",
+ "consolidated_amount": 47696997.9,
+ "modality": "Transação Individual - Modalidade nº.24 (FGTS) e 7 (CS)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 12,
+ "down_payment_pct": 0.0,
+ "guarantees": [],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Telecomunicações e eletricidade",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.8,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.85,
+  "installments": 0.8,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.3,
+  "judicial_recovery": 0.9,
+  "special_clauses": 0.3
+ },
+ "source_excerpts": {
+  "consolidated_amount": "SALDO DEVEDOR - PGFN TOTAL: 47.696.997,90",
+  "installments": "NÚMERO DE PARCELAS - PGFN Previdenciária: 12"
+ },
+ "review_fields": [
+  "approval_date",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "ab0440d75c03",
+ "title": "Sumário - Pampa Telecomunicações e Eletricidade LTDA, Neocorp Investimentos LTDA, Assis Roberto Sanchotene de Souza",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/SumrioPampaTelecomunicaeseEletricidadeLTDANeocorpInvestimentosLTDAAssisRobertoSanchotenedeSouza.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/SumrioPampaTelecomunicaeseEletricidadeLTDANeocorpInvestimentosLTDAAssisRobertoSanchotenedeSouza.pdf",
+ "sha256": "3219cf4804fe71afb1753b3ce2a40771c30cf462cabe06356b4a5ad293ee5d8a",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

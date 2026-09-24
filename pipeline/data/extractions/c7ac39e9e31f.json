@@ -1,0 +1,75 @@
+{
+ "taxpayer": "Grupo NUTRI HOSPITALAR (NUTRI HOSPITALAR ALIMENTACAO E SERVICOS LTDA e outras empresas do grupo econômico representado por JOSE DIONISIO FRANCO)",
+ "approval_date": "2024-02-14",
+ "consolidated_amount": 76680813.5,
+ "modality": "Transação Individual (modalidades DEMAIS e PREV)",
+ "total_discount_pct": 58.22,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em execuções fiscais/ações judiciais",
+  "Contrato de garantia adicional (dados tarjados) - Vigência 60 meses - Valor R$ 5.459.544,72",
+  "Contrato de garantia adicional (dados tarjados) - Vigência 20/08/2021 a 20/08/2026 - Valor R$ 8.691.204,12 por ano",
+  "Contrato de garantia adicional (dados tarjados) - Vigência 06/2020 a 06/2025 (60 meses) - Valor R$ 4.898.999,52",
+  "Oferecimento de bem à penhora nos autos da execução fiscal nº 5001681-98.2023.4.03.6108, em trâmite perante a 1ª Vara Federal de Bauru"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Regularizar débitos que vierem a ser inscritos em Dívida Ativa ou tornarem-se exigíveis, no prazo de 90 dias",
+  "Regularizar, no prazo de 30 dias, o saldo decorrente da reconsolidação da(s) conta(s) de transação individual",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Manter regularidade perante o FGTS",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo",
+  "Manter, durante 5 anos, os livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Formalizar a garantia ofertada no prazo de 30 dias, oferecendo bem à penhora nos autos da execução fiscal nº 5001681-98.2023.4.03.6108",
+  "Peticionar nos processos judiciais em até 60 dias, noticiando a celebração da transação e desistindo de impugnações/recursos/ações",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor de R$ 10.468.525,66 na modalidade DEMAIS DÉBITOS para amortização do saldo devedor",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL fica suspensa até confirmação pela autoridade competente, dentro do prazo de 5 anos"
+ ],
+ "sector": "Fornecimento de alimentos preparados/refeições coletivas (com uma empresa do grupo - FX ENGE - em obras de urbanização)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.8,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.3,
+  "discounts": 0.3,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.2
+ },
+ "source_excerpts": {
+  "consolidated_amount": "GRUPO 54.284.995,90 (DEMAIS DÉBITOS Consolidado s/desconto) + 22.395.817,60 (PREVIDENCIÁRIO Consolidado s/desconto)",
+  "total_discount_pct": "2.1.1. Na modalidade DEMAIS, desconto máximo de até 58,22% a cada uma das CDAs, individualmente... 2.1.3. Na modalidade PREV, desconto máximo de até 58,22% a cada uma das CDAs, individualmente",
+  "installments": "2.1.2. Parcelamento do saldo devido na modalidade DEMAIS em até 60 prestações mensais e sucessivas... 2.1.4. Parcelamento do saldo devido na modalidade PREV em até 60 prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "c7ac39e9e31f",
+ "title": "TermodetransaoindividualNutriHospitalaralimentacaoeservicosLTDA.pdf",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodetransaoindividualNutriHospitalaralimentacaoeservicosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodetransaoindividualNutriHospitalaralimentacaoeservicosLTDA.pdf",
+ "sha256": "97958741c6f74ce1d22c602bd4f61a3bae0cd706f8a5e0822f8f3ca6bc340f15",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

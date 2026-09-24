@@ -1,0 +1,79 @@
+{
+ "taxpayer": "GRUPO MKJ/MR GLOBAL",
+ "approval_date": "2024-06-28",
+ "consolidated_amount": 172583756.53,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis descritos nos Anexos XIII a XVIII, avaliados previamente em R$ 53.147.000,00",
+  "Manutenção de indisponibilidades/penhoras/bloqueios existentes nos processos relacionados aos créditos negociados",
+  "Penhora sobre recursos financeiros (juros sobre capital próprio, distribuição de lucros e dividendos, rateios de sobras e empréstimos) nos autos nºs 5005927-84.2013.4.04.7200 e 5014104-61.2018.4.04.7200"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utilizam pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienaram ou oneraram bens para frustrar a recuperação dos créditos",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Autorizar compensação de restituições/ressarcimentos com prestações do acordo",
+  "Manter-se no regime de tributação pelo lucro real durante todo o prazo da negociação (MKJ)",
+  "Peticionar nos executivos fiscais e desistir de impugnações/recursos/ações judiciais no prazo de 30 dias",
+  "Apresentar situação econômico-financeira sempre que demandado pela Fazenda Nacional",
+  "Recolher obrigações tributárias correntes",
+  "Providenciar oferecimento e formalização da penhora dos imóveis em até 180 dias"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para amortização da dívida",
+  "Supressão temporária dos depósitos judiciais de dividendos/distribuição de lucros a partir do pagamento da entrada, enquanto houver regularidade do plano",
+  "Possibilidade de alienação dos imóveis dados em garantia para pagamento das parcelas, mediante prévia oitiva da Fazenda Nacional",
+  "Penhora futura sobre imóvel matrícula 133.538 recairá apenas sobre direitos de aquisição (promessa de compra e venda), não sobre a propriedade",
+  "Antecipação obrigatória de parcelas específicas (24, 48, 72, 96, 120 para demais débitos e 24, 48, 60 para previdenciários) caso haja recursos disponíveis de alienações",
+  "Créditos do Cumprimento de Sentença nº 5016048592022404 7200 negociados em 100 parcelas mensais lineares com desconto limitado a 65%, não podendo reduzir o principal"
+ ],
+ "sector": "Importação e Comércio",
+ "confidence": {
+  "taxpayer": 0.6,
+  "approval_date": 0.5,
+  "modality": 0.9,
+  "sector": 0.5,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.7,
+  "installments": 0.7,
+  "down_payment_pct": 0.1,
+  "discounts": 0.2,
+  "guarantees": 0.8,
+  "judicial_recovery": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Aplicando-se os descontos previstos na Lei Federal nº 13.988/2020 de acordo com a capacidade de pagamento do grupo considerada as contas tributárias totalizam R$ 172.583.756,53, divididos em R$ 142.153.697,01 (demais débitos) e R$ 30.430.059,52 (débitos previdenciários)",
+  "total_discount_pct": "prestações sucessivas e escalonadas, sendo concedido o desconto até 65,00%, conforme simulações anexas e observados os limites dos §§ 2º e 3º do art. 11 da Lei n. 13.988/20",
+  "installments": "As inscrições indicadas nos Anexos VII, VIII, IX e X serão objeto do plano de pagamento: a) 120 (cento e vinte) pagamentos mensais para os DEMAIS DÉBITOS; 60 (sessenta) pagamentos mensais para os DÉBITOS PREVIDENCIÁRIOS"
+ },
+ "review_fields": [
+  "taxpayer",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts"
+ ],
+ "id": "01e10e183d72",
+ "title": "Termo de Transação Individual - MKJ Importação e Comércio LTDA, Mario Kenji Irie, MR Global Empreendimentos LTDA, Lumak Participações societárias LTDA, KTCB Participações e Empreendimentos LTDA, Agata participações e Empreendimentos  LTDA, PWA Importação e Comércio LTDA, Integra Tecnologia LTDA, Khetherine Keyko Zaguini Iriê, Regina Celi Zaguini Irie",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualMKJImportaoeComrcioLTDAMarioKenjiIrieMRGlobalEmpreendimentosLTDALumakParticipaessocietriasLTDAKTCBParticipaeseEmpreendimentosLTDAAgataparticipae.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualMKJImportaoeComrcioLTDAMarioKenjiIrieMRGlobalEmpreendimentosLTDALumakParticipaessocietriasLTDAKTCBParticipaeseEmpreendimentosLTDAAgataparticipae.pdf",
+ "sha256": "042d35715eeb6c8fc217bf3e1dfa07edbededb7dd744a471759f6efb2ef02fa8",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

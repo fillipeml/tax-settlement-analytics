@@ -1,0 +1,71 @@
+{
+ "taxpayer": "RIMA INSTALAÇÕES LTDA",
+ "approval_date": "2023-08-29",
+ "consolidated_amount": 16664817.26,
+ "modality": "Transação Individual",
+ "total_discount_pct": 60.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 59,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Apartamento nº 1001, Edifício Mirante, Rua General Abreu e Lima, bairro do Rosarinho",
+  "Apartamento 701, Edifício Cais da Aurora, Rua da Aurora, bairro de Santo Amaro",
+  "Imóvel constituído do lote de terreno de marinha nº 15 e parte do lote 16, Rua Madre Rosa Gatorno, bairro do Arruda"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil",
+  "Manter livros e documentos fiscais durante 5 anos (créditos de prejuízo fiscal e base negativa de CSLL)",
+  "Individualizar valores recolhidos a título de FGTS nas contas vinculadas dos trabalhadores",
+  "Petição em todas as execuções ajuizadas informando a oferta dos imóveis em garantia, no prazo de 10 dias"
+ ],
+ "special_clauses": [
+  "Autorização de utilização de prejuízo fiscal e base de cálculo negativa da CSLL para quitação do saldo devedor remanescente, limitado a R$ 2.356.828,12 (32,161% do total da dívida remanescente)",
+  "Garantia consistente em 3 imóveis oferecidos pela PARTE DEVEDORA, com compromisso de peticionar nas execuções em caso de rescisão"
+ ],
+ "sector": "Instalações/Construção civil",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.85,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.8,
+  "judicial_recovery": 0.3,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Totais: 6.224.942,76 ... Totais: 10.439.878,50 (soma dos valores consolidados das duas tabelas do Anexo II: débitos previdenciários e demais débitos)",
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 60% (sessenta por cento)",
+  "installments": "para adimplemento da dívida não-previdenciária (demais débitos), em até 59 (cinquenta e nove) meses, e do débito previdenciário, em até 11 (onze) meses"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "7f5541de9062",
+ "title": "Termo de Transação Individual - Rima Instalações",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualRimaInstalaesLTDAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualRimaInstalaesLTDAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "6e4511234aa7ab77f02241e2e1ba91fbe39e895d6e0fd4acfd3761c1ca2e070a",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

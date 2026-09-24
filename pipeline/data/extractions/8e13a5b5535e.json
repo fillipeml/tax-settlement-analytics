@@ -1,0 +1,62 @@
+{
+ "taxpayer": "MARBRASA MARMORES E GRANITOS DO BRASIL S.A",
+ "approval_date": "2022-05-16",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (1º Aditivo ao Termo de Transação Individual PFN-ES 21237540)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [],
+ "special_clauses": [
+  "Este é um Termo Aditivo cujo objetivo único é alterar a planilha anexada ao Termo original, incluindo novas inscrições de débitos (débitos diversos e previdenciários) na conta de transação, sem alterar as condições de pagamento já compromissadas, pois tais débitos já constavam da conta de transação do SISPAR e já entravam no cálculo das parcelas."
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.95,
+  "modality": 0.9,
+  "sector": 0.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.3,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "special_clauses": "com o objetivo único de alterar a PLANILHA anexada ao TERMO, para fazer constar que entraram na conta da transação, além dos débitos já listados no documento constante do Processo SEI nº 11557.101088/2021-49, também as seguintes inscrições... A inclusão de tais inscrições no ANEXO AO TERMO em nada altera as condições compromissadas de pagamento, uma vez que as mesmas já constam da conta de transação do SISPAR e por isso já entram no cálculo das parcelas devidas mês a mês."
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "obligations",
+  "judicial_recovery"
+ ],
+ "id": "8e13a5b5535e",
+ "title": "Termo de Transação Individual - Marbrasa Marmores e Granitos do Brasil SA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualMarbrasaMarmoreseGranitosdoBrasilSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualMarbrasaMarmoreseGranitosdoBrasilSATarjado.pdf",
+ "sha256": "6ed0300bd421f1f4d550a6a80875a9e125fde58b9930418ca66f526c0ea15878",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

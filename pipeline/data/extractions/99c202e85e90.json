@@ -1,0 +1,58 @@
+{
+ "taxpayer": "RIBEIRO ENGENHARIA LTDA",
+ "approval_date": "2022-06-20",
+ "consolidated_amount": null,
+ "modality": "2º Aditivo ao Termo de Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Vedada a futura inclusão, no presente acordo de transação, das inscrições previdenciárias listadas que hoje estão no REFIS 2013"
+ ],
+ "special_clauses": [
+  "Exclusão das cláusulas 2.3 e 7.1.5 do Termo de Transação Individual original, considerando que o REFIS 2013 e a presente Transação Individual são programas de renegociação da dívida fiscal independentes, com obrigações financeiras autônomas",
+  "Vedação expressa à futura inclusão no acordo das inscrições previdenciárias listadas (32.134.450-2; 32.134.605-0; entre outras) que permanecem no REFIS 2013"
+ ],
+ "sector": "Construção civil/engenharia",
+ "confidence": {
+  "taxpayer": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "modality": 0.85,
+  "sector": 0.5,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.7,
+  "special_clauses": 0.85,
+  "discounts": 0.0
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "judicial_recovery",
+  "discounts",
+  "sector",
+  "guarantees"
+ ],
+ "id": "99c202e85e90",
+ "title": "II Termo Aditivo de Transação Individual - Ribeiro Engenharia LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/IITermoAditivodeTransaoIndividualRibeiroEngenhariaLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/IITermoAditivodeTransaoIndividualRibeiroEngenhariaLTDAtarjado.pdf",
+ "sha256": "6c294976307ea70d5b464c6ecf930187eb07ec746dab984120a100cc0657e9de",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

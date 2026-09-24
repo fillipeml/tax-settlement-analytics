@@ -1,0 +1,86 @@
+{
+ "taxpayer": "HOSPITAL DE CARIDADE DE CANELA",
+ "approval_date": "2023-03-28",
+ "consolidated_amount": 14189065.9,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel matrícula nº 750 do Livro nº 2 - Registro Geral, do Registro de Imóveis de Canela/RS, avaliado em R$ 16.000.000,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não ter alienado ou onerado bens com propósito de frustrar recuperação de créditos",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6.757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Peticionar nos processos judiciais noticiando a transação em até 60 dias",
+  "Individualizar os valores recolhidos nas contas vinculadas dos trabalhadores (FGTS)",
+  "Manter em dia pagamento de impostos, taxas e tributos sobre bens dados em garantia",
+  "Apresentar situação econômico-financeira anualmente (balanço contábil e DRE)"
+ ],
+ "special_clauses": [
+  "Restrição de expropriação do imóvel garantidor exclusivamente à cobrança de contribuições previdenciárias, nos termos da Lei Federal nº 14.334/2022 (Cláusula 10, Parágrafo Único)",
+  "Possibilidade de amortização do saldo devedor com créditos líquidos e certos contra a União reconhecidos judicialmente ou precatórios federais (Cláusula 8ª)",
+  "Pagamento integral da verba rescisória do FGTS na primeira parcela (R$ 150.229,04)"
+ ],
+ "sector": "Saúde/Hospitalar (associação beneficente sem fins lucrativos)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.55,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "amount_consolidado_annexI": "Considerado o valor consolidado (anterior aos descontos) dos créditos tributários, atualizados até abril de 2023, no montante de R$ 5.201.722,50, aplicados os descontos legais, a dívida objeto da transação restou em R$ 2.446.571,18.",
+  "amount_consolidado_annexII": "O valor consolidado (anterior aos descontos) dos créditos tributários, atualizados até abril de 2023, no montante de R$ 4.515.465,95, aplicados os descontos legais, a dívida objeto da transação restou em R$ 2.309.198,50.",
+  "installments_annexI": "serão objeto de plano de pagamento em 60 (sessenta) amortizações mensais e sucessivas",
+  "installments_annexII": "prevê o pagamento em 145 (cento e quarenta e cinco) parcelas mensais e sucessivas",
+  "installments_FGTS_A": "105 (cento e cinco) amortizações mensais e sucessivas",
+  "installments_FGTS_B": "25 (vinte e cinco) amortizações mensais e sucessivas",
+  "discount_annexI": "sendo concedido o desconto médio de 52,96%",
+  "discount_annexII": "sendo concedido o desconto médio de 48,86%",
+  "discount_FGTS_A": "sendo concedido o desconto médio de 30,96%",
+  "discount_FGTS_B": "sendo concedido o desconto de 45,00%"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "bab01a9cec7e",
+ "title": "Termo de Transação Individual - Hospital de Caridade de Canela",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualHospitaldeCaridadedeCanelaTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualHospitaldeCaridadedeCanelaTarjado.pdf",
+ "sha256": "c09045022d23cd32d59aaab4977f72fe0f3568212d76645482d95ce9e7278256",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

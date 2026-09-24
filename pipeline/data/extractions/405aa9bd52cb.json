@@ -1,0 +1,82 @@
+{
+ "taxpayer": "FUNDACAO DE ASSISTENCIA SOCIAL DE ANAPOLIS (FASA)",
+ "approval_date": "2023-09-20",
+ "consolidated_amount": 47858257.59,
+ "modality": "Transação individual (Plano de Regularização Fiscal)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção dos gravames decorrentes de arrolamento de bens, de medida cautelar fiscal e das garantias prestadas administrativamente ou nas ações de execução fiscal ou em qualquer outra ação judicial"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável os débitos relacionados no ANEXO I",
+  "Renunciar expressamente a quaisquer alegações de direito e questionamentos dos débitos relacionados no ANEXO I",
+  "Manter a regularidade das obrigações de FGTS e tributárias federais correntes, vencidas a partir da assinatura da transação",
+  "Regularizar novos débitos inscritos em dívida ativa após a assinatura da transação, no prazo máximo de 90 dias",
+  "Informar previamente à PGFN a alienação e/ou disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não constituir nova pessoa jurídica em benefício próprio ou de terceiros que diminua garantias ou valores de pagamento",
+  "Anuir com eventual modificação da competência relativa para reunião de processos",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais acordadas",
+  "Não utilizar a transação de forma abusiva para limitar/falsear a livre concorrência",
+  "Não utilizar pessoa interposta para ocultar origem/destinação de bens",
+  "Declarar que não alienou/onerou bens com propósito de frustrar recuperação dos créditos",
+  "Autorizar compensação de valores de precatórios federais com prestações do plano",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos da RFB com prestações do acordo",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil",
+  "Regularização das inscrições de FGTS/CS com desconto conforme condições simuladas pela CAIXA"
+ ],
+ "special_clauses": [
+  "Desconto máximo de até 70% (setenta por cento), vedada a incidência sobre o principal do débito, por serem as dívidas consideradas irrecuperáveis pela PGFN",
+  "Pagamento da primeira parcela balão na conta previdenciária via precatório expedido nos autos nº 0007374-23.2010.4.01.3502",
+  "Segunda parcela balão a ser paga até o final do prazo de 60 meses com precatório complementar; caso não haja expedição, devedora se compromete à quitação do saldo devedor remanescente",
+  "Prazo de pagamento dos débitos não previdenciários é de 145 meses e de 60 meses para os previdenciários"
+ ],
+ "sector": "Assistência social",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizam R$ 47.858.257,59 (Quarenta e sete milhões oitocentos e cinquenta e oito mil, duzentos e cinquenta e sete reais e cinquenta e nove centavos), atualizado no mês de setembro de 2023",
+  "total_discount_pct": "a presente transação envolve concessão do desconto máximo de até 70% (setenta por cento), vedada a incidência sobre o principal do débito",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (demais) é de 145 (cento e quarenta e cinco) meses e de 60 meses para os previdenciários"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "405aa9bd52cb",
+ "title": "Termo de Transação Individual - Fundação de Assistência Social de Anápolis",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualFundaodeAssistnciaSocialdeAnpolisInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualFundaodeAssistnciaSocialdeAnpolisInformaesSigilosasSuprimidas.pdf",
+ "sha256": "e31d9ce9b1eb6d3698c8c559876a974e705d5c90e9233a0b9ef9e2fa1ea23fc6",
+ "extracted_at": "2026-07-22T14:22:22+00:00",
+ "simulated": false
+}

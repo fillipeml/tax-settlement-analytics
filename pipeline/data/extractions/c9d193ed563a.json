@@ -1,0 +1,73 @@
+{
+ "taxpayer": "Not identified",
+ "approval_date": "2023-12-13",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente",
+  "Manutenção de penhoras já existentes nos executivos fiscais"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Recolhimento das obrigações tributárias correntes",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Apresentar situação econômico-financeira anualmente",
+  "Peticionar nos processos judiciais em até 60 dias após assinatura noticiando o acordo",
+  "Permanecer no regime de tributação do Lucro Real enquanto vigente a transação",
+  "Manter livros e documentos comprobatórios dos créditos de prejuízo fiscal e base de cálculo negativa da CSLL por 5 anos"
+ ],
+ "special_clauses": [
+  "Autorização de utilização de créditos de prejuízo fiscal acumulados e de base de cálculo negativa da CSLL para amortização de 70% do saldo devedor (Cláusula 3, item e)",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal fica suspensa até confirmação dos créditos pela PGFN (Cláusula 17)",
+  "Aproveitamento de precatórios federais, estaduais ou municipais para liquidação dos débitos transacionados (Cláusula 14)",
+  "Compromisso de permanência no regime de Lucro Real sob pena de perda do benefício (Cláusula 19)"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.3,
+  "sector": 0.1,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.75,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "guarantees": 0.7,
+  "judicial_recovery": 0.9,
+  "obligations": 0.75,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de até 65% em cada uma das inscrições, vedada a redução do montante principal",
+  "installments": "Pagamento da dívida transacionada de natureza não previdenciária em 120 (cento e vinte) prestações mensais e lineares"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct"
+ ],
+ "id": "c9d193ed563a",
+ "title": "Termo de Transação Individual - ReF Comércio e Serviços",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualReFComrcioeServiosSAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualReFComrcioeServiosSAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "0b9e1744f68c206007b6b246b08a8502942aff6ae4820bad91fb0e896b03db69",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

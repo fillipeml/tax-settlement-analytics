@@ -1,0 +1,87 @@
+{
+ "taxpayer": "VIAÇÃO VALE DO RIBEIRA TRANSPORTE E TURISMO LTDA",
+ "approval_date": "2024-12-12",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de matrícula nº 804, situado na Estrada Municipal do Arapongal, s/n, avaliado em R$3.076.426,51",
+  "Veículos descritos no arrolamento constante do processo nº 15983000329/2006-25"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistir de impugnações, recursos e ações administrativas ou judiciais relativas à Dívida Transacionada no prazo de 30 dias",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/valores",
+  "Declarar não ter alienado bens com propósito de frustrar a recuperação dos débitos",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais de que seja credor",
+  "Aderir e manter o Domicílio Tributário Eletrônico (DTE)",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escriturações fiscais",
+  "Manter regularidade fiscal perante a RFB",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar o cumprimento do acordo sem comunicação prévia",
+  "Adimplir a Transação conforme cláusula 3",
+  "Manter-se no regime de tributação do lucro real durante a vigência do acordo",
+  "Efetuar pagamento do saldo em 30 dias caso não confirmados créditos de prejuízo fiscal/CSLL",
+  "Renunciar a alegações de direito em ações judiciais relativas à Dívida Transacionada",
+  "Realizar comunicações via REGULARIZE com menção ao SEI nº19839.004974/2024-13",
+  "Manter por 5 anos livros e documentos fiscais comprobatórios de prejuízo fiscal e base negativa de CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal acumulado e base de cálculo negativa da CSLL, limitado a 3,0% do saldo a pagar para débitos DEMAIS e 41,00% para débitos previdenciários",
+  "Direcionamento obrigatório de créditos de precatórios/depósitos judiciais para amortização do saldo devedor, podendo reduzir o montante de prejuízo fiscal/CSLL utilizado",
+  "Alienação de veículos arrolados no processo nº 15983000329/2006-25 permitida desde que o produto seja revertido ao pagamento da transação",
+  "Anuência com uso do sistema COMPREI para eventual alienação de imóveis penhorados"
+ ],
+ "sector": "Transporte e turismo",
+ "confidence": {
+  "taxpayer": 0.99,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a Dívida Transacionada, vedada a redução do montante principal sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\" - Anexo II) em 120 (cento e vinte) prestações, sucessivas e escalonadas apenas no primeiro ano"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "9f99e1609988",
+ "title": "Termo de Transação Individual - Viação Vale do Ribeira Transporte e Turismo LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualViaoValedoRibeiraTransporteeTurismoLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualViaoValedoRibeiraTransporteeTurismoLTDATarjado.pdf",
+ "sha256": "e621bdd12ab335076ac73afc177793bee94287bf766860c6b063fb6e0a1b3bd0",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

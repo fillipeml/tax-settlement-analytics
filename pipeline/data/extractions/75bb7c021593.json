@@ -1,0 +1,74 @@
+{
+ "taxpayer": "ASSOCIAÇÃO DE ENSINO SUPERIOR DE NOVA IGUAÇU",
+ "approval_date": "2022-11-02",
+ "consolidated_amount": 770667383.2,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 70.0
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis relacionados no Anexo III (garantia real)",
+  "Penhora nas execuções fiscais",
+  "Manutenção das garantias associadas aos débitos transacionados"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não alienar bens ou direitos próprios sem devida comunicação à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Não utilizar pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União no prazo de 90 dias",
+  "Manter regularidade perante o FGTS",
+  "Autorizar acesso da CREDORA às declarações e escritas fiscais",
+  "Cumprir obrigações tributárias correntes e acessórias"
+ ],
+ "special_clauses": [
+  "Destinação de créditos do FIES (Fundo de Financiamento Estudantil) para quitação das parcelas mensais (cláusula 2.6)",
+  "Recolhimento pela CAIXA condicionado à homologação judicial e intimação judicial (cláusula 2.6.2)",
+  "Anuência ao uso do programa COMPREI para execução de garantias (cláusula 3.3.2)",
+  "Inclusão de débitos anteriormente negociados em transações excepcionais, com desistência prévia e amortização conforme art. 9º §3º da Portaria PGFN 6.757/2022 (cláusula 1.5)"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.8,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.charges_pct": 0.8,
+  "discounts.interest_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal da DEVEDORA, inscrito em Dívida Ativa da União, é composto pelos débitos discriminados no ANEXO I, totalizando R$ 770.667.383,20, referente ao mês de novembro de 2022.",
+  "total_discount_pct": "Débitos não previdenciários | Valor Consolidado das Inscrições R$ 378.443.163,45 | % Desconto efetivo Possível até 70% ; Débitos previdenciários | Valor Consolidado das Inscrições R$ 392.224.219,75 | % Desconto efetivo Possível até 70%",
+  "installments": "2.4. O Plano de Pagamento dos Demais Débitos consiste no recolhimento de 145 parcelas mensais, de acordo com a seguinte progressão, considerando o montante total a ser transacionado, após a aplicação dos descontos"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.interest_pct",
+  "discounts.fine_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "75bb7c021593",
+ "title": "Termo de Transação Individual - UNIG  Termo de Transação Individual FGTS",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualUNIGTermodeTransacaoIndividualFGTS.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualUNIGTermodeTransacaoIndividualFGTS.pdf",
+ "sha256": "51dd81181a2a0ea9437d34cb5f770244e7ec0781837866156ecfa7c50a1c4488",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

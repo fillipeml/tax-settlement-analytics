@@ -1,0 +1,62 @@
+{
+ "taxpayer": "PERNAMBUCO QUÍMICA S/A",
+ "approval_date": "2021-08-25",
+ "consolidated_amount": 916348.04,
+ "modality": "Transação Individual",
+ "total_discount_pct": 30.55,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "O DEVEDOR dá-se por ciente de que mensalmente deverá recolher os DARFs relativos a cada uma das contas formalizadas no sistema informatizado e que todas as contas compõem uma transação única, de forma que eventual inadimplência constatada para qualquer dessas contas implicará a inadimplência de toda a transação"
+ ],
+ "special_clauses": [
+  "Para a inclusão dos novos débitos previdenciários (PERV), será formalizada nova conta SISPAR, modalidade PREV, com as mesmas condições de desconto e prazo restante de parcelamento da conta 004269599, sendo as parcelas da nova conta também de forma linear, conforme previsão da Cláusula 5ª, do Termo de Transação Individual"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.85,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.85,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.8,
+  "special_clauses": 0.75,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "40421019283-40 | R$ 916.348,04",
+  "total_discount_pct": "40421019283-40 | R$ 916.348,04 | - | 30,55%"
+ },
+ "review_fields": [
+  "sector",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "ca6fbf9d7835",
+ "title": "Primeiro Termo Aditivo - Pernambuco Química",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/transacao-individual_pe-quimica_primeiro-aditivo.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/transacao-individual_pe-quimica_primeiro-aditivo.pdf",
+ "sha256": "16b5427ed63dcda05c9b5339ac925ca05f3566cf35c35f1b3b718c8d625cfee4",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

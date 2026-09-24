@@ -1,0 +1,75 @@
+{
+ "taxpayer": "CONSTRUTORA ROMA LTDA.",
+ "approval_date": "2024-01-29",
+ "consolidated_amount": 907218.41,
+ "modality": "Transação individual (FGTS)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens integrantes do ativo (máquinas e equipamentos) descritos no ANEXO VI",
+  "Veículos (Fiat/Strada, Fiat/Palio, Caminhões, Reboques, Caminhão Tanque, Caminhões Basculantes, Volks/Gol) descritos no ANEXO VI",
+  "5% da receita bruta mensal da DEVEDORA, a ser depositada judicialmente a partir da decisão que reconhecer a rescisão do acordo"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Efetuar pagamento regular de todos os tributos federais, estaduais e municipais que incidam sobre os bens dados em garantia",
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Fornecer informações sobre bens, direitos, valores, transações quando solicitado",
+  "Permanecer nos parcelamentos já aderidos, honrando pagamentos até completa quitação das CDAs",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União no prazo de 90 dias",
+  "Manter regularidade perante o FGTS e proceder à individualização dos valores recolhidos dos trabalhadores",
+  "Peticionar nos processos judiciais no prazo de 30 dias para noticiar a celebração da Transação e desistir de impugnações/recursos/ações"
+ ],
+ "special_clauses": [
+  "Penhora judicial de bens/veículos descritos nas cláusulas 3.1.1 e 3.1.2 a ser formalizada pela DEVEDORA em até 30 dias",
+  "Penhora de faturamento (5% da receita bruta mensal) a ser formalizada apenas em caso de rescisão do acordo",
+  "Possibilidade de alienação dos bens garantidos mediante anuência da CREDORA, com destinação do valor à quitação das parcelas vincendas",
+  "Compensação de créditos de precatórios ou restituições/ressarcimentos/reembolsos com prestações do acordo"
+ ],
+ "sector": "Construção civil",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal da DEVEDORA objeto da presente transação é composto pelas inscrições constantes no ANEXO VIIJ totalizando o valor de R$907.218,41 (novecentos e sete mil, duzentos e dezoito reais e quarenta e um centavos), atualizados em 10/2023."
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "f44cf4b14da5",
+ "title": "Termo de Transação Individual - Construtora Roma LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/copy_of_TermodeTransaoIndividualConstrutoraRomaLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/copy_of_TermodeTransaoIndividualConstrutoraRomaLTDAtarjado.pdf",
+ "sha256": "1a8b486dcd8321cd41f193177a15e0edff5387e457a2239f6996097f1a88472b",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

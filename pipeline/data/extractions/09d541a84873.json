@@ -1,0 +1,70 @@
+{
+ "taxpayer": "FUNDAÇÃO DE SAÚDE COMUNITÁRIA DE SINOP",
+ "approval_date": "2023-09-04",
+ "consolidated_amount": 5445558.82,
+ "modality": "Transação Individual",
+ "total_discount_pct": 25.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca de bens imóveis matriculados no Cartório de Registro de Imóveis de Sinop/MT sob os n.s 46.512, 46.513, 46.514, 46.515, 46.516, 46.517, 46.520, 48.521, 48.522, 48.523, 48.524, 48.525, 48.526, 48.527, 48.528, 48.529, 48.530, 48.531, 48.532, 48.533, 48.534, 48.535, 48.536, 48.537, 48.538, 48.539, 48.540 e 13.774"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União, inclusive perante o FGTS",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas do FGTS dos respectivos trabalhadores",
+  "Manter em dia o pagamento de impostos e taxas federais, estaduais e municipais sobre os imóveis dados em garantia",
+  "Promover o registro da hipoteca no prazo de 60 dias contados da assinatura do termo",
+  "Peticionar nos processos judiciais noticiando a celebração da transação e desistindo das ações no prazo de 30 dias",
+  "Apresentar comprovação do protocolo das petições via sistema Regularize no prazo de 10 dias"
+ ],
+ "special_clauses": [
+  "Hipoteca admitida independentemente da ordem de preferência do art. 655 do CPC e art. 11 da Lei 6.830/80",
+  "Nomeação da FAZENDA NACIONAL como procuradora da DEVEDORA para receber indenização em caso de desapropriação dos imóveis dados em garantia",
+  "O montante devido aos trabalhadores (principal) não sofrerá descontos, apenas juros/multa/encargos"
+ ],
+ "sector": "Saúde",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.5,
+  "discounts": 0.3,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "FGMT201900149: Valor total em julho/23: R$ 5.352.758,41 ... CSMT201900150: Valor total em julho/23: R$ 92.800,41",
+  "total_discount_pct": "DOS MEIOS PARA EXTINÇÃO DOS CRÉDITOS – CONCESSÃO DE DESCONTO DE 25%, E PARCELAMENTO EM 60 (CSMT201900150) E EM 84 MESES (FGMT201900149)",
+  "installments": "PRINCIPAL (DEP + JAM) - Valores devidos aos Trabalhadores Nº Parcelas: 60 ... JUROS/MULTA/ENCARGOS Nº Parcelas: 24"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "installments",
+  "discounts",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "09d541a84873",
+ "title": "Termo de Transação Individual - Fundação de Saúde Comunitária de Sinop",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-fundacao-de-saude-comunitaria-de-sinop.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-fundacao-de-saude-comunitaria-de-sinop.pdf",
+ "sha256": "c46df646c5ae63aba3ac9bd061dc11eee2636b6a512d8933fb2fa242d89546ae",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

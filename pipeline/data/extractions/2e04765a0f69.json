@@ -1,0 +1,73 @@
+{
+ "taxpayer": "CONSTRUTORA ANDRADE GUEDES LTDA",
+ "approval_date": "2021-10-27",
+ "consolidated_amount": 61135902.42,
+ "modality": "Transação Individual para empresas em Recuperação Judicial (Portaria PGFN nº 2382/2021)",
+ "total_discount_pct": 61.98,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "O devedor mantém todas as garantias associadas ao débito já existentes nas respectivas execuções fiscais (Cláusula 13)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação ou oneração de bens do ativo não circulante",
+  "Fornecer demonstrações contábeis dos 3 últimos exercícios sociais",
+  "Apresentar relação nominal completa dos credores",
+  "Apresentar relação de bens e direitos com laudo econômico-financeiro",
+  "Recolher obrigações tributárias correntes",
+  "Apresentar situação econômico-financeira anualmente"
+ ],
+ "special_clauses": [
+  "Cláusula 10: se o faturamento exceder R$ 25.000.000,00/ano, recolher 2% do excedente para amortização de parcelas",
+  "Cláusula 11: verter percentuais de precatórios/RPV recebidos para amortização (80% para processos específicos, 50% para outros específicos, 30% para qualquer outro precatório ou RPV)",
+  "Cláusula 8: renúncia de direito relativo ao Mandado de Segurança nº 0813884-52.2019.4.05.8300 quanto aos débitos transacionados",
+  "Cláusula 28: possibilidade de migração para parcelamento futuro com regras mais benéficas"
+ ],
+ "sector": "Construção civil",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.8,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Totais: 61.135.902,42 0,00 10.004.430,59 18.988.598,00 8.304.416,69 37.897.485,28 23.238.417,13 61,98%",
+  "total_discount_pct": "Totais: 61.135.902,42 0,00 10.004.430,59 18.988.598,00 8.304.416,69 37.897.485,28 23.238.417,13 61,98%",
+  "installments": "II- possibilidade de pagamento dos débitos não previdenciários em, no máximo, 120 (cento e vinte) parcelas mensais e consecutivas, conforme previstas na simulação em anexo extraída do sistema SISPAR (ANEXO II)"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "installments"
+ ],
+ "id": "2e04765a0f69",
+ "title": "Termo de Transação Individual - Construtora Andrade Guedes",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-construtora-andrade-guedes.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-construtora-andrade-guedes.pdf",
+ "sha256": "0c4a34e0d499102271e9e5b12ac6d24f9b9c30ddd4049d4a5586f4f95cbc21b6",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

@@ -1,0 +1,57 @@
+{
+ "taxpayer": "GEOSISTEMAS ENGENHARIA E PLANEJAMENTO LTDA",
+ "approval_date": "2021-07-06",
+ "consolidated_amount": null,
+ "modality": "Transação individual (Segundo Termo Aditivo)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "O DEVEDOR dá-se por ciente de que mensalmente deverá recolher os DARFs relativos a cada uma das contas formalizadas no sistema informatizado e que todas as contas compõem uma transação única, de forma que eventual inadimplência constatada para qualquer dessas contas implicará a inadimplência de toda a transação, observadas as hipóteses e consequências previstas na Cláusula 10 do TERMO DE TRANSAÇÃO INDIVIDUAL."
+ ],
+ "special_clauses": [
+  "CLÁUSULA 1ª. Ficam incluídas no acordo de transação individual as seguintes CDAS: Previdenciárias: 420433694, 434836265, 437387968, 440632439, 441834205, 40 4 21 024429-05, 40 4 21 024430-30, 40 4 21 024431-11, 40 4 21 024432-00, 40 4 21 024433-83, 40 4 21 024434-64, 40 4 21 024435-45, 40 4 21 024436-26, 40 4 21 024462-18, 40 4 21 024463-07, 40 4 21 024464-80, 40 4 21 024465-60, 40 4 21 024466-41, 40 4 21 024467-22, 40 4 21 024468-03, 40 4 21 024469-94, 40 4 21 024470-28, 40 4 21 024471-09, 40 4 21 024472-90. Não previdenciárias (DEMAIS DÉBITOS): 40 2 21 005437-00, 40 6 21 013838-02 e 40 2 21 005434-67.",
+  "Parágrafo primeiro. Para a inclusão dos novos débitos previdenciários, está formalizada a conta SISPAR nº 4588404, modalidade PREVIDENCIARIA, com as mesmas condições de desconto e prazo total de parcelamento da conta 4406503, sendo as parcelas da nova conta escalonadas na mesma proporção do escalonamento da referida conta 4406503, conforme previsão da Cláusula 4ª, Parágrafo segundo, do Termo de Transação Individual.",
+  "Parágrafo segundo. Para a inclusão dos novos débitos não previdenciários (DEMAIS DÉBITOS), está formalizada a conta SISPAR nº 4588619, modalidade DEMAIS DÉBITOS, com as mesmas condições de desconto e prazo total de parcelamento da conta 4406951, sendo as parcelas da nova conta escalonadas na mesma proporção do escalonamento da referida conta 4406951, conforme previsão da Cláusula 4ª, Parágrafo segundo, do Termo de Transação Individual."
+ ],
+ "sector": "Engenharia/Planejamento",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.3,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "guarantees": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.9,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "bb579e989f5a",
+ "title": "Segundo Termo Aditivo - Geosistemas",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/segundo-termo-aditivo-geosistemas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/segundo-termo-aditivo-geosistemas.pdf",
+ "sha256": "8a807f74927368cc400c63ba0c73d4ac07db1d6de63b7711b9d35152d116fc10",
+ "extracted_at": "2026-07-22T14:35:18+00:00",
+ "simulated": false
+}

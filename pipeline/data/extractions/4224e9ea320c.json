@@ -1,0 +1,71 @@
+{
+ "taxpayer": "CATÃO CONFECÇÕES LTDA - EM RECUPERAÇÃO JUDICIAL; ALFANI CONFECCOES E COMERCIO LTDA - EM RECUPERACAO JUDICIAL; DANTAS CONFECCOES E COMERCIO LTDA - EM RECUPERACAO JUDICIAL; NELBLU CONFECCOES LTDA - EM RECUPERACAO JUDICIAL",
+ "approval_date": "2024-06-24",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Plano de Regularização Fiscal (Portaria PGFN nº 6.757/2022, considerando Portaria PGFN nº 2.382/2020 para devedores em recuperação judicial)",
+ "total_discount_pct": 60.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens móveis indicados no Laudo de Avaliação anexo (Cláusula 4ª)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Não ter alienado, onerado ou ocultado bens com propósito de frustrar recuperação de créditos",
+  "Informações cadastrais, patrimoniais e econômico-fiscais verdadeiras quando envolver capacidade de pagamento",
+  "Apresentar situação econômico-financeira anualmente (balanço contábil) - Cláusula 14ª",
+  "Peticionar em execuções ajuizadas informando oferta de bens em garantia",
+  "Peticionar noticiando aos juízos a celebração do acordo de transação individual",
+  "Pagar regularmente os tributos correntes",
+  "Desistir de impugnações/recursos administrativos e ações judiciais relativas aos débitos"
+ ],
+ "special_clauses": [
+  "Reconhecimento de grupo econômico entre os devedores com corresponsabilidade solidária (Cláusula 2ª, §2º)",
+  "Garantias oferecidas não configuram bens de capital essenciais ao cumprimento do plano de recuperação judicial (Cláusula 4ª, §2º)",
+  "Procedimento detalhado de alienação de bens via sistema COMPREI em caso de rescisão (Cláusula 7ª)",
+  "Créditos de FGTS e CS-LC 110/2001: NÃO HÁ DÉBITOS",
+  "Vedação de nova transação por 2 anos em caso de rescisão"
+ ],
+ "sector": "Vestuário/Confecções",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.2,
+  "total_discount_pct": 0.6,
+  "installments": 0.2,
+  "down_payment_pct": 0.2,
+  "discounts": 0.2,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 60%"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "sector",
+  "total_discount_pct"
+ ],
+ "id": "4224e9ea320c",
+ "title": "Termo de Transação Individual - Catão Confecções LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCatoConfecesLTDATarjadocompactado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCatoConfecesLTDATarjadocompactado.pdf",
+ "sha256": "8d5a6aa3b59708a4e84dec7a9e6421ad6dc84d4b80fa19745142a89fa6df75fe",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

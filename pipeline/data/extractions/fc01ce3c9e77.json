@@ -1,0 +1,72 @@
+{
+ "taxpayer": "MAQUINAS PIRATININGA IND E COMERCIO S/A – EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2023-01-27",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Plano de Regularização Fiscal",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhoras em execuções fiscais (mantidas até quitação)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não alienar bens sem comunicação à Fazenda Nacional",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de bens do ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Individualizar valores recolhidos nas contas vinculadas de FGTS dos trabalhadores",
+  "Apresentar situação econômico-financeira anualmente (balanço contábil)",
+  "Verter para pagamento da dívida qualquer crédito a receber por precatório"
+ ],
+ "special_clauses": [
+  "Concessão do aproveitamento de prejuízo fiscal e base de cálculo negativa da CSLL para pagamento do saldo remanescente, equivalente em dezembro/2022 a 26,99% do saldo da dívida após descontos",
+  "Ressalvada possibilidade de alienação de bens para liquidação da transação, com direcionamento integral do preço à Fazenda Nacional ou ao plano de recuperação judicial",
+  "Duas contas independentes de transação: Demais Débitos (60 meses) e créditos de FGTS (80 parcelas)"
+ ],
+ "sector": "Indústria/Comércio (máquinas)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.2,
+  "guarantees": 0.6,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "total_discount_pct": "para pagamento da dívida não previdenciária em 60 (sessenta) meses, com aproveitamento do desconto de até 70% (setenta por cento)",
+  "installments": "para pagamento da dívida não previdenciária em 60 (sessenta) meses"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "guarantees"
+ ],
+ "id": "fc01ce3c9e77",
+ "title": "Termo de Transação Individual - Máquinas Piratininga Ind e Comércio SA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMquinasPiratiningaIndeComrcioSAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMquinasPiratiningaIndeComrcioSAtarjado.pdf",
+ "sha256": "61376a964b121df3619615b514c2e40acf65fe9985cdc7fb4d175a7288b2c33a",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

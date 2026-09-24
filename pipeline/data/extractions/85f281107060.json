@@ -1,0 +1,72 @@
+{
+ "taxpayer": "MINALICE MINERAÇÃO LTDA. e VILA REAL BEBIDAS LTDA.",
+ "approval_date": "2023-02-20",
+ "consolidated_amount": 59105465.12,
+ "modality": "Transação Individual",
+ "total_discount_pct": 36.1,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar/falsear/prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens ou direitos com propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Autorizar o acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar no prazo de 90 dias os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo",
+  "Peticionar em até 60 dias após a assinatura nos processos judiciais relativos à Dívida Transacionada, para noticiar a celebração da Transação, desistir de impugnações/recursos/ações e renunciar aos direitos sobre os quais se fundam"
+ ],
+ "special_clauses": [
+  "Não haverá oferta de garantia vinculada à presente Transação (item 3.1), em razão da redução considerável do prazo para pagamento",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 69,85% do saldo da dívida após aplicação dos descontos",
+  "Pagamento da Dívida Transacionada FGSP202201383 nos moldes da modalidade 63, com percentual global de desconto de 27,43% e pagamento do saldo devido aos trabalhadores à vista e o remanescente em 80 prestações",
+  "Pagamento da Dívida Transacionada CSSP202201384 nos moldes da modalidade 7, com percentual global de desconto de 47,91% e pagamento do saldo à vista"
+ ],
+ "sector": "Mineração e bebidas",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.95,
+  "installments": 0.9,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.2,
+  "obligations": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 59.105.465,12 (Cinquenta e nove milhões, cento e cinco mil, quatrocentos e sessenta e cinco reais e doze centavos).",
+  "total_discount_pct": "ocasionando um desconto global médio de 36,10%, na forma do Anexo II.",
+  "installments": "Pagamento da Dívida Transacionada, tanto a de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\"), quanto a de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 36 (trinta e seis) prestações mensais iguais e sucessivas, na forma discriminada no Anexo II;"
+ },
+ "review_fields": [
+  "sector",
+  "discounts",
+  "judicial_recovery",
+  "approval_date"
+ ],
+ "id": "85f281107060",
+ "title": "Termo de Transação Individual - Minalice Mineração LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMinaliceMineraoLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMinaliceMineraoLTDATarjado.pdf",
+ "sha256": "e63866ab5a2ebab6b4a05898ae8af8edd51daf1528959728340283432c2b75f8",
+ "extracted_at": "2026-07-22T14:22:48+00:00",
+ "simulated": false
+}

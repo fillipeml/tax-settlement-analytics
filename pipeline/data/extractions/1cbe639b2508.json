@@ -1,0 +1,77 @@
+{
+ "taxpayer": "REDE METODISTA DE ENSINO (Centro de Ensino Superior de Porto Alegre Ltda, Instituto Porto Alegre da Igreja Metodista, Instituto Metodista de Educação e Cultura, Instituto Metodista Centenário, Instituto Educacional Metodista de Passo Fundo, Instituto União de Uruguaiana da Igreja Metodista, Instituto Metodista de Ensino Superior, Instituto Educacional Piracicabano da Igreja Metodista, Instituto Metodista Izabela Hendrix, Instituto Metodista Granbery, Instituto Metodista de Educação - IMED, Instituto Metodista Bennett, Educa - Produtos e Serviços, COGEIME, Centro Wesleyano do Sul Paulista, Instituto Metodista Educacional de Altamira)",
+ "approval_date": "2023-10-06",
+ "consolidated_amount": 96155344.08,
+ "modality": "Transação individual com o FGTS - Modalidade 1",
+ "total_discount_pct": 5.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de matrícula 5388 do 1º Cartório de Registro de Imóveis de São Bernardo do Campo, avaliado em R$ 240.000.000,00, de propriedade do Instituto Metodista de Ensino Superior, integrante do Campus da Universidade Metodista de São Bernardo do Campo/SP"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar no prazo de 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas dos trabalhadores no prazo de 30 dias",
+  "Formalizar a penhora do imóvel dado em garantia em todas as Execuções Fiscais no prazo de 30 dias",
+  "Peticionar nos processos judiciais em até 60 dias para noticiar a transação, desistir de impugnações/recursos e renunciar a direitos"
+ ],
+ "special_clauses": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias, salvo os já previstos para alienação no Plano de Recuperação Judicial (processo 5035686-71.2021.8.21.0001)",
+  "Possibilidade de alienação do bem imóvel dado em garantia mediante prévia anuência da Fazenda Nacional, com valor arrecadado destinado à quitação das parcelas vincendas",
+  "Utilização do Sistema COMPREI da PGFN para eventual alienação dos bens imóveis dados em garantia",
+  "Pagamento do valor rescisório do trabalhador com recursos de depósitos judiciais existentes nos processos 0001088-86.2002.4.01.3800 e 5005023-41.2019.403.6114",
+  "Juros e multa pagos em 5 parcelas após o pagamento do parcelamento do valor principal (140 parcelas)",
+  "Correção das parcelas conforme Lei nº 8.036/1990",
+  "Pagamento da totalidade dos débitos de contribuição de FGTS rescisório (R$13.452.232,96) a título de entrada, sem incidência de desconto"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.8,
+  "modality": 0.85,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.7,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Consigna-se que o valor total negociado na presente transação de dívidas do FGTS é de R$96.155.344,08, considerando o valor da simulação enviada em 25/04/2023, por email, à Rede Metodista de Ensino.",
+  "total_discount_pct": "Modalidade 1: Desconto: 5,00%",
+  "installments": "O saldo devido será parcelado em até 145 prestações, conforme simulação realizada para cada CNPJ, sendo 140 parcelas relativas ao pagamento de valores devidos aos trabalhadores."
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "total_discount_pct"
+ ],
+ "id": "1cbe639b2508",
+ "title": "Termo de Transação Individual - Rede Metodista de Ensino (FGTS)",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRedeMetodistadeEnsinoInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRedeMetodistadeEnsinoInformaesSigilosasSuprimidas.pdf",
+ "sha256": "2acb56eaae6396ec13d9ffb46a013f1ef89df0c0cb420c72fc301f073b22aa41",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

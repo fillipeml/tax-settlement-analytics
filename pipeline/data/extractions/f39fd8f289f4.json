@@ -1,0 +1,70 @@
+{
+ "taxpayer": "RC VIEIRA ENGENHARIA LTDA - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-07-11",
+ "consolidated_amount": 93537921.22,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 70.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhora de recebíveis da DEVEDORA (10% dos contratos de obras vigentes)",
+  "Imóveis indicados no ANEXO V (Matrícula 35696 RGI de Itaboraí e Matrícula 41.265 RGI de Itaboraí)",
+  "Garantia fidejussória dos sócios-administradores"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações administrativas ou judiciais sobre a Dívida Transacionada",
+  "Renúncia a alegações de direito atuais ou futuras sobre os débitos transacionados",
+  "Comunicar alterações societárias à CREDORA em até 30 dias",
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União em até 90 dias",
+  "Manter regularidade perante o FGTS",
+  "Fornecer informações sobre bens, direitos e valores sempre que solicitado",
+  "Comunicar anualmente até 30/08 listagem de contratos de obras e recebimentos mensais"
+ ],
+ "special_clauses": [
+  "Desconto máximo de 70% incidente sobre a Dívida Transacionada, vedada a redução do montante principal, aplicado proporcionalmente sobre acréscimos legais (multa, juros e encargos)",
+  "Autorização de compensação de restituições/ressarcimentos da RFB e de precatórios federais com prestações do acordo",
+  "Penhora de recebíveis vinculada a contratos de obras vigentes, com listagem anual obrigatória"
+ ],
+ "sector": "Construção civil / Engenharia",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.9,
+  "installments": 0.75,
+  "down_payment_pct": 0.0,
+  "discounts": 0.7,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Das inscrições previdenciárias, constantes do ANEXO I, totalizando R$25.859.161,59, atualizados em JUNHO/2024; ... Das inscrições não previdenciárias, constantes do ANEXO II, totalizando R$ 67.678.759,63, atualizados em JUNHO/2024",
+  "total_discount_pct": "Concessão do desconto máximo de 70% (setenta por cento) incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento do saldo remanescente dos débitos de natureza não previdenciária efetuado em 120 (cento e vinte) meses, por meio de parcelas escalonadas"
+ },
+ "review_fields": [
+  "sector",
+  "installments",
+  "discounts",
+  "down_payment_pct"
+ ],
+ "id": "f39fd8f289f4",
+ "title": "Termo de Transação Individual - RC Vieira Engenharia LTDA em recuperação judicial",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualRCVieiraEngenhariaLTDAemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualRCVieiraEngenhariaLTDAemrecuperaojudicialtarjado.pdf",
+ "sha256": "a2b22a08139ffc5d4a6fdd3218b003cef0a49af0facbfcdd5c2bf6d94fd27dd1",
+ "extracted_at": "2026-07-22T14:22:31+00:00",
+ "simulated": false
+}

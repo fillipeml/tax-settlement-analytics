@@ -1,0 +1,78 @@
+{
+ "taxpayer": "COR BRASIL INDUSTRIA E COMERCIO S/A e BN SERVIÇOS DE MEIOS DE PAGAMENTO LTDA (grupo econômico: BELEZA NATURAL CABELEIREIROS LTDA, BELEM ASSIS CABELEIREIROS LTDA, BN SERVIÇOS LTDA, AUTOESTIMA PARTICIPAÇÕES S.A)",
+ "approval_date": "2022-09-16",
+ "consolidated_amount": 134971042.41,
+ "modality": "Transação individual",
+ "total_discount_pct": 55.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 55.0
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Recebíveis oriundos de vendas a crédito e/ou débito, conforme contrato de prestação de serviço celebrado por BN SERVIÇOS DE MEIOS DE PAGAMENTO LTDA com a PAGUESEGURO INTERNET S.A.",
+  "5% do faturamento mensal da devedora COR BRASIL INDUSTRIA E COMERCIO S/A",
+  "Bens móveis que compõe o ativo imobilizado dos DEVEDORES",
+  "Veículo modelo Corolla XEI, marca Toyota"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável de todos os débitos inscritos listados no ANEXO I, renovada a cada pagamento periódico",
+  "Renúncia a quaisquer alegações de direito sobre créditos incluídos na transação",
+  "Interrupção da prescrição de todos os débitos objeto do acordo a cada pagamento efetuado",
+  "Compromisso de, no prazo máximo de 90 dias, pagar, parcelar, ou garantir novos débitos inscritos em Dívida Ativa da União após a formalização do acordo",
+  "Compromisso de manter regularidade perante o FGTS",
+  "Autorização de acesso pela CREDORA às declarações e escritas fiscais e informações sobre movimentação financeira",
+  "Declaração de não terem alienado ou onerado bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declaração de que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Autorização para compensação de restituições, ressarcimentos ou reembolsos com prestações do acordo",
+  "Autorização para compensação de precatórios federais com prestações do acordo",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Não utilizar pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens"
+ ],
+ "special_clauses": [
+  "Reconhecimento de grupo econômico de fato entre os DEVEDORES e demais pessoas jurídicas listadas (BELEZA NATURAL CABELEIREIROS LTDA, BELEM ASSIS CABELEIREIROS LTDA, BN SERVIÇOS LTDA, AUTOESTIMA PARTICIPAÇÕES S.A), com corresponsabilidade entre elas",
+  "Inclusão do devedor BN SERVIÇOS DE MEIOS DE PAGAMENTO LTDA como corresponsável, com garantias específicas oferecidas",
+  "Possibilidade de inclusão de débitos em fase administrativa (ANEXO II) no acordo, com revisão do saldo devedor",
+  "Manutenção do arrolamento de bens e direitos do processo administrativo nº 18470.727705/2021-30"
+ ],
+ "sector": "Beleza/estética (salões de beleza) e serviços de meios de pagamento",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.75,
+  "installments": 0.9,
+  "down_payment_pct": 0.3,
+  "discounts": 0.6,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.2,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal dos DEVEDORES, inscrito em Dívida Ativa da União, é composto pelos débitos discriminados no ANEXO I, totalizando R$ 134.971.042,41, referente ao mês de abril de 2022.",
+  "total_discount_pct": "Débitos não previdenciários ... Valor Consolidado das Inscrições em abril/2022 R$ 45.512.804,42 % Desconto efetivo Possível até 55% / Débitos Previdenciários ... R$ 89.458.237,99 % Desconto efetivo Possível até 55%",
+  "installments": "2.3. O plano de pagamento prevê o recolhimento de 120 parcelas mensais para os créditos não previdenciários, e 60 parcelas mensais para os créditos previdenciários"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "total_discount_pct"
+ ],
+ "id": "498b71aa2d9a",
+ "title": "Termo de Transação Individual - Cor Brasil Indústria e Comércio SA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualCorBrasilIndustriaeComercioSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualCorBrasilIndustriaeComercioSA.pdf",
+ "sha256": "6e860074cb69be81b810c23f909b17bd36f55959ba898cc82530ca609ca5d749",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

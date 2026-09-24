@@ -1,0 +1,80 @@
+{
+ "taxpayer": "PLASTER SERVICOS DE PRENSAGEM E ENVASAMENTO PLASTICO EIRELI - EPP",
+ "approval_date": "2021-05-20",
+ "consolidated_amount": 249351459.54,
+ "modality": "Transação individual",
+ "total_discount_pct": 47.811,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança pessoal, conjunta e solidária prestada pelas partes POLIREX COMÉRCIO e POLIREX INDÚSTRIA, com renúncia ao benefício de ordem (art. 827) e ao direito de exoneração (art. 835) do Código Civil"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Renúncia a alegações de direito sobre créditos transacionados, com extinção de processos com resolução de mérito (art. 487, III, 'c', CPC)",
+  "Interrupção da prescrição a cada pagamento efetuado (art. 174, parágrafo único, IV, CTN)",
+  "Compromisso de, no prazo de 90 dias, pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa após a formalização do acordo",
+  "Compromisso de manter regularidade perante o FGTS",
+  "Autorização de acesso pela Fazenda Nacional às declarações e escritas fiscais e informações sobre movimentação financeira",
+  "Declaração de não ter alienado ou onerado bens com propósito de frustrar a recuperação dos créditos",
+  "Declaração de veracidade das informações cadastrais, patrimoniais e econômico-fiscais prestadas",
+  "Não alienar bens ou direitos próprios ou de controladores/administradores sem comunicação prévia à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Não utilizar pessoa interposta para ocultar origem/destinação de bens, direitos e valores",
+  "Declarar cessão de recebíveis a terceiros à Fazenda Nacional",
+  "Reforçar ou substituir garantias que se revelem inidôneas, quando notificada",
+  "Apresentar, em 15 dias, relação de bens particulares dos controladores/administradores/gestores/representantes legais",
+  "Cadastrar-se na plataforma REGULARIZE em até 15 dias"
+ ],
+ "special_clauses": [
+  "Eventuais créditos que a REQUERENTE venha a dispor (precatório, levantamento de depósito judicial ou outro meio) deverão ser direcionados para amortização antecipada ou proporcional dos saldos devedores, podendo optar por manter o parcelamento em 145 meses",
+  "Fiadoras assumem obrigações específicas de comunicação em 20 dias sobre eventos que comprometam a garantia (item 6.3.2), incluindo classificação na escala Kanitz abaixo de -3 ou de ambas abaixo de 0",
+  "Fiadoras devem quitar parcelas vencidas e não pagas pela REQUERENTE no prazo de 20 dias da notificação de inadimplemento"
+ ],
+ "sector": "Indústria de plásticos",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Consolidado: 249.351.459,54 (Valores de Maio/2021)",
+  "total_discount_pct": "% Desconto Concedido: 47,811%",
+  "installments": "O plano de pagamento relativo aos débitos não previdenciários (Anexo II) prevê o recolhimento de 145 parcelas mensais, de acordo com a seguinte progressão"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery",
+  "special_clauses"
+ ],
+ "id": "6774ebcfe1b3",
+ "title": "Termo de Transação Individual - Plaster",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-plaster.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-plaster.pdf",
+ "sha256": "4b4378de7635bd39fdcf246ec37e678d030fe3ed1624bdbc5e72501419aac315",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

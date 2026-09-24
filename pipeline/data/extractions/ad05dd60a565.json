@@ -1,0 +1,76 @@
+{
+ "taxpayer": "FRANNEL DISTRIBUIDORA DE PETROLEO LTDA e ESPÓLIO DE FRANCISCO JOSÉ CARVALHO DE OLIVEIRA",
+ "approval_date": "2022-12-12",
+ "consolidated_amount": 143215426.34,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Direitos sobre 1.600.000 toneladas de minério de ferro objeto de Escritura Pública lavrada perante o Cartório de Registro Civil e Tabelionato de Notas 'Cid Dessaune', em Vila Velha/ES",
+  "Manutenção das penhoras já constituídas nos processos de execução fiscal do DEVEDOR"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Emitir o DARF para pagamento da parcela única através do portal REGULARIZE",
+  "Desistir de impugnações, recursos e ações administrativas ou judiciais relativas à Dívida Transacionada, em até 30 dias da assinatura",
+  "Reconhecer e confessar de forma irrevogável e irretratável a dívida",
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional durante a vigência do acordo",
+  "Não utilizar pessoa interposta para ocultar bens, direitos e valores",
+  "Permanecer nos parcelamentos já aderidos, honrando os pagamentos até completa quitação das CDAs",
+  "No prazo de 90 dias, pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União",
+  "Fornecer informações sobre bens, direitos, valores e operações sempre que solicitado",
+  "Comunicar ao Cartório de Registro Civil e Tabelionato de Notas 'Cid Dessaune' a constituição da garantia em até 5 dias da assinatura",
+  "Publicar em jornal de circulação regional a efetivação do Acordo de Transação Tributária",
+  "Reconhecer responsabilidade solidária pelo passivo fiscal das sociedades listadas no item 5.1"
+ ],
+ "special_clauses": [
+  "Garantia consistente em direitos sobre minério de ferro (1.600.000 toneladas) de propriedade de interveniente, com possibilidade de retirada de amostra e alienação a terceiros para quitação/amortização (cláusulas 3.1, 7.1.1 e 7.2)",
+  "Carta de intenção de aquisição de 800.000 toneladas de minério 'Sinter Feed' por AMS Crossborder Consulting LLC (Anexo VII)",
+  "Possibilidade de migração das inscrições para programa de parcelamento especial mais vantajoso posteriormente editado (cláusula 7.5)"
+ ],
+ "sector": "Distribuição de combustíveis",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.3,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.3,
+  "discounts.interest_pct": 0.3,
+  "discounts.charges_pct": 0.3,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.3,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "totalizando R$ 143.215.426,34 (cento e quarenta e três milhões, duzentos e quinze mil, quatrocentos e vinte e seis reais e trinta e quatro centavos), atualizado em 14.12.2022",
+  "total_discount_pct": "será concedido o desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a Dívida Transacionada de natureza não previdenciária e previdenciária pertencente à FAZENDA NACIONAL",
+  "installments": "O pagamento do débito será efetuado por meio de pagamento de parcela única, cujo vencimento ocorrerá em 28/04/2023"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "ad05dd60a565",
+ "title": "Termo de Transação Individual - Frannel Distribuidora de Petroleo LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualFrannelDistribuidoradePetroleoLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualFrannelDistribuidoradePetroleoLTDA.pdf",
+ "sha256": "37ae6c389078123b48bc8752d1fe183abca30b2ae8cadc53d6ae188ba35dca24",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

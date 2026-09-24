@@ -1,0 +1,80 @@
+{
+ "taxpayer": "REUNIDAS S/A TRANSPORTES COLETIVOS - EM RECUPERAÇÃO JUDICIAL, REUNIDAS TRANSPORTADORA RODOVIÁRIA DE CARGAS S.A. - EM RECUPERAÇÃO JUDICIAL, REAL TRANSPORTE E TURISMO S.A - EM RECUPERAÇÃO JUDICIAL, REUNIDAS TRANSPORTES S/A",
+ "approval_date": "2023-06-30",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhora sobre imóveis diversos (matrículas identificadas no Anexo II e Cláusula 11)",
+  "Imóvel situado na Rodovia BR 116 nº 23.580 ou Rua Francisco Sobânia nº 1.195, bairro CIC – Cidade Industrial, Curitiba/PR",
+  "Loja \"V\" (5) e boxes 33 e 34, do Super Mercado Municipal de Florianópolis/SC",
+  "Matrícula nº 29.535, do RI de Caçador/SC",
+  "Imóvel 36.381, do RI de Curitiba/PR, Travessa Itararé, nº 43, conjunto comercial nº 11, Edifício Itararé, Centro, Curitiba/PR",
+  "Penhora a ser requerida perante juízos das execuções fiscais sobre imóveis das matrículas do RI de Tubarão/SC, RI de Florianópolis/SC e RI de Fpolis/SC",
+  "Penhora sobre imóveis das matrículas do RI de Caçador/SC, RI de Cascavel/PR e RI de Lages/SC"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Renunciar a alegações de direito, ações e recursos referentes à dívida transacionada",
+  "Promover a desistência de impugnações, recursos e ações judiciais e administrativas no prazo de 30 dias",
+  "Efetuar os pagamentos das parcelas acordadas nas datas e épocas estabelecidas",
+  "Manter regularidade nos programas de parcelamentos a que aderiu antes do acordo",
+  "Manter regularidade com tributos correntes, inclusive FGTS",
+  "Não alienar ou onerar bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento",
+  "Realizar comunicações relativas à transação por meio de requerimento administrativo no SICAR/REGULARIZE",
+  "Utilizar créditos apurados contra a União para pagamento de parcelas",
+  "Adotar providências para venda dos imóveis identificados no Anexo II",
+  "Acessar sistema informatizado no prazo de 15 dias após assinatura do termo",
+  "Regularizar no prazo de 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não alienar direitos reais ou pessoais até cumprimento integral da avença, sem dar em penhora conforme cláusula 11",
+  "Peticionar nos processos judiciais no prazo de 60 dias, noticiando a celebração da transação"
+ ],
+ "special_clauses": [
+  "Possibilidade de quitação de parcelas específicas (12ª, 24ª, 36ª, 48ª e 60ª) mediante créditos líquidos e certos devidos pela União",
+  "Flexibilização de garantias mediante substituição por garantia equivalente ou de valor e liquidez superiores (Cláusula 11)",
+  "Previsão de alienação particular de imóveis do Anexo II com produto destinado à amortização/quitação de parcelas (Cláusula 11, §1º)",
+  "Reconhecimento de que parte dos débitos pode ter sido atingida por coisa julgada em ações judiciais específicas (Parágrafo segundo, Cláusula 4ª)",
+  "Substituição ou reforço de garantia em caso de perecimento, depreciação ou deterioração que reduza seu valor em mais de 30%"
+ ],
+ "sector": "Transporte rodoviário (cargas e passageiros)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.85,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "discounts": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments",
+  "discounts"
+ ],
+ "id": "c3ac5d71a2cb",
+ "title": "Termo de Transação Individual - Reunidas SA Transportes Coletivos em recuperação judicial",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualReunidasSATransportesColetivosemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualReunidasSATransportesColetivosemrecuperaojudicialtarjado.pdf",
+ "sha256": "d5f73051e1b4b1cc5806f64a55aa5a25f1859d502ef1049d4159e6a13d0bb99d",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

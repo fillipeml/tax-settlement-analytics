@@ -1,0 +1,65 @@
+{
+ "taxpayer": "INSTITUTO DE PREVIDÊNCIA SOCIAL DO MUNICÍPIO DE CAMPINAS - CAMPREV",
+ "approval_date": "2024-08-15",
+ "consolidated_amount": 53110196.25,
+ "modality": "Transação Individual",
+ "total_discount_pct": 61.1,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 6.0,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar, falsear ou prejudicar a livre concorrência ou iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens, direitos e valores",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação"
+ ],
+ "special_clauses": [
+  "Considerando tratar-se de autarquia, cujos bens são públicos e impenhoráveis, fica afastada a necessidade da requerente ofertar garantias.",
+  "Fixação de honorários advocatícios na ação anulatória n. 5005035-14.2021.4.03.6105 no valor de R$ 1.752.399,76 (atualizado para 06/2024), com desconto de 61,10% para pagamento em parcela única (R$ 681.683,51) no prazo de 90 dias",
+  "A União desiste expressamente de qualquer cobrança de honorários advocatícios nos embargos à execução n. 5009638-62.2023.4.03.6105"
+ ],
+ "sector": "Previdência social (autarquia municipal)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "down_payment_pct": 1.0,
+  "installments": 0.95,
+  "discounts": 0.3,
+  "guarantees": 0.95,
+  "judicial_recovery": 0.5,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 53.110.196,25 (cinquenta e três milhões, cento e dez mil, cento e noventa e seis reais e vinte e cinco centavos) (Valores atualizados para julho de 2024)",
+  "total_discount_pct": "PERCENTUAL DE DESCONTO EFETIVO 61,10%",
+  "installments": "O prazo máximo previsto para pagamento será de 120 (cento e vinte) meses para a Dívida Transacionada",
+  "down_payment_pct": "pagamento de entrada de 6% do valor consolidado da dívida (sem descontos) pagos em 6 prestações mensais e sucessivas, e o restante em 114 prestações mensais e sucessivas com a concessão de desconto máximo de 65%"
+ },
+ "review_fields": [
+  "sector",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "a06ea23fe1e7",
+ "title": "Instituto de Previdência Social do Municíipio de Campinas - Camprev",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualInstitutodePrevidnciaSocialdoMunicpiodeCampinasCamprevTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualInstitutodePrevidnciaSocialdoMunicpiodeCampinasCamprevTarjado.pdf",
+ "sha256": "4b6f2d15c75157a11e88ba82eb8e0c12f1cbd17b4b07267d94a0a0780583e68e",
+ "extracted_at": "2026-07-22T14:22:45+00:00",
+ "simulated": false
+}

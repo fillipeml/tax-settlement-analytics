@@ -1,0 +1,69 @@
+{
+ "taxpayer": "LOJAS GUIDO COMÉRCIO LTDA",
+ "approval_date": "2023-04-12",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis (penhoras mantidas nos executivos fiscais em trâmite na Justiça Federal de Alagoas)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Apresentar demonstrações contábeis e patrimoniais anualmente",
+  "Não alienar bens sem comunicação à Fazenda Nacional",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relativas aos débitos",
+  "Peticionar nos processos judiciais em até 60 dias após a assinatura"
+ ],
+ "special_clauses": [
+  "Autorização de utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL (art. 8º, I, Portaria PGFN 6.757/2022)",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias, exceto valores bloqueados em contas judiciais que serão convertidos em pagamento definitivo"
+ ],
+ "sector": "Comércio",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "installments": "Pagamento da dívida transacionada de natureza não previdenciária em 120 (cento) prestações mensais"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "3d6d537492e1",
+ "title": "TermodeTransaoIndividualLojasGuidoComrcioLTDA.pdf",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualLojasGuidoComrcioLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualLojasGuidoComrcioLTDA.pdf",
+ "sha256": "29b1142c03d29bd8c15e9fb434ecd3fb689103589cb8c46b636b7b048d54bca9",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

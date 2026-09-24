@@ -1,0 +1,74 @@
+{
+ "taxpayer": "PIRACICABA AMBIENTAL SOCIEDADE ANÔNIMA",
+ "approval_date": "2024-06-20",
+ "consolidated_amount": 132261008.73,
+ "modality": "Transação Individual",
+ "total_discount_pct": 47.72,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer suas situações econômicas ou eventuais fatos que impliquem a rescisão do acordo",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar de qualquer forma a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores, seus reais interesses ou a identidade dos beneficiários de seus atos, em prejuízo da Fazenda Pública Federal",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas à administração tributária são verdadeiras e que não foram omitidas informações quanto à propriedade de bens, direitos e valores",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União, reconhecidos em decisão judicial transitada em julgado, ou precatórios federais expedidos em favor do contribuinte",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 (noventa) dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos neste termo, sem proceder à devida comunicação à Fazenda Nacional",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo, tendo em vista a utilização de prejuízo fiscal e base de cálculo negativa de CSLL"
+ ],
+ "special_clauses": [
+  "Desconto máximo de 65% a cada uma das CDAs, observada a Capacidade de Pagamento da empresa, vedada a redução do montante principal, aplicado proporcionalmente sobre os acréscimos legais (multa, juros e encargos), gerando desconto global médio de 47,72%",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 29,84% do saldo da dívida após a aplicação dos descontos",
+  "Cobrança do saldo liquidado com uso de créditos de PF/BCN ficará suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de cinco anos",
+  "Não haverá oferta de garantia vinculada à presente Transação, considerando que a negociação teve como objetivo a redução considerável do prazo para pagamento"
+ ],
+ "sector": "Saneamento/Gestão Ambiental",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.4,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "installments": 1.0,
+  "down_payment_pct": 0.9,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.3,
+  "obligations": 0.9,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 132.261.008,73 (cento e trinta e dois milhões, duzentos e sessenta e um mil, oito reais e setenta e três centavos)",
+  "total_discount_pct": "sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), gerando desconto global médio de 47,72%, na forma do Anexo II",
+  "installments": "Pagamento da Dívida Transacionada, tanto a de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\"), quanto a de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 48 (quarenta e oito) prestações mensais sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "14b2c9f063a4",
+ "title": "Termo de Transação Individual - Piracicaba Ambiental Sociedade Anônima",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/copy_of_TermodeTransaoIndividualPiracicabaAmbientalSociedadeAnnimatarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/copy_of_TermodeTransaoIndividualPiracicabaAmbientalSociedadeAnnimatarjado.pdf",
+ "sha256": "e7fe25cc90d074c9bb65cf8487f51272c11166fcb0dce06e287a234f70d3d61b",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

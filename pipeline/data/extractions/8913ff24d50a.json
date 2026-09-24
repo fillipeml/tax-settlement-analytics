@@ -1,0 +1,68 @@
+{
+ "taxpayer": "PCG – ENGENHARIA DE SISTEMAS LTDA",
+ "approval_date": "2023-10-20",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 49.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Ficam mantidas todas as garantias eventualmente já associadas aos débitos incluídos nesta transação individual, até a sua plena quitação, inclusive penhoras prévias em execuções fiscais."
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Não alienar bens ou direitos sem proceder à devida comunicação à Fazenda Nacional",
+  "Não utilizar ou reconhecer a utilização de pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores",
+  "Não alienar, onerar ou ocultar bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil apurado ou sempre que a PGFN reputar oportuno",
+  "Manter o recolhimento das obrigações tributárias correntes e obrigações acessórias dependentes da obrigação principal",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo de transação individual"
+ ],
+ "special_clauses": [
+  "Direito creditório superveniente que venha a ser monetizado em favor do devedor, incluindo eventuais precatórios, será vertido para o pagamento da presente transação, ainda que seja para antecipação de parcelas não vencidas (Cláusula 14)"
+ ],
+ "sector": "Engenharia/Tecnologia de Sistemas",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.4,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 49% (quarenta e nove por cento), observadas suas capacidades de pagamento (CAPAG)",
+  "installments": "para pagamento de forma escalonada no prazo de 120 (cento e vinte) meses, a dívida não-previdenciária, e no prazo de 60 (sessenta meses), a dívida previdenciária"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "judicial_recovery"
+ ],
+ "id": "8913ff24d50a",
+ "title": "Termo de Transação Individual - PCG Engenharia de Sistemas LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualPCGEngenhariadeSistemasLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualPCGEngenhariadeSistemasLTDAtarjado.pdf",
+ "sha256": "5113accb14c7505b92df5ebb64dadf53e1db89b3c298dc7fa90d0df5f738555b",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

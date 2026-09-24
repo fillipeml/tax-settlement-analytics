@@ -1,0 +1,81 @@
+{
+ "taxpayer": "EMEC ENGENHARIA E CONSTRUÇÕES LTDA. (CNPJ 16.700.270/0001-45)",
+ "approval_date": "2022-05-30",
+ "consolidated_amount": 17402554.84,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": 6.0,
+ "guarantees": [
+  "Bem imóvel denominado \"Fazenda Santa Bárbara\" (oferecido pela Terceira Garantidora MLJ Participações e Empreendimentos Ltda.)"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos relacionados no ANEXO I",
+  "Renúncia a alegações de direito e desistência de ações/recursos judiciais no prazo de 30 dias",
+  "Obtenção de renúncia do cônjuge litisconsorte no processo 0007185-39.2015.4.01.3803",
+  "Petição em execuções fiscais para noticiar o acordo e suspender trâmite (art. 922 CPC)",
+  "Responsabilidade solidária pelas dívidas do Anexo I",
+  "Manter regularidade de FGTS e tributos federais correntes",
+  "Garantir ou parcelar novos débitos inscritos em dívida ativa em até 30 dias",
+  "Informar previamente à PGFN alienação/disposição de bens e direitos",
+  "Fornecer informações econômico-fiscais quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias",
+  "Efetuar tempestivamente os pagamentos das prestações",
+  "Declaração de veracidade das informações cadastrais e patrimoniais",
+  "Manter regularidade da conta SISPAR nº 3813358",
+  "Pagamento de honorários advocatícios de R$250.000,00 até 30/06/2022",
+  "Apresentar reavaliação particular do imóvel em garantia a cada 3 anos"
+ ],
+ "special_clauses": [
+  "Terceira Garantidora (MLJ Participações e Empreendimentos Ltda.) oferece imóvel próprio (Fazenda Santa Bárbara) como garantia em favor da devedora principal",
+  "Nomeação da União como procuradora do Terceiro Garantidor em caso de desapropriação do bem em garantia",
+  "Possibilidade de substituição de garantia mediante requerimento e análise de conveniência da PGFN",
+  "Possibilidade de transferência dos débitos para novo programa de parcelamento ou transação mais benéfica, com transferência da garantia",
+  "Liberação de constrições judiciais sobre outros imóveis após registro da penhora do bem em garantia"
+ ],
+ "sector": "Engenharia e construção",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.0,
+  "installments": 0.9,
+  "down_payment_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.5,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Previdenciário 3.147.689,07 ... Não previdenciário 14.254.865,77",
+  "installments": "Prazo para pagamento da dívida transacionada em até 145 (cento e quarenta e cinco) meses",
+  "down_payment_pct": "Pagamento de entrada, equivalente a 6% (seis por cento) do valor dos DEMAIS DÉBITOS, em parcela única com vencimento em 30/06/2022."
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "e2d0e719143e",
+ "title": "Termo de Transação Individual  - EMEC ENGENHARIA",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TERMODETRANSAOINDIVIDUALEMECENGENHARIA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TERMODETRANSAOINDIVIDUALEMECENGENHARIA.pdf",
+ "sha256": "b66643b8f705d61712ab37b0a092db5dc0c12d1e93757be2d2444fc0bcf58bc3",
+ "extracted_at": "2026-07-21T19:02:01+00:00",
+ "simulated": false
+}

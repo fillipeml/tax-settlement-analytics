@@ -1,0 +1,81 @@
+{
+ "taxpayer": "GRUPO AGROMINAS",
+ "approval_date": "2021-08-01",
+ "consolidated_amount": 93649365.63,
+ "modality": "Transação Individual (excepcional)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis relacionados no Anexo III",
+  "Alienação fiduciária sobre os bens do Anexo III",
+  "Conversão em renda de depósitos judiciais"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessar de forma irrevogável e irretratável os débitos relacionados nos ANEXOS I e II",
+  "Renunciar a alegações de direito e questionamentos administrativos e judiciais dos débitos",
+  "Manter a regularidade das obrigações de FGTS e tributárias federais correntes",
+  "Garantir ou parcelar novos débitos inscritos em dívida ativa no prazo de 90 dias",
+  "Manter as garantias oferecidas relacionadas no Anexo III",
+  "Informar previamente à PGFN alienação ou disposição de bens e direitos",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não constituir nova pessoa jurídica que diminua garantias ou valores de pagamento",
+  "Efetuar tempestivamente os pagamentos das amortizações mensais e anuais",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Declarar que não alienará bens com propósito de frustrar recuperação de créditos",
+  "Apresentar situação econômico-financeira anualmente ou quando solicitado pela PGFN",
+  "Recolher obrigações tributárias correntes e cumprir obrigações acessórias"
+ ],
+ "special_clauses": [
+  "Cláusula 40: possibilidade de suspensão dos pagamentos em caso de adesão a programa de parcelamento extraordinário mais benéfico, com retomada em caso de rescisão",
+  "Cláusula 21: possibilidade de substituição dos bens do Anexo III por outros imóveis, depósito ou seguro-garantia",
+  "Cláusula 9ª: depósito de R$ 40.000,00 antes da hasta pública como primeira prestação da transação",
+  "Não inclusão das pessoas físicas Valter Vasco Siqueira, Roni Rodrigues Siqueira, Marcelo de Andrade Genares, espólio de Jesus José Alves e Derci Siqueira Alves na transação individual, mantendo prosseguimento da cautelar fiscal em relação a elas"
+ ],
+ "sector": "Agronegócio/Florestal",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal do GRUPO AGROMINAS inscrito em dívida ativa da União e do FGTS é composto por todos os créditos tributários relacionados nos ANEXOS I e II, totalizando R$ 93.649.365,63, referente ao mês de julho de 2021",
+  "installments": "O prazo para pagamento dos débitos será de 60 (sessenta) meses."
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "ce006ab53af0",
+ "title": "Termo de Transação Individual - Agrominas",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualAgrominas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualAgrominas.pdf",
+ "sha256": "cd3fa1030d2aa1c419bdcbfc0e5aceb247e71dc78ac3e055aebf9319d07189fa",
+ "extracted_at": "2026-07-21T19:09:53+00:00",
+ "simulated": false
+}

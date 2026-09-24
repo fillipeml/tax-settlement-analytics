@@ -1,0 +1,87 @@
+{
+ "taxpayer": "Grupo NUTRI HOSPITALAR (NUTRI HOSPITALAR ALIMENTACAO E SERVICOS LTDA e outras empresas do grupo econômico)",
+ "approval_date": "2024-02-14",
+ "consolidated_amount": 54284995.9,
+ "modality": "Transação Individual (modalidades DEMAIS e PREV)",
+ "total_discount_pct": 58.22,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas administrativamente ou em execuções fiscais/ações judiciais",
+  "Garantia adicional: Contrato 3.2.1, vigência 60 meses, valor R$ 5.459.544,72 (dados do contrato tarjados)",
+  "Garantia adicional: Contrato 3.2.2, vigência 20/08/2021 a 20/08/2026, valores R$ 8.691.204,12 por ano (dados do contrato tarjados)",
+  "Garantia adicional: item 3.2.3, vigência 06/2020 a 06/2025 (60 meses), valor R$ 4.898.999,52 (dados tarjados)",
+  "Oferecimento de bem à penhora nos autos da execução fiscal nº 5001681-98.2023.4.03.6108"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar sob as penas da lei que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens, direitos e valores",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Regularizar em 30 dias o saldo decorrente da reconsolidação da conta de transação individual",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos fiscais, inclusive comprobatórios do prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo",
+  "Formalizar a garantia ofertada em até 30 dias mediante oferecimento de bem à penhora",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da transação, desistir de impugnações/recursos e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Utilização na modalidade DEMAIS DÉBITOS de crédito no valor de R$ 10.468.525,66 a título de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, para amortização do saldo devedor após aplicação dos descontos",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal e base de cálculo negativa da CSLL ficará suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de cinco anos",
+  "Direcionamento de eventuais créditos obtidos por precatório, levantamento de depósito judicial ou outro meio perante a União (ou outros entes federados) para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Fornecimento de alimentação coletiva/preparada para empresas (com uma empresa de obras de urbanização no grupo)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.75,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.7,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "GRUPO 54.284.995,90 29.766.354,36 (DEMAIS DÉBITOS) / 22.395.817,60 12.186.853,88 (PREVIDENCIÁRIO)",
+  "total_discount_pct": "Na modalidade DEMAIS, desconto máximo de até 58,22% a cada uma das CDAs, individualmente, vedada a redução do montante principal... Na modalidade PREV, desconto máximo de até 58,22% a cada uma das CDAs, individualmente",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 60 prestações mensais e sucessivas... Parcelamento do saldo devido na modalidade PREV em até 60 prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "35d1bb58b48a",
+ "title": "copy_of_TermodetransaoindividualNutriHospitalaralimentacaoeservicosLTDA.pdf",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/copy_of_TermodetransaoindividualNutriHospitalaralimentacaoeservicosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/copy_of_TermodetransaoindividualNutriHospitalaralimentacaoeservicosLTDA.pdf",
+ "sha256": "97958741c6f74ce1d22c602bd4f61a3bae0cd706f8a5e0822f8f3ca6bc340f15",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

@@ -1,0 +1,82 @@
+{
+ "taxpayer": "MULTILIGHT LANTERNAS LTDA (também referida como MULTILIGHT PLÁSTICOS) em recuperação judicial, CNPJ 03.705.501/0001-61 e RGR PARTICIPAÇÕES LTDA, CNPJ 06.968.813/0001-56",
+ "approval_date": "Not identified",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar origem/destinação de bens",
+  "Declarar que não alienaram ou oneraram bens com propósito de frustrar recuperação de créditos",
+  "Cumprir exigências e obrigações da Portaria PGFN nº 6757/22 e da proposta",
+  "Declarar veracidade de informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações/recursos referentes aos créditos incluídos na transação",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não distribuir lucros ou dividendos a sócios/acionistas até aprovação do plano de recuperação judicial",
+  "Manter livros e documentos fiscais por 5 anos em razão do uso de créditos de PF/BCN",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultado",
+  "Manter obrigações tributárias correntes e acessórias",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas do FGTS dos trabalhadores",
+  "Desistir de impugnações, recursos administrativos e ações judiciais relacionadas aos débitos incluídos"
+ ],
+ "special_clauses": [
+  "Uso de créditos de prejuízo fiscal (IRPJ) e base de cálculo negativa de CSLL (BCN) para amortização do saldo devedor, sujeito à homologação da RFB em até 5 anos",
+  "Rating de classificação de recuperabilidade das devedoras é 'D'",
+  "Parcelamento previdenciário (Anexo III) em até 60 parcelas, distinto das demais dívidas (120 parcelas)",
+  "Parcelas acrescidas de juros SELIC + 1% no mês do pagamento",
+  "Débitos do FGTS não sofrem desconto sobre valores devidos aos trabalhadores",
+  "Hipóteses específicas de rescisão vinculadas à situação de recuperação judicial (decretação de falência, extinção sem resolução de mérito ou não concessão da recuperação judicial)"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.1,
+  "modality": 0.95,
+  "approval_date": 0.2,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.75,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.3,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "o saldo devedor será pago em 120 (cento e vinte) parcelas lineares, mensais e sucessivas, conforme os valores estipulados no anexo IV"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "installments",
+  "guarantees"
+ ],
+ "id": "e22fde9d0a12",
+ "title": "Termo de Transação Individual - Multilight Plásticos LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualMultilightPlsticosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualMultilightPlsticosLTDATarjado.pdf",
+ "sha256": "ab8db1959a211c5a2d026a514253d450cb66a27f665141f61223ea4c21ee5ea2",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

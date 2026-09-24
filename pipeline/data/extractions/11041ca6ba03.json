@@ -1,0 +1,54 @@
+{
+ "taxpayer": "CONSTRUTORA BETER S/A - FALIDA",
+ "approval_date": "Not identified",
+ "consolidated_amount": 34550404.87,
+ "modality": "Transação individual",
+ "total_discount_pct": 64.22,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": 0.0,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Construção civil",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "approval_date": 0.0,
+  "modality": 0.6,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.75,
+  "guarantees": 0.3,
+  "obligations": 0.2,
+  "judicial_recovery": 0.85,
+  "special_clauses": 0.2
+ },
+ "source_excerpts": {
+  "consolidated_amount": "34.550.404,87 8.592.068,71 25.958.336,16",
+  "total_discount_pct": "64,22",
+  "installments": "NÚMERO DE PARCELAS - PGFN | Previdenciária: 1 | Demais Débitos: 1"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "modality",
+  "guarantees",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "11041ca6ba03",
+ "title": "Sumário - Construtora Beter S/A - Falida",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioConstrutoraBeterSAFalida.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioConstrutoraBeterSAFalida.pdf",
+ "sha256": "63908138acedf304f7ec028b8a50eea125f4699a9460b4f3407f08c327aa6193",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

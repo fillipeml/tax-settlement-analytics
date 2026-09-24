@@ -1,0 +1,84 @@
+{
+ "taxpayer": "SUPERGESSO S.A. INDÚSTRIA E COMÉRCIO; MINERADORA RANCHARIA LTDA; INDÚSTRIA DE GESSOS ESPECIAIS LTDA",
+ "approval_date": "2025-01-24",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bem imóvel matrícula nº 4163 do RGI de Araripina",
+  "Imóveis oferecidos à penhora nas Execuções Fiscais (glebas de terra - Sítio dos Patos matrícula 6.932, Sítio Catolé matrícula 10.602, Sítio Chapada Cascavel Fazenda Santa Cruz matrícula 6.266, Fazenda Rancharia matrícula 4.377, unidade fabril Supergesso matrícula 4.163, matrícula 1502, matrícula 3234, matrícula 7231)",
+  "Resultado líquido de empreendimento imobiliário (loteamento urbano e centro comercial) no imóvel de matrícula nº 1.502",
+  "Direitos minerários (processos de concessão de lavra/direitos minerários junto à ANM)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações",
+  "Não utilizar a transação de forma abusiva ou prejudicial à livre concorrência",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação, com extinção de processos com resolução de mérito",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Demonstrar ausência de prejuízo em caso de alienação/oneração de ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos da RFB com prestações do acordo",
+  "Autorizar compensação de precatórios federais com prestações do acordo",
+  "Individualizar valores recolhidos nas contas vinculadas de FGTS dos trabalhadores",
+  "Manter-se em atividade e sob regime do lucro real durante a vigência da transação",
+  "Apresentar relação de bens e direitos no país e exterior",
+  "Apresentar relatórios analíticos de prejuízo fiscal e base de cálculo negativa de CSLL com certificação contábil",
+  "Apresentar demonstrações de resultados anualmente",
+  "Verter para pagamento da dívida qualquer crédito recebido por precatório ou outro meio contra União/Estado/Município"
+ ],
+ "special_clauses": [
+  "Autorização de aproveitamento de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para pagamento do saldo remanescente, limitado a R$ 20.239.532,25, vedada utilização para FGTS e Contribuição Social LC 110/2001",
+  "Excepcionadas do plano de pagamento as inscrições nº 35295659-3, 35295657-7, 35295661-5, 35295664-0, 35295666-6 e 60031821-4, com pagamento à vista e retirada do imóvel matrícula 4163 do regime de venda pelo COMPREI",
+  "Oferecimento do resultado líquido de empreendimento imobiliário (loteamento urbano e centro comercial) em parceria com terceiros como garantia, reservando-se ao menos 50% das unidades ao Devedor, avaliado em R$ 16.000.000,00",
+  "Autorização à PGFN para alienação do imóvel de matrícula 1.502 para constituição de patrimônio de afetação",
+  "Inclusão de direitos minerários (ANM) como garantia, com anotação de indisponibilidade",
+  "Reconhecimento de grupo econômico de fato apenas para fins de CAPAG e corresponsabilidade nas inscrições envolvidas",
+  "Regras específicas de alienação via plataforma COMPREI com limite mínimo de 50% do valor de avaliação e possibilidade de parcelamento da compra"
+ ],
+ "sector": "Mineração/Indústria de gesso",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "com aproveitamento do desconto de até 65% (sessenta e cinco por cento), baseado na capacidade de pagamento do Grupo Econômico",
+  "installments": "para pagamento da dívida não-previdenciária, em 120 (cento e vinte) meses, e da dívida previdenciária em 60 (sessenta) meses"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "13a91a2e9c5e",
+ "title": "Termo de Transação Individual - Supergesso S.A. Indústria e Comércio, Mineradora Rancharia LTDA, Indústria de Gessos Especiais LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualSupergessoS.A.IndstriaeComrcioMineradoraRanchariaLTDAIndstriadeGessosEspeciaisLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualSupergessoS.A.IndstriaeComrcioMineradoraRanchariaLTDAIndstriadeGessosEspeciaisLTDA.pdf",
+ "sha256": "ab76830c47f809dd27106a156d3f04fe3988f94f6849feefeb0ed54a7e76044d",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

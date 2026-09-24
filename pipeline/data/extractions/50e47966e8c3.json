@@ -1,0 +1,68 @@
+{
+ "taxpayer": "FAINOR - Faculdade Independente do Nordeste Ltda",
+ "approval_date": "2021-07-26",
+ "consolidated_amount": 23583887.65,
+ "modality": "Transação individual (recuperação judicial)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 70.0
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantidas todas as garantias associadas aos débitos com a finalidade de garantir a dívida contemplada na transação individual (Cláusula 10ª)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Não utilizar instrumentos de negociação de forma abusiva",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir lucros ou dividendos a sócios e acionistas até aprovação do plano de recuperação judicial",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis",
+  "Comprovar em até 30 dias após manifestação judicial que valores de FGTS foram incluídos no plano de RJ aprovado",
+  "Recolhimento das obrigações tributárias correntes"
+ ],
+ "special_clauses": [
+  "Cláusula 1ª §2º: habilitação de créditos de FGTS (FGBA 202000281, FGBA 202000292 e FGBA 202000303) na Recuperação Judicial, com depósito em conta vinculada nos termos do art. 15 da Lei 8.036/90, não sendo pagos diretamente ao trabalhador",
+  "Cláusula 1ª §5º e §6º: possibilidade de inclusão de débitos futuros com recálculo das prestações remanescentes",
+  "Cláusula 17ª: possibilidade de migração para nova modalidade de transação/parcelamento em caso de norma futura mais favorável, com afastamento dos benefícios concedidos"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.7,
+  "modality": 0.9,
+  "approval_date": 0.6,
+  "judicial_recovery": 0.95,
+  "consolidated_amount": 0.7,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.75,
+  "guarantees": 0.6,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "o saldo do passivo previdenciário foi de R$ 19.306.838,03, atualizado para julho/2021... o saldo do passivo não previdenciário foi de R$ 4.277.049,62, atualizado para julho/2021",
+  "total_discount_pct": "foi concedido e aplicado sobre o total dos débitos inscritos em nome da DEVEDORA, individualmente, desconto de 70%, limitado ao valor principal da dívida",
+  "installments": "será equalizado mediante o pagamento de 145 prestações"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "down_payment_pct",
+  "guarantees",
+  "consolidated_amount"
+ ],
+ "id": "50e47966e8c3",
+ "title": "Termo de Transação Individual - Fainor",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-fainor.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/termo-de-transacao-individual-fainor.pdf",
+ "sha256": "a436fd82280b4356987463b956e6e485e9809d51033cdba8217bc6da065e41de",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

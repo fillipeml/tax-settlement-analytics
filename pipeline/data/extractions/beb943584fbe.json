@@ -1,0 +1,62 @@
+{
+ "taxpayer": "ARQUITEC – ARQUITETURA, ENGENHARIA E CONSTRUÇÃO LTDA – EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2021-10-28",
+ "consolidated_amount": 7848.01,
+ "modality": "Transação individual (Primeiro Termo Aditivo)",
+ "total_discount_pct": 26.1,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [
+  "Inclusão de créditos que foram inscritos após a simulação de transação apresentada ao devedor, tiveram que ser incluídos no momento do cadastramento da conta",
+  "Os créditos foram incluídos na conta SISPAR nº 005.245.495, conta original criada para a transação original, não sendo necessária a criação de nova conta",
+  "Mantêm-se em vigor os termos do pacto inicial naquilo que não seja incompatível com o presente aditivo"
+ ],
+ "sector": "Construção civil/Arquitetura e Engenharia",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.9,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.5,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.95
+ },
+ "source_excerpts": {
+  "consolidated_amount": "43 4 21 013447-04 | R$ 1.623,86 | - | 26,10% ; 43 2 21 002434-11 | R$ 6.224,15 | - | 26,10%",
+  "total_discount_pct": "Desconto: 26,10% (aplicável a ambas as inscrições listadas na Cláusula 1ª)"
+ },
+ "review_fields": [
+  "sector",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "obligations"
+ ],
+ "id": "beb943584fbe",
+ "title": "TermoaditivoIArquitec.pdf",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermoaditivoIArquitec.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermoaditivoIArquitec.pdf",
+ "sha256": "1238f9f6052c290e0240e1ec5a9c70363568e5492013a30a7081c292fd6f2796",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

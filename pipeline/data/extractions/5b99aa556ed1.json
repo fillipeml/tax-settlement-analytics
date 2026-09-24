@@ -1,0 +1,75 @@
+{
+ "taxpayer": "JOSE ETELVINO LINS DE ALBUQUERQUE JUNIOR ME (JR LOCACOES)",
+ "approval_date": "2024-12-03",
+ "consolidated_amount": 421824.92,
+ "modality": "Transação Individual (Plano de Regularização Fiscal)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 96,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhora de bens (alienação condicionada à aquiescência da Fazenda Nacional - Cláusula 6ª)",
+  "Alienação de bens penhorados em caso de rescisão via sistema COMPREI (Cláusula 7ª)"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos (Cláusula 2ª)",
+  "Desistência de impugnações, recursos administrativos e ações judiciais relacionados aos débitos (Cláusula 8ª)",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens/valores",
+  "Apresentar situação econômico-financeira anualmente via balanço contábil (Cláusula 14ª)",
+  "Pagar regularmente os tributos correntes (Cláusula 16ª)",
+  "Permanecer no regime de tributação pelo lucro real por 5 anos em razão do aproveitamento de créditos de prejuízo fiscal/CSLL (§4º, Art. 4ª)",
+  "Regularizar débitos supervenientes em até 90 dias"
+ ],
+ "special_clauses": [
+  "Aproveitamento de crédito de prejuízo fiscal e base de cálculo negativa de CSLL para quitação do saldo devedor remanescente dos débitos previdenciários (Art. 4ª) - Crédito total máximo de PF/BCN a ser aproveitado: R$ 187.485,68, integralmente aplicado aos débitos previdenciários",
+  "Sensibilização do SISPAR com revisão de CAPAG: primeira parcela em valor diferente do plano de pagamento, com posterior ajuste (§4º, Cláusula 3ª)",
+  "Revisão de CAPAG considerou capacidade de pagamento para os próximos 60 meses de R$ 6.398.412,63, alterando o rating da empresa, com valores finais aproximados de R$ 6.648.772,31 após descontos legais (§5º, Cláusula 3ª)"
+ ],
+ "sector": "Locação (JR Locações)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.75,
+  "installments": 0.75,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.75,
+  "judicial_recovery": 0.6,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Consolidado: 421.824,92 (referente aos débitos previdenciários, conforme ANEXO II)",
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 65%",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 96 MESES"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments"
+ ],
+ "id": "5b99aa556ed1",
+ "title": "Termo de Transação Individual - Jose Etelvino Lins de Albuquerque Junior ME",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualJoseEtelvinoLinsdeAlbuquerqueJuniorMEtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualJoseEtelvinoLinsdeAlbuquerqueJuniorMEtarjado.pdf",
+ "sha256": "871f35ad0851df624d5f430d4d1a49b2c8776116846eebb0006fcc23231abf14",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}

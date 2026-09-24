@@ -1,0 +1,71 @@
+{
+ "taxpayer": "JBS S.A",
+ "approval_date": "2020-10-20",
+ "consolidated_amount": null,
+ "modality": "Negócio Jurídico Processual (NJP) - aproveitamento de créditos de ressarcimento homologados pela RFB para pagamento de passivo fiscal e encerramento de litígios judiciais",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Seguro garantia judicial",
+  "Seguro garantia parcelamento administrativo fiscal",
+  "Substituição de garantias nas execuções fiscais (item 4.9 e 5.3)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos administrativos e ações judiciais relativas à utilização dos créditos elencados na Tabela 1 (item 3.6)",
+  "Promover o pagamento regular e tempestivo das prestações relativas aos parcelamentos indicados na Tabela 2 (item 5.2)",
+  "Petição nos processos judiciais em até 15 dias da assinatura para noticiar a celebração do NJP e efetivar desistências/renúncias (item 4.10)",
+  "Apresentar seguros garantia judiciais ou de parcelamento administrativo fiscal ao final do prazo de substituição temporária de garantias (item 5.3.2)"
+ ],
+ "special_clauses": [
+  "Aproveitamento de créditos de pedidos de ressarcimento homologados pela RFB para amortização/quitação de parcelamentos (item 3.2)",
+  "Ordem de imputação dos créditos em 22 modalidades de parcelamento distintas (Tabela 2)",
+  "Desistência recíproca de discussões judiciais sobre incidência da taxa SELIC sobre créditos de ressarcimento, calculada após o 360º dia do protocolo (itens 4.2 a 4.5)",
+  "Liberação de penhora de créditos mediante substituição por outra garantia idônea (item 4.9)",
+  "Substituição temporária de garantias vinculadas a seguro garantia, limitada a 1 ano (item 5.3.1)",
+  "Rescisão parcial do NJP em caso de não homologação judicial, restrita à incidência da correção SELIC (item 6.2)"
+ ],
+ "sector": "Agronegócio/Frigorífico",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.95,
+  "modality": 0.9,
+  "sector": 0.6,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.6,
+  "obligations": 0.7,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "dd0123c1182e",
+ "title": "Termo de Transação Individual -  JBS SA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualJBSSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualJBSSATarjado.pdf",
+ "sha256": "ffdd8f431fa8b45b92a1049b6a5ddc8a668ae900f9df95f3af8146b04330c89f",
+ "extracted_at": "2026-07-22T14:22:45+00:00",
+ "simulated": false
+}

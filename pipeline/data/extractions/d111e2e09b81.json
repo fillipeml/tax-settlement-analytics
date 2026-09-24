@@ -1,0 +1,63 @@
+{
+ "taxpayer": "Lenita Comércio, Importação, Exportação de Confecções Ltda.",
+ "approval_date": "2025-01-23",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Aditivo - Plano de Regularização Fiscal)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 119,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Incumbe ao devedor extrair as guias respectivas a cada vencimento na plataforma Regularize da PGFN",
+  "Pagar o valor mínimo estabelecido caso resulte em parcela inferior ao limite mínimo de parcela de transação"
+ ],
+ "special_clauses": [
+  "Aditivo para incorporar à Transação Individual a inscrição em Dívida Ativa da União nº 30 4 16 00 3660-93, débito de origem do SIMPLES NACIONAL, não capturado pelas contas previdenciárias e não previdenciárias já em vigor",
+  "Plano de pagamento do débito adicionado segue rigorosamente o escalonamento já adotado no Termo de Transação original para os débitos não previdenciários (demais débitos)",
+  "Ficam mantidas e ratificadas todas as demais cláusulas, condições, obrigações e consequências constantes do Termo de Transação Individual aditado"
+ ],
+ "sector": "Comércio/Importação/Exportação de Confecções",
+ "confidence": {
+  "taxpayer": 1.0,
+  "approval_date": 0.95,
+  "modality": 0.9,
+  "sector": 0.6,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.5,
+  "obligations": 0.7,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "FAIXA 1: PARCELA INICIAL 1, PARCELA FINAL 60, QTD. PRESTAÇÕES 60; FAIXA 2: PARCELA INICIAL 61, PARCELA FINAL 118, QTD. PRESTAÇÕES 58; FAIXA 3: PARCELA INICIAL 119, PARCELA FINAL 119, QTD. PRESTAÇÕES 1; TOTAL 119"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector",
+  "guarantees"
+ ],
+ "id": "d111e2e09b81",
+ "title": "Termo de Transação Individual - Lenita Comércio, Importação, Exportação de Confecções LTDA - Primeiro Termo Aditivo",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualLenitaComrcioImportaoExportaodeConfecesLTDAPrimeiroTermoAditivoTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualLenitaComrcioImportaoExportaodeConfecesLTDAPrimeiroTermoAditivoTarjado.pdf",
+ "sha256": "f5c7300d1a09edd7921fa6ffb458d0620b1ea6410e47775f7b7f7d3b757103bb",
+ "extracted_at": "2026-07-22T14:22:46+00:00",
+ "simulated": false
+}

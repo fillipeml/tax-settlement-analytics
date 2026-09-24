@@ -1,0 +1,60 @@
+{
+ "taxpayer": "SINA INDUSTRIA DE ALIMENTOS LTDA EM RECUPERACAO JUDICIAL (e outras empresas do grupo: SINA INDUSTRIA DE OLEOS VEGETAIS LTDA, FAS EMPREENDIMENTOS E INCORPORACAO LTDA, FAMA INDUSTRIA E COMERCIO DE ALIMENTOS LTDA, CROMAIS DISTRIBUIDORA DE PRODUTOS INDUSTRIALIZADOS LTDA, DVR REPRESENTACAO COMERCIAL LTDA, DOFAR DISTRIBUIDORA DE RACOES E FARELOS LTDA, MULTIOLEOS OLEOS E FARELOS LTDA, DOV OLEOS VEGETAIS LTDA, FAROLEO COMERCIO DE PRODUTOS ALIMENTICIOS LTDA, W.A.S. COMERCIO DE ALIMENTOS LTDA, ZUNER CORRETORA DE ALIMENTOS LTDA)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 1348146923.96,
+ "modality": "Transação Individual - Demais Débitos e Débitos Previdenciários (CNPJ 10.156.658/0001-40, PRFN3)",
+ "total_discount_pct": 81.54,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Alimentos/Agronegócio (óleos vegetais, rações, farelos, alimentos)",
+ "confidence": {
+  "taxpayer": 0.6,
+  "modality": 0.65,
+  "approval_date": 0.1,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "installments": 0.85,
+  "down_payment_pct": 0.1,
+  "discounts": 0.2,
+  "sector": 0.5,
+  "judicial_recovery": 0.7,
+  "guarantees": 0.2,
+  "obligations": 0.2,
+  "special_clauses": 0.2
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Consolidado R$ 1.348.146.923,96",
+  "total_discount_pct": "Desconto 81,54%",
+  "installments": "Qtd prestações ... 120"
+ },
+ "review_fields": [
+  "taxpayer",
+  "modality",
+  "approval_date",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "guarantees",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "cb596b53b2a0",
+ "title": "Anexo I - SINA INDÚSTRIA DE ALIMENTOS LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/AnexoISINAINDSTRIADEALIMENTOSLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/AnexoISINAINDSTRIADEALIMENTOSLTDA.pdf",
+ "sha256": "546f443e680b0ae03bc419ff1450e132e547ac8b903175160f479d2e5be357eb",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

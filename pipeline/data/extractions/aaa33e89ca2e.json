@@ -1,0 +1,75 @@
+{
+ "taxpayer": "SINDICATO DOS EMPREGADOS EM ESTABELECIMENTOS DE SERVIÇOS DE SAÚDE DE BRASÍLIA – SINDSAÚDE-DF",
+ "approval_date": "2023-04-14",
+ "consolidated_amount": 20511739.61,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confessa, de forma irrevogável e irretratável, os débitos relacionados no ANEXO I, renovada a cada pagamento periódico",
+  "Renuncia expressamente a quaisquer alegações de direito, atuais ou futuras, sobre as quais se fundem ações judiciais, incluídas as coletivas, ou recursos que tenham por objeto os créditos relacionados no ANEXO I",
+  "Assume o compromisso de manter a regularidade das obrigações de FGTS e tributárias federais correntes, vencidas a partir da data da assinatura da transação, inclusive as retenções legais, na condição de responsável tributário",
+  "Obriga-se a regularizar os novos débitos inscritos em dívida ativa após a assinatura da transação, no prazo máximo de 90 (noventa) dias",
+  "Responsabiliza-se por manter a garantia oferecidas até o integral cumprimento das condições previstas na transação, salvo substituições de garantias com anuência da Fazenda Nacional",
+  "Assume a obrigação de informar previamente à PGFN a alienação e/ou disposição de bens e direitos",
+  "Obriga-se a utilizar, como reforço do plano de amortização, créditos líquidos, certos e exigíveis que venham a apurar no curso deste pacto em desfavor da FAZENDA NACIONAL",
+  "Obriga-se a fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Obriga-se a efetuar tempestivamente os pagamentos referentes às amortizações mensais acordadas na transação",
+  "Obriga-se a não utilizar a transação de forma abusiva",
+  "Obriga-se a não utilizar pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores",
+  "Declara que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declara que não possui nenhum precatório federal de que seja credor; nem outros créditos líquidos e certos em desfavor da União",
+  "Autoriza a compensação, no momento da efetiva disponibilização financeira, de valores relativos a precatórios federais de que venha a ser credor"
+ ],
+ "special_clauses": [
+  "Concessão de descontos limitados ao máximo de até 65% (sessenta e cinco por cento), vedada a incidência sobre o principal do débito, considerando a capacidade de pagamento do DEVEDOR, vez que as dívidas são consideradas irrecuperáveis pela PGFN (art. 24, IV, da Portaria PGFN nº 6757/2022)",
+  "O valor da primeira parcela, de aproximadamente R$ 1.000.000,00 (um milhão), a ser imputado na Dívida de origem previdenciária, será oriundo de valor depositado em juízo, nos autos da ação judicial de n. 0002331-25.2012.5.10.0003, promovida pelo Ministério Público do Trabalho",
+  "O valor correspondentes às parcelas mensais, escalonadas, também decorreram dos valores retidos nas contas bancárias do DEVEDOR nos autos da ação judicial de n. 0002331-25.2012.5.10.0003, promovida pelo Ministério Público do Trabalho e destinado ao pagamento de dívida tributárias e previdenciárias em atraso",
+  "Os valores da dívida a ser transacionada, com desconto, e das parcelas base das modalidades de amortização são estimados, uma vez ser vedada a incidência de desconto sobre o principal do débito"
+ ],
+ "sector": "Saúde (sindicato de trabalhadores em serviços de saúde)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal da DEVEDORA inscrito em dívida ativa da União, parte desta transação, é composto por todos os seus créditos fiscais relacionados no ANEXO I, que totalizam R$ 20.511.739,61, atualizado no mês de abril de 2023",
+  "installments": "O prazo para pagamento dos débitos não previdenciários (demais) será de 120 (cento e vinte) meses; e de 60 meses para os previdenciários"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "aaa33e89ca2e",
+ "title": "Termo de Transação Individual - Sindisaúde DF",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualSindicatodosEmpregadosemEstabelecimentosdeServiosdeSadedeBrasliaSindisadeDF.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualSindicatodosEmpregadosemEstabelecimentosdeServiosdeSadedeBrasliaSindisadeDF.pdf",
+ "sha256": "5c1818fb543c95489aea7f02823536f59bd7acd21dc39dc96fa2322607a04a7c",
+ "extracted_at": "2026-07-22T14:22:24+00:00",
+ "simulated": false
+}

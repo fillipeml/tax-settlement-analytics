@@ -1,0 +1,83 @@
+{
+ "taxpayer": "VINHEDOS INDÚSTRIA E COMÉRCIO DE PAPÉIS EIRELI (CNPJ 01.039.778/0001-77) e grupo econômico (K.E.M. ADMINISTRAÇÃO DE BENS LTDA, ALFE ASSESSORIA E COBRANÇAS EIRELI, Roberto de Vargas)",
+ "approval_date": "2023-08-10",
+ "consolidated_amount": 98427903.44,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis de propriedade de Marina de Vargas, descritos no Anexo IV",
+  "Maquinário descrito no Anexo IV, avaliado em R$ 16.800.000,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não alienação/oneração de bens com propósito de frustrar a recuperação dos créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de ativo não circulante",
+  "Autorizar compensação de valores de restituições, ressarcimentos ou reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais de que seja credor",
+  "Cumprir exigências adicionais da Portaria PGFN nº 6757/22 e da proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre ações judiciais/recursos relacionados aos créditos incluídos",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Peticionar nos processos judiciais em até 60 dias após assinatura, noticiando a transação e indicando bens em garantia",
+  "Formalizar penhora dos imóveis em garantia em até 90 dias",
+  "Apresentar situação econômico-financeira por meio de balanço contábil sempre que a PGFN reputar oportuno",
+  "Recolher obrigações tributárias correntes"
+ ],
+ "special_clauses": [
+  "Nomeação da União como procuradora com cláusula em causa própria para receber indenização em caso de desapropriação dos bens dados em garantia",
+  "Liberação de imóveis constritos na medida cautelar fiscal por serem bem de família",
+  "Possibilidade de substituição de garantia por bem de valor equivalente ou superior, a critério da PGFN",
+  "Consideração de redução significativa do valor do bem em garantia acima de 25%"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.1,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "cujo montante totaliza na presente data R$ 98.427.903,44 (noventa e oito milhões, quatrocentos e vinte e sete mil, novecentos e três reais e quarenta e quatro centavos)",
+  "installments": "sendo que o restante será pago em 84 (oitenta e quatro) parcelas mensais e escalonadas",
+  "guarantees": "Os DEVEDORES oferecem em garantia da integralidade do débito aqui negociado os imóveis, livres e desembaraçados, descritos no Anexo IV, de propriedade de MARINA DE VARGAS... bem como do maquinário descrito no Anexo IV, avaliado em R$ 16.800.000,00 (dezesseis milhões e oitocentos mil reais)"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.charges_pct",
+  "discounts.interest_pct",
+  "discounts.fine_pct",
+  "judicial_recovery",
+  "special_clauses"
+ ],
+ "id": "d60354782d0d",
+ "title": "Termo de Transação Individual - Vinhedos Indústria e Comércio de Papéis LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualVinhedosIndstriaeComrciodePapisLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualVinhedosIndstriaeComrciodePapisLTDATarjado.pdf",
+ "sha256": "47ce209abd2496f8f34d8d229f914598ce1af8554f272473f13674fa7f31c21c",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

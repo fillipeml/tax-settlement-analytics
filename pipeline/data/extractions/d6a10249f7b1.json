@@ -1,0 +1,81 @@
+{
+ "taxpayer": "J. ALVES VERÍSSIMO INDÚSTRIA COMÉRCIO E IMPORTAÇÃO LTDA, VERPAR S/A e VEGA INDUSTRIAL MERCANTIL DE PRODUTOS ALIMENTÍCIOS LTDA",
+ "approval_date": "2025-03-20",
+ "consolidated_amount": 403914315.16,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 2,
+ "down_payment_pct": 10.0,
+ "guarantees": [
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em execução fiscal",
+  "Cessão de créditos/precatórios nº 01406063520234039900, 01406072020234039900 e 00450449620234039900"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Declarar sob as penas da lei que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e transações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens",
+  "Declarar que não alienou ou onerou bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Manter regularidade perante a PGFN e RFB, regularizando em 90 dias débitos supervenientes",
+  "Regularizar em 30 dias o saldo decorrente da reconsolidação de contas",
+  "Não alienar bens que possam inviabilizar capacidade de pagamento sem comunicação à Fazenda",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos exigidos pelas normas fiscais",
+  "Efetuar cessão dos precatórios mencionados",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da Transação"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização em até 70% do saldo devedor na modalidade DEMAIS DÉBITOS",
+  "Direcionamento de precatórios e depósitos judiciais para amortização da dívida sem incidência de descontos",
+  "Extinção do IDPJ nº 5039482-20.2023.4.03.6182 condicionada ao cumprimento integral de itens específicos (pagamento do saldo, cessão de precatórios, pagamento de honorários sucumbenciais, notificação judicial)",
+  "Descontos aplicados proporcionalmente sobre multa, juros e encargos, vedada redução do principal"
+ ],
+ "sector": "Alimentício/Industrial",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.85,
+  "installments": 0.9,
+  "down_payment_pct": 0.9,
+  "discounts": 0.3,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "judicial_recovery": 0.6,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "PASSIVO FISCAL CONSOLIDADO | R$ 403.914.315,16",
+  "total_discount_pct": "Nas modalidades DEMAIS DÉBITOS, desconto máximo de até 65% (sessenta por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Parcelamento do saldo devedor na modalidade DEMAIS DÉBITOS em até 2 prestações escalonadas, sendo a prestação número 1 no total de 10% da dívida consolidada e a prestação número 2, o saldo remanescente consolidado",
+  "down_payment_pct": "sendo a prestação número 1 no total de 10% da dívida consolidada"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "d6a10249f7b1",
+ "title": "Termo de Transação Individual - J.Alves Veríssimo Indústria Comércio e Importação LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualJ.AlvesVerssimoIndstriaComrcioeImportaoLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualJ.AlvesVerssimoIndstriaComrcioeImportaoLTDATarjado.pdf",
+ "sha256": "080d2513fd66dc0b098ae7285dfed13e7b6693393bf57e7002093bbe0e7342be",
+ "extracted_at": "2026-07-22T14:22:45+00:00",
+ "simulated": false
+}

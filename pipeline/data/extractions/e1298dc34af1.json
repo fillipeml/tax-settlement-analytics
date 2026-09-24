@@ -1,0 +1,70 @@
+{
+ "taxpayer": "MUNICÍPIO DE INHAPI - AL",
+ "approval_date": "2025-06-11",
+ "consolidated_amount": 8888959.72,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos objeto da transação (Cláusula 2ª)",
+  "Desistência de impugnações, recursos administrativos e ações judiciais relativas aos débitos do ANEXO I (Cláusula 5ª)",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo (Cláusula 6ª)",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens",
+  "Não alienar, onerar ou ocultar bens para frustrar recuperação dos créditos",
+  "Apresentar situação econômico-financeira anualmente (Cláusula 11ª)",
+  "Pagar regularmente os tributos correntes (Cláusula 13ª)",
+  "Verter em favor da transação eventuais direitos creditórios supervenientes (Cláusula 12ª)"
+ ],
+ "special_clauses": [
+  "Autorização de dedução dos valores devidos dos montantes a serem repassados via Fundos de Participação (§2º, Cláusula 1ª)",
+  "Plano de pagamento escalonado com percentuais crescentes por faixa de prestação (ANEXO II)",
+  "Acréscimo de juros Selic mais 1% no mês do pagamento (§4º)"
+ ],
+ "sector": "Administração pública municipal",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.8,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.5,
+  "judicial_recovery": 0.3,
+  "obligations": 0.85,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Totais: 8.747.813,68",
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 65%",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 60 meses"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "e1298dc34af1",
+ "title": "Termo de Transação Individual - Município de Inhapi - AL",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMunicpiodeInhapiAL.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMunicpiodeInhapiAL.pdf",
+ "sha256": "615d19bbffd0c18cc51318add107084d39a0ea2b3a905e440bf372c28fb8e665",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

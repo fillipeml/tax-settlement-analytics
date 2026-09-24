@@ -1,0 +1,79 @@
+{
+ "taxpayer": "DRESS TO CLOTHING BOUTIQUE LTDA",
+ "approval_date": "2025-01-17",
+ "consolidated_amount": 75593205.27,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 78,
+ "down_payment_pct": 4.0,
+ "guarantees": [
+  "Apartamento objeto da matrícula (nº tarjado), Cartório do 16º Ofício de Niterói, avaliado em outubro de 2024 (valor tarjado)",
+  "Apartamento nº (tarjado), objeto da matrícula (nº tarjado), Cartório do 1º Ofício de Angra dos Reis, avaliado em outubro de 2024 (valor tarjado)",
+  "Apartamento nº (tarjado), objeto da matrícula (nº tarjado), Cartório do 1º Ofício de Angra dos Reis, avaliado em outubro de 2024 (valor tarjado)",
+  "Fiança/garantia fidejussória prestada pelos FIADORES Rodrigo Braga de Andrade e Thatiana Rocha Amorim"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter regularidade perante o FGTS e proceder à individualização dos valores recolhidos dos trabalhadores",
+  "Permanecer no regime de tributação pelo lucro real enquanto vigorar o acordo",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Manter livros e documentos comprobatórios dos créditos de prejuízo fiscal e base negativa de CSLL",
+  "Dar ciência à CREDORA de alterações na natureza jurídica/formatação societária em 30 dias",
+  "Efetuar pagamento regular de tributos federais, estaduais e municipais sobre os imóveis dados em garantia",
+  "Peticionar nas Execuções Fiscais em 30 dias para noticiar a transação e requerer penhora dos imóveis",
+  "Desistir de impugnações, recursos e ações judiciais relativas à dívida transacionada"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL, no valor de R$20.628.595,37, para liquidação do saldo devedor do Anexo II",
+  "Possibilidade de alienação dos imóveis dados em garantia via plataforma COMPREI, com anuência da CREDORA e destinação do valor à quitação das parcelas",
+  "Compensação de créditos de precatórios federais do DEVEDOR com prestações do acordo",
+  "Autorização para a CREDORA acessar declarações e escritas fiscais e informações financeiras do DEVEDOR e FIADORES"
+ ],
+ "sector": "Comércio de vestuário (moda/boutique)",
+ "confidence": {
+  "taxpayer": 0.98,
+  "approval_date": 0.95,
+  "modality": 0.95,
+  "sector": 0.5,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.75,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "R$18.868.620,39 (dezoito milhões, oitocentos e sessenta e oito mil, seiscentos e vinte reais e trinta e nove centavos)... R$56.724.584,88 (cinquenta e seis milhões, setecentos e vinte e quatro mil, quinhentos e oitenta e quatro reais e oitenta e oito centavos)",
+  "total_discount_pct": "Concessão do desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a dívida transacionada, vedada a redução do montante principal, aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento do saldo remanescente a ser efetuado em 54 (cinquenta e quatro) parcelas, para os débitos previdenciários, e em 78 (setenta e oito) parcelas, para os débitos não previdenciários.",
+  "down_payment_pct": "Pagamento de entrada correspondente a 4% do valor consolidado do débito, sem desconto, em 6 (seis) parcelas mensais"
+ },
+ "review_fields": [
+  "sector",
+  "installments",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "2826d52608d6",
+ "title": "Termo de Transação Individual - Dress to Clothig Boutique  LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualDresstoClothigBoutiqueLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualDresstoClothigBoutiqueLTDATarjado.pdf",
+ "sha256": "e065bf4821176b65f7f4b5f5b2ad1911c78d03b6c95664639cac34b083dc2773",
+ "extracted_at": "2026-07-22T14:22:29+00:00",
+ "simulated": false
+}

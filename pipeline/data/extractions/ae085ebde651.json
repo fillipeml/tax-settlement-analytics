@@ -1,0 +1,81 @@
+{
+ "taxpayer": "IBÉRIA INDUSTRIA DE EMBALAGENS LTDA (e demais devedoras/garantidoras do grupo econômico - CONTREM PARTICIPACOES LTDA, GALAICOS EMPREENDIMENTOS E PARTICIPACOES LTDA, IBERCOR PAPÉIS E EMBALAGENS LTDA, IBERKRAFT INDUSTRIA DE PAPEL E CELULOSE LTDA, IBEROS TRANSPORTES LTDA, IBERSUL INDÚSTRIA DE PAPEL E CELULOSE LTDA, IBERTRANS TRANSPORTES RODOVIARIOS LTDA, GONZALO GALLARDO DIAZ)",
+ "approval_date": "2023-11-14",
+ "consolidated_amount": 1064666545.22,
+ "modality": "Transação Individual (art. 171 CTN, Lei 13.988/2020, art. 10-C Lei 10.522/2002, Portaria PGFN 9.917/2020, Portaria PGFN 2.382/2021 c.c. Portaria PGFN 6757/2022)",
+ "total_discount_pct": 57.41,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Veículos automotores (Anexo III) - R$ 11.722.452,00",
+  "Máquinas (Anexo IV) - R$ 22.908.826,62",
+  "Imóveis diversos (itens 5.2 e 5.3) - R$ 37.875.686,84",
+  "Imóveis de Ibéria Indústria de Embalagens Ltda (matrículas 3762, 2380, 14.772, direitos sobre 49.310 e 54.678)",
+  "Imóveis de Gonzalo Gallardo Diaz (matrículas 859, 5.353, 69.253, 23.130)",
+  "Imóveis das garantidoras Agueda, Sumaya e Maitê (matrículas 39.787, 39.855, 39.856, 64.443, 64.444)",
+  "Imóveis da Sammalugo Empreendimentos e Participações Ltda (matrículas 29.789, 29.7920, 29.791, 36.094, 36.095, 36.096, 44.866, 44.867, 44.868)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações à PGFN",
+  "Não utilizar a Transação de forma abusiva",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não ter alienado bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais e fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos novos inscritos em Dívida Ativa",
+  "Não alienar bens que reduzam capacidade de pagamento sem comunicação prévia",
+  "Manter livros e documentos fiscais comprobatórios de prejuízo fiscal/BCN",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "IBÉRIA e IBEROS devem manter-se no regime de tributação do lucro real durante a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para liquidação de até 52,74% do saldo remanescente",
+  "Parcela nº 5 a ser paga com valores depositados em Medidas Cautelares Fiscais e Incidente de Desconsideração de Personalidade Jurídica",
+  "Parcelas 12, 24 e 36 a serem quitadas com alienação de veículos automotores dados em garantia",
+  "Inclusão de CDAs de terceiro (Indústria Cataguases de Papel Ltda) na transação sem reconhecimento de responsabilidade tributária, exceto quanto a CDAs específicas (item 1.7) com confissão irrevogável",
+  "Manutenção de débitos previdenciários em contas de transação excepcional distintas (nº 4367797 e 5100119), não incluídos nesta transação individual",
+  "Garantidoras patrimoniais respondem apenas até o limite do valor dos bens dados em garantia, com abertura de mão do benefício de ordem",
+  "Exclusão do ICMS da base de cálculo do PIS/COFINS (Tema 69) autorizada para revisão de CDAs específicas",
+  "Débitos de IPI (execução fiscal 0000666-05.2007.8.26.0083) excluídos da transação, com regularização futura condicionada a trânsito em julgado de Reexame Necessário"
+ ],
+ "sector": "Indústria de embalagens/papel e celulose e transportes",
+ "confidence": {
+  "taxpayer": 0.85,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.9,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.95,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "no valor de R$1.064.666.545,22 (um bilhão, sessenta e quatro milhões, seiscentos e sessenta e seis mil, quinhentos e quarenta e cinco reais e vinte e dois centavos), para julho de 2023.",
+  "total_discount_pct": "Desconto máximo de até (i) 70% a cada uma das CDAs não previdenciárias (conta DEMAIS DÉBITOS), sendo que o desconto efetivo será de 57,41%, vedada a redução do montante principal",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 prestações mensais, escalonadas na forma discriminada no Anexo II"
+ },
+ "review_fields": [],
+ "id": "ae085ebde651",
+ "title": "Termo de Transação Individual - Ibéria Indústria de Embalagens",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIbriaIndstriadeEmbalagensLTDAInformaesSigilosasSurpimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualIbriaIndstriadeEmbalagensLTDAInformaesSigilosasSurpimidas.pdf",
+ "sha256": "c55046f96fd2b22e86a77edf21a60fb9c348470970eff312a98b194aa32db153",
+ "extracted_at": "2026-07-22T14:22:44+00:00",
+ "simulated": false
+}

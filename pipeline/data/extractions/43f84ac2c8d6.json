@@ -1,0 +1,83 @@
+{
+ "taxpayer": "POLIBRAS MINAS PLASTICOS LTDA",
+ "approval_date": "2022-11-04",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 47.46
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas",
+  "Imóvel objeto da matrícula nº [tarjado] junto ao Registro de Imóveis da Comarca de Cambuí - MG"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar cumprimento dos requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não utilizar a Transação de forma abusiva",
+  "Declarar não utilização de interposta pessoa",
+  "Declarar não alienação/oneração de bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos futuros inscritos em DAU",
+  "Não alienar bens que possam inviabilizar capacidade de pagamento sem comunicação prévia",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Solicitar à RFB em até 30 dias a inscrição em DAU dos débitos do Anexo II",
+  "Comunicar à Fazenda Nacional a efetivação da inscrição em DAU",
+  "Manter por 5 anos livros e documentos fiscais, incluindo comprobatórios de prejuízo fiscal e base negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização do saldo devedor após aplicação dos descontos (cláusula 2.1.5)",
+  "Cobrança do saldo liquidado com uso desses créditos fica suspensa até confirmação pela autoridade competente, dentro do prazo legal de 5 anos (cláusula 2.1.6)",
+  "Direcionamento de eventuais créditos por precatório ou depósito judicial para adimplemento dos saldos devedores (cláusula 2.2)",
+  "Modalidade PREV com desconto máximo de 39,91% e parcelamento em até 60 prestações (cláusula 2.1.3 e 2.1.4)"
+ ],
+ "sector": "Indústria de plásticos",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "discounts.charges_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "guarantees": 0.8,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "Parcelamento do saldo devido em até 120 (cento e vinte) prestações mensais e sucessivas, conforme Anexo III, todas com vencimento no último dia útil de cada mês, iniciando-se no mês de assinatura deste Termo",
+  "discounts.charges_pct": "Na modalidade DEMAIS, desconto máximo de 47,46% (quarenta e sete inteiros e quarenta e seis centésimos por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "43f84ac2c8d6",
+ "title": "Termo Transação Individual - Polibras Minas Plástico",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermoTransaoIndividualPolibrasMinasPlsticoLTDA2022PRFN3InformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermoTransaoIndividualPolibrasMinasPlsticoLTDA2022PRFN3InformaesSigilosasSuprimidas.pdf",
+ "sha256": "235d4404dd8298a068eb96976bd6b3a7e689ec519d2cfabece0d77b8723340eb",
+ "extracted_at": "2026-07-22T14:22:33+00:00",
+ "simulated": false
+}

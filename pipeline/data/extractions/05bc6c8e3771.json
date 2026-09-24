@@ -1,0 +1,81 @@
+{
+ "taxpayer": "LIBRA LIGAS DO BRASIL S/A, CARBOMIL QUÍMICA S/A, CARBOMIL S/A MINERAÇÃO E INDÚSTRIA, CARBOMIL AGROPECUÁRIA S/A, CARBOPAR – CARBOMIL PARTICIPAÇÕES MINERAÇÃO E ADMINISTRAÇÃO SA, MCC MINERAÇÃO E EQUIPAMENTOS PESADOS LTDA, TRANSNAL TRANSPORTE NACIONAL LTDA, ITAMIL ITAOCA MINERAÇÃO LTDA, QUÍMICA INDUSTRIAL ITAMIL LTDA, CALCÁRIO DO BRASIL",
+ "approval_date": "2023-06-22",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Plano de Regularização Fiscal",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhoras em execuções fiscais (mantidas), especialmente as designadas no ANEXO II",
+  "Imóveis: Fazenda Esperança, Sítio São José, Fazenda Baixa Grande, Fazenda Curral Velho, Fazenda Minadouro, Fazenda Sucupira, Foros de Picos/Fazenda Carbomil, Fazenda Clarissa, matrícula 43075, Fazenda Córrego do Urubu, terreno 'Amendoim', Sítio Lagoa dos Porcos, matrículas 719, 720, 721 e 25746"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Renunciar a alegações de direito sobre créditos transacionados, com ressalva do processo nº 0801364-20.2015.4.05.8100",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não alienar bens/direitos sem comunicação à Fazenda Nacional",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos da RFB com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas dos trabalhadores",
+  "Apresentar relação de bens e direitos de propriedade",
+  "Apresentar relatórios analíticos de prejuízo fiscal/BCN certificados por profissional contábil",
+  "Apresentar situação econômico-financeira anualmente via demonstrações de resultados/balanço",
+  "Verter para pagamento da dívida qualquer crédito a receber por precatório"
+ ],
+ "special_clauses": [
+  "Uso de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação de 43,91% do saldo devedor após descontos",
+  "Divisão em duas contas: PREVIDENCIÁRIA (60 parcelas) e DEMAIS (120 parcelas), com caráter único - inadimplência de uma implica rescisão de ambas",
+  "Tabela de percentuais progressivos de parcelas conforme período (1-12, 13-24, ..., 120)",
+  "Parcela de maior valor (5,3%) cadastrada como nº 120 mas vence junto com a parcela 96; se não paga até o mês 96, autoriza alienação forçada de imóveis-garantia",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/BCN fica suspensa até confirmação dos créditos, mantendo garantias",
+  "Exclusão do ICMS da base de cálculo do PIS/COFINS conforme PRDIs do processo nº 0803905-55.2017.4.05.8100 (ressalvado da desistência/renúncia)",
+  "Corresponsabilização mútua entre as devedoras em razão de grupo econômico de fato, com inclusão imediata como corresponsáveis no sistema da Dívida Ativa",
+  "Possibilidade de repactuação para inclusão posterior das inscrições excluídas no Anexo III, com suspensão de bloqueios enquanto não concluída análise dos PRDIs"
+ ],
+ "sector": "Mineração e química industrial",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.8,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "installments": "A dívida não-previdenciária será dividida em 120 (cento e vinte) prestações mensais e a dívida previdenciária, em 60 (sessenta) prestações mensais.",
+  "clauses_especiais_discount_pf": "Fica autorizado o uso de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação de 43,91% do saldo devedor após aplicação dos descontos definidos no caput, face à sua imprescindibilidade para quitação da dívida.",
+  "discounts_max": "Todas as inscrições em DAU incluídas no presente acordo, após a incidência dos respectivos descontos, de até 65% por inscrição, calculados com base na capacidade de pagamento dos devedores (ANEXO 1)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "05bc6c8e3771",
+ "title": "Termo de Transação Individual - Libra Ligas do Brasil",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-libra-ligas-do-brasil-s-a_compressed-1.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-libra-ligas-do-brasil-s-a_compressed-1.pdf",
+ "sha256": "d9eb1763dd043020539f945ecf3f78756195a94a339c7f1eb20c8d6f5ac25625",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

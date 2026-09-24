@@ -1,0 +1,78 @@
+{
+ "taxpayer": "SINDICATO DOS TRABALHADORES EM SAÚDE, TRABALHO E PREVIDÊNCIA SOCIAL NO ESTADO DO RIO DE JANEIRO",
+ "approval_date": "2024-04-08",
+ "consolidated_amount": 56978176.48,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel constituído pelo 3º pavimento do edifício na Rua Joaquim Silva, 98 (Matrícula 11.643-2-s)",
+  "Imóvel constituído pelo subsolo do edifício na Rua Joaquim Silva, 98 (Matrícula 31.243)",
+  "Imóvel constituído pela sobreloja do edifício na Rua Joaquim Silva, 98 (Matrícula 31.242)",
+  "Imóvel constituído pela Loja A do edifício na Rua Joaquim Silva, 98 (Matrícula 31.241)"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Manter em dia o pagamento de impostos e taxas federais, estaduais e municipais sobre o imóvel dado em garantia",
+  "Comunicar à Fazenda Nacional e ao Juízo das execuções fiscais superveniência de penhora ou de qualquer novo gravame sobre o bem",
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Não alienar ou onerar bens com propósito de frustrar a recuperação dos créditos",
+  "Desistir dos parcelamentos/transações vigentes relativos às dívidas transacionadas",
+  "Pagar, parcelar ou garantir, no prazo de 90 dias, novos débitos inscritos em Dívida Ativa da União",
+  "Fornecer informações sobre bens, direitos, valores e transações sempre que solicitado",
+  "Manter a regularidade perante o FGTS",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em dívida ativa ou tornarem-se exigíveis"
+ ],
+ "special_clauses": [
+  "Substituição de bens dados em garantia por outros de igual ou maior valor em caso de alienação autorizada",
+  "Reversão de 30% do valor auferido com alienação de bem garantidor à conta da Transação, como antecipação de parcelas",
+  "Possibilidade de transformação em pagamento definitivo de valores bloqueados/depositados judicialmente",
+  "Aproveitamento de sobra de recursos após imputação nas inscrições vinculadas às execuções fiscais para amortização de outras inscrições"
+ ],
+ "sector": "Sindical/Saúde-Trabalho-Previdência Social",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.5
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Débitos de natureza não previdenciária, cujos valores atualizados, para Abril/2024, somam R$2.659.918,89 ... Débitos de natureza previdenciária, cujos valores atualizados, para Abril/2024, somam R$54.318.257,59",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a dívida transacionada de natureza não previdenciária e previdenciária, vedada a redução do montante principal",
+  "installments": "O plano de pagamento relativo aos débitos não previdenciários prevê, após a incidência dos descontos, o recolhimento em 145 parcelas lineares"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "80d29a54c12a",
+ "title": "Termo de Transação Individual - Sindicato dos Trabalhadores em Saúde, Trabalho e Previdência Social no Estado do Rio de Janeiro",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualSindicatodosTrabalhadoresemSadeTrabalhoePrevidnciaSocialnoEstadodoRiodeJaneirotarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualSindicatodosTrabalhadoresemSadeTrabalhoePrevidnciaSocialnoEstadodoRiodeJaneirotarjado.pdf",
+ "sha256": "e2cabd87c87d20513ffd11d03aabe6dbac9171f1422273262a3c04c228deea87",
+ "extracted_at": "2026-07-22T14:22:31+00:00",
+ "simulated": false
+}

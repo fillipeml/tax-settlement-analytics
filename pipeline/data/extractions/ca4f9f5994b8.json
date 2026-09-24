@@ -1,0 +1,75 @@
+{
+ "taxpayer": "PRÓ-CLÍNICAS CLÍNICA DE DIAGNÓSTICO E TRATAMENTO LTDA.",
+ "approval_date": "2024-12-13",
+ "consolidated_amount": 1510474.53,
+ "modality": "Transação Individual (FGTS) - Modalidade 6",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 110,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de matrícula (dados tarjados), registrado no 7º Ofício de Campos dos Goytacazes, de propriedade da DEVEDORA"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações administrativas/judiciais relativas à dívida transacionada",
+  "Renúncia a quaisquer alegações de direito sobre os débitos transacionados",
+  "Peticionar nos processos judiciais em até 30 dias para noticiar a transação e desistir das ações",
+  "Manter regularidade perante a PGFN e a Receita Federal, regularizando em até 90 dias débitos que se tornarem exigíveis",
+  "Manter regularidade perante o FGTS e proceder à individualização dos valores recolhidos dos trabalhadores",
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional",
+  "Dar ciência à CREDORA de alterações na natureza jurídica ou formatação societária em até 30 dias",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Efetuar pagamento regular de tributos federais, estaduais e municipais sobre o imóvel dado em garantia",
+  "Autorizar a CREDORA a ter acesso a declarações e escritas fiscais e informações financeiras"
+ ],
+ "special_clauses": [
+  "Cláusula 3.4: possibilidade de alienação dos bens dados em garantia via plataforma COMPREI, mediante anuência da CREDORA e destinação do valor obtido à quitação das parcelas",
+  "Cláusula 4.5: autorização de compensação de precatórios federais com prestações do acordo",
+  "Cláusula 5.3: possibilidade de migração para programa de parcelamento especial mais benéfico sem perda dos benefícios acordados"
+ ],
+ "sector": "Saúde (clínica de diagnóstico e tratamento)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "guarantees": 0.7,
+  "judicial_recovery": 0.0,
+  "obligations": 0.8,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam o valor de R$1.510.474,53 (um milhão, quinhentos e dez mil, quatrocentos e setenta e quatro mil e cinquenta e três centavos), atualizados até setembro de 2024.",
+  "installments": "No Parcelas: 110"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "ca4f9f5994b8",
+ "title": "Termo de Transação Individual - Pró-Clínica de Diagnóstico e Tratamento LTDA (FGTS)",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualPrClnicadeDiagnsticoeTratamentoLTDAFGTStarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualPrClnicadeDiagnsticoeTratamentoLTDAFGTStarjado.pdf",
+ "sha256": "15a3a42209046f07108a939c679a2bd38be2e13a14c92f7390f9d218e46bd417",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

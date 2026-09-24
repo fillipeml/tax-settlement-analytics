@@ -1,0 +1,74 @@
+{
+ "taxpayer": "OI S.A.",
+ "approval_date": "2023-01-06",
+ "consolidated_amount": 863333059.23,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Gravame registrado no INPI incidente sobre a marca OI FIBRA, avaliada em R$ 475.000.000,00 (24/08/2021)",
+  "Possibilidade de substituição por depósito, seguro-garantia, fiança bancária ou outros bens"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Confissão irrevogável e irretratável de todos os débitos transacionados",
+  "Renúncia expressa a alegações de direito sobre débitos transacionados",
+  "Manter regularidade perante o FGTS",
+  "Autorizar acesso da CREDORA às declarações e escritas fiscais e informações sobre movimentação financeira",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Regularizar dívidas com o FGTS no prazo de 90 dias",
+  "Manter livros e documentos comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para liquidar 30% do saldo remanescente das inscrições do Anexo I-A e 50% do Anexo I-B",
+  "Garantia por gravame sobre marca OI FIBRA no INPI em vez de garantias tradicionais",
+  "Recálculo de parcelas mantendo prazo original em caso de inclusão de débitos do Anexo II",
+  "Ressalva de manutenção do requerimento PRDI nº 20200353718 pendente de apreciação pela Receita Federal",
+  "Possibilidade de compensação com precatórios federais e créditos de restituição/ressarcimento"
+ ],
+ "sector": "Telecomunicações",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.95,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totalizam R$ 863.333.059,23 (oitocentos e sessenta e três milhões, trezentos e trinta e três mil, cinquenta e nove reais e vinte e três centavos), referente ao mês de novembro de 2022.",
+  "total_discount_pct": "Descontos máximos legais possíveis de até 70% (setenta por cento) a cada uma das inscrições;",
+  "installments": "2.1.6. Pagamento dos débitos não previdenciários em 120 parcelas iguais, pagas mensalmente."
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "fcc530cf1409",
+ "title": "Termo de Transação Individual - Oi SA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/copy_of_TermodeTransacaoIndividualOiSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/copy_of_TermodeTransacaoIndividualOiSA.pdf",
+ "sha256": "5d163e15444c2193713bb81a3285235908f95790f3406a8bb5dc3ddba94b994a",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

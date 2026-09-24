@@ -1,0 +1,82 @@
+{
+ "taxpayer": "CONSTRUTORA ENGEMOLD LTDA - CNPJ: 94.538.220/0001-17",
+ "approval_date": "2024-05-03",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção de gravames existentes decorrentes de arrolamento de bens, medida cautelar fiscal, penhora ou garantias prestadas administrativamente ou em execução fiscal ou outra ação judicial"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens",
+  "Declarar não alienação/oneração de bens com propósito de frustrar recuperação de créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação/oneração de ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria PGFN nº 6757/22 e na proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Manter-se no regime de tributação pelo lucro real durante toda a negociação, em razão da utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Não desistir do acordo, sob pena de rescisão",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados/balanço contábil",
+  "Manter cumprimento de obrigações tributárias correntes e obrigações acessórias"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para abatimento do saldo devedor (Anexo I), com compromisso de manutenção do regime de tributação pelo lucro real durante toda a negociação",
+  "Amortizações mensais escalonadas para débitos do Anexo II",
+  "Amortizações mensais lineares para débitos do Anexo I"
+ ],
+ "sector": "Construção civil",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.3,
+  "installments": 0.3,
+  "discounts": 0.2,
+  "guarantees": 0.6,
+  "obligations": 0.9,
+  "special_clauses": 0.7,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "installments_annexI": "e este saldo final será pago em 48 (quarenta e oito) amortizações mensais lineares",
+  "installments_annexII": "e o saldo final será pago em 108 (cento e oito) amortizações mensais escalonadas",
+  "down_payment_pct_annexI": "a DEVEDORA pagará entrada de 5% do montante total devido sem descontos, em 12 (doze) prestações mensais",
+  "down_payment_pct_annexII": "a DEVEDORA pagará entrada de 3% do montante total devido sem descontos, em 12 (doze) prestações mensais",
+  "prejuizo_fiscal_annexI": "será abatido o montante de prejuízo fiscal e de base de cálculo negativa de R$ 1.644.081,02 (um milhão, seiscentos e quarenta e quatro mil, oitenta e um reais e dois centavos)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "sector",
+  "judicial_recovery"
+ ],
+ "id": "6f55b429f26e",
+ "title": "Termo de Transação Individual - Construtora Engemold",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualConstrutoraEngemold.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualConstrutoraEngemold.pdf",
+ "sha256": "fc9e1a1d56ee855604a551aee308e5b094e24818c6693f30b98f0f992fac8451",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

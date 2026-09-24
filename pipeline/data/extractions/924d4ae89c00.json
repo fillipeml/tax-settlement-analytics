@@ -1,0 +1,72 @@
+{
+ "taxpayer": "MONTARTE INDUSTRIAL E LOCADORA LTDA, MONTARTE LOCADORA LTDA, MONTARTE RENTAL LTDA e MONTARTE LOCAÇÕES LTDA (Grupo Montarte)",
+ "approval_date": "2023-08-14",
+ "consolidated_amount": 41465481.93,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens, direitos e valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicar a Fazenda Nacional",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação, desistir e renunciar aos direitos"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor de R$ 13.749.715,80 para amortização do saldo devedor após descontos",
+  "Cobrança do saldo liquidado com uso de créditos de PF/BCN suspensa até confirmação pela autoridade competente, dentro do prazo legal de 5 anos",
+  "Vedada a redução do montante principal, desconto aplicado apenas sobre acréscimos legais"
+ ],
+ "sector": "Locação de veículos/equipamentos (Locadora)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.9,
+  "installments": 0.95,
+  "down_payment_pct": 0.3,
+  "discounts": 0.2,
+  "guarantees": 0.3,
+  "judicial_recovery": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total 4 Requerentes R$ 41.465.481,93",
+  "total_discount_pct": "Desconto máximo de 70% (setenta por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada — Demais Débitos\" em 120 (cento e vinte) prestações mensais, escalonadas na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "consolidated_amount",
+  "guarantees"
+ ],
+ "id": "924d4ae89c00",
+ "title": "Termo de Transação Individual - Montarte Industrial e Locadora LTDA, Montarte Locadora LTDA,  Montarte Rental LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMontarteIndustrialeLocadoraLTDAMontarteLocadoraLTDAMontarteRentalLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMontarteIndustrialeLocadoraLTDAMontarteLocadoraLTDAMontarteRentalLTDA.pdf",
+ "sha256": "b54c19f5e040d10861075be195ae9d719a644849581dbce4e94ac5f58d326479",
+ "extracted_at": "2026-07-22T14:22:48+00:00",
+ "simulated": false
+}

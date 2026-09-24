@@ -1,0 +1,75 @@
+{
+ "taxpayer": "TEP TECNOLOGIA EM ENGENHARIA LTDA EM RECUPERACAO JUDICIAL",
+ "approval_date": "2023-04-19",
+ "consolidated_amount": 8982604.17,
+ "modality": "Transação Individual (Recuperação Judicial)",
+ "total_discount_pct": 49.8,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar/falsear/prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar/dissimular origem ou destinação de bens",
+  "Declarar que não alienou ou onerou bens com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais são verdadeiras",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens ou direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter, durante 5 anos, os livros e documentos fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União"
+ ],
+ "special_clauses": [
+  "Utilização de até 70% do saldo remanescente, após descontos, de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL fica suspensa até confirmação pela autoridade competente, dentro do prazo de 5 anos",
+  "Descontos diferenciados: 49,80% para CDAs não previdenciárias e 43,29% para CDAs previdenciárias, vedada redução do principal"
+ ],
+ "sector": "Engenharia/Tecnologia",
+ "confidence": {
+  "taxpayer": 1.0,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.75,
+  "installments": 0.95,
+  "down_payment_pct": 0.3,
+  "discounts.fine_pct": 0.3,
+  "discounts.interest_pct": 0.3,
+  "discounts.charges_pct": 0.3,
+  "guarantees": 0.4,
+  "obligations": 0.9,
+  "judicial_recovery": 1.0,
+  "sector": 0.6,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Débitos Atualmente: Previdenciário R$ 5.072.297,62 / Não Previdenciário R$ 3.910.306,55",
+  "total_discount_pct": "Desconto máximo de (i) 49,80% (quarenta e nove vírgula oitenta por cento) a cada uma das CDAs não previdenciárias (conta DEMAIS); e (ii) 43,29% (quarenta e três vírgula vinte e nove por cento) a cada uma das CDAs previdenciárias (conta PREV)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada - Demais Débitos\") em 60 (sessenta) prestações mensais"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "sector"
+ ],
+ "id": "036d3170c70e",
+ "title": "Termo de Transação Individual - Tep Tecnologia em Engenharia LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTepTecnologiaemEngenhariaLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTepTecnologiaemEngenhariaLTDA.pdf",
+ "sha256": "2c3108d021602f7b3738ae4b81d7dd8ebe0123838507db4f569168ba7cf05996",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

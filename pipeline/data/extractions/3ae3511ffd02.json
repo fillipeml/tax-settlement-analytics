@@ -1,0 +1,81 @@
+{
+ "taxpayer": "Usina Santa Clotilde",
+ "approval_date": "2022-06-28",
+ "consolidated_amount": null,
+ "modality": "Transação Individual para empresas em Recuperação Judicial (Portaria PGFN nº 2382/2021)",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhoras já existentes nas execuções fiscais",
+  "Imóvel Canoas de Cima, matrícula 5094 do RGI de Rio Largo",
+  "Imóvel Fazenda Milagres, matrícula 1512 do Cartório Geral de Imóveis de Rio Largo/AL, avaliado em R$ 15.383.310,00, oferecido em hipoteca"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou que prejudique a livre concorrência",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de bens do ativo não circulante",
+  "Comprovar em 15 dias a indicação à penhora do imóvel Canoas de Cima",
+  "Formalizar hipoteca do imóvel Fazenda Milagres em até 60 dias",
+  "Fornecer demonstrações contábeis dos 3 últimos exercícios sociais na assinatura do termo",
+  "Apresentar situação econômico-financeira anualmente",
+  "Promover georreferenciamento do imóvel dado em garantia em 36 meses",
+  "Formalizar transação da Contribuição Social LC 110/2001 em 30 dias após disponibilização de ferramenta pela CEF"
+ ],
+ "special_clauses": [
+  "Renúncia à alegação de bem essencial à atividade empresarial para os imóveis Canoas de Cima e Fazenda Milagres, viabilizando garantia integral",
+  "Parcela diferenciada na conta PREVIDENCIÁRIA no valor de R$ 16.115.826,44, vencendo no 48º mês, alocada operacionalmente no mês 60 no sistema",
+  "Possibilidade de venda direta do imóvel garantidor por iniciativa particular via plataforma COMPREI/PGFN, com deságio de até 50% após 90 dias de exposição sem venda",
+  "Destinação obrigatória de valores de precatórios/RPV recebidos para quitar parcela excepcional previdenciária e antecipar até 25 parcelas da conta DEMAIS",
+  "Cláusula de salvaguarda (Cláusula 5ª, parágrafo único) isentando a devedora de consequências caso a CEF não viabilize sistema para parcelamento da Contribuição Social LC 110/2001",
+  "Vedação de nova transação por 2 anos em caso de rescisão"
+ ],
+ "sector": "Agronegócio (usina de açúcar/álcool)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "installments": 0.8,
+  "down_payment_pct": 0.0,
+  "total_discount_pct": 0.6,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "possibilidade de pagamento dos débitos não previdenciários em, no máximo, 120 (cento e vinte) parcelas mensais e consecutivas, conforme previstas na simulação em anexo extraída do sistema SISPAR (ANEXO III)",
+  "total_discount_pct": "concessão de descontos de até 70% sobre o total devido, a depender das particularidades de cada inscrição, considerando a capacidade de pagamento do DEVEDOR e o processamento da recuperação judicial",
+  "guarantees_hipoteca": "a DEVEDORA oferece em garantia dos débitos do presente acordo de transação o Imóvel denominado Fazenda Milagres, matrícula 1512 do Cartório Geral de Imóveis de Rio Largo/AL, avaliado em R$ 15.383.310,00 (quinze milhões, trezentos e oitenta e três mil e trezentos e dez reais)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "total_discount_pct"
+ ],
+ "id": "3ae3511ffd02",
+ "title": "SantaClotildeTermoassinadoCGR2tj.pdf",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/SantaClotildeTermoassinadoCGR2tj.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/SantaClotildeTermoassinadoCGR2tj.pdf",
+ "sha256": "4ddeebe85f69fe0b1457dd3293f4153a9fbee4f45fc987c4514238dd4a47cc22",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

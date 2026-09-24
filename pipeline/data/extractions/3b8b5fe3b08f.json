@@ -1,0 +1,74 @@
+{
+ "taxpayer": "F. MARINE INDÚSTRIA E COMÉRCIO DE PRODUTOS NÁUTICOS LTDA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2023-10-26",
+ "consolidated_amount": 141070522.89,
+ "modality": "Transação Individual - Parcelamento do débito fiscal",
+ "total_discount_pct": 54.86,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Penhora das marcas registradas junto ao INPI: FIBRAFORT (NP. 901959006; 904995178; 840229828); PLASTIFIBRA BAJA BOATS (NP. 820800848); EXTREMME (NP. 822129299) e STYLE (NP. 826573967)",
+  "Manutenção das garantias existentes nos executivos fiscais na data da assinatura do acordo"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Autorizar compensação de restituições, ressarcimentos ou reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6757/22",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Manter-se como optante do regime de tributação pelo lucro real durante toda a negociação",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil",
+  "Manter, por 5 anos, livros e documentos comprobatórios de prejuízo fiscal e base negativa de CSLL utilizados na transação",
+  "Regularizar créditos do IDPJ 50297-17.2020.404.7200 no prazo de 60 dias após decisão final transitada em julgado"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal (PF) e base de cálculo negativa de CSLL (BCN) no valor nominal de R$ 14.302.530,17 e R$ 2.318.336,76, respectivamente, sob condição resolutória de homologação pela Receita Federal em até 5 anos",
+  "Conversão em renda dos valores depositados na Execução Fiscal nº 5000664720134047208 para quitação parcial/total de 3,97% da parcela nº 25 da conta Demais Débitos",
+  "Compromisso de corresponsabilidade em caso de decisão transitada em julgado no IDPJ 50297-17.2020.404.7200"
+ ],
+ "sector": "Náutico/Indústria e Comércio de Produtos Náuticos",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 1.0,
+  "installments": 1.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 1.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O valor consolidado da dívida é R$ 141.070.522,89, resultando no montante  pagar de  63.677.213,19 após os descontos",
+  "total_discount_pct": "sendo concedido o desconto médio de 54,86%",
+  "installments": "O plano relativo às inscrições indicadas no Anexo I (DEMAIS DÉBITOS) prevê o pagamento em 120 (cento e vinte) parcelas mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts"
+ ],
+ "id": "3b8b5fe3b08f",
+ "title": "Termo de Transação Individual - F. Marine Indústria de Produtos Náuticos LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualF.MarineIndustriadeProdutosNauticosLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualF.MarineIndustriadeProdutosNauticosLTDA.pdf",
+ "sha256": "b4d076f9fe95acfc2f3d144192912ebf22fb656d382a128708deb8ce65bc7462",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

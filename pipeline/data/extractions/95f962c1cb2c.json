@@ -1,0 +1,83 @@
+{
+ "taxpayer": "GIOMBELLI MAQUINAS AGRICOLAS LTDA",
+ "approval_date": "2025-03-24",
+ "consolidated_amount": 10799681.49,
+ "modality": "Transação Individual",
+ "total_discount_pct": 68.87,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de matrícula nº 11023 do Registro de Ubiratã/PR, avaliado em R$ 7.703.800,00, a ser indicado à penhora na execução fiscal nº 5002723-35.2013.4.04.7005",
+  "Escritura pública de hipoteca em favor da União, caso indeferida a penhora do imóvel"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e transações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/valores",
+  "Não alienar ou onerar bens com propósito de frustrar a recuperação dos créditos",
+  "Demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de ativo não circulante",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais de que seja credor",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6757/22 e da proposta",
+  "Declarar veracidade de informações cadastrais e patrimoniais quando envolver capacidade de pagamento",
+  "Renunciar a alegações de direito sobre ações judiciais/recursos relativos aos créditos incluídos",
+  "Manter regularidade fiscal perante União e FGTS",
+  "Regularizar em até 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não desistir do acordo (sob pena de rescisão)",
+  "Peticionar em até 30 dias nos processos judiciais noticiando a transação e desistindo de embargos/exceções de pré-executividade",
+  "Providenciar documentação para perfectibilização da penhora do imóvel dado em garantia",
+  "Pagar custas processuais pendentes e despesas de cancelamento de leilões/emolumentos de hipoteca"
+ ],
+ "special_clauses": [
+  "Valores depositados na conta judicial nº 0650.280.00004958-7, vinculada à execução fiscal 5002723-35.2013.4.04.7005, não serão utilizados na conta da transação e serão transformados em pagamento definitivo imputado diretamente nas inscrições, sem incidência de descontos",
+  "Sobrestamento da penhora incidente sobre aluguéis efetivada na execução fiscal nº 5002723-35.2013.4.04.7005, em razão da prestação de garantia e concordância da devedora em não utilizar os depósitos judiciais na conta da transação",
+  "Concordância prévia da Fazenda Nacional para apensamento das execuções fiscais movidas contra a devedora, em caso de decisão judicial determinando reunião de execuções como condição para formalização das penhoras"
+ ],
+ "sector": "Máquinas agrícolas",
+ "confidence": {
+  "taxpayer": 1.0,
+  "approval_date": 0.95,
+  "modality": 1.0,
+  "sector": 0.6,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.75,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "A DEVEDORA possui em aberto os débitos elegíveis relacionados no Anexo I que totalizam, em março/2025, o montante de R$ 10.799.681,49 (dez milhões, setecentos e noventa e nove mil, seiscentos e oitenta e um reais e quarenta e nove centavos)",
+  "installments_social_security": "o saldo restante de R$ 2.654.172,25 ... será objeto de plano de pagamento em 60 (sessenta) prestações mensais e sucessivas de R$ 44.236,20",
+  "installments_other": "o saldo restante de R$ 715.929,77 ... será pago em 145 (cento e quarenta e cinco) prestações mensais e sucessivas sendo de R$ 4.937,44",
+  "discount_mean_social_security": "será aplicado desconto médio de 68,46%, observados os limites do §2º do art. 11 da Lei n. 13.988/2020",
+  "discount_mean_other": "será aplicado desconto médio de 69,95%, observados os limites do §2º do art. 11 da Lei n. 13.988/2020"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "95f962c1cb2c",
+ "title": "Termo de Transação Individual - Giombelli Maquinas Agricolas LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualGiombelliMaquinasAgricolasLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualGiombelliMaquinasAgricolasLTDA.pdf",
+ "sha256": "20d00222980cfe9772f4d8fb80697d89ca0f14c0932430f17f405d14bf31e401",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

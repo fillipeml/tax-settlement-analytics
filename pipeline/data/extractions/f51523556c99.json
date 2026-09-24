@@ -1,0 +1,82 @@
+{
+ "taxpayer": "SPORT CLUB INTERNACIONAL",
+ "approval_date": "2025-04-22",
+ "consolidated_amount": 378375872.11,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Marcas SCI (INPI 81473187 e INPI 901403857)",
+  "Imóvel Matrícula 37037 - Parque Gigante (5º CRI de Porto Alegre/RS)",
+  "Imóvel Matrícula 6258 - Beira Rio (5º CRI de Porto Alegre/RS)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar não ter alienado ou onerado bens com propósito de frustrar recuperação de créditos",
+  "Autorizar compensação de restituições/ressarcimentos/reembolsos com prestações do acordo",
+  "Autorizar compensação de precatórios federais",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6757/22",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade perante PGFN e RFB, regularizando em até 90 dias débitos supervenientes",
+  "Declarar ausência de créditos/precatórios líquidos e certos em desfavor da União",
+  "Manter medidas de desenvolvimento sustentável (ESG)",
+  "Adotar medidas de equidade de gênero e raça em cargos, conselhos e diretoria",
+  "Não desistir do acordo sob pena de rescisão",
+  "Peticionar nos processos judiciais em até 60 dias após assinatura, noticiando a transação e desistindo de embargos/exceções",
+  "Providenciar oferecimento das marcas à penhora em até 120 dias",
+  "Apresentar situação econômico-financeira sempre que a PGFN reputar oportuno",
+  "Comprovar adoção/manutenção de práticas de Desenvolvimento Sustentável quando solicitado",
+  "Manter recolhimento das obrigações tributárias correntes"
+ ],
+ "special_clauses": [
+  "Cláusula 8ª: garantia por marcas (nomeação à penhora) e imóveis já penhorados",
+  "§1º Cláusula 8ª: nomeação da União como procuradora em causa própria em caso de desapropriação dos bens dados em garantia",
+  "§2º e §3º Cláusula 8ª: obrigação de substituir/reforçar garantia em caso de redução significativa (>25%) do valor do bem",
+  "Cláusula 21: transação não pode implicar redução do montante dos créditos em percentual maior do que o previsto no termo"
+ ],
+ "sector": "futebol/entretenimento",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.9,
+  "modality": 1.0,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "guarantees": 1.0,
+  "obligations": 0.95,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total sem reduções (A) ... Consolidado 314.045.907,34 (Anexo II - demais) e Consolidado 64.329.964,77 (Anexo I - previdenciárias), somando-se os dois anexos conforme demonstrativos de consolidação apresentados nos documentos anexos ao Termo"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "judicial_recovery",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "f51523556c99",
+ "title": "Termo de Transação Individual - Sport Club Internacional",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualSportClubInternacional.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualSportClubInternacional.pdf",
+ "sha256": "62ca6894a50aa556210ae0654d5d66dd470a070c540b36e74a6b8dd21604bafe",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

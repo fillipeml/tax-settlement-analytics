@@ -1,0 +1,66 @@
+{
+ "taxpayer": "NOMA DO BRASIL S/A EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "Not identified",
+ "consolidated_amount": null,
+ "modality": "Negócio Jurídico Processual (NJP)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Cessão/utilização de crédito de precatório federal (autos n. 5005451-45.2019.404.7003) para pagamento e garantia das dívidas de FGTS",
+  "Penhora do crédito de precatório para formalização da garantia (dívida FGPR202101331)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Desistência das impugnações ou recursos administrativos e das ações judiciais relativas aos débitos cobrados na execução fiscal n. 5001872-50.2023.404.7003",
+  "Renúncia a quaisquer alegações de direito que fundamentem tais impugnações e recursos",
+  "Requerimento de extinção do processo com resolução de mérito (art. 487, III, 'c', CPC)",
+  "Pagamento dos honorários advocatícios e custas processuais devidos",
+  "Requerer a lavratura de termo de penhora do crédito para formalizar a garantia"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de precatório federal para pagamento e garantia de dívidas ativas de FGTS (Cláusula Segunda)",
+  "Rerratificação da cessão do crédito entre a devedora e a empresa Santa Cruz Consultoria Especializada LTDA, que comparece como interveniente anuente (Cláusula Oitava)",
+  "Hipóteses de rescisão do NJP incluindo fragilização/perecimento do crédito de precatório sem reforço ou substituição por dinheiro no prazo de 30 dias (Cláusula Sexta, VII)"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.3,
+  "modality": 0.9,
+  "approval_date": 0.2,
+  "consolidated_amount": 0.3,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.0,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "guarantees": "O crédito de precatório federal expedido nos autos n. 5005451-45.2019.404.7003 da 1ª Vara Federal de Maringá/PR será utilizado para o pagamento de dívidas ativas inscritas de FGTS n. FGPR201801629, FGPR201801659 e FGPR202202539 (execução fiscal n. 5001872-50.2023.404.7003/PR), bem como para a garantia da dívida n. FGPR202101331, na execução fiscal n. 5000968-64.2022.404.7003/PR.",
+  "consolidated_amount": "PARÁGRAFO SEGUNDO. As quantias atualizadas para outubro/2023 são as seguintes: FGPR201801629 – R$ 198.281,36; FGPR201801659 – R$ 389.687,72; FGPR202202539 – R$ 1.339.599,58; FGPR202101331 – R$ 2.578.720,44"
+ },
+ "review_fields": [
+  "sector",
+  "approval_date",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "installments"
+ ],
+ "id": "2bc07fe3f850",
+ "title": "TermodeNegcioJurdicoProcessualNomadoBrasilSA.pdf",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeNegcioJurdicoProcessualNomadoBrasilSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeNegcioJurdicoProcessualNomadoBrasilSA.pdf",
+ "sha256": "0c35fc8ef0a64d8af50c497d1b2e02f973cda37b728b699c20f1093581f7e6c6",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

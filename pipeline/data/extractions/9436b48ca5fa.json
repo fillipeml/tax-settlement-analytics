@@ -1,0 +1,60 @@
+{
+ "taxpayer": "LIBRA LIGAS DO BRASIL S/A e outras (grupo CARBOMIL/ITAMIL) - Not identified (representante legal com dados tarjados)",
+ "approval_date": "2024-12-26",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (Primeiro Termo Aditivo)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": null,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "O DEVEDOR dá-se por ciente de que mensalmente deverá recolher os DARFs relativos a cada uma das contas formalizadas no sistema informatizado e que todas as contas compõem uma transação única, de forma que eventual inadimplência constatada para qualquer dessas contas implicará a inadimplência de toda a transação, observadas as hipóteses e consequências previstas na Cláusula 14 do TERMO DE TRANSAÇÃO INDIVIDUAL."
+ ],
+ "special_clauses": [
+  "Ficam incluídas no acordo de transação individual as CDAS identificadas no anexo, com fundamento na Cláusula 1ª, §1 e 3ª, V, do Termo de Transação Individual original, firmado em 22/06/2023, que autoriza a inclusão de débitos vencidos em fase administrativa não discutidos administrativamente na data da formalização do acordo.",
+  "Para inclusão dos novos débitos não previdenciários (DEMAIS) e previdenciários, serão formalizadas novas contas SISPAR, modalidade DEMAIS DÉBITOS e PREVIDENCIÁRIA, com as mesmas condições de desconto e prazo restante de parcelamento das contas já criadas, sendo as parcelas das novas contas também de forma escalonada pelo prazo restante da transação, conforme previsão da Cláusula 6ª do Termo de Transação Individual.",
+  "Não será possível a inclusão de novos percentuais de prejuízo fiscal e base de cálculo negativa da CSLL, uma vez que todo prejuízo fiscal e base de cálculo negativa da CSLL declarado pela empresa até a data de assinatura do termo de transação original já foi utilizado."
+ ],
+ "sector": "Mineração/Química/Agropecuária/Transporte",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.5,
+  "modality": 0.8,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "installments": 0.0,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.8,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "installments",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "9436b48ca5fa",
+ "title": "Primeiro Termo Aditivo - Libra Ligas do Brasil SA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/PrimeiroTermoAditivoLibraLigasdoBrasilSA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/PrimeiroTermoAditivoLibraLigasdoBrasilSA.pdf",
+ "sha256": "9bdfdc89f7e4910d37678867adb07e90d9d565ca513f35372bd7d6eb0c1ce6ce",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

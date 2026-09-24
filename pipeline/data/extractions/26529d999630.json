@@ -1,0 +1,86 @@
+{
+ "taxpayer": "Not identified",
+ "approval_date": "2023-10-02",
+ "consolidated_amount": 444060845.1,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 6.271,
+ "guarantees": [
+  "Imóvel localizado à Avenida W02, lotes nº 07 e 08, Macaé – RJ",
+  "Imóvel localizado à Rua São Francisco Xavier, 603, Rio de Janeiro – RJ",
+  "Imóvel localizado à Estrada dos Palmares, 671, Lotes 82, 83 e 84, Rio de Janeiro – RJ",
+  "Imóvel denominado 'Fazenda Salinas', localizado em Margarida – BA",
+  "Imóvel denominado 'Fazenda Bahia', localizado em Valença – BA",
+  "Imóvel denominado 'Fazenda VBM', localizado em Valença – BA",
+  "Imóvel denominado 'Fazenda São Francisco', localizado em Glória-BA",
+  "5% do faturamento bruto mensal da FIADORA MPE ENGENHARIA E SERVIÇOS S/A (penhora de faturamento em caso de rescisão)",
+  "Fiança das FIADORAS (garantia fidejussória solidária)"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Desistência de impugnações, recursos e ações judiciais/administrativas relativas à Dívida Transacionada",
+  "Reconhecimento e confissão irrevogável e irretratável da dívida",
+  "Manutenção de livros e documentos fiscais comprobatórios dos créditos de prejuízo fiscal e base negativa de CSLL",
+  "Permanecer no regime de apuração do IRPJ pelo lucro real até a extinção da Dívida Transacionada",
+  "Comunicação à Fazenda Nacional antes de alienar bens ou direitos próprios",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Fornecer informações sobre bens, direitos e valores sempre que solicitado",
+  "Manter regularidade perante o FGTS e individualizar valores recolhidos",
+  "Permanecer nos parcelamentos já aderidos, honrando pagamentos até quitação das CDAs",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União no prazo de 90 dias",
+  "Comprovar baixa dos gravames incidentes sobre imóveis garantidores",
+  "Peticionar nos autos da Recuperação Judicial e Execuções Fiscais para noticiar a celebração da Transação",
+  "Efetuar pagamento regular de tributos federais, estaduais e municipais sobre os imóveis dados em garantia"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidar até 50% do saldo remanescente",
+  "Concessão de prazo de até 5 anos para análise da regularidade dos créditos de prejuízo fiscal utilizados",
+  "Substituição de garantias por outras de igual ou maior valor em caso de alienação judicial na Recuperação Judicial",
+  "Levantamento de valores bloqueados via SISBAJUD e indisponibilidade de cotas sociais após quitação integral da entrada",
+  "Penhora de faturamento (5% do faturamento bruto mensal) como garantia contingente em caso de rescisão",
+  "Possibilidade de migração para programas de transação por adesão mais benéficos sem migração dos benefícios acordados nesta Transação Individual"
+ ],
+ "sector": "Construção civil/Engenharia e Agronegócio",
+ "confidence": {
+  "taxpayer": 0.1,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.75,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.9,
+  "installments": 0.8,
+  "discounts": 0.3,
+  "guarantees": 0.85,
+  "obligations": 0.8,
+  "judicial_recovery": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Das inscrições previdenciárias, constantes do ANEXO I, totalizando R$ 239.223.280,04 ... Das inscrições não previdenciárias, constantes do ANEXO II, totalizando R$ 204.837.565,06",
+  "total_discount_pct": "Concessão do desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a Dívida Transacionada de natureza previdenciária e não-previdenciária pertencente à FAZENDA NACIONAL",
+  "installments": "Pagamento do saldo remanescente dos débitos de natureza não previdenciária efetuado em 120 (cento e vinte) meses",
+  "down_payment_pct": "Pagamento de entrada correspondente a 6,271 % do valor consolidado do débito previdenciário, sem desconto, em 5 (cinco) parcelas mensais e sucessivas"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "26529d999630",
+ "title": "Termo de Transação Individual -  MPE Montagens e Projetos Especiais SA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualMPEMontagenseProjetosEspeciaisSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualMPEMontagenseProjetosEspeciaisSATarjado.pdf",
+ "sha256": "52248db4fad512d98ac74a32d35c92f238636a55f5a6f845a3bb8a7c84c0501f",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

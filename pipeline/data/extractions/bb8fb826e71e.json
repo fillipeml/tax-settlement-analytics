@@ -1,0 +1,69 @@
+{
+ "taxpayer": "MUNICÍPIO DE CAICÓ",
+ "approval_date": "2023-12-11",
+ "consolidated_amount": null,
+ "modality": "Transação Individual - Plano de Regularização Fiscal",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Ficam mantidas todas as garantias eventualmente já associadas aos débitos incluídos nesta transação individual, até a sua plena quitação, inclusive penhoras prévias em execuções fiscais."
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Regularizar no prazo de 90 dias os débitos que vierem a ser inscritos em dívida ativa ou que se tornarem exigíveis após a formalização do acordo de transação",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil apurado ou documentos complementares",
+  "Não alienar bens ou direitos sem proceder à devida comunicação à Fazenda Nacional",
+  "Autorizar a dedução de valores a serem repassados às suas cotas no Fundo de Participação Municipal",
+  "Manter o recolhimento das obrigações tributárias correntes e acessórias"
+ ],
+ "special_clauses": [
+  "Dedução de valores a serem repassados ao Município relacionados às cotas no Fundo de Participação, caso não seja cumprido o parcelamento acordado (§2º, Cláusula 6ª)",
+  "Qualquer direito creditório superveniente, incluindo precatórios, será vertido para o pagamento da transação, ainda que para antecipação de parcelas não vencidas (Cláusula 13)"
+ ],
+ "sector": "Administração pública municipal",
+ "confidence": {
+  "taxpayer": 1.0,
+  "approval_date": 0.9,
+  "modality": 1.0,
+  "sector": 0.6,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "installments": 1.0,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "com aproveitamento do desconto máximo de até 65% (sessenta e cinco por cento), observadas suas capacidades de pagamento (CAPAG)",
+  "installments": "para pagamento de forma escalonada no prazo de 60 (sessenta meses) a dívida previdenciária"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector",
+  "approval_date"
+ ],
+ "id": "bb8fb826e71e",
+ "title": "Termo de Transação Individual -  Município de Caicó",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMunicpiodeCaicTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualMunicpiodeCaicTarjado.pdf",
+ "sha256": "b214ae3e6fb5355b51b13f492d099bfef8dba74c008edf69850f2e20007d23bd",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

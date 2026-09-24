@@ -1,0 +1,71 @@
+{
+ "taxpayer": "RSFA COMÉRCIO ATACADISTA E VAREJISTA DE ROUPAS LTDA. – EM RECUPERAÇÃO JUDICIAL, SKS CONFECÇÕES LTDA. – EM RECUPERAÇÃO JUDICIAL, e BIG BRANDS LAUNCHER CONFECÇÕES LTDA. – EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-03-27",
+ "consolidated_amount": 38361551.21,
+ "modality": "Transação Individual",
+ "total_discount_pct": 51.49,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à Procuradoria-Geral da Fazenda Nacional conhecer suas situações econômicas ou eventuais fatos que impliquem a rescisão do acordo",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar de qualquer forma a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores, seus reais interesses ou a identidade dos beneficiários de seus atos, em prejuízo da Fazenda Pública Federal",
+  "Declarar que não alienaram ou oneraram bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas à administração tributária são verdadeiras e que não foram omitidas informações quanto à propriedade de bens, direitos e valores",
+  "Declarar a inexistência de outros créditos líquidos e certos em desfavor da União, reconhecidos em decisão judicial transitada em julgado, ou precatórios federais expedidos em favor do contribuinte",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o Fundo de Garantia do Tempo de Serviço",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 (noventa) dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos neste termo, sem proceder à devida comunicação à Fazenda Nacional",
+  "Manter-se optante pela tributação pelo regime do lucro real durante toda a vigência do acordo, tendo em vista a utilização de prejuízo fiscal e base de cálculo negativa de contribuição social sobre o lucro líquido na presente transação"
+ ],
+ "special_clauses": [
+  "Desconto máximo de 63,32% a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 70% do saldo da dívida após a aplicação dos descontos",
+  "Não haverá oferta de garantia vinculada à Transação, considerando que a negociação teve como objetivo a redução do prazo total para pagamento, bem como por se tratar de empresa em Recuperação Judicial"
+ ],
+ "sector": "Comércio varejista/atacadista de vestuário (confecções)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.95,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 38.361.551,21 (Trinta e oito milhões, trezentos e sessenta e um mil, quinhentos e cinquenta e um reais e vinte e um centavos).",
+  "total_discount_pct": "cujo desconto médio global concedido no presente acordo é de 51,49% (cinquenta e um vírgula quarenta e nove por cento), conforme se observa dos Anexos II e III",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 84 (oitenta e quatro) prestações iguais e sucessivas e a de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 60 (sessenta) prestações mensais também iguais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "2b3b70fdd8aa",
+ "title": "Termo de Transação Individual - RSFA Comércio Atacadista e Varejista de Roupas LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRSFAComrcioAtacadistaeVarejistadeRoupasLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRSFAComrcioAtacadistaeVarejistadeRoupasLTDATarjado.pdf",
+ "sha256": "f244a2949784c22cb0385e49c2f7f0edb890e0fafa40b58730aae38b379fa502",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

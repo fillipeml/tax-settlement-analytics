@@ -1,0 +1,78 @@
+{
+ "taxpayer": "IESA – Projetos, Equipamentos e Montagens S.A., IESA Óleo e Gás S.A., Inepar S.A. Indústria e Construções e Inepar Equipamentos e Montagens S.A. (grupo econômico) - em Recuperação Judicial",
+ "approval_date": "2021-12-16",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Planta industrial em Araraquara-SP, composta pelas matrículas 143.010, 143.015, 143.016, 143.018, 143.019, 143.020, 143.021, 143.023, 143.024, 143.025, 143.026, 143.027, 143.028, 143.029, 143.030, 143.031, 143.032, 143.033, 143.034, 143.035, 143.036, 143.037, 143.038, 143.039, 143.045, 143.046, 143.047, 143.048, 143.049, 143.050, 143.051, 143.052, 143.053, 143.054, 143.055, 143.064, 143.065, 143.066, 143.067, 143.068, 143.069, 143.073, 143.074, 143.075 e 143.076, desmembradas da matrícula 3.722, registradas no 1º Oficial de Registro de Imóveis de Araraquara"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar/falsear a livre concorrência",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta para ocultar bens",
+  "Declarar que não alienaram ou oneraram bens com propósito de frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir lucros ou dividendos a sócios e acionistas até o pagamento integral da entrada",
+  "Regularizar em 90 dias os débitos que vierem a ser inscritos em dívida ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Regularizar as inscrições CSRJ201903872 e CSSP202100942 diretamente na Caixa Econômica Federal em até 30 dias",
+  "Formalizar desistência da ação 2044089-16.2019.8.26.0000 em 10 dias",
+  "Formalizar a penhora dos imóveis dados em garantia nos autos da Execução Fiscal n.º 200651015285339 em 30 dias",
+  "Peticionar nos processos judiciais em 60 dias para noticiar a celebração do acordo"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação de bens imóveis dados em garantia mediante prévia anuência da Fazenda Nacional (cláusula 4)",
+  "Inclusão da Fazenda Nacional como interveniente anuente no contrato de compra e venda em caso de alienação dos imóveis garantidos",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens e medida cautelar fiscal",
+  "Proponentes incluídas como corresponsáveis nas CDAs umas das outras",
+  "Descontos máximos legais possíveis de até 70% considerando rating D e situação de Recuperação Judicial"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.2,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.75,
+  "down_payment_pct": 0.0,
+  "installments": 0.8,
+  "judicial_recovery": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Descontos máximos legais possíveis de até 70% (setenta por cento) a cada uma das inscrições;",
+  "installments": "Pagamento dos débitos não previdenciários em 120 parcelas mensais e pagamento dos débitos previdenciários em 60 parcelas mensais, na forma prevista no Anexo II;"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "7024c68a02ef",
+ "title": "Termo de Transação Individual - IESA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-iesa.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-iesa.pdf",
+ "sha256": "00b50fbc76e7dcf9ca7943d520e655f0b684f01fba5f0666370c390a02bd3b36",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

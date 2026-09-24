@@ -1,0 +1,88 @@
+{
+ "taxpayer": "Grupo Dedini (DEDINI S.A. INDÚSTRIAS DE BASE e outras devedoras solidárias - Grupo Dedini)",
+ "approval_date": "2024-03-08",
+ "consolidated_amount": 2884734986.14,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis operacionais e não operacionais (Anexo III)",
+  "Bens móveis penhorados (Anexo III)",
+  "Parques fabris (DIB, DRE, DES)",
+  "Cláusula de desempenho - parcela balão extra conforme desempenho de faturamento",
+  "Penhora no rosto dos autos dos Processos 0000563-57.2013.4.05.8311 e 1079697-38.2021.4.01.3400"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou anticoncorrencial",
+  "Declarar não utilização de interposta pessoa",
+  "Declarar não alienação/oneração de bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Negociar passivo de FGTS em até 90 dias e manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos futuros inscritos em Dívida Ativa",
+  "Não alienar bens próprios que reduzam capacidade de pagamento sem comunicar a Fazenda Nacional",
+  "Manter livros e documentos comprobatórios de prejuízo fiscal e base negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Manter-se optante pelo regime do lucro real durante toda a vigência do acordo",
+  "Desistir de impugnações, recursos e ações judiciais relativas à Dívida Transacionada",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para liquidação de até 70% do saldo remanescente",
+  "Cláusula de desempenho com parcela balão extra conforme aumento da Receita Bruta anual",
+  "Cronograma de alienação de bens imóveis não operacionais em 4 fases (15º ao 60º mês)",
+  "Possibilidade de compensação com precatórios federais de que as Devedoras sejam credoras",
+  "Inclusão de empresas baixadas (Construtora de Destilarias Dedini, Dedini Corretora de Seguros, Congonhas Serviços) como corresponsáveis",
+  "Formalização da negociação unificada no CNPJ de Dedini S/A Indústria de Base para simplificação de garantias",
+  "Débitos da execução fiscal nº 003396-59.2006.403.6109 não serão consolidados até imputação de pagamento por adjudicação de bens móveis e imóveis"
+ ],
+ "sector": "Indústria/Agronegócio (equipamentos e refratários para indústria sucroenergética)",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.8,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.85,
+  "obligations": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal das Devedoras, objeto do presente Termo de Transação é composto pelos créditos inscritos em Dívida Ativa da União de natureza DEMAIS DÉBITOS e DÉBITOS PREVIDENCIÁRIOS, no valor de R$2.884.734.986,14 (dois bilhões, oitocentos e oitenta e quatro milhões, setecentos e trinta e quatro mil, novecentos e oitenta e seis reais e quatorze centavos), para novembro de 2023.",
+  "total_discount_pct": "Desconto máximo de até 65%, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 prestações mensais escalonadas."
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "special_clauses"
+ ],
+ "id": "fe244afc22f6",
+ "title": "Termo de Transação Individual - Dedini SA Indústrias de Base em recuperação judicial",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualDediniSAIndstriasdeBaseemrecuperaojudicialtarjada.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualDediniSAIndstriasdeBaseemrecuperaojudicialtarjada.pdf",
+ "sha256": "e9d21f99cfa4b1ec23178aec9c26514dc2fce2a28f8c56c369505c3fbe564138",
+ "extracted_at": "2026-07-22T14:22:40+00:00",
+ "simulated": false
+}

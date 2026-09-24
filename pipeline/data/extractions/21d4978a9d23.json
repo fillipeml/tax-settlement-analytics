@@ -1,0 +1,88 @@
+{
+ "taxpayer": "SUSTENTARE SANEAMENTO S/A, MODERNNA AMBIENTAL S/A e QUALIX SERVIÇOS AMBIENTAIS S.A. (grupo econômico)",
+ "approval_date": "2020-04-23",
+ "consolidated_amount": 176089567.52,
+ "modality": "Transação Individual",
+ "total_discount_pct": 49.62,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Recebíveis oriundos do contrato nº 19/2019 celebrado entre o Serviço de Limpeza Urbana do Distrito Federal (SLU/DF) e a SUSTENTARE SANEAMENTO, vigente até julho de 2024, com parcelas vincendas somadas de aproximadamente R$ 386.749.914,66",
+  "Imóvel objeto da matrícula nº 43.086 junto ao 1º Registro de Imóveis de Feira de Santana, de propriedade da QUALIX",
+  "Seguro garantia oferecido para o débito CSSP201602990",
+  "Apólices de seguro garantia oferecidas para os débitos FGSP201602989 e FGSP201701051"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Reconhecimento da co-responsabilidade pelos requerentes SUSTENTARE SANEAMENTO e MODERNNA AMBIENTAL em relação a todos os débitos tratados",
+  "Confissão irrevogável e irretratável de todos os débitos inscritos, renovada a cada pagamento periódico",
+  "Obrigação de renunciar a quaisquer alegações de direito sobre os créditos incluídos na transação",
+  "Adimplemento do plano de pagamento mensal e anual",
+  "Pagamento acrescido de juros equivalentes à Selic",
+  "Compromisso de efetuar pagamentos via SISPAR",
+  "Efetivação da penhora sobre bens oferecidos em garantia no prazo de 30 dias",
+  "Compromisso de pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União no prazo de 90 dias",
+  "Compromisso de manter regular a situação dos parcelamentos vigentes",
+  "Compromisso de manter regularidade perante o FGTS",
+  "Compromisso de apresentar semestralmente relação de contratos de prestação de serviços vigentes perante municipalidades ou particulares",
+  "Compromisso de declarar cessão de recebíveis a terceiros",
+  "Compromisso de comprovar anualmente situação das obrigações no processo de recuperação judicial",
+  "Autorização de acesso pela Fazenda Nacional às declarações e escritas fiscais",
+  "Declarar que não alienarão bens ou direitos sem comunicação à Fazenda Nacional",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar que não utilizam pessoa interposta para ocultar bens",
+  "Apresentar relação de bens particulares dos controladores e representantes legais"
+ ],
+ "special_clauses": [
+  "Débitos impactados por sentença judicial (PIS/COFINS sobre ISSQN) excluídos da transação (Anexo IV), com prazo de 90 dias após revisão para regularização",
+  "Possibilidade de direcionar créditos de precatório (ação 0117936-77.2006.8.26.0053) não comprometidos com recuperação judicial para quitação da primeira parcela anual",
+  "Flexibilização de garantia mediante substituição por novos contratos, depósito judicial, seguro-garantia ou carta de fiança",
+  "Obrigação de manter parcelas vincendas do contrato de garantia equivalentes a no mínimo 130% do saldo remanescente das inscrições",
+  "Desistência de Agravos de Instrumento e Agravo Interno relacionados ao redirecionamento das execuções fiscais",
+  "Rescisão importa em co-responsabilização automática de SUSTENTARE SANEAMENTO e MODERNNA AMBIENTAL",
+  "Vedação de 2 anos para nova transação em caso de rescisão"
+ ],
+ "sector": "Saneamento/Serviços Ambientais",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.75,
+  "installments": 0.9,
+  "down_payment_pct": 0.3,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Consolidado das Inscrições: 142.033.722,69 (Débitos não previdenciários) + Valor Consolidado: 34.055.844,83 (Débitos Previdenciários)",
+  "total_discount_pct": "% Desconto Efetivo Possível: 49,47% (Débitos não previdenciários) / Prev % Desconto Efetivo Possível: 50,00% (Débitos Previdenciários)",
+  "installments": "O plano de pagamento relativo aos débitos não previdenciários (Anexo II) prevê o recolhimento de 84 parcelas mensais e 7 parcelas anuais"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "total_discount_pct"
+ ],
+ "id": "21d4978a9d23",
+ "title": "Termo de Transação Individual - Sustentare Saneamento",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-sustentare-saneamento.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-sustentare-saneamento.pdf",
+ "sha256": "92f3b9bd8574bd98868b8bdbc1961cf4132042ab99dcfd7b0af8518181decfba",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

@@ -1,0 +1,64 @@
+{
+ "taxpayer": "CLÍNICA SANTO ANTONIO DE PÁDUA LTDA e outros (grupo econômico: HOSPITAL DA PROVIDÊNCIA LTDA, HOSPITAL JOSÉ ALBERTO MAIA LTDA, HOSPITAL PSIQUIÁTRICO DE PERNAMBUCO LTDA, INSTITUTO DE PSIQUIATRIA DO RECIFE LTDA, SANATÓRIO PSIQUIÁTRICO DE RECUPERAÇÃO LTDA)",
+ "approval_date": "2021-11-25",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à Procuradoria-Geral da Fazenda Nacional conhecer sua situação econômica ou eventuais fatos que impliquem a rescisão do acordo",
+  "Não utilizar a transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar de qualquer forma a livre concorrência ou a livre iniciativa econômica",
+  "Renunciar a quaisquer alegações de direito, atuais ou futuras, sobre as quais se fundem ações judiciais, incluídas as coletivas, ou recursos que tenham por objeto os créditos incluídos na transação",
+  "Não alienar bens ou direitos sem proceder à devida comunicação à Fazenda Nacional, até a quitação das dívidas objeto da presente transação",
+  "Desistir das impugnações ou dos recursos administrativos e das ações judiciais que tenham por objeto os débitos relacionados no ANEXO ÚNICO e renunciar a quaisquer alegações de direito sobre as quais se fundem as referidas impugnações e recursos ou ações judiciais"
+ ],
+ "special_clauses": [
+  "Cláusula 13: reconhecimento de precatório expedido em favor do DEVEDOR HOSPITAL ALBERTO MAIA LTDA nos autos do processo nº 0804263-65.2018.4.05.8300, bloqueado a pedido da PGFN no âmbito dos IDPJ nº 0805213-69.2021.4.05.8300 e 08069926-79.2021.4.05.8300, com determinação de indisponibilidade de bens, direitos e valores dos DEVEDORES e das REPRESENTANTES LEGAIS/CORRESPONSÁVEIS",
+  "Parágrafo único da Cláusula 10: a quitação obtida a partir do pagamento integral da totalidade dos débitos inscritos em DAU e FGTS mediante transação implicará na liberação de todas as garantias e de certidão negativa de débitos, na extinção de todas as execuções movidas contra os devedores, bem como tornará sem objeto os IDPJ 0805213-69.2021.4.05.8300 e 08069926-79.2021.4.05.8300"
+ ],
+ "sector": "Saúde (hospitais e clínicas, incluindo psiquiatria)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.85,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.75,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "judicial_recovery": 0.2,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "É concedida aos DEVEDORES a possibilidade de pagar à VISTA os débitos não previdenciários, os débitos previdenciários e os débitos de FGTS com descontos de até 70%, a depender do enquadramento de cada empresa e das particularidades de cada inscrição",
+  "installments": "CLÁUSULA 10. Como se trata de transação para pagamento à vista, em parcela única, a quitação dos DARFs e Guias relativas às inscrições referidas no §1º da cláusula 1ª importará na plena liquidação das referidas inscrições, não havendo o Fisco Federal nada mais a reclamar quanto a esses débitos."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "aee23403c7b7",
+ "title": "Termo de Transação Individual - Grupo Hospital José Alberto Maia",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-do-grupo-hospital-jose-alberto-maia-assinado-e-tarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-do-grupo-hospital-jose-alberto-maia-assinado-e-tarjado.pdf",
+ "sha256": "55d257e2445ee62f061d2964cdce37d1eea13f8f73b069c90a09c5a117e3c77c",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

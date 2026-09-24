@@ -1,0 +1,74 @@
+{
+ "taxpayer": "CECATTO INDUSTRIA E COMERCIO DE SISTEMAS DE LAVAGEM LTDA - EM RECUPERACAO JUDICIAL / DMR COMERCIO DE SISTEMA DE LAVAGEM LTDA EM RECUPERAÇÃO EM LIQUIDAÇÃO",
+ "approval_date": "2025-01-14",
+ "consolidated_amount": null,
+ "modality": "Transação individual (recuperação judicial)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Mantém-se as garantias dos débitos eventualmente existentes até a quitação integral do saldo devedor"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Declarar sob as penas da lei que preenchem os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a formalização",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso"
+ ],
+ "special_clauses": [
+  "Débitos de FGTS do contribuinte DMR serão quitados por meio de parcelamentos junto à CEF",
+  "Desconto máximo de aproximadamente 65% a cada uma das CDAs, vedada a redução do montante principal, aplicado proporcionalmente sobre acréscimos legais",
+  "Eventuais créditos obtidos por precatório ou depósito judicial deverão ser direcionados para adimplemento dos saldos devedores da Transação",
+  "Pugnar pela transformação em pagamento do montante depositado nos autos 0004942-03.2013.403.6143, valor aproximado de R$999.813,86 (31/05/2019), para imputação no valor negociado"
+ ],
+ "sector": "Indústria e comércio de sistemas de lavagem",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.75,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "guarantees": 0.6,
+  "judicial_recovery": 0.95,
+  "obligations": 0.85,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de aproximadamente 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Pagamento da Dívida Transacionada, de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\"), em 60 (sessenta) prestações mensais iguais e sucessivas, na forma discriminada no Anexo II; ... Pagamento da Dívida Transacionada, de natureza previdenciária (\"Dívida Transacionada – Previdenciária\"), em 60 (sessenta) prestações mensais iguais e sucessivas, na forma discriminada no Anexo II;"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts",
+  "sector",
+  "guarantees"
+ ],
+ "id": "655bebe068c9",
+ "title": "Termo de Transação Individual - Cecatto Indústria e Comércio de Sistemas de Lavagem LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCecattoIndstriaeComrciodeSistemasdeLavagemLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualCecattoIndstriaeComrciodeSistemasdeLavagemLTDATarjado.pdf",
+ "sha256": "7cc04d00c038e598d8120478331cc437d6db6ad6360b73bb94c413299867177b",
+ "extracted_at": "2026-07-22T14:22:38+00:00",
+ "simulated": false
+}

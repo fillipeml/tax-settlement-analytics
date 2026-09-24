@@ -1,0 +1,74 @@
+{
+ "taxpayer": "MB ADMINISTRAÇÃO DE BENS LTDA.",
+ "approval_date": "2023-07-07",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Declarar não ter alienado ou onerado bens com propósito de frustrar a recuperação dos créditos",
+  "Cumprir exigências e obrigações adicionais previstas na Portaria PGFN 6.757/2022 e na proposta",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Renunciar a alegações de direito, ações judiciais e recursos referentes aos créditos incluídos",
+  "Manter regularidade fiscal perante a União e o Certificado de Regularidade Fiscal do FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Manter, por 5 anos, livros e documentos comprobatórios dos montantes de PF e BCN utilizados",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil ou demonstrações de resultado",
+  "Manter recolhimento das obrigações tributárias correntes",
+  "Adimplir emolumentos de eventual protesto cartorário das inscrições abrangidas"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de Prejuízo Fiscal (PF) e Base de Cálculo Negativa de CSLL (BCN) no valor nominal de R$ 4.743.000,00, sob condição resolutória de homologação pela RFB no prazo de 5 anos"
+ ],
+ "sector": "Administração de bens",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "sendo concedido o desconto médio de 65%, conforme simulações anexas e observados os limites do §3º do art. 11 da Lei n. 13.988/20",
+  "installments": "O plano relativo às inscrições indicadas no Anexo I (demais débitos) prevê o pagamento em parcela única"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery",
+  "guarantees",
+  "sector"
+ ],
+ "id": "8784c03be0c9",
+ "title": "Termo de Transação Individual - MB Administração de Bens LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualMBAdministracaodeBensLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualMBAdministracaodeBensLTDA.pdf",
+ "sha256": "0cab5f7fdf04a20057439375b725e04a579e2b41e8b88054fb1e98a4b7358ca8",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

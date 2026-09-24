@@ -1,0 +1,65 @@
+{
+ "taxpayer": "CONSTRUTORA G & F LTDA",
+ "approval_date": "2024-08-21",
+ "consolidated_amount": 3291589.89,
+ "modality": "Transação individual (Termo Aditivo)",
+ "total_discount_pct": 87.65,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Regularizar os débitos inscritos ou que se tornarem exigíveis posteriormente à formalização da transação",
+  "Aderir aos termos do Edital 2/2024 para adimplir as inscrições em dívida ativa não incluídas neste termo, deixando todo o passivo tributário fiscal regularizado",
+  "Pagamento das Guias de Pagamento, relativas às contas originais e às novas Guias, com vencimento em 30.09.2024"
+ ],
+ "special_clauses": [
+  "Abertura de nova conta de transação, dada a impossibilidade de inserção das novas inscrições nas contas já existentes, preservando os mesmos termos do acordo (desconto de até 65% e prazo de 2 meses para dívidas previdenciárias, já abatidas 10 parcelas vencidas)",
+  "Inclusão de crédito de prejuízo fiscal e base de cálculo negativa de CSLL para pagamento da conta aditiva, com uso do valor remanescente do termo inicial",
+  "Utilização da quantia remanescente de créditos de PF/BCN de R$ 935.594,59 para pagamento da conta PREVIDENCIÁRIA, com esgotamento dos seus valores"
+ ],
+ "sector": "Construção civil",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "guarantees": 0.5,
+  "obligations": 0.75,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Totais: 3.291.589,89",
+  "total_discount_pct": "Total com reduções (A - C - B) ... Percentual efetivo de reduções ... Totais: ... 87,65%",
+  "installments": "Valor Prestação Básica 1x 406.198,66"
+ },
+ "review_fields": [
+  "sector",
+  "installments",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "d1cdf92cb513",
+ "title": "Termo Aditivo - Construtora G&F LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermoAditivoConstrutoraGFLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermoAditivoConstrutoraGFLTDAtarjado.pdf",
+ "sha256": "2cd8d9c9423abdc11ee67316c2d6c094915e2c834715e8922a9533b4365c83c4",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

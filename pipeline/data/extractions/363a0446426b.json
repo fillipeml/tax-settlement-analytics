@@ -1,0 +1,78 @@
+{
+ "taxpayer": "GAP - GUARARAPES ARTEFATOS DE PAPEL EIREL",
+ "approval_date": "2021-07-16",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": 50.0,
+ "discounts": {
+  "fine_pct": 100.0,
+  "interest_pct": 100.0,
+  "charges_pct": 100.0
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Créditos de terceiro (empresa Damapel Indústria Comércio e Distribuição de Papéis Ltda, CNPJ 02.969.683/0001-15)",
+  "Valores bloqueados na Execução Fiscal nº [tarjado]",
+  "Garantias associadas aos débitos mantidas"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Renunciar a alegações de direito sobre créditos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou tornarem-se exigíveis",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Manter regularidade dos parcelamentos em vigor, inclusive após recálculo por glosas de PJ e BCN",
+  "Apresentar relação de bens particulares de controladores, administradores, gestores e representantes legais",
+  "Comunicar à Fazenda Nacional antes de alienar bens ou direitos",
+  "Efetuar pagamento de entrada mínima de R$ 5.000.000,00",
+  "Manter garantias associadas aos débitos transacionados"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de terceiro (empresa Damapel) para amortização do saldo devedor transacionado",
+  "Utilização dos valores bloqueados em execução fiscal específica para redução do saldo devedor, após pagamento da entrada",
+  "Parcelamento diferenciado para débitos não previdenciários (84 parcelas, progressão de 4% a 20% ao ano) e previdenciários (60 parcelas, progressão de 8% a 44% ao ano)"
+ ],
+ "sector": "Papel e celulose/artefatos de papel",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.5,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.95,
+  "discounts.fine_pct": 0.9,
+  "discounts.interest_pct": 0.9,
+  "discounts.charges_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "total_discount_pct": "descontos de 100% das multas, juros e encargos, limitado a 50% do valor total dos créditos a serem transacionados",
+  "installments": "parcelamento do restante referente aos débitos não previdenciários, em 84 parcelas, na seguinte proporção: 4% do saldo devedor no 1º ano; 8% do saldo devedor no 2º ano; 12% do saldo devedor no 3º ano; 16% do saldo devedor no 4º ano; 20% do saldo devedor no 5º ano; 20% do saldo devedor no 6º ano e 20% do saldo devedor no 7º ano",
+  "down_payment_amount": "Efetuar o pagamento de entrada mínima, no valor de R$ 5.000.000,00 (cinco milhões de reais)"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "judicial_recovery",
+  "guarantees"
+ ],
+ "id": "363a0446426b",
+ "title": "Termo de Transação Individual - GAP",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-gap.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-gap.pdf",
+ "sha256": "616aecf7e69e1cb093eb969421dba28700f7ec78fcf6e06b7bcb5201d7924ab2",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

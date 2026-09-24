@@ -1,0 +1,75 @@
+{
+ "taxpayer": "TRANSPORTE SÃO LUIZ LTDA.",
+ "approval_date": "2023-06-19",
+ "consolidated_amount": 20201344.89,
+ "modality": "Transação Individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel localizado em Petrópolis/RJ (dados tarjados)",
+  "Créditos a receber pela REQUERENTE em processos judiciais nº 0003006-20.2019.8.19.00042, 00016501-97.2020.8.19.0042, 0027101-66.2009.8.19.0042 (4ª Vara Cível da Comarca de Petrópolis) e 0027459-28.1988.4.02.4101 (30ª Vara Federal do Rio de Janeiro)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter em dia o pagamento de impostos e taxas federais, estaduais e municipais sobre o imóvel dado em garantia (cláusula 3.1.4)",
+  "Peticionar nos processos judiciais em 30 dias para noticiar a celebração do acordo e reconhecer/confessar os débitos (cláusula 4.2)",
+  "Regularizar, em 90 dias, débitos que vierem a ser inscritos em dívida ativa após a formalização (cláusula 4.4)",
+  "Manter a regularidade perante o FGTS (cláusula 4.5.1)",
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional (cláusula 5.1.1)",
+  "Permanecer nos parcelamentos já aderidos (cláusula 5.2.1)",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa em 90 dias (cláusula 5.2.2)",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado (cláusula 5.2.3)"
+ ],
+ "special_clauses": [
+  "Possibilidade de substituição do imóvel dado em garantia por outro de igual ou maior valor, mediante concordância da Fazenda Nacional (cláusula 3.4.2)",
+  "Se alienado o imóvel com concordância da Fazenda Nacional, 30% do valor auferido deverá ser revertido à conta da transação como antecipação de parcelas (cláusula 3.4.3)",
+  "Concordância da Fazenda Nacional com pedidos de liberação de veículos penhorados essenciais à prestação do serviço público (cláusula 2.3.3)",
+  "Direcionamento de créditos futuros (precatórios, depósitos judiciais, restituições) para adimplemento dos saldos devedores (cláusula 2.4)"
+ ],
+ "sector": "Transporte",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "guarantees": 0.8,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "VALOR TOTAL TRANSACIONADO R$20.201.344,89",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) incidente sobre a dívida transacionada de natureza não previdenciária e previdenciária, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), conforme previsto no artigo 15, da Portaria 6.757/2022",
+  "installments": "O prazo máximo previsto para pagamento das dívidas transacionadas será de 120 (cento e vinte) meses para os débitos não previdenciários e 60 (sessenta) meses para os débitos previdenciários"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "278d552403fa",
+ "title": "Termo de Transação Individual - Transporte São Luiz LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualTransporteSoLuizLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualTransporteSoLuizLTDATarjado.pdf",
+ "sha256": "8f0541c27e4ad04edc3f7869f0505290f93724eb4cfe4d8c07a522a6b66306ec",
+ "extracted_at": "2026-07-22T14:22:31+00:00",
+ "simulated": false
+}

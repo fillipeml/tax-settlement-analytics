@@ -1,0 +1,76 @@
+{
+ "taxpayer": "HOPPEN, HOPPEN E CIA. LTDA. - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2023-05-04",
+ "consolidated_amount": 6885455.76,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens imóveis matriculados sob nºs 1.391, 1.392, 1.396, 1.956, 4.789, 7.140, 9.203, 9.204, 9.205, 18.386, 22.755 e 17.629, junto ao Ofício do Registro de Imóveis da Comarca de Getúlio Vargas, RS, avaliados em R$ 7.406.000,00"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilização de interposição de pessoas para ocultar bens/direitos",
+  "Declarar não alienação/oneração de bens com propósito de frustrar recuperação de créditos",
+  "Cumprir exigências das Portarias PGFN/ME 6757/2022 e 2382/2021",
+  "Manter regularidade fiscal perante a União",
+  "Manter Certificado de Regularidade do FGTS",
+  "Fornecer informações bancárias e empresariais quando solicitado",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não distribuir lucros ou dividendos a sócios e acionistas até aprovação do plano de recuperação judicial",
+  "Manter livros e documentos por 5 anos em razão da utilização de créditos de PF e BCN",
+  "Manter em dia pagamento de impostos e tributos sobre bens dados em garantia",
+  "Individualização dos valores recolhidos nas contas vinculadas dos trabalhadores (FGTS)"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de Prejuízo Fiscal (IRPJ) e Base de Cálculo Negativa de CSLL (BCN) no valor nominal de R$ 1.031.941,55 para abatimento do saldo devedor previdenciário",
+  "Compromisso de não distribuir lucros ou dividendos a sócios e acionistas até a aprovação do plano de recuperação judicial",
+  "Condição resolutória de homologação do crédito de Prejuízo Fiscal pela Receita Federal no prazo de 5 anos"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.3,
+  "modality": 1.0,
+  "approval_date": 1.0,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 1.0,
+  "judicial_recovery": 1.0,
+  "obligations": 0.95,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O DEVEDOR possui em aberto os débitos tributários relacionados nos Anexos I e II, que totalizam, em maio/2023, R$ 6.885.455,76 (seis milhões, oitocentos e oitenta e cinco mil, quatrocentos e cinquenta e cinco reais e setenta e seis centavos)",
+  "installments": "cujo saldo restante será objeto de plano de pagamento em 60 (sessenta) amortizações mensais e sucessivas"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "a7752a81f184",
+ "title": "Termo de Transação Individual - Hoppen e Cia LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualHoppeneCiaLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualHoppeneCiaLTDA.pdf",
+ "sha256": "befa0328f746c91799246638139a50867b4b7c87a0c63fb52b31153426140dd8",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

@@ -1,0 +1,84 @@
+{
+ "taxpayer": "METODO ENGENHARIA LTDA - EM RECUPERACAO JUDICIAL / METODO ADMINISTRACAO E PARTICIPACOES LTDA - EM RECUPERACAO JUDICIAL",
+ "approval_date": "2025-03-27",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (art. 171 CTN, Lei 13.988/2020, Portaria PGFN 6.757/2022)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção das garantias dos débitos eventualmente existentes até a quitação integral do saldo devedor"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Declarar que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar bens/direitos",
+  "Declarar não ter alienado ou onerado bens para frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a formalização",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos, inclusive comprobatórios de prejuízo fiscal e base negativa da CSLL",
+  "Manter-se optante pelo lucro real durante toda a vigência do acordo em caso de uso de prejuízo fiscal/CSLL negativa",
+  "Peticionar em até 60 dias nos processos judiciais para desistência/renúncia e confissão da dívida"
+ ],
+ "special_clauses": [
+  "Desconto máximo de aproximadamente 65% a cada CDA, vedada redução do montante principal, aplicado proporcionalmente sobre multa, juros e encargos",
+  "Pagamento da Dívida Transacionada não previdenciária em 84 prestações, com 12 primeiras a 0,5% do débito, 12 subsequentes a 0,6%, e residual pago linearmente em 60 meses",
+  "Pagamento da Dívida Transacionada previdenciária em 60 prestações, com 12 primeiras a 0,5%, 12 subsequentes a 0,6%, e residual pago linearmente em 36 meses",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e base de cálculo negativa da CSLL, limitado a 70% do saldo da dívida após descontos",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL negativa fica suspensa até confirmação pela autoridade competente",
+  "Eventuais créditos de precatório ou depósito judicial perante a União (ou outros entes) deverão ser direcionados ao adimplemento dos saldos devedores da Transação",
+  "Vinculação ao cumprimento do plano de recuperação judicial no processo nº 1003040-95.2022.8.26.0100"
+ ],
+ "sector": "Engenharia/Construção",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.75,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.6,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto máximo de aproximadamente 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada, de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\"), em 84 (oitenta e quatro) prestações"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "sector",
+  "guarantees"
+ ],
+ "id": "15c07c7de498",
+ "title": "Termo de Transação Individual - Metodo Engenharia LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMetodoEngenhariaLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualMetodoEngenhariaLTDATarjado.pdf",
+ "sha256": "fa2ae1d0873a760e2f4f72f87825f499cba6e3c9504c113270f270e5c69d41da",
+ "extracted_at": "2026-07-22T14:22:48+00:00",
+ "simulated": false
+}

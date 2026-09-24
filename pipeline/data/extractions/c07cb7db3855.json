@@ -1,0 +1,57 @@
+{
+ "taxpayer": "SALGADO EMPREENDIMENTOS IMOBILIARIOS S/A (10.383.750/0001-43) e SALGADO AGROPECUÁRIA S/A (35.483.965/0001-67)",
+ "approval_date": "Not identified",
+ "consolidated_amount": 102438750.38,
+ "modality": "Transação individual",
+ "total_discount_pct": 56.39,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 96,
+ "down_payment_pct": 0.0,
+ "guarantees": [
+  "Manutenção de eventuais garantias eventualmente existentes nos processos em curso",
+  "Imóveis"
+ ],
+ "judicial_recovery": false,
+ "obligations": [],
+ "special_clauses": [],
+ "sector": "Agronegócio/Imobiliário",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.6,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.6,
+  "down_payment_pct": 0.9,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.85,
+  "obligations": 0.0,
+  "special_clauses": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada Total: R$ 102.438.750, 38",
+  "total_discount_pct": "Desconto efetivo médio Total: 56,39%",
+  "installments": "Número de parcelas Previdenciária: 60 Demais débitos:96"
+ },
+ "review_fields": [
+  "sector",
+  "modality",
+  "approval_date",
+  "installments",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "c07cb7db3855",
+ "title": "Termo de Transação Individual - Salgado Empreendimentos Imobiliários SA (Sumário)",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualSalgadoEmpreendimentosImobiliriosSASumrio.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualSalgadoEmpreendimentosImobiliriosSASumrio.pdf",
+ "sha256": "ad960a4c783eff5db8072093543596db47af49237fe29aaa0cb39e36d3226b6f",
+ "extracted_at": "2026-07-22T14:35:18+00:00",
+ "simulated": false
+}

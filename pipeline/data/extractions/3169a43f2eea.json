@@ -1,0 +1,73 @@
+{
+ "taxpayer": "VIAÇÃO SANTA ROSA LTDA – EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-08-14",
+ "consolidated_amount": null,
+ "modality": "Transação Individual Simplificada",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção das garantias já existentes (judiciais ou administrativas)",
+  "Bens penhorados ou descritos como garantia sujeitos a alienação em caso de rescisão"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens/valores",
+  "Não alienar, onerar ou ocultar bens com intuito de frustrar recuperação de créditos",
+  "Apresentar situação econômico-financeira anualmente (demonstrações de resultados/balanço contábil)",
+  "Pagar regularmente os tributos correntes",
+  "Manter, por 5 anos, livros e documentos fiscais relativos a prejuízo fiscal e base de cálculo negativa da CSLL, se utilizados",
+  "Permanecer ou retornar ao regime de tributação pelo lucro real, caso utilize créditos de PF/BCN",
+  "Desistência de impugnações, recursos administrativos e ações judiciais relativas aos débitos"
+ ],
+ "special_clauses": [
+  "Autorização de aproveitamento de créditos de prejuízo fiscal e base de cálculo negativa de CSLL (Art. 4ª), limitado a 70% da dívida remanescente",
+  "Condições diferenciadas de rescisão para devedores em recuperação judicial (falta de pagamento de 6 parcelas consecutivas ou 9 alternadas)",
+  "Regras específicas de alienação de bens via plataforma COMPREI em caso de rescisão"
+ ],
+ "sector": "Transporte (rodoviário/viação)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 70%",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 36 meses"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "guarantees"
+ ],
+ "id": "3169a43f2eea",
+ "title": "Termo de Transação Individual - Viação Santa Rosa LTDA em recuperação judicial",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualViaoSantaRosaLTDAemrecuperaojudicialtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualViaoSantaRosaLTDAemrecuperaojudicialtarjado.pdf",
+ "sha256": "73e1e136f2488ce6cf9f66dc850d707a155485a937065f9a817787a9acc4fc99",
+ "extracted_at": "2026-07-22T14:35:18+00:00",
+ "simulated": false
+}

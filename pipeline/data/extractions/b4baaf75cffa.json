@@ -1,0 +1,76 @@
+{
+ "taxpayer": "LICEU FRANCO BRASILEIRO S/A e CENTRO EDUCACIONAL DA LAGOA",
+ "approval_date": "2024-07-10",
+ "consolidated_amount": 4878645.43,
+ "modality": "Transação Individual",
+ "total_discount_pct": 10.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 135,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel - Matrícula 354.779 - Rua das Laranjeiras, 13/15 - Rio de Janeiro - RJ",
+  "Imóvel - Matrícula 240.357 - Rua das Laranjeiras, 05 - Rio de Janeiro - RJ",
+  "Imóvel - Matrícula 401.019 - Rua das Laranjeiras, 07 e 11 - Rio de Janeiro - RJ",
+  "Fiança (garantia fidejussória) prestada pelos FIADORES"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Peticionar nos autos das Execuções Fiscais em 30 dias para noticiar a Transação e requerer formalização da penhora dos imóveis",
+  "Apresentar laudos de avaliação dos imóveis em 90 dias",
+  "Desistir de impugnações, recursos e ações administrativas/judiciais e renunciar aos direitos correspondentes",
+  "Manter regularidade perante o FGTS e proceder à individualização dos valores recolhidos",
+  "Pagar tributos federais, estaduais e municipais incidentes sobre os imóveis dados em garantia",
+  "Não alienar bens sem comunicação à Fazenda Nacional",
+  "Comunicar alterações na natureza jurídica/formatação societária em até 30 dias",
+  "Permanecer nos parcelamentos já aderidos",
+  "Garantir/parcelar/pagar novos débitos inscritos em Dívida Ativa em até 90 dias"
+ ],
+ "special_clauses": [
+  "Possibilidade de alienação dos imóveis garantidores via plataforma COMPREI, com anuência da Credora e destinação do valor à quitação das parcelas",
+  "Substituição obrigatória dos imóveis garantidores em caso de sucumbência na Execução Judicial 0091283-68.2001.8.19.0001",
+  "Compensação de créditos de precatórios federais com as prestações do acordo"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "que totaliza R$ 4.878.645,43 (quatro milhões, oitocentos e setenta e oito mil, seiscentos e quarenta e cinco reais, quarenta e três centavos), atualizadas até junho/2024.",
+  "total_discount_pct": "Desconto: 10,00%",
+  "installments": "Nº Parcelas: 135"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "b4baaf75cffa",
+ "title": "Termo de Transação Individual - Liceu Franco Brasileiro SA (FGTS)",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualLiceuFrancoBrasileiroSAFGTStarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualLiceuFrancoBrasileiroSAFGTStarjado.pdf",
+ "sha256": "91ae87d2b2352afe49afdabbe9e8f1067ac1aa9c37cb17915bf02d509db1813e",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

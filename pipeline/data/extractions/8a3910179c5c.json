@@ -1,0 +1,73 @@
+{
+ "taxpayer": "GLOBOAVES SÃO PAULO AGROAVÍCOLA LTDA, KAEFER AGRO INDUSTRIAL LTDA e GLOBOAVES BIOTECNOLOGIA AVÍCOLA S/A (em Recuperação Judicial)",
+ "approval_date": "2022-02-10",
+ "consolidated_amount": 68987591.02,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 117,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de matrícula 36.066 do 3º CRI de Cascavel, Paraná",
+  "Imóvel de matrícula 10.242 do 3º CRI de Cascavel, Paraná"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Renunciar a alegações de direito sobre ações/recursos relativos aos créditos incluídos na transação",
+  "Efetuar os pagamentos referentes às parcelas mensais acordadas",
+  "Promover e manter regularidade perante o FGTS",
+  "Manter regularidade nos programas de parcelamentos anteriores",
+  "Manter regularidade com os tributos correntes",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa ou se tornarem exigíveis após a formalização",
+  "Informar previamente à Fazenda Nacional alienação/disposição de bens e direitos, recebimento de precatório ou levantamento de depósito judicial"
+ ],
+ "special_clauses": [
+  "Alienação dos imóveis dados em garantia condicionada à anuência da Fazenda Nacional como interveniente e destinação do valor à quitação das parcelas",
+  "Empresas do grupo econômico (Anexo II) tornam-se corresponsáveis solidárias pelas dívidas indicadas no Anexo I",
+  "Cancelamento das contas de transação excepcional anteriores com imputação de pagamentos realizados à dívida",
+  "Carência de 3 meses para início do pagamento das parcelas dos débitos não previdenciários"
+ ],
+ "sector": "agronegócio (avicultura)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.6,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.3,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.95
+ },
+ "source_excerpts": {
+  "installments": "IV – os demais débito serão parcelados em 117 (cento e dezessete) vezes, com 3 meses de carência inicial, conforme parágrafo 3º e 4º, abaixo",
+  "consolidated_amount": "Total 3.964.843,14 / Total 19.581.217,96 / Total 1.878.361,05 / Total 17.346.005,57 / Total 26.274.701,53 / Total 1.342.461,77 (soma dos totais das tabelas do Anexo I)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "8a3910179c5c",
+ "title": "Termo de Transação Individual - Globoaves São Paulo Agroavícola LTDA em recuperação judicial",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/termo-goboaves-sao-paulo-agroavicola-ltda.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/termo-goboaves-sao-paulo-agroavicola-ltda.pdf",
+ "sha256": "7f1e70fe20e9bb43e7bfb0fb9cab9e2af9e85f0ff9887537d90f1a0c48ed6ce4",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

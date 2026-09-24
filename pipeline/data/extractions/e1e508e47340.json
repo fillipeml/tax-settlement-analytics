@@ -1,0 +1,78 @@
+{
+ "taxpayer": "DINAMIZE INFORMÁTICA LTDA. (Grupo econômico: DINAMIZE INFORMÁTICA LTDA., DINAMART INFORMATICA EIRELI, PROMART DESENVOLVIMENTO SISTEMAS LTDA, Allan Schoenardie Luz e Jônatas Galvão Abbott)",
+ "approval_date": "2022-12-21",
+ "consolidated_amount": null,
+ "modality": "Transação Individual Tributária",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Marca empresarial \"DINAMIZE\", pertencente à devedora principal do Grupo, avaliada em R$ 20.053.956,44 (outubro/2022), registrada no INPI sob os processos 829142355/830720642 e penhorada nos autos da execução fiscal nº 5037644842017410"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar que não utilizam pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienaram ou oneraram bens com propósito de frustrar a recuperação de créditos",
+  "Cumprir exigências e obrigações adicionais da Portaria PGFN 6.757/22 e da proposta",
+  "Declarar veracidade de informações cadastrais/patrimoniais/econômico-fiscais quando envolver capacidade de pagamento",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Manter em dia pagamento de taxas/valores incidentes sobre o bem dado em garantia (marca)",
+  "Apresentar situações econômico-financeiras anualmente por meio de balanço contábil",
+  "Promover junto aos registros públicos os atos de averbação de penhora, sob pena de rescisão"
+ ],
+ "special_clauses": [
+  "Garantia consistente em marca empresarial (ativo intangível) avaliada em R$ 20.053.956,44, já penhorada em execução fiscal",
+  "Reconhecimento de grupo econômico de fato e responsabilidade solidária por todas as dívidas listadas nos Anexos I e II, conforme decisão judicial na Cautelar Fiscal e Execução Fiscal",
+  "Parcelamento com plano diferenciado: Anexo I em 60 parcelas lineares e Anexo II em 120 parcelas escalonadas com aporte maior/balão (parcela 120)",
+  "Canalização de depósitos judiciais para amortização das parcelas finais do acordo"
+ ],
+ "sector": "Tecnologia/Informática",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "installments": 0.6,
+  "total_discount_pct": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.5,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "O plano relativo às inscrições indicadas no Anexo II prevê o pagamento em 120 (cento e vinte) parcelas mensais e sucessivas, conforme os valores estipulados no Anexo III (parcelas escalonadas e aporte maior/balão), sendo concedido o desconto máximo de até 65% por inscrição, conforme simulações anexas e observados os limites do §2º do art. 11 da Lei n. 13.988/20.",
+  "total_discount_pct": "sendo concedido o desconto máximo de até 65% por inscrição, conforme simulações anexas e observados os limites do §2º do art. 11 da Lei n. 13.988/20."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "installments",
+  "total_discount_pct"
+ ],
+ "id": "e1e508e47340",
+ "title": "Termo de Transação Individual -Dinamize Informática LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualDinamizeInformticaLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransaoIndividualDinamizeInformticaLTDATarjado.pdf",
+ "sha256": "bdfe6c348eb2a098533affff8a317697a95d3d581dd21423f15b8f82784be6be",
+ "extracted_at": "2026-07-22T14:35:14+00:00",
+ "simulated": false
+}

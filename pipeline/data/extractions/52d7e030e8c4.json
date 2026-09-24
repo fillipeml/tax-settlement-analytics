@@ -1,0 +1,75 @@
+{
+ "taxpayer": "EDITORA O DIA LTDA. – EM RECUPERAÇÃO JUDICIAL, EMPRESA JORNALÍSTICA ECONÔMICO LTDA. e AGÊNCIA BRASILEIRA DE CONTEÚDO DIGITAL LTDA. (grupo econômico de fato)",
+ "approval_date": "2023-09-01",
+ "consolidated_amount": 7639095.73,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 26.76
+ },
+ "installments": 85,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel situado na Avenida Dom Helder Câmara, nº 160, Manguinhos, Rio de Janeiro-RJ, matrícula 93509 do 1º RGI da Comarca da Capital do RJ, avaliado em R$50.000.000,00",
+  "Manutenção das penhoras realizadas nos autos da execução fiscal nº 0023581-79.2017.4.02.5101"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Confissão irrevogável e irretratável dos débitos",
+  "Desistência de impugnações, recursos e ações judiciais relativas à dívida transacionada",
+  "Adimplemento do plano de pagamento",
+  "Individualização dos pagamentos via SEFIP em até 30 dias",
+  "Requerer utilização do valor depositado na execução fiscal nº 0032436-13.2018.4.02.5101 para pagamento do FGTS rescisório em até 30 dias",
+  "Manter regularidade perante o FGTS",
+  "Destinar no mínimo 20% do valor arrecadado com alienação de ativos penhorados para amortização do saldo",
+  "Não alienar bens sem comunicação à Fazenda Nacional",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa em até 90 dias",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Manter livros e documentos fiscais exigidos, inclusive comprobatórios de prejuízo fiscal e base negativa de CSLL"
+ ],
+ "special_clauses": [
+  "Reconhecimento de grupo econômico de fato entre as três empresas requerentes, com responsabilidade solidária",
+  "Possibilidade de alienação de imóveis penhorados com anuência da União, destinando no mínimo 20% do valor arrecadado para amortização do saldo",
+  "Levantamento da constrição judicial sobre bem objeto de alienação autorizada",
+  "Prazo máximo de pagamento de 84 meses, com saldo devedor residual a ser pago integralmente na última parcela",
+  "Parcela única do FGTS rescisório a ser quitada com valor depositado em execução fiscal específica"
+ ],
+ "sector": "Jornalismo/mídia (editora, empresa jornalística e agência de conteúdo digital)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.5,
+  "total_discount_pct": 0.0,
+  "installments": 0.75,
+  "down_payment_pct": 0.0,
+  "discounts": 0.5,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.95,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "5.969.376,47",
+  "installments": "2.1.1. Pagamento da Dívida Transacionada em até 85 (oitenta e cinco) prestações mensais;"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts"
+ ],
+ "id": "52d7e030e8c4",
+ "title": "Termo de Transação Individual - Editora O Dia LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualEditoraODiaLTDATarjado2.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualEditoraODiaLTDATarjado2.pdf",
+ "sha256": "228e9369d6659cb6ba7a6d76f3c3dd135d06b8358510613063439e73ed36f669",
+ "extracted_at": "2026-07-22T14:22:29+00:00",
+ "simulated": false
+}

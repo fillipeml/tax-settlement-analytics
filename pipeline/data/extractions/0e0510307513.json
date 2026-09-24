@@ -1,0 +1,74 @@
+{
+ "taxpayer": "GRUPO GENERAL (General Shopping Brasil Administração e Serviços Ltda e demais empresas do grupo)",
+ "approval_date": "2023-05-30",
+ "consolidated_amount": 279555398.88,
+ "modality": "Transação Individual",
+ "total_discount_pct": 42.84,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 36,
+ "down_payment_pct": 0.0,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta para ocultar ou dissimular origem/destinação de bens",
+  "Declarar que não alienaram ou oneraram bens ou direitos com propósito de frustrar recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens ou direitos que possam inviabilizar capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Reconhecer responsabilidade solidária pela totalidade dos débitos transacionados"
+ ],
+ "special_clauses": [
+  "Não haverá oferta de garantia vinculada à presente Transação, considerando a redução do prazo de pagamento e o reconhecimento formal de responsabilidade tributária solidária do Grupo empresarial",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 64% do saldo da dívida após aplicação dos descontos",
+  "Cobrança do saldo liquidado com uso de créditos de prejuízo fiscal/CSLL ficará suspensa até confirmação dos créditos pela autoridade competente, dentro do prazo legal de cinco anos",
+  "Débitos do Anexo IV serão incluídos na conta de transação assim que inscritos em dívida ativa da União, gerando saldo devedor a ser quitado em 30 dias"
+ ],
+ "sector": "Shopping centers / Administração de centros de compras e estacionamentos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "down_payment_pct": 0.9,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.1,
+  "discounts.interest_pct": 0.1,
+  "discounts.charges_pct": 0.1,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.2,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 279.555.398,88 (Duzentos e setenta e nove milhões, quinhentos e cinquenta e cinco mil, trezentos e noventa e oito reais e oitenta e oito centavos)",
+  "total_discount_pct": "Desconto máximo de 65% (sessenta e cinco por cento) a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos), o que implica numa média concedida aproximada de 42,84% no presente acordo",
+  "installments": "em 36 (trinta e seis) prestações mensais iguais e sucessivas, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "0e0510307513",
+ "title": "Termo de Transação Individual - General Shopping Brasil Administração e Serviços LTDA, General Shopping e Outlets do Brasil S.A, Ardan Administradora Incorporadora LTDA, Ast Administradora e Incorporadora LTDA, Bud Administradora e Incorporadora LTDA, Delta Shopping Empreendimentos Imobiliários LTDA, Energy Comércio e Serviços de Energia LTDA, Fipark Estacionamentos LTDA, GS Park Estacionamentos LTDA, I Park Estacionamentos LTDA, Internacional Guarulhos Auto Shopping Center LTDA, Levian Participações e Empreendimentos S.A, Nic Administradora e Incorporadora LTDA, Palo Administradora e Incorporadora LTDA, Pol Administradora e Incorporadora, Poli Shopping Center Empreendimentos LTDA, Sale Empreendimentos e Participações LTDA, Securis Administradora e Incorporadora S.A, Send - Empreendimentos e Participações LTDA, Tela Administradora e Incorporadora LTDA, Uniplaza-Empreen.Part.e Admin. Centros de Compra LTDA, Vanti Administradora e Incorporadora S.A, Wass Comércio e Serviços de Águas LTDA, Vul Administradora e Incorporadora LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualGeneralShoppingBrasilAdministraoeServiosLTDAGeneralShoppingeOutletsdoBrasilS.AArdanAdministradoraIncorporadoraLTDAAstAdministradoraeIncorporadoraLTDABudAdmini.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualGeneralShoppingBrasilAdministraoeServiosLTDAGeneralShoppingeOutletsdoBrasilS.AArdanAdministradoraIncorporadoraLTDAAstAdministradoraeIncorporadoraLTDABudAdmini.pdf",
+ "sha256": "cd4615a5a6dccec665f8eae5970d256730ad8fe1237368708706499b2a5b8251",
+ "extracted_at": "2026-07-22T14:22:42+00:00",
+ "simulated": false
+}

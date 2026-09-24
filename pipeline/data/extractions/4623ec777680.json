@@ -1,0 +1,67 @@
+{
+ "taxpayer": "HOSPITAL JARDIM AMÁLIA LTDA",
+ "approval_date": "2024-06-20",
+ "consolidated_amount": 90556950.53,
+ "modality": "Transação Individual (Primeiro Termo Aditivo - Plano de Recuperação Fiscal)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": 4.0,
+ "guarantees": [
+  "Imóvel (certidões das matrículas imobiliárias - Anexo IV)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declaração de Regularidade escritural e composição do PF/BCN da CSLL (Anexo III)",
+  "Termo de Anuência (Anexo V)"
+ ],
+ "special_clauses": [
+  "Adequação do Plano de Recuperação Fiscal em razão de impedimento legal (art. 15, V e art. 17, da Portaria PGFN n. 6.757/2022) e impossibilidade sistêmica de criar as contas de transação segundo os prazos estabelecidos no Plano de Recuperação Fiscal original",
+  "Pagamento do saldo remanescente dos débitos de natureza previdenciária em 48 meses (cláusula 2.1.5)",
+  "Pagamento do saldo remanescente dos débitos de natureza não previdenciária em 108 meses (cláusula 2.1.6)",
+  "Desconto aproximado de 62,37% sobre o residual não previdenciário e 55,10% sobre o residual previdenciário, conforme tabela do Anexo I"
+ ],
+ "sector": "Saúde/Hospitalar",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.9,
+  "installments": 0.85,
+  "discounts": 0.3,
+  "guarantees": 0.6,
+  "obligations": 0.6,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total R$90.556.950,53",
+  "down_payment_pct": "Entrada 4% ... Entrada 4%",
+  "installments": "2.1.6. Pagamento do saldo remanescente dos débitos de natureza não previdenciária efetuado em 108 (cento e oito) meses, por meio de parcelas lineares"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "obligations",
+  "judicial_recovery"
+ ],
+ "id": "4623ec777680",
+ "title": "I Termo Aditivo de Transação Individual - Hospital Jardim Amália LTDA (PGFN)",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/ITermoAditivodeTransaoIndividualHospitalJardimAmliaLTDAPGFNtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/ITermoAditivodeTransaoIndividualHospitalJardimAmliaLTDAPGFNtarjado.pdf",
+ "sha256": "cd926a2c2ca18b22740830f4c547d043a77ebece072d9f7e0572b27054ffc642",
+ "extracted_at": "2026-07-22T14:22:26+00:00",
+ "simulated": false
+}

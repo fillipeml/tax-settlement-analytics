@@ -1,0 +1,73 @@
+{
+ "taxpayer": "FIVE STARS DE MACAÉ SERVIÇOS DE PETRÓLEO EIRELI e outras (grupo econômico FIVE STAR/AETI ALLIANCE)",
+ "approval_date": "2024-12-05",
+ "consolidated_amount": 259932433.63,
+ "modality": "Transação individual",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de matrícula 32.201, avaliado em conjunto com o outro em R$27.000.000,00",
+  "Imóvel de matrícula 19.482, avaliado em conjunto com o outro em R$27.000.000,00"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Manter regime de apuração do IRPJ/CSLL pelo Lucro Real e guarda de livros/documentos comprobatórios dos créditos de PF/BCN por até 5 anos",
+  "Peticionar nas execuções fiscais e na Recuperação Judicial nº 0008727-29.2018.8.19.0028 noticiando a transação e desistindo de impugnações/recursos/ações em 30 dias",
+  "Não alienar bens ou direitos próprios (ou de controladores/sócios) sem comunicação prévia à Fazenda Nacional",
+  "Manter regularidade perante PGFN, RFB e FGTS, regularizando débitos supervenientes em até 90 dias",
+  "Efetuar pagamento regular dos tributos que incidam sobre os imóveis dados em garantia",
+  "Direcionar eventuais créditos (precatórios, ressarcimentos, restituições) para amortização do saldo devedor",
+  "Autorizar acesso da CREDORA às declarações e informações financeiras e escrituração fiscal"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL no valor de R$10.371.742,58 para liquidação do saldo devedor do Anexo I após o desconto",
+  "Garantia por imóveis com posterior formalização de penhora judicial e possibilidade de alienação via plataforma COMPREI com anuência da CREDORA",
+  "Cláusula de sub-rogação da CREDORA como procuradora para receber indenização em caso de desapropriação dos imóveis garantidores",
+  "Reconhecimento de grupo econômico de fato entre as DEVEDORAS com corresponsabilidade"
+ ],
+ "sector": "Petróleo/óleo e gás (serviços offshore)",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Pelas inscrições relativas aos débitos previdenciários constantes do Anexo I, totalizando R$124.137.082,19 (...); Pelas inscrições relativas aos débitos não previdenciários constantes do Anexo II, totalizando R$ 135.795.351,44",
+  "total_discount_pct": "Concessão do desconto máximo possível de até 65% sobre a dívida transacionada, observada a vedação de redução do montante principal, aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento do saldo remanescente relativo aos débitos previdenciários (Anexo I) e aos débitos não previdenciários (Anexo II) nos prazos máximos de 60 (sessenta) e 120 (cento e vinte) prestações mensais e sucessivas, respectivamente"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "e0670bdf82fb",
+ "title": "Termo de Transação Individual - Five Stars de Macaé Serviços de Petróleo, Faxe Drilling Serviços de Petróleo, Five Star  Industrial Comércio e Serviços Offshore LTDA, Five Star Offshore Serviço: e Locações LTDA, Aeti Alliance Group Brazil Sistemas Energia LTDA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualFiveStars....pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualFiveStars....pdf",
+ "sha256": "edd1409fab33f5c9eed7dac3daa15f41b7507d0fdf57b619e41a648591153333",
+ "extracted_at": "2026-07-22T14:22:29+00:00",
+ "simulated": false
+}

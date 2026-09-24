@@ -1,0 +1,68 @@
+{
+ "taxpayer": "GMAB PARTICIPACOES S.A – EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2021-05-26",
+ "consolidated_amount": 1144446.13,
+ "modality": "Transação Individual",
+ "total_discount_pct": 34.71,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": 70.0
+ },
+ "installments": 108,
+ "down_payment_pct": 0.334,
+ "guarantees": [
+  "O devedor mantém todas as garantias associadas ao débito com a finalidade de garantir a dívida contemplada na transação individual"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos",
+  "não utilizar a transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência",
+  "renunciar a quaisquer alegações de direito sobre ações judiciais incluídas na transação",
+  "manter regularidade perante o FGTS",
+  "regularizar, no prazo de 90 dias, débitos que vierem a ser inscritos em dívida ativa",
+  "declarar que não utiliza pessoa interposta para ocultar bens",
+  "declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos",
+  "declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "demonstrar ausência de prejuízo ao cumprimento das obrigações em caso de alienação de ativo não circulante"
+ ],
+ "special_clauses": [
+  "O acordo contempla o diferimento do pagamento dos débitos mediante parcelas periódicas, suspendendo a exigibilidade dos créditos enquanto perdurar o acordo"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.85,
+  "down_payment_pct": 0.9,
+  "discounts": 0.6,
+  "guarantees": 0.6,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.6
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total R$ 1.144.446,13",
+  "total_discount_pct": "Total ... 34,71% R$ 397.192,68",
+  "installments": "observado o limite de até 70% (setenta por cento) sobre o valor total de cada crédito objeto da negociação, em até 108 (cento e oito) parcelas mensais e sucessivas",
+  "down_payment_pct": "É concedida ao devedor a possibilidade de pagar pagamento, a título de entrada, de valor mensal equivalente a 0,334% (trezentos e trinta e quatro centésimos por cento) do valor consolidado dos créditos transacionados, durante 12 (doze) meses"
+ },
+ "review_fields": [
+  "sector",
+  "discounts",
+  "guarantees",
+  "special_clauses"
+ ],
+ "id": "f812bc93797f",
+ "title": "Termo de Transação Individual - GMAB",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-gmab-x.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/termo-de-transacao-individual-gmab-x.pdf",
+ "sha256": "a47d2495b2a5ba39e3fbe0bb69aef442f7a7202f0990e950fe18f7d97e42cca6",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

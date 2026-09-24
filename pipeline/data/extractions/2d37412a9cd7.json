@@ -1,0 +1,75 @@
+{
+ "taxpayer": "FABRIMA MÁQUINAS AUTOMÁTICAS LTDA e MASIPACK INDÚSTRIA E COMÉRCIO DE MÁQUINAS AUTOMÁTICAS S/A",
+ "approval_date": "2024-07-18",
+ "consolidated_amount": 256492388.85,
+ "modality": "Transação Individual",
+ "total_discount_pct": 46.98,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações, operações à PGFN",
+  "Não utilizar a Transação de forma abusiva",
+  "Declarar não utilização de pessoa interposta",
+  "Declarar não alienação/oneração de bens para frustrar recuperação de créditos",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos novos inscritos em Dívida Ativa",
+  "Não alienar bens que possam reduzir capacidade de pagamento sem comunicação à Fazenda",
+  "Manter-se optante pelo lucro real durante a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Reconhecimento expresso de grupo econômico entre as Requerentes, com responsabilidade tributária solidária",
+  "Não haverá oferta de garantia vinculada à Transação, em razão da redução do prazo total e do reconhecimento do grupo econômico",
+  "Utilização de créditos de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, limitado a 70% do saldo da dívida após descontos",
+  "Pagamento da Dívida Transacionada FGSP202202494 na modalidade 58, com desconto de 27,46%, pagamento à vista de R$ 160.078,14 aos trabalhadores e saldo em 50 prestações",
+  "Pagamento da Dívida Transacionada CSSP202202495 na modalidade 7, com desconto de 46,30% e pagamento à vista do saldo"
+ ],
+ "sector": "Máquinas automáticas/industrial",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.4,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.85,
+  "judicial_recovery": 0.3,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 256.492.388,85 (Duzentos e cinquenta e seis milhões, quatrocentos e noventa e dois mil, trezentos e oitenta e oito reais e oitenta e cinco centavos) - (Valores atualizados para Abril de 2024)",
+  "total_discount_pct": "ocasionando um desconto global médio de 46,98% (quarenta e seis vírgula noventa e oito por cento), na forma do Anexo II",
+  "installments": "Pagamento da Dívida Transacionada, tanto de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\"), quanto de natureza previdenciária (\"Dívida Transacionada – Débitos Previdenciários\") em 48 (quarenta e oito) prestações, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "sector",
+  "judicial_recovery",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "2d37412a9cd7",
+ "title": "Termo de Transação Individual - Fabrima Máquinas Automotáticas LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualFabrimaMquinasAutomotticasLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualFabrimaMquinasAutomotticasLTDATarjado.pdf",
+ "sha256": "2f1b6c50622399797ea60d518e325aaf9e76ea093f665622f424f42b110fdcb7",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

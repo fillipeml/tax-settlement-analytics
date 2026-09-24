@@ -1,0 +1,76 @@
+{
+ "taxpayer": "PREFEITURA MUNICIPAL DE CAMPOS DOS GOYTACAZES",
+ "approval_date": "Not identified",
+ "consolidated_amount": null,
+ "modality": "Transação Individual de Débitos de FGTS",
+ "total_discount_pct": 35.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Promover a desistência de impugnações, recursos e ações, administrativos ou judiciais, que se refiram à Dívida Transacionada, no prazo de 30 dias contados da assinatura do Acordo",
+  "Adimplir a Transação, observadas as condições previstas nos itens 3 e 4",
+  "Não alienar bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos na Transação, sem proceder à devida e prévia comunicação à Fazenda Nacional",
+  "Pagar, parcelar ou garantir, por meio de depósito, carta de fiança, seguro garantia ou outra garantia suficiente e idônea, no prazo de 90 dias, contados da comunicação da inscrição, débitos inscritos em Dívida Ativa da União e/ou do FGTS após a formalização da Transação e caso não constem da relação da Dívida Transacionada",
+  "Manter regular a situação dos parcelamentos atualmente vigentes",
+  "Manter a regularidade perante o Fundo de Garantia do Tempo de Serviço - FGTS",
+  "Renunciar a quaisquer alegações de direito, atuais ou futuras, sobre as quais se fundem ações judiciais, incluídas as coletivas, ou recursos que tenham por objeto a Dívida Transacionada",
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à Fazenda Nacional conhecer sua situação econômica ou eventuais fatos que impliquem a rescisão do Acordo",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar de qualquer forma a livre concorrência ou a livre iniciativa econômica",
+  "Realizar todas as comunicações exigidas no Acordo através de requerimento administrativo via SICAR/REGULARIZE",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas do FGTS dos respectivos trabalhadores",
+  "Incluir seus débitos de CS da LC 110/01 na presente negociação, no prazo de 90 dias, a fim de manter sua regularidade fiscal"
+ ],
+ "special_clauses": [
+  "3.1.1: Desconto de 35% - Saldo do principal (DEP + JAM) em 36 parcelas e Juros/Multas/Encargos em 48 parcelas",
+  "7.1 Após a implementação da transação, a proponente obriga-se a incluir seus débitos de CS da LC 110/01 na presente negociação, no prazo de 90 dias"
+ ],
+ "sector": "Administração pública municipal",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "guarantees": 0.3,
+  "obligations": 0.9,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "total_discount_pct": "3.1.1: Desconto de 35%",
+  "installments": "Saldo do principal (DEP + JAM) – valores devidos aos trabalhadores em 36 parcelas / Juros/Multas/Encargos – em 48 parcelas"
+ },
+ "review_fields": [
+  "approval_date",
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "installments",
+  "guarantees",
+  "sector",
+  "judicial_recovery"
+ ],
+ "id": "09db6cf56107",
+ "title": "Termo de Transação Individual - Prefeitura Municipal de Campos dos Goytacazes",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualPrefeituraMunicipaldeCamposdosGoytacazes.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransacaoIndividualPrefeituraMunicipaldeCamposdosGoytacazes.pdf",
+ "sha256": "e84661c1546ee3dada1ea59fb728de3a17f4556123c6259a439e0309def5e8db",
+ "extracted_at": "2026-07-22T14:22:27+00:00",
+ "simulated": false
+}

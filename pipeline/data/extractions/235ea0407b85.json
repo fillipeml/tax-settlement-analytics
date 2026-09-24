@@ -1,0 +1,82 @@
+{
+ "taxpayer": "GRUPO EDUCACIONAL MOPI LTDA.",
+ "approval_date": "2021-12-03",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 145,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Hipoteca do imóvel de matrícula 387.912, registrado perante o Cartório do 9º Ofício de Registro de Imóveis do Rio de Janeiro, situado na Rua Dom Rosalvo Costa Rego, nº 542, Itanhangá, avaliado em R$41.640.000,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Confissão irrevogável e irretratável de todos os débitos inscritos listados na cláusula 1",
+  "Renunciar a alegações de direito e desistir de ações judiciais/recursos relativos aos créditos incluídos na transação",
+  "Peticionar nas execuções fiscais em 60 dias para noticiar o acordo e confessar a dívida",
+  "Formalizar garantia hipotecária em até 90 dias",
+  "Levantar hipoteca de primeiro grau em favor de Itaú Unibanco S/A até 30/06/2022",
+  "Levantar hipoteca de segundo grau em favor de Banco Itauleasing S/A e Itaú Unibanco S/A até 25/07/2023",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa em até 90 dias",
+  "Manter regularidade dos parcelamentos vigentes",
+  "Manter regularidade perante o FGTS",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Não alienar bens sem comunicação prévia à Fazenda Nacional",
+  "Não onerar o imóvel dado em garantia sem comunicação prévia",
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Declarações diversas sobre boa-fé, ausência de interposição de pessoas e veracidade das informações prestadas"
+ ],
+ "special_clauses": [
+  "Descontos concedidos incidem apenas sobre acréscimos legais, não atingindo o valor principal nem a multa do §6º art. 80 da Lei 4.502/1964",
+  "Possibilidade de amortização antecipada do saldo remanescente com redução proporcional de parcelas",
+  "Direcionamento de créditos de precatórios/depósitos judiciais para abatimento do saldo devedor",
+  "Suspensão da exigibilidade dos créditos transacionados enquanto perdurar o acordo",
+  "Revisão da manutenção das garantias para liberação de excesso, considerando o passivo sem descontos",
+  "Fazenda Nacional renuncia a honorários advocatícios relativos à ação nº 5027881-28.2019.4.02.5101",
+  "Vedação de nova transação sobre as mesmas inscrições combinada com outro Negócio Jurídico Processual de amortização"
+ ],
+ "sector": "Educação",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.7,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "installments": "O plano de pagamento relativo à dívida transacionada de natureza não previdenciária prevê o recolhimento de 145 parcelas mensais, conforme escalonamento abaixo indicado"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "235ea0407b85",
+ "title": "Termo de Transação Individual - Grupo Educacional MOPI",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/copy_of_TermodeTransacaoIndividualGrupoEducacionalMOPI.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/copy_of_TermodeTransacaoIndividualGrupoEducacionalMOPI.pdf",
+ "sha256": "b9073df949e9fd492b06aa15e2a7c519205b4b2bacdc6d0ccefa68b3357e6026",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

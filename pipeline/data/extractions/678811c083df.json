@@ -1,0 +1,77 @@
+{
+ "taxpayer": "TR Transporte de Passageiros Ltda. - Em recuperação judicial",
+ "approval_date": "2024-09-27",
+ "consolidated_amount": 2627773.36,
+ "modality": "Transação Individual",
+ "total_discount_pct": 43.32,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Ativo 2018 08.714.435/0001-00 1165996151 9BM384078KB101765 QSD6B65 M.BENZ/MPOLO TORINO U 2019 CIRCULACAO Sem Restrição",
+  "Ativo 2018 08.714.435/0001-00 1162211439 9BM384078KB101629 QSD6B55 M.BENZ/MPOLO TORINO U 2019 CIRCULACAO Sem Restrição",
+  "Ativo 2018 08.714.435/0001-00 1162432788 9BM384078KB102135 QSD5H05 M.BENZ/MPOLO TORINO U 2019 CIRCULACAO Sem Restrição"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens/direitos/valores",
+  "Não alienar, onerar ou ocultar bens com propósito de frustrar recuperação de créditos",
+  "Manter informações cadastrais, patrimoniais e econômico-fiscais verdadeiras quando envolver capacidade de pagamento",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil",
+  "Pagar regularmente os tributos correntes",
+  "Manter livros e documentos fiscais por 5 anos em caso de aproveitamento de créditos de prejuízo fiscal e BCN da CSLL",
+  "Permanecer ou retornar ao regime de tributação pelo lucro real em caso de aproveitamento de créditos de PF/BCN"
+ ],
+ "special_clauses": [
+  "Aproveitamento de crédito de prejuízo fiscal e de base de cálculo negativa da CSLL para quitação do saldo devedor remanescente, limitado a 70% da dívida remanescente",
+  "Contrapartida com utilização de até 21,68% da diferença com valor de PF e BCN da CSLL, correspondente a até 36,93% do crédito escritural do contribuinte",
+  "Condições especiais de rescisão para situações de recuperação judicial (falta de pagamento de 6 parcelas consecutivas ou 9 alternadas)",
+  "Possibilidade de venda de bens condicionada à aquiescência da Fazenda Nacional",
+  "Alienação de bens via plataforma COMPREI em caso de rescisão"
+ ],
+ "sector": "Transporte de passageiros",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.75,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Totais: 1.438.733,49 287.746,18 482.982,55 418.311,14 2.627.773,36",
+  "total_discount_pct": "Desconto de 43,32%, de CAPAG (débitos previdenciários); ... o desconto máximo de até 70% com crédito PF/BCN da CSLL",
+  "installments": "60 parcelas para os débitos previdenciários.",
+  "installments_clausula": "PAGAMENTO PARCELADO EM ATÉ (MESES) 60"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "total_discount_pct"
+ ],
+ "id": "678811c083df",
+ "title": "Termo de Transação Individual - TR Transporte de Passageiros LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/copy_of_TermodeTransaoIndividualTRTransportedePassageirosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/copy_of_TermodeTransaoIndividualTRTransportedePassageirosLTDATarjado.pdf",
+ "sha256": "83650c9b72a36a3b4c9a8e87eb63463e5226e44b6f254a283ee090c7d85cb1d2",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

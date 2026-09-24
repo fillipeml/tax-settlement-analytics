@@ -1,0 +1,83 @@
+{
+ "taxpayer": "ROSSI RESIDENCIAL SA EM RECUPERAÇÃO JUDICIAL e Outras",
+ "approval_date": "2024-10-23",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 108,
+ "down_payment_pct": 6.0,
+ "guarantees": [
+  "Penhora de bens e direitos listados no Anexo V",
+  "Imóvel registrado sob matrículas no 9º Ofício de Registro de Imóveis do Rio de Janeiro"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utilizam pessoa natural ou jurídica interposta para ocultar bens",
+  "Declarar que não alienaram ou oneraram bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a formalização",
+  "Não alienar bens que reduzam significativamente a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular e em dia com as Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos exigidos pelas normas fiscais",
+  "Recolher até o último dia útil do mês da reconsolidação os valores das prestações vencidas",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "ROSSI RESIDENCIAL S/A deve manter-se optante pelo regime de lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, referente unicamente à ROSSI RESIDENCIAL S/A, para amortização de 70% do saldo devedor após descontos",
+  "Possibilidade de alienação de imóveis garantidores mediante anuência da PGFN, destinando 100% do valor à amortização da Transação",
+  "Produto da alienação de imóvel imputado preferencialmente para quitação das parcelas vencidas e parcelas nº 36, 72 e 108",
+  "Créditos oriundos de precatório ou depósito judicial devem ser direcionados para adimplemento dos saldos devedores da Transação",
+  "Excepcionalidade quanto a determinadas ações judiciais (números tarjados) que discutem cobrança de CDAs específicas"
+ ],
+ "sector": "Construção civil/Incorporação imobiliária",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.6,
+  "down_payment_pct": 0.9,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.85,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.95
+ },
+ "source_excerpts": {
+  "total_discount_pct": "sendo concedido desconto máximo de até 70% (setenta por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal",
+  "down_payment_pct": "entrada de 6% (seis por cento) da dívida após descontos, a ser paga em 12 (doze) prestações iguais, mensais e sucessivas",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS, após pagamento da entrada indicada no item 2.1.2, em até 108 (cento e oito) prestações mensais e sucessivas"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "total_discount_pct"
+ ],
+ "id": "2ba9e4cc758e",
+ "title": "Termo de Transação Individual - Rossi Residencial LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRossiResidencialLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualRossiResidencialLTDATarjado.pdf",
+ "sha256": "6c4127cb6a73107ca9f68206ae04602843cca6641419d8e9d45942935bd755a2",
+ "extracted_at": "2026-07-22T14:35:19+00:00",
+ "simulated": false
+}

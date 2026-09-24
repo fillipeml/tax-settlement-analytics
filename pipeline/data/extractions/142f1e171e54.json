@@ -1,0 +1,60 @@
+{
+ "taxpayer": "AVOA TRANSPORTES LTDA / AUTO VIAÇÃO OURINHOS ASSIS LTDA",
+ "approval_date": "Not identified",
+ "consolidated_amount": 23744982.54,
+ "modality": "Transação Individual",
+ "total_discount_pct": 45.75,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": 4.0,
+ "guarantees": [
+  "2 bens imóveis: matrícula nº 8.034 (CRI de Cândido Mota/SP), de propriedade de AUTO DE VIAÇÃO OURINHOS ASSIS LTDA, avaliado em R$ 1.660.635,00; e matrícula nº 24.254 (CRI de Paraguaçu Paulista), de propriedade de AVOA TRANSPORTES LTDA, avaliado em R$ 2.980.028,00"
+ ],
+ "judicial_recovery": true,
+ "obligations": [],
+ "special_clauses": [
+  "Termo aditivo (SIM)",
+  "Utilização de créditos de PF/BCN no valor total de R$ 4.026.484,94"
+ ],
+ "sector": "Transporte (rodoviário)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.6,
+  "approval_date": 0.0,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.9,
+  "installments": 0.7,
+  "judicial_recovery": 0.9,
+  "guarantees": 0.95,
+  "obligations": 0.0,
+  "special_clauses": 0.6
+ },
+ "source_excerpts": {
+  "consolidated_amount": "23.744.982,54",
+  "total_discount_pct": "45,75%",
+  "installments": "60, sendo 12 (entrada) + 48 / 120, sendo 12 (entrada) + 108",
+  "down_payment_pct": "Sim - 4% em 12 meses"
+ },
+ "review_fields": [
+  "approval_date",
+  "sector",
+  "modality",
+  "installments",
+  "obligations",
+  "special_clauses"
+ ],
+ "id": "142f1e171e54",
+ "title": "Sumário - Avoa Transportes",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioAvoaTransportes.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/SumrioAvoaTransportes.pdf",
+ "sha256": "f3b52c45d12c2df5cd5d442f2b0ef0807aedc08366eff4d25326de8cb2076cdc",
+ "extracted_at": "2026-07-22T14:22:32+00:00",
+ "simulated": false
+}

@@ -1,0 +1,76 @@
+{
+ "taxpayer": "HOSPITAL E MATERNIDADE FREI GALVÃO",
+ "approval_date": "2023-09-22",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": 55.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar sob as penas da lei que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar/dissimular origem ou destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação dos créditos inscritos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa após a Transação",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular e em dia com Transações e Parcelamentos em curso",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União ou precatórios federais em seu favor",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da Transação e desistir de impugnações/recursos/ações"
+ ],
+ "special_clauses": [
+  "Rating C da Requerente considerado para concessão das condições de pagamento em razão de situação transitória de crise",
+  "Créditos obtidos por precatório, levantamento de depósito judicial ou qualquer outro meio deverão ser direcionados para adimplemento da Transação"
+ ],
+ "sector": "Saúde/hospitalar (associação civil sem fins lucrativos)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "guarantees": 0.3,
+  "obligations": 0.9,
+  "judicial_recovery": 0.2,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Desconto de aproximadamente 55% a cada uma das CDAs, individualmente, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos)",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 60 (sessenta) prestações mensais iguais e sucessivas"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "guarantees",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "367037cdfaf0",
+ "title": "Termo de Transação Individual - Hospital e Maternidade Frei Galvão",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualHospitaleMaternidadeFreiGalvo.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualHospitaleMaternidadeFreiGalvo.pdf",
+ "sha256": "990c682ae6060e88b6eefb68f58ed6abe56433c57e528c84f1d80d0bc9a99eef",
+ "extracted_at": "2026-07-22T14:22:44+00:00",
+ "simulated": false
+}

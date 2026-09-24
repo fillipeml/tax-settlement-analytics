@@ -1,0 +1,75 @@
+{
+ "taxpayer": "Cerealista Superior Ltda",
+ "approval_date": "2021-10-05",
+ "consolidated_amount": 19421466.23,
+ "modality": "Transação Individual",
+ "total_discount_pct": 61.78,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Precatórios expedidos e depósitos judiciais (utilizados para pagamento das parcelas)",
+  "Pedidos de Restituição deferidos pela Receita Federal do Brasil",
+  "Restrições judiciais sobre veículos e quotas sociais da devedora (liberadas conforme Cláusula 7ª)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Renunciar a alegações de direito sobre ações judiciais/recursos administrativos incluídos na transação",
+  "Manter regularidade perante o FGTS",
+  "Manter regularidade nos programas de parcelamentos anteriores",
+  "Manter regularidade com tributos correntes",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Não alienar bens/direitos sem comunicação prévia à Fazenda Nacional",
+  "Peticionar nos processos judiciais e administrativos noticiando a celebração do acordo"
+ ],
+ "special_clauses": [
+  "Liberação das restrições judiciais sobre veículos e quotas sociais da devedora (Cláusula 7ª)",
+  "Exceção ao crédito e revisão a ser apurado nos autos nº 5003021-81.2019.4.04.7210 (Cláusula 16ª)"
+ ],
+ "sector": "Agronegócio",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.75,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.6,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total da dívida ativa consolidada em 31/08/2021: R$ 19.421,466,23",
+  "total_discount_pct": "Total da dívida ativa com desconto concedidos em 31/08/2021: R$ 7.422.892,55",
+  "installments": "A serem pagos em 120 (cento e vinte) parcelas mensais da seguinte forma."
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "guarantees",
+  "judicial_recovery",
+  "total_discount_pct"
+ ],
+ "id": "ae481e08bc82",
+ "title": "Termo de Transação Individual - Cerealista Superior LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/termo-de-transacao-individual-cerealista-superior-ltda_.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/termo-de-transacao-individual-cerealista-superior-ltda_.pdf",
+ "sha256": "9bc6e24f5377d7f33203a3afcdab52899e2fd5ceea07395913ab7af26859a59e",
+ "extracted_at": "2026-07-22T14:35:15+00:00",
+ "simulated": false
+}

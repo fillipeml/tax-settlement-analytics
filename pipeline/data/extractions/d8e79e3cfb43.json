@@ -1,0 +1,78 @@
+{
+ "taxpayer": "UNIMED PETROPOLIS COOPERATIVA DE TRABALHO MEDICO",
+ "approval_date": "2023-02-23",
+ "consolidated_amount": 65744978.16,
+ "modality": "Transação Individual",
+ "total_discount_pct": 47.5,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel à Rua do Expedicionário nº 144, Bingen, Petrópolis/RJ, matrícula nº 15.854, denominado 'HOSPITAL UNIMED' (com gravames anteriores)",
+  "Imóveis na Rua Irmãos D'Angelo nº 123, loja e sobreloja, Petrópolis, matrícula nº 7715 (com gravames anteriores)",
+  "Imóvel na Rua Irmãos D'Angelo nº 99, Sobreloja 1, matrícula nº 26.639 (pendência de regularização de registro)",
+  "Valores de indenização em discussão na ação civil nº 0025864-16.2017.8.19.0042"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Manter livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Não alienar bens ou direitos próprios ou de controladores/administradores sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar ou dissimular origem/destinação de bens",
+  "Fornecer informações sobre bens, direitos e valores sempre que solicitado",
+  "Não utilizar a transação de forma abusiva ou para limitar a livre concorrência",
+  "Renunciar a alegações de direito sobre ações judiciais incluídas na transação",
+  "Permanecer nos parcelamentos já aderidos, honrando pagamentos até completa quitação das CDAs",
+  "Pagar, parcelar ou garantir novos débitos inscritos em Dívida Ativa da União no prazo de 90 dias",
+  "Manter regularidade perante o FGTS",
+  "Requerer transformação em pagamento definitivo dos valores depositados nos autos da EF 00022643520024025106 no prazo de 10 dias",
+  "Peticionar nos autos da EF 00022643520024025106 e da EF 0000134-67.2005.4.02.5106 para noticiar a celebração da Transação e formalizar penhoras/desistências"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal e base de cálculo negativa da CSLL para liquidação de até 70% do saldo remanescente após descontos (cláusula 2.1.2)",
+  "Suspensão da cobrança do saldo liquidado com créditos de PF/BCN até confirmação dos créditos, mantendo garantias existentes (cláusula 2.4)",
+  "Manutenção de garantias mesmo em caso de futura migração para programa mais benéfico (cláusula 5.4)"
+ ],
+ "sector": "Saúde (cooperativa médica)",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.6,
+  "modality": 1.0,
+  "approval_date": 0.95,
+  "consolidated_amount": 1.0,
+  "total_discount_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 1.0,
+  "judicial_recovery": 0.0,
+  "guarantees": 0.95,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "O passivo fiscal da DEVEDORA objeto da presente transação é composto das inscrições constantes do ANEXO I, totalizando R$ 65.744.978,16 (sessenta e cinco milhões, setecentos e quarenta e quatro mil, novecentos e setenta e oito reais, dezesseis centavos), atualizado para 02.2023.",
+  "total_discount_pct": "Concessão de desconto de 47,5% (quarenta e sete e meio por cento) incidente sobre a Dívida Transacionada de natureza previdenciária pertencente à FAZENDA NACIONAL, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Pagamento do saldo remanescente em 60 prestações mensais e sucessivas."
+ },
+ "review_fields": [
+  "sector",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "judicial_recovery"
+ ],
+ "id": "d8e79e3cfb43",
+ "title": "Termo de Transação Individual - Unimed Petrópolis Cooperativa de Trabalho Médico",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualUnimedPetrpolisCooperativadeTrabalhoMdicotarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualUnimedPetrpolisCooperativadeTrabalhoMdicotarjado.pdf",
+ "sha256": "6a9e3d1a607f8de24f71c2538834f632bfd3bd111ed5fdee077fbc9afda92c5e",
+ "extracted_at": "2026-07-22T14:22:31+00:00",
+ "simulated": false
+}

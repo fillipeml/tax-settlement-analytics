@@ -1,0 +1,65 @@
+{
+ "taxpayer": "R. C. DA S. JUNIOR LTDA",
+ "approval_date": "2023-09-27",
+ "consolidated_amount": 2123474.86,
+ "modality": "Transação Individual - Modalidade 9",
+ "total_discount_pct": 42.28,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 80,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais são verdadeiras",
+  "Renunciar a alegações de direito sobre ações judiciais/recursos relativos aos créditos incluídos na transação",
+  "Manter regularidade fiscal perante a União, inclusive perante o FGTS",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas do FGTS dos respectivos trabalhadores",
+  "Peticionar nos processos judiciais noticiando a celebração da transação e desistindo das ações, no prazo de 30 dias",
+  "Apresentar comprovação do protocolo das petições no prazo de 10 dias após os protocolos"
+ ],
+ "special_clauses": [],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.8,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.5,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.0,
+  "discounts": 0.0,
+  "guarantees": 0.3,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.2
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Descontos: 42,28% Valor do Desconto: 897.843,33 / PRINCIPAL (DEP + JAM) - Valores devidos aos Trabalhadores Nº Parcelas: 80 Valor a Parcelar: 1.225.631,53 Valor da Parcela: 15.320,39",
+  "total_discount_pct": "DOS MEIOS PARA EXTINÇÃO DOS CRÉDITOS – CONCESSÃO DE DESCONTO DE 42,28%, E PARCELAMENTO EM 80 MESES",
+  "installments": "Nº Parcelas: 80"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees",
+  "judicial_recovery",
+  "special_clauses"
+ ],
+ "id": "34670a98439d",
+ "title": "Termo de Transação Individual - R. C. da S. Junior LTDA FGTS",
+ "region": "Region 1",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualR.C.daS.JuniorLTDAFGTStarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/1a-regiao/TermodeTransaoIndividualR.C.daS.JuniorLTDAFGTStarjado.pdf",
+ "sha256": "310c5e397219d352080ff3b4c4785c6687093f2c9ecf8c6ab79cbe97e213198b",
+ "extracted_at": "2026-07-22T14:22:24+00:00",
+ "simulated": false
+}

@@ -1,0 +1,91 @@
+{
+ "taxpayer": "VIAÇÃO METRÓPOLE PAULISTA S/A. e outras (grupo econômico: VIP TRANSPORTE URBANO LTDA., ETU TRANSPORTES URBANO LTDA., VIP - TRANSPORTES ITAIM PAULISTA LTDA., AUTO VIAÇÃO JUREMA LTDA., VIAÇÃO MONTE ALEGRE LTDA., EXPRESSO TALGO - TRANSPORTES E TURISMO LTDA., EMPRESA DE ÔNIBUS VIAÇÃO SÃO JOSÉ LTDA., EMPRESA AUTO ÔNIBUS PENHA SÃO MIGUEL LTDA., GPCON CONSTRUÇÕES EMPREENDIMENTOS E PARTICIPAÇÕES LTDA)",
+ "approval_date": "2025-06-25",
+ "consolidated_amount": 632854255.62,
+ "modality": "Transação Individual",
+ "total_discount_pct": 51.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel matrícula nº 180.095 (11º Cartório RI São Paulo/SP), Estrada do M'Boi Mirim nº 10.100, avaliado em R$ 90.046.349,74",
+  "Imóvel matrícula nº 155.593, Estrada Guarapiranga nº 318, avaliado em R$ 2.855.038,04",
+  "Imóvel matrícula nº 340.476, Estrada do Tuparoquera, avaliado em R$ 1.772.125,23",
+  "Imóvel matrícula nº 405.039, Rua João de Abreu nº 1.105, avaliado em R$ 15.292.087,52",
+  "Imóvel matrícula nº 119.316 (12º Cartório RI São Paulo/SP), Avenida Águia de Haia nº 2.344, avaliado em R$ 96.467.596,99",
+  "Imóvel matrícula nº 2.195 (2º Cartório RI Jundiaí/SP), Rodovia Anhanguera Km 48, avaliado em R$ 106.380.000,00",
+  "Contrato nº 032/19 de concessão de transporte coletivo (Lote AR3), valor R$ 2.495.543.602,00",
+  "Contrato nº 026/19 de concessão de transporte coletivo (Lote E7), valor R$ 2.741.131.528,00",
+  "Contrato nº 022/19 de concessão de transporte coletivo (Lote E3), valor R$ 4.584.851.048,00",
+  "Manutenção de gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar preenchimento dos requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou anticoncorrencial",
+  "Declarar não utilização de interposição de pessoas para ocultar bens/direitos",
+  "Declarar não alienação/oneração de bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais/patrimoniais/econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis após a Transação",
+  "Comunicar alienação de bens que possam reduzir capacidade de pagamento",
+  "Manter-se regular com outras Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos fiscais, inclusive comprobatórios de prejuízo fiscal e BCN",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Manter-se optante pelo lucro real durante toda a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a Transação, desistir de impugnações/recursos e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Utilização de crédito decorrente de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL, limitado a 26,078% do saldo da dívida após descontos",
+  "Possibilidade de alienação de bens imóveis dados em garantia mediante anuência da Fazenda Nacional e uso do sistema COMPREI",
+  "Exclusão da CDA nº 80 4 21 617159 14 do acordo por decisão que afastou sua exigibilidade",
+  "Exclusão de débitos já regularizados em Transação Individual anterior (Processo SEI 19839.101459/2021-38)",
+  "Créditos que a Requerente vier a receber por precatório ou depósito judicial deverão ser direcionados obrigatoriamente ao pagamento do saldo devedor da Transação"
+ ],
+ "sector": "Transporte coletivo urbano de passageiros (com participação imobiliária via GPCON)",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "TOTAL 632.854.255,62",
+  "total_discount_pct": "Desconto efetivo 51%",
+  "installments": "O prazo máximo previsto para pagamento será de 60 (sessenta) meses"
+ },
+ "review_fields": [
+  "taxpayer",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "267a456d0459",
+ "title": "Termo de Transação Individual - Viação Metrópole Paulista, VIP Transporte Urbano LTDA, ETU Transportes Urbano LTDA, VIP - Transportes Itaim Paulista LTDA, Auto Viação Jurema LTDA, Viação Monte Alegre LTDA, Expresso Talgo - Transportes e Turismo LTDA, Empresa de Ônibus Viação São José LTDA, Empresa Auto Ônibus Penha São Miguel LTDA, Gpcon Construções Empreendimentos e Participações LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualViaoMetrpolePaulistaVIPTransporteUrbanoLTDAETUTransportesUrbanoLTDAVIPTransportesItaimPaulistaLTDAAutoViaoJuremaLTDAViaoMonteAlegreLTDAExpressoTalgo.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualViaoMetrpolePaulistaVIPTransporteUrbanoLTDAETUTransportesUrbanoLTDAVIPTransportesItaimPaulistaLTDAAutoViaoJuremaLTDAViaoMonteAlegreLTDAExpressoTalgo.pdf",
+ "sha256": "414fb422bc3126eff2744f0015a492bed833b11217bde5b483032c6b4a312a46",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

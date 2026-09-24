@@ -1,0 +1,78 @@
+{
+ "taxpayer": "GRUPO TAGUS TEC (TAGUS-TEC SERVIÇOS TECNOLOGICOS LTDA, PAMDIR PARTICIPAÇOES LTDA, SAMID ADMINISTRAÇAO DE BENS LTDA, DIRPAM ADMINISTRAÇAO DE BENS LTDA, DMP SISTEMAS DE IDENTIFICACAO LTDA, NEO-TAGUS INDUSTRIAL LTDA)",
+ "approval_date": "2023-11-01",
+ "consolidated_amount": 76814382.79,
+ "modality": "Transação Individual",
+ "total_discount_pct": 57.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Estoques existentes das empresas TAGUS TEC SERVIÇOS TECNOLOGICOS LTDA e NEO-TAGUS INDUSTRIAL LTDA, no valor aproximado de R$ 17.503.476,10, penhoráveis e leiloáveis em caso de rescisão"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva",
+  "Declarar não utilização de pessoa interposta para ocultar bens",
+  "Declarar não alienação de bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Solicitar à RFB em até 60 dias o envio para inscrição em Dívida Ativa dos débitos do Anexo II",
+  "Comunicar à Fazenda Nacional a efetivação do envio para inscrição em Dívida Ativa",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Recolher em 30 dias valores decorrentes de reconsolidação por inclusão de débitos em cobrança na RFB",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Reconhecimento pelas Requerentes de que integram o mesmo grupo econômico, com concordância quanto a inserções como corresponsáveis nos sistemas da Dívida Ativa (cláusula 4.5)",
+  "Utilização de crédito de Prejuízo Fiscal e de Base de Cálculo Negativa da CSLL limitado a 70% do saldo da dívida dos 'DEMAIS DÉBITOS' e 'DÉBITOS PREVIDENCIÁRIOS' após aplicação dos descontos",
+  "Direcionamento de eventuais créditos de precatórios ou depósitos judiciais para adimplemento dos saldos devedores da Transação",
+  "Obrigação de manter-se optante pelo lucro real durante toda a vigência do acordo em razão da utilização de créditos de prejuízo fiscal e base negativa de CSLL"
+ ],
+ "sector": "Tecnologia/Industrial (equipamentos e sistemas de identificação)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "installments": 0.7,
+  "down_payment_pct": 0.0,
+  "discounts": 0.2,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "VALOR A SER TRANSACIONADO (PGFN): R$ 76.814.382,79",
+  "total_discount_pct": "Valor inicial: 76.814.382,79 Valor final: 32.440.812,57 Desconto efetivo aproximado: 57 %",
+  "installments": "Pagamento da Dívida Transacionada de natureza previdenciária em 60 prestações mensais e não previdenciária em 120 prestações mensais, iguais e sucessivas, na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "fcf5bf561c51",
+ "title": "Termo de Transação Individual - Tagus-Tec Serviços e Tecnologia",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTagusTecServioseTecnologiaLTDAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTagusTecServioseTecnologiaLTDAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "f41d0995b9d325f4f7627aa84a72b7a7f1d233e058044197628782de2924b800",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

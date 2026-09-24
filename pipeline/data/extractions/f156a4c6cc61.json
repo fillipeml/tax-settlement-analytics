@@ -1,0 +1,73 @@
+{
+ "taxpayer": "O C S MINERACAO E EMPREENDIMENTOS LTDA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-09-05",
+ "consolidated_amount": 19526472.11,
+ "modality": "Transação Individual (plano de recuperação fiscal - devedor em recuperação judicial)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel de matrícula nº [tarjado] do Registro Geral de Imóveis de Eusébio/CE – Cartório Facundo – 2º Ofício, com avaliação de R$ 5.000.000,00"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Apresentar situação econômico-financeira anualmente, por meio de balanço contábil apurado ou documentos complementares (Cláusula 15ª)",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar bens, direitos ou valores",
+  "Não alienar, onerar ou ocultar bens com propósito de frustrar a recuperação dos créditos",
+  "Comunicar informações cadastrais, patrimoniais e econômico-fiscais verdadeiras",
+  "Peticionar em todas as execuções ajuizadas informando a oferta de bens em garantia",
+  "Manter regime de tributação pelo lucro real durante 5 anos, se utilizado crédito de prejuízo fiscal/CSLL",
+  "Vincular direito creditório superveniente (precatórios, restituições tributárias) à quitação da transação (Cláusula 16ª)"
+ ],
+ "special_clauses": [
+  "Garantias ofertadas não configuram bens de capital essenciais ao cumprimento do plano de recuperação judicial (§2º, Cláusula 5ª)",
+  "Autorização de uso de crédito de prejuízo fiscal e base de cálculo negativa de CSLL para quitação do saldo devedor remanescente, limitado a 70% da dívida remanescente (Art. 4ª e §1º)",
+  "Em caso de rescisão, alienação de bens penhorados/garantia por leilão judicial ou plataforma COMPREI, com limite mínimo de 50% do valor de avaliação",
+  "Débitos de FGTS (Modalidade 30) e CS-LC 110/2001 (Modalidade 7) negociados perante a Caixa Econômica Federal, com descontos de 28,27% e 52,48%, respectivamente"
+ ],
+ "sector": "Mineração",
+ "confidence": {
+  "taxpayer": 0.95,
+  "approval_date": 0.9,
+  "modality": 0.9,
+  "sector": 0.6,
+  "judicial_recovery": 0.95,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.3,
+  "discounts.fine_pct": 0.2,
+  "discounts.interest_pct": 0.2,
+  "discounts.charges_pct": 0.2,
+  "guarantees": 0.85,
+  "obligations": 0.75,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total: 19.526.472,11 (Valor Total consolidado - relatório de parcelamento previdenciário, página 16-18)",
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 65% (Cláusula 3ª, débitos previdenciários e não previdenciários); Percentual efetivo de reduções: 65,00% (relatório de parcelamento)",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 60 (Cláusula 3ª, débitos previdenciários e não previdenciários)"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "obligations"
+ ],
+ "id": "f156a4c6cc61",
+ "title": "Termo de Transação Individual - O C S Mineração e Empreendimentos LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualOCSMineraoeEmpreendimentosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualOCSMineraoeEmpreendimentosLTDATarjado.pdf",
+ "sha256": "48f3eea0f3e90c551eddc0e30d339e37160161a65978d93dbe46bb411507f9e2",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

@@ -1,0 +1,77 @@
+{
+ "taxpayer": "PROPARK ESTACIONAMENTOS LTDA.",
+ "approval_date": "2022-12-15",
+ "consolidated_amount": null,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Manutenção dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias já prestadas administrativamente ou em execuções fiscais",
+  "Valor bloqueado na Execução Fiscal (parcialmente mantido - 50% alocado à conta PREV)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistência de impugnações/recursos administrativos e ações judiciais relativas aos débitos incluídos (Cláusula 4ª)",
+  "Peticionar nos processos judiciais em até 60 dias após assinatura noticiando o acordo (Cláusula 5ª)",
+  "Fornecer informações sobre bens, direitos, valores e transações sempre que solicitado (Cláusula 7ª)",
+  "Manter regularidade perante o FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Apresentar situação econômico-financeira anualmente por meio de balanço contábil (Cláusula 12)",
+  "Recolher obrigações tributárias correntes (Cláusula 13)",
+  "Verter para pagamento da dívida créditos de precatórios ou outros que venha a dispor (Cláusula 14)",
+  "Manter livros e documentos comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL por 5 anos (Cláusula 11)"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de prejuízo fiscal acumulado e base de cálculo negativa da CSLL para pagamento de parte do saldo devedor (Cláusula 3ª, c)",
+  "Repactuação futura para incluir débitos de PA ainda não inscrito em DAU (Parágrafo 1º)",
+  "Manutenção de bloqueio parcial (50%) em Execução Fiscal específica para alocação na conta PREV (Cláusula 3ª, a)",
+  "Possibilidade de migração para parcelamento futuro mais benéfico, extinguindo a presente transação (Cláusula 15)"
+ ],
+ "sector": "Estacionamentos",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.7,
+  "obligations": 0.8,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.75
+ },
+ "source_excerpts": {
+  "installments": "Pagamento da dívida transacionada de natureza não previdenciária em 120 (cento e vinte) prestações mensais; Pagamento da dívida transacionada de natureza previdenciária em 60 (sessenta) prestações mensais.",
+  "discount_max_referencia": "Desconto máximo de até 35% a cada uma das inscrições, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa juros e encargo legal)"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector",
+  "guarantees"
+ ],
+ "id": "9394fb8d8e81",
+ "title": "Termo de Transação Individual - Propark Estacionamentos",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualProparkEstacionamentosLTDAInformaesSigilosasSuprimidas.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualProparkEstacionamentosLTDAInformaesSigilosasSuprimidas.pdf",
+ "sha256": "a14431e871448b1ff46f7eed3165b2557d61bde823af4dd103cac2589a250ed2",
+ "extracted_at": "2026-07-22T14:35:17+00:00",
+ "simulated": false
+}

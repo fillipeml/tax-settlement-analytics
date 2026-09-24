@@ -1,0 +1,70 @@
+{
+ "taxpayer": "PORTO DO RECIFE S/A",
+ "approval_date": "2024-10-07",
+ "consolidated_amount": 39634372.72,
+ "modality": "Transação Individual (revisão)",
+ "total_discount_pct": 76.98,
+ "discounts": {
+  "fine_pct": 65.0,
+  "interest_pct": 65.0,
+  "charges_pct": 65.0
+ },
+ "installments": 12,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens já penhorados ou descritos no termo (imóvel inserido na plataforma Comprei em caso de rescisão)"
+ ],
+ "judicial_recovery": false,
+ "obligations": [
+  "Manter regular adimplemento das obrigações correntes de FGTS e contribuição social LC 110/2001",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados/balanço contábil",
+  "Não alienar bens ou direitos sem comunicação à Fazenda Nacional",
+  "Permanecer no regime de tributação pelo lucro real por 05 anos em razão do aproveitamento de créditos de prejuízo fiscal e base negativa de CSLL",
+  "Manter livros e documentos comprobatórios por 05 anos",
+  "Desistir de impugnações e recursos administrativos e ações judiciais relacionadas aos débitos",
+  "Peticionar nos processos judiciais noticiando a celebração do acordo e suspensão da cobrança"
+ ],
+ "special_clauses": [
+  "Aproveitamento de créditos de prejuízo fiscal e base de cálculo negativa de CSLL para complementar percentual de 76,98% de benefício efetivo (Cláusula 4ª)",
+  "Cláusula de venda de bens condicionada à aquiescência da Fazenda Nacional (Cláusula 6ª)",
+  "Procedimento de alienação via plataforma Comprei em caso de rescisão, com limite mínimo de 50% do valor de avaliação (Cláusula 7ª)",
+  "Desistência de transações anteriores sem penalidade e aproveitamento das amortizações regulares sem desconto (Parágrafo único, Cláusula 1ª)"
+ ],
+ "sector": "Portuário/Logística",
+ "confidence": {
+  "taxpayer": 1.0,
+  "sector": 0.4,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.7,
+  "total_discount_pct": 0.9,
+  "installments": 0.6,
+  "down_payment_pct": 0.0,
+  "discounts": 0.85,
+  "guarantees": 0.5,
+  "obligations": 0.8,
+  "judicial_recovery": 0.6,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Totais: 16.990.773,63 (débitos previdenciários) + Totais: 22.643.599,31 (demais débitos) - ANEXO I",
+  "total_discount_pct": "para complementar o percentual de 76,98% (setenta e seis, vírgula noventa e oito por cento) de benefício efetivo para quitação do saldo devedor remanescente dos débitos previdenciários e não previdenciários",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES): 12 - DÉBITOS NÃO PREVIDENCIÁRIOS (DEMAIS DÉBITOS); PAGAMENTO PARCELADO EM ATÉ (MESES): 1 (À vista) - DÉBITOS PREVIDENCIÁRIOS"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "installments",
+  "down_payment_pct",
+  "guarantees",
+  "judicial_recovery"
+ ],
+ "id": "d6bbff31a092",
+ "title": "Termo de Transação Individual - Porto do Recife SA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualPortodoRecifeSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualPortodoRecifeSATarjado.pdf",
+ "sha256": "9b80ba81aaa0334f9130493a48b595d3ad4dc7a7feb98e453be77b45bf8d1017",
+ "extracted_at": "2026-07-22T14:36:32+00:00",
+ "simulated": false
+}

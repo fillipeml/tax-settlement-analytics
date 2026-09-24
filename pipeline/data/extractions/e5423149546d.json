@@ -1,0 +1,78 @@
+{
+ "taxpayer": "HM HOTÉIS E TURISMO S.A. e outras (grupo HMKY/Hidroservice/HSBX/Manaus Hotéis e Turismos) - em Recuperação Judicial",
+ "approval_date": "2021-09-21",
+ "consolidated_amount": 110743216.0,
+ "modality": "Transação Individual (regularização de débitos no âmbito de recuperação judicial)",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Depósitos judiciais (R$ 574.662,19)",
+  "Imóveis listados no Anexo 2 (itens a, b, c, d - valores tarjados)",
+  "Fração do imóvel Hotel Maksoud Plaza (R$ 52.832.693,81), penhorada no rosto dos autos da Ação Trabalhista nº 0054600-82.1990.5.02.0052"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores e operações quando solicitado pela PGFN",
+  "Não utilizar a Transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utilizam pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienaram ou oneraram bens com propósito de frustrar a recuperação dos créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir lucros ou dividendos por 36 meses a contar da assinatura",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Não alienar bens próprios que reduzam capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Individualização dos valores de FGTS recolhidos nas contas vinculadas dos trabalhadores (HM Hotéis e Turismo)"
+ ],
+ "special_clauses": [
+  "Escalonamento de parcelas conforme Anexo 1",
+  "Possibilidade de alienação dos imóveis dados em garantia, mediante anuência da Fazenda Nacional",
+  "Imputação de depósitos judiciais vinculados à Execução Fiscal nº 0028349-57.2009.403.6182 diretamente na conta de Transação não previdenciária no SISPAR",
+  "Descontos diferenciados por empresa do grupo (até 50% para Hidroservice Amazônia e HMKY; até 70% para as demais em RJ)",
+  "Pagamento mínimo de 50% da totalidade dos débitos transacionados em até 60 meses",
+  "Débitos de FGTS transacionados com desconto máximo de 45%, conforme modalidade 23 (Demais PJ)"
+ ],
+ "sector": "Hotelaria/Turismo",
+ "confidence": {
+  "taxpayer": 0.9,
+  "approval_date": 0.95,
+  "modality": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.6,
+  "guarantees": 0.8,
+  "obligations": 0.85,
+  "special_clauses": 0.75,
+  "judicial_recovery": 0.95,
+  "sector": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada após descontos | 110.743.216,00",
+  "installments": "Pagamento dos débitos não previdenciários das Requerentes HIDROSERVICE AMAZÔNIA S/A AGROPECUÁRIA E INDUSTRIAL e HMKY EMPREENDIMENTOS PARTICIPAÇÕES ADMINISTRAÇÃO S/A em 84 parcelas mensais, e dos débitos não previdenciários das demais Requerentes em 120 parcelas mensais"
+ },
+ "review_fields": [
+  "total_discount_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "down_payment_pct",
+  "installments"
+ ],
+ "id": "e5423149546d",
+ "title": "Termo de Transação Individual - HM HÓTEIS E TURISMO",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-hm-hoteis-e-turismo.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/termo-de-transacao-individual-hm-hoteis-e-turismo.pdf",
+ "sha256": "720b230ebcaf9d5d8c05a17d5592f303f8676e24750bc9a31a566f0d5a375af0",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

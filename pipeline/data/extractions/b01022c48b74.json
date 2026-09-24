@@ -1,0 +1,77 @@
+{
+ "taxpayer": "TRANSPORTES CAPELLINI LTDA (e demais empresas do Grupo Belarmino - transportes)",
+ "approval_date": "2023-05-26",
+ "consolidated_amount": 97854376.21,
+ "modality": "Transação Individual",
+ "total_discount_pct": 37.22,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 60,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Contrato nº 021/19 (SEI nº 6020.2019/0002396-8), celebrado pela Prefeitura do Município de São Paulo com Sambaíba Transportes Urbanos Ltda., no valor de R$ 3.135.223.280,00"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar/dissimular origem ou destinação de bens",
+  "Declarar não ter alienado ou onerado bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação prévia",
+  "Peticionar em até 30 dias nos processos judiciais para noticiar a transação, desistir de recursos/ações e confessar a dívida",
+  "Reconhecer coresponsabilidade pelo pagamento dos créditos de todas as empresas do grupo Belarmino e formalizar futura transação em 90 dias"
+ ],
+ "special_clauses": [
+  "Oferecimento de contrato público (concessão de transporte municipal) como garantia da transação, com validade condicionada à comprovação de notificação às fontes pagadoras e comprovação semestral de vigência",
+  "Reconhecimento de coresponsabilidade das Requerentes pelos débitos de todas as empresas do 'Grupo Belarmino', incluindo empresa não signatária (Auto Ônibus São Jorge Ltda), com obrigação de futura transação em 90 dias sob pena de rescisão",
+  "Vedação de redução do montante principal, com desconto aplicado apenas sobre acréscimos legais (multa, juros e encargos)"
+ ],
+ "sector": "Transporte (rodoviário de passageiros e cargas)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.8,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 97.854.376,21 (noventa e sete milhões, oitocentos e cinquenta e quatro mil, trezentos e sessenta e seis reais, e vinte e um centavos)",
+  "total_discount_pct": "Desconto máximo de 37,22% a cada uma das CDAs, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada — Demais Débitos\") em 60 (sessenta) prestações mensais, escalonadas na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "b01022c48b74",
+ "title": "Termo de Transação Individual - Transportes Capellini LTDA, Via Norte Transportes Urbanos LTDA, Viação São Paulo LTDA, Embralixo Empresa Bragantina de Varrição e Coleta de Lixo LTDA, Empresa São José LTDA, Nossa Senhora de Fátima Auto Ônibus LTDA, Rápido Luxo Campinas LTDA, Auto Viação Brasil Luxo LTDA, Rápido Sumaré LTDA, Sambaíba Transportes Urbanos LTDA, Valle Sul Transportes de Cargas LTDA, VB Transportes e Turismo TDA, VB Transportes de Cargas LTDA, Viação Atual LTDA, Viação Avante LTDA, Viação Campo dos Ouros LTDA, Viação Lira LTDA, Viação Itu LTDA, Auto Viação Ouro Verde LTDA, Vila Real Transportes e Serviços LTDA, West Side Viagens e Turismo LTDA, Viação Boa Vista LTDA, Viação Transguarulhense LTDA, Construtora Boa Nova LTDA, Urca Urbano de Campinas LTDA, Belarmino da Ascenção Marta, Belarmino da Ascenção Marta Júnior, Carla da Silva Marta, Adriano dos Anjos Macaira, Ariovaldo Marta Macaira",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTransportesCapelliniLTDAViaNorteTransportesUrbanosLTDAViaoSoPauloLTDAEmbralixoEmpresaBragantinadeVarrioeColetadeLixoLTDAEmpresaSoJosLTDANossaSenhorad.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualTransportesCapelliniLTDAViaNorteTransportesUrbanosLTDAViaoSoPauloLTDAEmbralixoEmpresaBragantinadeVarrioeColetadeLixoLTDAEmpresaSoJosLTDANossaSenhorad.pdf",
+ "sha256": "e56dba6b686cb1ab0f67de7053b7da0098a501f0366116908bf1041faebee0a2",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

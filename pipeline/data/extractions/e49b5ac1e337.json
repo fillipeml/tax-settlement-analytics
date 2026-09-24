@@ -1,0 +1,75 @@
+{
+ "taxpayer": "DRYCAR TECNOLOGIA E SERVIÇOS LTDA e outras (Grupo Econômico: DRYCAR, DRYWASH, MULTIECO, SISTEMATIZE, VIA CSC, DWX PARTICIPAÇÕES, TRIO EMPREENDIMENTOS)",
+ "approval_date": "2024-05-15",
+ "consolidated_amount": 14305471.65,
+ "modality": "Transação Individual",
+ "total_discount_pct": 45.38,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 48,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações sempre que solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar/falsear a livre concorrência",
+  "Declarar não utilizar pessoa interposta para ocultar origem/destinação de bens",
+  "Declarar não ter alienado ou onerado bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam reduzir capacidade de pagamento sem comunicação à Fazenda",
+  "Reconhecer responsabilidade solidária pela totalidade dos débitos transacionados",
+  "Manter-se optante pelo lucro real durante toda a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação e desistir de ações/recursos"
+ ],
+ "special_clauses": [
+  "Não haverá oferta de garantia vinculada à Transação, considerando a redução do prazo de pagamento e o reconhecimento formal de responsabilidade tributária solidária do grupo econômico de fato",
+  "Utilização de crédito decorrente de Prejuízo Fiscal e de base de cálculo negativa da CSLL, limitado a 60% do saldo da dívida após aplicação dos descontos",
+  "Reconhecimento expresso administrativo do Grupo Econômico formado pelas Requerentes"
+ ],
+ "sector": "Tecnologia/Serviços",
+ "confidence": {
+  "taxpayer": 0.9,
+  "approval_date": 0.9,
+  "modality": 0.95,
+  "consolidated_amount": 0.95,
+  "total_discount_pct": 0.95,
+  "installments": 0.95,
+  "down_payment_pct": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "sector": 0.5,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Dívida Transacionada – Total de R$ 14.305.471,65 (quatorze milhões, trezentos e cinco mil, quatrocentos e setenta e um reais e sessenta e cincos centavos)",
+  "total_discount_pct": "PERCENTUAL DE DESCONTO MÉDIO 45,38%",
+  "installments": "Pagamento da Dívida Transacionada, tanto a de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\"), quanto a de natureza previdenciária (\"Dívida Transacionada - Previdenciária\") em 48 (quarenta e oito) prestações mensais iguais e sucessivas"
+ },
+ "review_fields": [
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery",
+  "sector"
+ ],
+ "id": "e49b5ac1e337",
+ "title": "Termo de Transação Individual - Drycar Tenologia e Serviços LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualDrycarTenologiaeServiosLTDAtarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualDrycarTenologiaeServiosLTDAtarjado.pdf",
+ "sha256": "82db9c33164f15046dc668931d1e4874769711ccfbf03d1252c217a560de7715",
+ "extracted_at": "2026-07-22T14:22:40+00:00",
+ "simulated": false
+}

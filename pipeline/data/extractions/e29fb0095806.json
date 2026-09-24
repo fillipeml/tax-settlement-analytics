@@ -1,0 +1,76 @@
+{
+ "taxpayer": "SIMETALL INDÚSTRIA E COMÉRCIO DE FERRAMENTAS LTDA.",
+ "approval_date": "2022-11-03",
+ "consolidated_amount": 18423286.82,
+ "modality": "Transação Individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Bens móveis e imóveis avaliados em R$ 25.207.645,42 (Cláusula 8ª)",
+  "Bens imóveis penhorados em execuções fiscais, conforme Anexo IV (§1º da Cláusula 8ª)",
+  "Cessão de direitos sobre imóvel objeto de alienação fiduciária em favor da CAIXA ECONÔMICA FEDERAL, avaliado em R$ 27.160.000,00 (§2º da Cláusula 8ª)",
+  "Máquina industrial laminadora de aços quentes, marca Fyre Fondrico, avaliada em R$ 2.070.000,00 (§4º da Cláusula 8ª)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a transação de forma abusiva",
+  "Declarar não utilizar pessoa interposta para ocultar bens",
+  "Declarar não ter alienado bens para frustrar recuperação de créditos",
+  "Manter regularidade fiscal perante a União",
+  "Manter o Certificado de Regularidade do FGTS",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em dívida ativa",
+  "Manter livros e documentos fiscais por 5 anos em razão do uso de créditos de PF/BCN",
+  "Efetuar pagamento das parcelas exclusivamente via DARF emitido pelo sistema REGULARIZE",
+  "Promover a transcrição da cessão de direitos no Registro de Títulos e Documentos em 30 dias",
+  "Nomear a penhora a máquina industrial dada em garantia em 30 dias",
+  "Manter em dia o pagamento de impostos, taxas e tributos que incidam sobre os bens dados em garantia",
+  "Peticionar nos processos judiciais noticiando a transação em até 60 dias"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de Prejuízo Fiscal (IRPJ) e Base de Cálculo Negativa de CSLL (PF/BCN) no valor nominal de R$ 3.838.021,42 para amortização do saldo devedor (Cláusula 6ª)",
+  "Cessão de direitos sobre imóvel com alienação fiduciária em favor da CAIXA ECONÔMICA FEDERAL como garantia (§2º da Cláusula 8ª)",
+  "Nomeação da União como procuradora do devedor com cláusula em causa própria para receber indenização em caso de desapropriação dos bens dados em garantia (Cláusula 11)"
+ ],
+ "sector": "Indústria (ferramentas)",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.5,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.0,
+  "installments": 0.85,
+  "down_payment_pct": 0.0,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.8,
+  "judicial_recovery": 0.0
+ },
+ "source_excerpts": {
+  "consolidated_amount": "PASSIVO FISCAL INSCRITO, SEM DESCONTOS: 18.423.286,82",
+  "installments": "O plano relativo às inscrições dos DEMAIS DÉBITOS e de SIMPLES NACIONAL indicadas, respectivamente, nos Anexos II e III, prevê o pagamento em 120 (cento e vinte) parcelas mensais, sucessivas e lineares"
+ },
+ "review_fields": [
+  "sector",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "e29fb0095806",
+ "title": "Termo de Transação Individual - Simetall Indústria e Comércio de Ferramentas LTDA",
+ "region": "Region 4",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualSimetallIndustriaeComerciodeFerramentasLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/4a-regiao/TermodeTransacaoIndividualSimetallIndustriaeComerciodeFerramentasLTDA.pdf",
+ "sha256": "e3a418e2b00260ae3a906bef1e8852ebbd423ff8b2d67b54a87a9693a8b24a90",
+ "extracted_at": "2026-07-22T14:22:52+00:00",
+ "simulated": false
+}

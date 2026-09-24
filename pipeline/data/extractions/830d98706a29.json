@@ -1,0 +1,71 @@
+{
+ "taxpayer": "SANTA CASA DE MISERICÓRDIA DE CAMPOS",
+ "approval_date": "2025-04-15",
+ "consolidated_amount": 5643375.07,
+ "modality": "Transação Individual FGTS - Modalidade 6",
+ "total_discount_pct": 30.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 110,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóveis de propriedade da DEVEDORA situados em Campos dos Goytacazes, constantes do Anexo I, constituídos em 2 matrículas imobiliárias (Praça São Salvador, 6 e Praça São Salvador, 30)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Desistir de impugnações, recursos e ações judiciais/administrativas relativas à dívida transacionada",
+  "Confessar de forma irrevogável e irretratável os débitos",
+  "Peticionar nos autos dos processos judiciais/administrativos em 30 dias a contar da assinatura para noticiar o acordo",
+  "Pagar, parcelar ou garantir novos débitos de FGTS e contribuição social inscritos em Dívida Ativa após a formalização, no prazo de 90 dias",
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Manter regularidade perante o FGTS e proceder à individualização dos valores recolhidos dos trabalhadores",
+  "Não alienar bens ou direitos próprios sem comunicação à Fazenda Nacional, exceto veículos da frota e imóvel matrícula 71.618",
+  "Efetuar pagamento regular de tributos federais, estaduais e municipais incidentes sobre os imóveis do Anexo I",
+  "Comunicar em 30 dias a garantia formalizada via penhora nas execuções fiscais listadas no Anexo II"
+ ],
+ "special_clauses": [
+  "Cláusula 5.6.1 permite exceção à vedação de alienação de bens para veículos da frota e para o imóvel matrícula 71.618 do 2º Ofício RGI do Rio de Janeiro",
+  "Cláusula 7.1 estabelece condição resolutiva do pagamento da primeira parcela mensal",
+  "Cláusula 2.7 estabelece que a extinção da dívida somente ocorre quando integralmente cumpridos os requisitos previstos no momento da celebração do acordo"
+ ],
+ "sector": "Saúde/Hospitalar (entidade filantrópica)",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.5,
+  "modality": 0.9,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts": 0.3,
+  "guarantees": 0.9,
+  "obligations": 0.85,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.7
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Total: 5.643.375,07",
+  "total_discount_pct": "a) Desconto – 30,00% (trinta por cento);",
+  "installments": "b) PRINCIPAL (DEP + JAM) - Valores devidos aos Trabalhadores: 110 (cento e dez) parcelas mensais e sucessivas;"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "830d98706a29",
+ "title": "Termo de Transação Individual - Santa Casa de Misericórdia de Campos (FGTS)",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualSantaCasadeMisericrdiadeCamposFGTSTarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualSantaCasadeMisericrdiadeCamposFGTSTarjado.pdf",
+ "sha256": "325a549d032119df36297402c585b72b34dc6866cc06ece81ff747f5fa7803b5",
+ "extracted_at": "2026-07-22T14:22:31+00:00",
+ "simulated": false
+}

@@ -1,0 +1,71 @@
+{
+ "taxpayer": "NATAL HOSPITAL CENTER S.A.",
+ "approval_date": "2024-09-13",
+ "consolidated_amount": 139659224.08,
+ "modality": "Transação Individual (Revisão)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": 65.0,
+  "interest_pct": 65.0,
+  "charges_pct": 65.0
+ },
+ "installments": 80,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Crédito estadual oriundo do Processo nº 0813842-92.2015.8.20.5001 (5ª Vara da Fazenda Pública da Comarca de Natal), estimado em R$ 22.503.007,30",
+  "Depósito judicial da Execução Fiscal nº 0804801-61.2023.4.05.8400 (6ª Vara Federal/RN)",
+  "Bens penhorados descritos no termo (alienação via sistema COMPREI em caso de rescisão)"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Pagamento regular das prestações mensais",
+  "Manutenção do regular adimplemento das inscrições de FGTS (FGRN201300214 e FGRN202300062)",
+  "Apresentação anual de demonstrações de resultados/balanço contábil",
+  "Comunicação prévia à Fazenda Nacional antes de alienar bens ou direitos",
+  "Comprovação de créditos de prejuízo fiscal e base negativa de CSLL por profissional contábil registrado",
+  "Manutenção de livros e documentos fiscais por 5 anos em caso de aproveitamento de créditos de PF/BCN",
+  "Permanência ou retorno ao regime de tributação pelo lucro real, caso utilize créditos de PF/BCN",
+  "Desistência de impugnações/recursos administrativos e ações judiciais relativas aos débitos incluídos"
+ ],
+ "special_clauses": [
+  "Oferta em garantia de crédito estadual em fase de liquidação de sentença, com possibilidade de alienação com deságio de até 40% do valor de face",
+  "Transformação imediata em pagamento definitivo do saldo do depósito judicial da Execução Fiscal nº 0804801-61.2023.4.05.8400, sem descontos, com posterior revisão do saldo devedor",
+  "Autorização de utilização de crédito de prejuízo fiscal e base de cálculo negativa de CSLL, limitada a 70% da dívida remanescente dos débitos previdenciários e não previdenciários",
+  "Indicação de saldo de restituição no âmbito da RFB (Processo nº 1127.734681/2023-84) de cerca de R$ 1 milhão, destinado à quitação de dívida de FGTS"
+ ],
+ "sector": "Saúde/Hospitalar",
+ "confidence": {
+  "taxpayer": 0.98,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.85,
+  "installments": 0.75,
+  "down_payment_pct": 0.0,
+  "discounts": 0.7,
+  "guarantees": 0.85,
+  "obligations": 0.75,
+  "judicial_recovery": 0.0,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Total sem reduções (A) ... 139.659.224,08 (Consolidado, Demonstrativo - conta nº 158577906 e demais, Totais: 139.659.224,08)",
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 65%",
+  "installments": "Prestações selecionadas: 20 ... Escalonamento de prestações para pagamento do saldo ... Faixa 5 ... Prestação Final 20"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "judicial_recovery",
+  "installments"
+ ],
+ "id": "8ae508a7b823",
+ "title": "Termo de Transação Individual - Natal Hospital Center SA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualNatalHospitalCenterSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualNatalHospitalCenterSATarjado.pdf",
+ "sha256": "84b6cc7f8f90496c65c849e9ee2cce292649cc86b616be81cfcbe893f1ef1bfd",
+ "extracted_at": "2026-07-22T14:35:18+00:00",
+ "simulated": false
+}

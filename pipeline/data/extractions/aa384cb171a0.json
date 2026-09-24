@@ -1,0 +1,81 @@
+{
+ "taxpayer": "SINA INDÚSTRIA DE ALIMENTOS LTDA. e outras (grupo SINA/FAS/FAMA)",
+ "approval_date": "2025-04-23",
+ "consolidated_amount": null,
+ "modality": "Transação individual",
+ "total_discount_pct": null,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "20% do preço de venda a ser alcançado na alienação da UPI Pirapozinho (avaliada em R$ 94.769.000,00)",
+  "Direitos creditórios reconhecidos no Processo nº 5016753-57.2020.4.03.6100 (exclusão do ICMS da base de cálculo do PIS/COFINS), avaliados em R$ 13.156.269,17",
+  "Participação de Maria de Fátima Butara Ferreira Abdul Massih, Simon Nemer Ferreira Abdul Massih e Andrea Ferreira Abdul Massih em diversos imóveis, avaliados conjuntamente em R$ 20.972.054,74",
+  "Penhora dos bens e direitos listados na cláusula 3.1 nos autos da Execução Fiscal nº 5018816-32.2022.4.03.6182"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar não utilização de pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienaram ou oneraram bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens/direitos que possam inviabilizar a capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Desconto máximo de 65% em cada CDA, vedada redução do montante principal, aplicado proporcionalmente sobre multa, juros e encargos",
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no percentual de 70% para amortização do saldo devedor da Dívida Previdenciária e 47,34% para Demais Débitos",
+  "Créditos que as Requerentes venham a dispor (precatório, depósito judicial etc.) deverão ser direcionados para adimplemento dos saldos devedores da Transação",
+  "Pagamento de honorários advocatícios relativos a ações anulatórias já sentenciadas favoravelmente à União no valor de R$ 4.499.169,93, parcelado em 60 prestações mensais",
+  "Uso do sistema COMPREI para eventual alienação dos bens penhorados em Execuções Fiscais",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente"
+ ],
+ "sector": "Indústria de alimentos",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.95,
+  "approval_date": 0.85,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.0,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "installments": "Pagamento da Dívida Transacionada de natureza não previdenciária (\"Dívida Transacionada – Demais Débitos\") em 120 (cento e vinte) prestações mensais, escalonadas na forma discriminada no Anexo II"
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector"
+ ],
+ "id": "aa384cb171a0",
+ "title": "Termo de Transação Individual - Sina Indústria de Alimentos LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSinaIndstriadeAlimentosLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualSinaIndstriadeAlimentosLTDATarjado.pdf",
+ "sha256": "b2abbefb201aca1f57c35d217757834864c674363705e9a818ae3e6684b86e3a",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

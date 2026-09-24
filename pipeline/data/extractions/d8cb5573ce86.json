@@ -1,0 +1,80 @@
+{
+ "taxpayer": "BLASPINT CONSTRUÇÃO E MONTAGEM LTDA / PROPAV LOCAÇÃO DE EQUIPAMENTOS LTDA (Fiador: ACP INVESTIMENTOS E PARTICIPAÇÕES)",
+ "approval_date": "2025-02-25",
+ "consolidated_amount": null,
+ "modality": "Transação individual (modalidades DEMAIS e PREV) - Recuperação Judicial",
+ "total_discount_pct": 76.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 84,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Fiança pessoal com corresponsabilidade da pessoa jurídica ACP INVESTIMENTOS E PARTICIPAÇÕES",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em execuções fiscais"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não utilizar a Transação de forma abusiva",
+  "Declarar não utilizar pessoa interposta para ocultar bens",
+  "Declarar não ter alienado bens para frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que se tornarem exigíveis",
+  "Não alienar bens que reduzam capacidade de pagamento sem comunicação à Fazenda",
+  "Manter por 5 anos livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo lucro real durante toda a vigência do acordo"
+ ],
+ "special_clauses": [
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL no valor aproximado de R$ 30.095.335,08 para amortização do saldo devedor, até o limite de 70% do saldo remanescente, resultando em benefícios de 76% dos débitos negociados",
+  "Cobrança do saldo liquidado com uso de créditos de PF/CSLL fica suspensa até confirmação pela autoridade competente, em até 5 anos",
+  "Modalidade DEMAIS: desconto de até 70% sobre acréscimos legais, parcelamento em até 84 prestações escalonadas",
+  "Modalidade PREV: desconto de até 70% sobre acréscimos legais, parcelamento em até 60 prestações lineares",
+  "Fiança pessoal com corresponsabilidade integral por todos os débitos negociados"
+ ],
+ "sector": "Construção civil/montagem industrial e locação de equipamentos",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.5,
+  "modality": 0.85,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.75,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Utilização de crédito no valor aproximado de R$ 30.095.335,08 (...) até o limite de 70% do saldo remanescente, a fim de que, ao final, sejam concedidos benefícios na ordem de 76% dos débitos negociados",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 84 (oitenta e quatro) prestações escalonadas, mensais e sucessivas"
+ },
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct"
+ ],
+ "id": "d8cb5573ce86",
+ "title": "Termo de Transação Individual - Blaspint  Construção e Montagem LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualBlaspintConstruoeMontagemLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualBlaspintConstruoeMontagemLTDATarjado.pdf",
+ "sha256": "34a637398fba43a9040dd9a27b97ccbea4323e29ed07afcb79507cc8241e1b57",
+ "extracted_at": "2026-07-22T14:22:36+00:00",
+ "simulated": false
+}

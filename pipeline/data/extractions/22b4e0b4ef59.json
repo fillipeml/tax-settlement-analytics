@@ -1,0 +1,80 @@
+{
+ "taxpayer": "NALF ARTES EM CONFECCOES LTDA (e grupo: NRB FASHION COMPANY LTDA, REP JEANS DO BRASIL LTDA, CANAL PARTICIPAÇÕES S.A.) - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-10-07",
+ "consolidated_amount": null,
+ "modality": "Transação Individual (no âmbito de Recuperação Judicial) - modalidades DEMAIS e PREV",
+ "total_discount_pct": 70.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 120,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Alienação fiduciária registrada no INPI, incidente sobre a marca de produto e serviço \"CANAL CONCEPT\", avaliada em R$ 38.988.802,00",
+  "Fiança pessoal do sócio Januário Luiz Vaiano"
+ ],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos e valores quando solicitado",
+  "Não utilizar a Transação de forma abusiva ou para limitar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/valores",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter por 5 anos livros e documentos exigidos pelas normas fiscais",
+  "Declarar inexistência de outros créditos líquidos e certos em desfavor da União",
+  "Manter-se optante pela tributação pelo lucro real durante a vigência do acordo",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a celebração da transação e desistir de impugnações/recursos"
+ ],
+ "special_clauses": [
+  "Utilização de créditos de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL para amortização (R$ 13.181.250,61 na modalidade PREV e R$ 4.966.575,05 na modalidade DEMAIS)",
+  "Cobrança do saldo liquidado com créditos de prejuízo fiscal/CSLL negativa fica suspensa até confirmação pela autoridade competente, em até 5 anos",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em execuções/ações judiciais",
+  "Vinculação ao cumprimento do plano de recuperação judicial (processo nº 1094362-02.2022.8.26.0100)"
+ ],
+ "sector": "Confecções/vestuário (moda)",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.6,
+  "modality": 0.85,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.0,
+  "total_discount_pct": 0.75,
+  "down_payment_pct": 0.0,
+  "installments": 0.85,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "obligations": 0.9,
+  "special_clauses": 0.85,
+  "judicial_recovery": 0.95
+ },
+ "source_excerpts": {
+  "total_discount_pct": "Na modalidade DEMAIS, desconto máximo de até 70% (setenta por cento) a cada uma das CDAs, individualmente, vedada a redução do montante principal... Na modalidade PREV, desconto máximo de até 70% (setenta por cento) a cada uma das CDAs, individualmente...",
+  "installments": "Parcelamento do saldo devido na modalidade DEMAIS em até 120 (cento e vinte) prestações, mensais e sucessivas... Parcelamento do saldo devido na modalidade PREV em até 60 (sessenta) prestações, mensais e sucessivas..."
+ },
+ "review_fields": [
+  "consolidated_amount",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "sector",
+  "total_discount_pct"
+ ],
+ "id": "22b4e0b4ef59",
+ "title": "Termo de Transação Individual - Nalf Artes em Confecções LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualNalfArtesemConfecesLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualNalfArtesemConfecesLTDATarjado.pdf",
+ "sha256": "ee8c7a4a84b4814bc5e4a40f7113c549a99ef9f6a08dda6342f70292bdd1bc8b",
+ "extracted_at": "2026-07-22T14:22:48+00:00",
+ "simulated": false
+}

@@ -1,0 +1,78 @@
+{
+ "taxpayer": "Grupo Belarmino da Ascenção Marta (VB Transportes e Turismo Ltda. e outras empresas do grupo econômico - Auto Viação Brasil Luxo Ltda., Transportes Capellini Ltda., Viação Campos do Ouros Ltda., Viação Transguarulhense Ltda., Construtora Boanova Ltda., Embralixo Empresa Bragantina de Varrição Coleta de Lixo Ltda., Nossa Senhora de Fátima Auto Ônibus Ltda., Rápido Luxo Campinas Ltda., Rápido Sumaré Ltda., Sambaíba Transportes Urbanos Ltda., Empresa São José Ltda., Urca Urbano de Campinas Ltda., Vallesul Transportes e Turismo Ltda., VB Transportes de Cargas Ltda., Via Norte Transportes Urbanos Ltda., Viação Atual Ltda., Viação Avante Ltda., Viação Boa Vista Ltda., Viação Lira Ltda., Auto Viação Ouro Verde Ltda., Viação São Paulo Ltda., Vila Real Transportes e Serviços Ltda., West Side Viagens e Turismo Ltda., Empresa Auto Ônibus São Jorge Ltda., Tuca Transportes Urbanos Campinas Ltda., Viação Itu Ltda.)",
+ "approval_date": "2025-01-20",
+ "consolidated_amount": 2142057649.49,
+ "modality": "Transação Individual (art. 171 do CTN, Lei nº 13.988/2020 e Portaria PGFN nº 6.757/2022)",
+ "total_discount_pct": 50.577,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 30,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Contrato nº 021/19 (SEI nº 6020.2019/0002396-8) celebrado pela Prefeitura do Município de São Paulo com a Sambaíba Transportes Urbanos Ltda., no valor de R$ 3.135.223.280,00",
+  "Oferecimento de bem à penhora nos autos das execuções fiscais nº 805936.2016.403.6130, nº 780478.2016.403.6130, nº 50077897720234036130 e nº 719383.2016.403.6144",
+  "Manutenção automática dos gravames decorrentes de arrolamento de bens, medida cautelar fiscal e garantias prestadas administrativamente ou em ações de execução fiscal/judicial"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Declarar sob as penas da lei que preenche os requisitos da Lei 13.988/2020",
+  "Fornecer informações sobre bens, direitos, valores e transações sempre que solicitado",
+  "Não utilizar a Transação de forma abusiva ou para prejudicar a livre concorrência",
+  "Declarar que não utiliza pessoa interposta para ocultar bens/direitos/valores",
+  "Declarar que não alienou/onerou bens com propósito de frustrar recuperação de créditos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa",
+  "Não alienar bens que possam inviabilizar capacidade de pagamento sem comunicação à Fazenda Nacional",
+  "Manter-se regular com Transações e Parcelamentos em curso",
+  "Manter por 5 anos livros e documentos fiscais, inclusive comprobatórios de prejuízo fiscal e base negativa da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União",
+  "Manter-se optante pelo lucro real durante a vigência do acordo",
+  "Desistir de discussões judiciais pendentes vinculadas aos depósitos em até 30 dias",
+  "Peticionar em até 60 dias nos processos judiciais para noticiar a transação, desistir e confessar a dívida"
+ ],
+ "special_clauses": [
+  "Inclusão de débitos redirecionados originários da empresa VIAÇÃO CAMPOS ELÍSEOS S.A. (CNPJ 45.998.135/0001-26) em razão de decisões de redirecionamento em Execuções Fiscais específicas",
+  "Utilização de crédito de Prejuízo Fiscal e Base de Cálculo Negativa da CSLL limitado a 29,802% do saldo da dívida após descontos",
+  "Cobrança do saldo liquidado com PF/BCN suspensa até confirmação dos créditos pela autoridade competente (prazo legal de 5 anos)",
+  "Eventuais créditos de precatórios ou depósitos judiciais das Requerentes devem ser direcionados obrigatoriamente para os saldos devedores da Transação, ainda que reduzindo o PF/BCN utilizado",
+  "Garantia principal consiste em contrato de concessão de transporte público municipal (São Paulo) de valor muito superior à dívida"
+ ],
+ "sector": "Transporte coletivo de passageiros (ônibus urbano e rodoviário) e serviços correlatos (construção civil, coleta de lixo, transporte de cargas)",
+ "confidence": {
+  "taxpayer": 0.6,
+  "sector": 0.7,
+  "modality": 0.95,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "installments": 0.9,
+  "down_payment_pct": 0.3,
+  "discounts": 0.2,
+  "judicial_recovery": 0.2,
+  "guarantees": 0.85,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {},
+ "review_fields": [
+  "taxpayer",
+  "sector",
+  "down_payment_pct",
+  "discounts",
+  "judicial_recovery"
+ ],
+ "id": "9eae8a1a2674",
+ "title": "Termo de Transação Individual - VB Transportes e Turismo LTDA, Auto Viação Brasil Luxo LTDA, Transportes Capellini LTDA, Viação Campos do Ouros LTDA, Viação Transguarulhense LTDA, Construtora Boa Nova LTDA, Embralixo Empresa Bragantina de Varrição Coleta de Lixo  LTDA, Nossa Senhora de Fátima Auto Ônibus LTDA, Rápido Luxo CA LTDA, Sambaíba Transportes Urbanos LTDA, Empresa São José LTDA, Urca Urbano de Campinas LTDA, Valle Sul Transportes e Turismo LTDA, VB Transportes de Cargas LTDA, Via Norte Transportes Urbanos LTDA, Viação Atual LTDA, Viação Avante LTDA, Viação Lira LTDA, Auto Viação Ouro Verde  LTDA, Viação São Paulo LTDA, Vila Real Transportes e Serviços  LTDA, West Side Viagens e Turismo LTDA, Empresa Auto Ônibus São Jorge LTDA",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualVBTransporteseTurismoLTDAAutoViaoBrasilLuxoLTDATransportesCapelliniLTDAViaoCamposdoOurosLTDAViaoTransguarulhenseLTDAConstrutoraBoaNovaLTDA.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualVBTransporteseTurismoLTDAAutoViaoBrasilLuxoLTDATransportesCapelliniLTDAViaoCamposdoOurosLTDAViaoTransguarulhenseLTDAConstrutoraBoaNovaLTDA.pdf",
+ "sha256": "a451a84b7e15c37357bca88997da7e239a5cbedc63ae73850ab0c142e652a10c",
+ "extracted_at": "2026-07-22T14:35:13+00:00",
+ "simulated": false
+}

@@ -1,0 +1,76 @@
+{
+ "taxpayer": "CONCESSIONÁRIA SMPAR S.A. - EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2023-08-02",
+ "consolidated_amount": 11275716.32,
+ "modality": "Transação Individual (recuperação judicial)",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 9,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Fornecer informações sobre bens, direitos, valores, transações e operações à PGFN sempre que solicitado",
+  "Não utilizar a Transação de forma abusiva ou com finalidade de limitar/falsear a livre concorrência",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar/dissimular origem ou destinação de bens",
+  "Declarar que não alienou ou onerou bens com propósito de frustrar recuperação de créditos inscritos",
+  "Declarar veracidade das informações cadastrais, patrimoniais e econômico-fiscais",
+  "Autorizar acesso da Fazenda Nacional às declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar em 90 dias débitos que vierem a ser inscritos em Dívida Ativa ou tornarem-se exigíveis",
+  "Não alienar bens/direitos que possam inviabilizar ou reduzir significativamente a capacidade de pagamento sem comunicação prévia",
+  "Manter por 5 anos os livros e documentos exigidos pelas normas fiscais, inclusive comprobatórios de prejuízo fiscal e BCN da CSLL",
+  "Declarar inexistência de outros créditos líquidos e certos contra a União ou precatórios federais em seu favor",
+  "Peticionar em até 30 dias nos processos judiciais para noticiar a celebração da Transação e desistir de impugnações/recursos/ações"
+ ],
+ "special_clauses": [
+  "Desconto máximo de 65% sobre a CDA transacionada, vedada a redução do montante principal, aplicado proporcionalmente sobre multa, juros e encargos",
+  "Utilização de até 70% do saldo remanescente com créditos de prejuízo fiscal e base de cálculo negativa da CSLL",
+  "Cobrança do saldo liquidado com uso de créditos de PF/BCN da CSLL fica suspensa até confirmação pela autoridade competente, dentro do prazo legal de cinco anos",
+  "Créditos de precatório ou depósito judicial podem ser direcionados para adimplemento dos saldos devedores da Transação"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.9,
+  "approval_date": 0.95,
+  "consolidated_amount": 0.9,
+  "total_discount_pct": 0.9,
+  "down_payment_pct": 0.0,
+  "installments": 0.95,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "judicial_recovery": 0.95,
+  "guarantees": 0.5,
+  "obligations": 0.9,
+  "special_clauses": 0.9
+ },
+ "source_excerpts": {
+  "consolidated_amount": "80 2 22 050282-70 R$ 11.275.716,32",
+  "total_discount_pct": "Desconto máximo de 65% sobre a CDA transacionada, vedada a redução do montante principal, sendo o desconto aplicado de forma proporcional sobre os acréscimos legais (multa, juros e encargos);",
+  "installments": "Pagamento do remanescente da Dívida Transacionada em 9 (nove) parcelas mensais, iguais e consecutivas;"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees"
+ ],
+ "id": "17495cba596d",
+ "title": "Termo de Transação Individual - Concessionária Smpar S.A.",
+ "region": "Region 3",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualConcessionriaSmparS.A..pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/3a-regiao/TermodeTransaoIndividualConcessionriaSmparS.A..pdf",
+ "sha256": "9a5d833e3d40c364c3543f5ad1ae66fa8176a8bd8a76f2f2dbf4c40d0b130987",
+ "extracted_at": "2026-07-22T14:22:39+00:00",
+ "simulated": false
+}

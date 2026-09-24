@@ -1,0 +1,77 @@
+{
+ "taxpayer": "PW BRASIL EXPORT SA, CIAUTO ADMINISTRAÇÃO DE IMÓVEIS LTDA, UNIROUPAS UNIÃO INDÚSTRIA DE ROUPAS LTDA e RFX EMPREENDIMENTOS LTDA",
+ "approval_date": "2024-05-08",
+ "consolidated_amount": 88281.43,
+ "modality": "Transação individual",
+ "total_discount_pct": 45.15,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 20,
+ "down_payment_pct": null,
+ "guarantees": [
+  "Imóvel objeto da Matrícula n. 7.546, do Cartório de Registro de Imóveis de Baixo Gandu (terreno urbano com área de 24.331,28 m2 e construção de Galpão de 4.810,24 m2)",
+  "Penhora de 20% sobre o faturamento das empresas, a ser implementada via execução fiscal, diante de eventual rescisão deste acordo"
+ ],
+ "judicial_recovery": null,
+ "obligations": [
+  "Fornecer, sempre que solicitado, informações sobre bens, direitos, valores, transações, operações e demais atos que permitam à PGFN conhecer sua situação econômica",
+  "Não utilizar a Transação de forma abusiva ou com a finalidade de limitar, falsear ou prejudicar a livre concorrência ou a livre iniciativa econômica",
+  "Declarar que não utiliza pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores",
+  "Declarar que não alienou ou onerou bens ou direitos com o propósito de frustrar a recuperação dos créditos inscritos",
+  "Declarar que as informações cadastrais, patrimoniais e econômico-fiscais prestadas são verdadeiras",
+  "Autorizar o acesso da Fazenda Nacional às suas declarações e escritas fiscais",
+  "Manter regularidade perante o FGTS",
+  "Não distribuir dividendos aos acionistas acima do mínimo legal",
+  "Regularizar, no prazo de 90 dias, os débitos que vierem a ser inscritos em Dívida Ativa ou que se tornarem exigíveis após a formalização da Transação",
+  "Não alienar, no curso da Transação, bens ou direitos próprios que possam inviabilizar ou reduzir significativamente a capacidade de pagamento dos compromissos assumidos",
+  "Proceder à individualização dos valores recolhidos nas contas vinculadas dos respectivos trabalhadores"
+ ],
+ "special_clauses": [
+  "Penhora de 20% sobre o faturamento das empresas como garantia adicional, a ser implementada via execução fiscal diante de eventual rescisão do acordo",
+  "Bens dados em garantia não podem ser alienados sem concordância da Fazenda Nacional; se alienados com concordância, 30% do valor auferido deve ser revertido à conta da transação como antecipação de parcelas"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.9,
+  "sector": 0.2,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.5,
+  "total_discount_pct": 0.6,
+  "installments": 0.9,
+  "down_payment_pct": 0.0,
+  "discounts.fine_pct": 0.0,
+  "discounts.interest_pct": 0.0,
+  "discounts.charges_pct": 0.0,
+  "guarantees": 0.9,
+  "judicial_recovery": 0.0,
+  "obligations": 0.9,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "Valor Total: 87.196,87 ... Valor Total: 1.084,56",
+  "total_discount_pct": "Desconto máximo de 45,15% (quarenta e cinco inteiros e quinze centésimos por cento) aplicado à CDA relativa à contribuição social instituída pela Lei Complementar nº 110/2001, e 45% (quarenta e cinco por cento), quanto às dívidas para com o FGTS",
+  "installments": "O saldo devido será pago à vista quanto à CDA relativa à contribuição social instituída pela Lei Complementar nº 110/2001 e parcelado em até 20 (vinte) meses para liquidação da dívida com o FGTS"
+ },
+ "review_fields": [
+  "sector",
+  "consolidated_amount",
+  "total_discount_pct",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "judicial_recovery"
+ ],
+ "id": "04309ca4b081",
+ "title": "Termo de Transação Individual - PW Brasil Export SA",
+ "region": "Region 2",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualPWBrasilExportSATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/2a-regiao/TermodeTransaoIndividualPWBrasilExportSATarjado.pdf",
+ "sha256": "6d58358bf1e1b363d1920a7754c512cee584fc0d036fd665d2d1fb32549f0b37",
+ "extracted_at": "2026-07-22T14:22:30+00:00",
+ "simulated": false
+}

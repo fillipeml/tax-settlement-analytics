@@ -1,0 +1,69 @@
+{
+ "taxpayer": "CREDIMOVEIS NOVOLAR LTDA EM RECUPERAÇÃO JUDICIAL",
+ "approval_date": "2024-09-11",
+ "consolidated_amount": 30400481.74,
+ "modality": "TRANSAÇÃO INDIVIDUAL",
+ "total_discount_pct": 65.0,
+ "discounts": {
+  "fine_pct": null,
+  "interest_pct": null,
+  "charges_pct": null
+ },
+ "installments": 1,
+ "down_payment_pct": null,
+ "guarantees": [],
+ "judicial_recovery": true,
+ "obligations": [
+  "Não alienar bens ou direitos sem devida comunicação à Fazenda Nacional",
+  "Não utilizar pessoa interposta para ocultar/dissimular origem ou destinação de bens",
+  "Não alienar, onerar ou ocultar bens com propósito de frustrar recuperação dos créditos",
+  "Informações cadastrais, patrimoniais e econômico-fiscais verdadeiras",
+  "Apresentar situação econômico-financeira anualmente por meio de demonstrações de resultados ou balanço contábil",
+  "Pagar regularmente os tributos correntes",
+  "Desistir de impugnações ou recursos administrativos e ações judiciais relacionadas aos débitos"
+ ],
+ "special_clauses": [
+  "Aproveitamento dos valores depositados no processo judicial 0805450-69.2022.4.05.8300 (12ª Vara Federal de Pernambuco), oriundos do PRECATÓRIO 2023.83.00.012.210133",
+  "Compromisso de adimplir, em no máximo 60 dias, a totalidade dos débitos atualmente existentes perante a RFB, com possibilidade de uso do precatório judicial 2023.83.00.012.210133",
+  "Venda de bens condicionada à aquiescência da Fazenda Nacional, com reversão do produto da alienação para quitação do acordo",
+  "Em caso de rescisão, alienação dos bens penhorados via sistema COMPREI, com limite mínimo de 50% do valor de avaliação",
+  "Qualquer direito creditório superveniente monetizado (incluindo precatórios e restituições tributárias) será vertido em proveito da transação"
+ ],
+ "sector": "Not identified",
+ "confidence": {
+  "taxpayer": 0.95,
+  "sector": 0.2,
+  "modality": 0.95,
+  "approval_date": 0.9,
+  "consolidated_amount": 0.85,
+  "total_discount_pct": 0.85,
+  "down_payment_pct": 0.0,
+  "installments": 0.9,
+  "discounts": 0.3,
+  "guarantees": 0.5,
+  "obligations": 0.85,
+  "judicial_recovery": 0.95,
+  "special_clauses": 0.8
+ },
+ "source_excerpts": {
+  "consolidated_amount": "no montante aproximado de R$ 30.400.481,74",
+  "total_discount_pct": "PERCENTUAL MÁXIMO DE DESCONTO DE ATÉ 65%",
+  "installments": "PAGAMENTO PARCELADO EM ATÉ (MESES) 1 / PLANO DE PAGAMENTO: PARCELA ÚNICA"
+ },
+ "review_fields": [
+  "sector",
+  "down_payment_pct",
+  "discounts.fine_pct",
+  "discounts.interest_pct",
+  "discounts.charges_pct",
+  "guarantees"
+ ],
+ "id": "88a13118fcf5",
+ "title": "Termo de Transação Individual - Credimoveis Novolar LTDA",
+ "region": "Region 5",
+ "source_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCredimoveisNovolarLTDATarjado.pdf",
+ "pdf_url": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao/transparencia-fiscal-1/painel-dos-parcelamentos/termos-de-transacao/5a-regiao/TermodeTransaoIndividualCredimoveisNovolarLTDATarjado.pdf",
+ "sha256": "6ab7e1cfb0684dcd46a22d4e027e6700389e096995d28cb7136c57678f5eb67b",
+ "extracted_at": "2026-07-22T14:35:16+00:00",
+ "simulated": false
+}
