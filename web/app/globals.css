@@ -1,0 +1,137 @@
+@import "tailwindcss";
+
+/* Personal design tokens (see brand/palette.md in portfolio-tooling). Accent for this repo: violet. */
+:root {
+  --ink: #17181c;
+  --ink-2: #4b4e55;
+  --muted: #6b6f76;
+  --bg: #fbfaf7;
+  --surface: #ffffff;
+  --surface-2: #f2f1ec;
+  --line: #e4e3de;
+  --grid: #efeee9;
+
+  --accent: #6d28d9;
+  --accent-strong: #a78bfa;
+  --accent-soft: #f1ebfc;
+
+  --ok: #047857;
+  --ok-soft: #e8f5ee;
+  --warn: #a16207;
+  --warn-soft: #fdf4de;
+  --danger: #b91c1c;
+  --danger-soft: #fceeee;
+
+  /* Categorical series palette: contrast >= 3:1 on white, separated for colour-blind readers.
+     s2 is the accent and is used only for the single highlighted bar of a chart. */
+  --s1: #0a63b0;
+  --s2: #6d28d9;
+  --s3: #008a9e;
+  --s4: #c2185b;
+  --s5: #5c8a38;
+  --s6: #946200;
+  --s7: #64748b;
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-jetbrains), ui-monospace, Consolas, monospace;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+}
+
+.font-display {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.tabular {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+}
+
+button,
+[role="button"] {
+  cursor: pointer;
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: #fff;
+  transition: background 0.15s ease;
+}
+.btn-primary:hover:not(:disabled) {
+  background: #5b21b6;
+}
+
+.btn-outline {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  color: var(--ink);
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+.btn-outline:hover:not(:disabled) {
+  background: var(--surface-2);
+  border-color: var(--ink);
+}
+
+.link-nav {
+  color: var(--ink);
+  transition: background 0.15s ease;
+}
+.link-nav:hover {
+  background: var(--surface-2);
+}
+.link-nav-active {
+  background: var(--ink);
+  color: #fff;
+}
+
+.dropzone {
+  border-color: var(--line);
+  background: var(--bg);
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+.dropzone:hover,
+.dropzone-active {
+  border-color: var(--accent) !important;
+  background: var(--accent-soft) !important;
+}
+
+/* Small accent marker before section titles */
+.marker {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 3px;
+  background: var(--accent);
+}
+
+/* Benefit hero (simulator): ink block. Text colours live in classes so @media print can
+   revert them: printing without background graphics would make white text invisible. */
+.hero {
+  background: linear-gradient(135deg, #17181c 0%, #2a2438 100%);
+  color: #d6d3e0;
+  border: none;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+.hero .hero-label { color: #a9a4bd; }
+.hero .hero-num { color: #ffffff; }
+.hero .hero-pct { color: var(--accent-strong); }
+.hero .hero-pay { color: #6ee7b7; }
+.hero .hero-sep { background: rgba(255, 255, 255, 0.15); }
+
+@media print {
+  header, footer, .no-print { display: none !important; }
+  body { background: #fff; }
+}

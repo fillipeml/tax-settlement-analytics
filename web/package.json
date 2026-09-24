@@ -1,0 +1,27 @@
+{
+  "name": "tax-settlement-analytics-web",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test": "node tests/run.mjs"
+  },
+  "dependencies": {
+    "next": "^15.3.4",
+    "pdfjs-dist": "^6.1.200",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "recharts": "2.15.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.10",
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^4.1.10",
+    "typescript": "^5.8.3"
+  }
+}
