@@ -1,0 +1,41 @@
+# secrets and local environment
+.env
+.env.*
+!.env.example
+
+# web
+web/node_modules/
+web/.next/
+web/out/
+web/next-env.d.ts
+web/*.tsbuildinfo
+web/.vercel/
+
+# pipeline state that is machine-specific (downloaded PDFs, Files API ids, batch ids)
+pipeline/data/pdfs/
+pipeline/data/file_ids.json
+pipeline/data/batches.json
+pipeline/data/*.log
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+
+# scan output
+sanitize-report.*
+
+# AI tooling local state
+.claude/settings.local.json
+.claude/*.local.*
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

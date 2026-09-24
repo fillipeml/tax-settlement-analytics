@@ -1,0 +1,15 @@
+[brand]
+terms = ["STG", "Schmeisser", "Terra Gomes", "stglaw", "RenavePro", "Renave", "Lagoa Quente", "HJR", "ELAW"]
+
+[domains]
+internal = ["stglaw.com.br", "stgadvogados.com.br"]
+
+[hosts]
+suffixes = ["sharepoint.com", "onmicrosoft.com"]
+
+[allow]
+# The dataset is public PGFN data: company names and CNPJs (corporate tax ids) are published by
+# the government itself and are deliberately kept. Records identifying natural persons were
+# removed before publication (see docs/DATA.md).
+paths = ["pipeline/data/extractions/*", "pipeline/data/registry.json", "pipeline/data/terms.csv", "web/public/data/*", "web/package-lock.json", "pipeline/uv.lock", "web/public/pdf.worker.min.mjs"]
+patterns = []
