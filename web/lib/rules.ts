@@ -195,6 +195,8 @@ export interface CalculationResult {
   balanceAfterDiscount: number;
   taxLossOffset: { limit: number; used: number } | null;
   payable: number;
+  /** False when the statutory ceiling cut the discount down. The discount is clamped per
+   *  group, so it is always within the cap; what is worth saying is whether it had to be. */
   withinCap: boolean;
 }
 
@@ -209,6 +211,10 @@ export function calculate(p: CalculationInput): CalculationResult {
   const totalGeneral = sumOf(p.general);
   const totalSocialSecurity = sumOf(p.socialSecurity);
   const total = totalGeneral + totalSocialSecurity;
+  // What the surcharges alone would give, before the statutory ceiling is applied. Kept so
+  // the UI can say whether the cap actually bit: the discount is clamped per group, so a
+  // test of the final figure against the cap can never fail and said nothing.
+  const requested = factor > 0 ? (surchargesOf(p.general) + surchargesOf(p.socialSecurity)) * factor : 0;
   const discountGeneral = factor > 0 ? Math.min(surchargesOf(p.general) * factor, totalGeneral * cap) : 0;
   const discountSocial = factor > 0 ? Math.min(surchargesOf(p.socialSecurity) * factor, totalSocialSecurity * cap) : 0;
   const discount = discountGeneral + discountSocial;
@@ -239,7 +245,9 @@ export function calculate(p: CalculationInput): CalculationResult {
     balanceAfterDiscount,
     taxLossOffset,
     payable,
-    withinCap: discountPct <= cap * 100 + 0.1,
+    // False when the statutory ceiling reduced the discount below what the surcharges
+    // would have given. The figure itself is always within the cap, by construction.
+    withinCap: requested <= discount + 0.01,
   };
 }
 
@@ -313,13 +321,23 @@ export function simulate(
   const factor = p.judicialRecovery ? 1 : CAPAGS[p.capag].maxDiscount;
   const payableGeneral = sumOf(p.general) - (factor > 0 ? Math.min(surchargesOf(p.general) * factor, sumOf(p.general) * cap) : 0);
   const payableSocial = sumOf(p.socialSecurity) - (factor > 0 ? Math.min(surchargesOf(p.socialSecurity) * factor, sumOf(p.socialSecurity) * cap) : 0);
-  const base = payableGeneral + payableSocial;
+  // The apportionment is taken before the offset, so the split is not derived from an
+  // already-reduced figure; the offset is then applied in the same proportion.
+  const preOffset = payableGeneral + payableSocial;
+  const generalShare = preOffset > 0 ? payableGeneral / preOffset : 1;
+
+  // The tax-loss offset was computed in calculate() and never reached here, so ticking it
+  // moved the headline figure while the phase table and the client-facing export went on
+  // showing instalments for a balance the client no longer owed.
+  const offsetUsed = r.taxLossOffset?.used ?? 0;
+  const netGeneral = Math.max(payableGeneral - offsetUsed * generalShare, 0);
+  const netSocial = Math.max(payableSocial - offsetUsed * (1 - generalShare), 0);
+  const base = netGeneral + netSocial;
 
   const downPaymentTotal = r.total * (downPaymentPct / 100);
   const downPaymentMonthly = downPaymentInstalments > 0 ? downPaymentTotal / downPaymentInstalments : downPaymentTotal;
-  const generalShare = base > 0 ? payableGeneral / base : 1;
-  const generalBalance = Math.max(payableGeneral - downPaymentTotal * generalShare, 0);
-  const socialSecurityBalance = Math.max(payableSocial - downPaymentTotal * (1 - generalShare), 0);
+  const generalBalance = Math.max(netGeneral - downPaymentTotal * generalShare, 0);
+  const socialSecurityBalance = Math.max(netSocial - downPaymentTotal * (1 - generalShare), 0);
   const generalInstalment = generalInstalments > 0 ? generalBalance / generalInstalments : 0;
   const socialSecurityInstalment = socialSecurityInstalments > 0 ? socialSecurityBalance / socialSecurityInstalments : 0;
   return {

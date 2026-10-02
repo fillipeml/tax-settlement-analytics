@@ -45,14 +45,21 @@ async function extractPdf(buf: ArrayBuffer): Promise<RegularizeResult> {
   const pdfjs = await import("pdfjs-dist");
   pdfjs.GlobalWorkerOptions.workerSrc = "/pdf.worker.min.mjs";
 
-  const pdf = await pdfjs.getDocument({ data: buf }).promise;
-  let text = "";
-  for (let p = 1; p <= pdf.numPages; p++) {
-    const page = await pdf.getPage(p);
-    const content = await page.getTextContent();
-    text += content.items.map((it) => ("str" in it ? it.str : "")).join(" ") + "\n";
+  const task = pdfjs.getDocument({ data: buf });
+  const pdf = await task.promise;
+  // Released on every path: the proxy holds page, font and worker-side buffers, and a
+  // dropped file used to keep all of them for the lifetime of the tab.
+  try {
+    let text = "";
+    for (let p = 1; p <= pdf.numPages; p++) {
+      const page = await pdf.getPage(p);
+      const content = await page.getTextContent();
+      text += content.items.map((it) => ("str" in it ? it.str : "")).join(" ") + "\n";
+    }
+    return parsePdfText(text);
+  } finally {
+    await task.destroy();
   }
-  return parsePdfText(text);
 }
 
 /** Pure core (testable): takes the text extracted from the detailed Regularize PDF. */

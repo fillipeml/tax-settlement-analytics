@@ -27,9 +27,13 @@ section("1. discount: cap by size class and CAPAG (art. 15 Ordinance with art. 1
   // General/D: surcharges 60 of total 100 -> full discount of the surcharges (60 < cap 65)
   const r = calculate(params({ general: comp(40, 25, 30, 5) }));
   check("general D, surcharges below the cap: discount = surcharges (60)", near(r.discount, 60) && near(r.discountPct, 60));
+  check("and the ceiling did not bite, so withinCap is true", r.withinCap);
   // General/D: surcharges 80 of total 100 -> capped at 65 % of the total
   const r2 = calculate(params({ general: comp(20, 30, 40, 10) }));
-  check("general D, surcharges above the cap: discount capped at 65", near(r2.discount, 65) && r2.withinCap);
+  // withinCap is false here because the ceiling cut the discount down: the surcharges
+  // would have given 80. Testing the final figure against the cap instead can never fail,
+  // since it is clamped per group before it is returned.
+  check("general D, surcharges above the cap: discount capped at 65", near(r2.discount, 65) && !r2.withinCap);
   check("principal untouchable: payable = 100 - 65 = 35", near(r2.payable, 35));
   // Small business: 70 % cap
   const r3 = calculate(params({ sizeClass: "small", general: comp(20, 30, 40, 10) }));
@@ -48,7 +52,7 @@ section("2. independent groups (general vs social security)");
   const r = calculate(params({ general: comp(20, 40, 30, 10), socialSecurity: comp(40, 4, 5, 1) }));
   check("caps applied per group: 65 + 10 = 75", near(r.discount, 75));
   check("pct over the combined total: 75/150 = 50 %", near(r.discountPct, 50));
-  check("withinCap evaluates the whole (50 % <= 65 %)", r.withinCap);
+  check("withinCap reports that the ceiling cut the general group down", !r.withinCap);
 }
 
 section("3. judicial recovery (art. 10-C, Law 10,522/2002 with Law 13,988/2020)");
@@ -82,6 +86,24 @@ section("4. tax-loss offset (arts. 35 to 39, Ordinance 6,757/2022)");
   // TIS with recovery: allowed (art. 37, sole paragraph)
   const r4 = calculate(params({ modality: "tis", judicialRecovery: true, useTaxLossOffset: true, taxLossAvailable: 100, general: comp(20, 30, 40, 10) }));
   check("TIS in recovery: offset allowed (art. 37, sole paragraph)", r4.taxLossOffset !== null);
+}
+
+section("5b. the tax-loss offset reaches the simulation");
+{
+  // calculate() applied the offset and simulate() rebuilt the payable base from scratch
+  // without it, so ticking the offset moved the headline figure while the phase table and
+  // the client-facing export went on charging instalments for a balance already settled.
+  const p = params({ useTaxLossOffset: true, taxLossAvailable: 10, general: comp(20, 30, 40, 10) });
+  const r = calculate(p);
+  const s = simulate(r, p, 0, 1, 100, 60);
+  check("the offset was applied at all", r.taxLossOffset !== null && near(r.taxLossOffset!.used, 10));
+  check("payable reflects it (35 - 10)", near(r.payable, 25));
+  check("the simulated balance reflects it too", near(s.generalBalance, 25));
+
+  const without = params({ general: comp(20, 30, 40, 10) });
+  const rw = calculate(without);
+  const sw = simulate(rw, without, 0, 1, 100, 60);
+  check("and without the offset it is the full 35", near(sw.generalBalance, 35));
 }
 
 section("5. payment simulation (down payment + instalments)");

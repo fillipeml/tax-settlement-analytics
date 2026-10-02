@@ -530,7 +530,7 @@ export default function Simulator() {
     capag === "AB" && !recovery
       ? { kind: "warn", text: "CAPAG A/B: discounts apply only to CAPAG C or D (art. 8, I with art. 24, Ordinance 6,757/2022)." }
       : !r.withinCap
-        ? { kind: "err", text: `Discount of ${fmtPct(r.discountPct, 1)} exceeds the cap of ${effective.capLabel}: adjustment needed.` }
+        ? { kind: "warn", text: `The surcharges would give more: the discount is held at ${fmtPct(r.discountPct, 1)} by the cap of ${effective.capLabel}.` }
         : r.discount > 0
           ? { kind: "ok", text: `Discount of ${fmtPct(r.discountPct, 1)}: within the cap of ${effective.capLabel}.` }
           : null;
@@ -862,8 +862,8 @@ export default function Simulator() {
                 {recovery ? " under judicial recovery" : ""}
               </span>
             ) : (
-              <span className="rounded-full border px-2 py-0.5 text-[10px] font-semibold" style={ALERT_STYLE.err}>
-                ⚠ Exceeds the {Math.round(effective.cap * 100)}% limit: adjustment needed
+              <span className="rounded-full border px-2 py-0.5 text-[10px] font-semibold" style={ALERT_STYLE.warn}>
+                ⚠ Held at the {Math.round(effective.cap * 100)}% limit: the surcharges would give more
               </span>
             )}
           </p>

@@ -110,14 +110,21 @@ export async function importFile(file: File): Promise<ImportedDocument> {
 async function extractPdfText(buf: ArrayBuffer): Promise<string> {
   const pdfjs = await import("pdfjs-dist");
   pdfjs.GlobalWorkerOptions.workerSrc = "/pdf.worker.min.mjs";
-  const pdf = await pdfjs.getDocument({ data: buf }).promise;
-  let text = "";
-  for (let p = 1; p <= pdf.numPages; p++) {
-    const page = await pdf.getPage(p);
-    const content = await page.getTextContent();
-    text += content.items.map((it) => ("str" in it ? it.str : "")).join(" ") + "\n";
+  const task = pdfjs.getDocument({ data: buf });
+  const pdf = await task.promise;
+  // Released on every path: the proxy holds page, font and worker-side buffers, and a
+  // dropped file used to keep all of them for the lifetime of the tab.
+  try {
+    let text = "";
+    for (let p = 1; p <= pdf.numPages; p++) {
+      const page = await pdf.getPage(p);
+      const content = await page.getTextContent();
+      text += content.items.map((it) => ("str" in it ? it.str : "")).join(" ") + "\n";
+    }
+    return text;
+  } finally {
+    await task.destroy();
   }
-  return text;
 }
 
 /* ----- aggregation ----- */
