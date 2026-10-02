@@ -28,6 +28,7 @@ dist/
 *.egg-info/
 
 # scan output
+sanitize.toml
 sanitize-report.*
 
 # AI tooling local state
