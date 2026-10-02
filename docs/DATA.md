@@ -44,7 +44,7 @@ government. Nothing else was altered in the extracted values; field names, regio
 | `installments`, `down_payment_pct` | number or null | |
 | `guarantees`, `obligations`, `special_clauses` | string[] | free text, categorised by keyword in the UI |
 | `judicial_recovery` | boolean or null | |
-| `sector` | string | free text (699 distinct values), categorised in the UI |
+| `sector` | string | free text (675 distinct values), categorised in the UI |
 | `confidence` | object | 0 to 1 per field, self-reported by the model |
 | `source_excerpts` | object | a literal quotation from the document for every number |
 | `review_fields` | string[] | fields the model flagged as uncertain, plus document-level flags (`document_unreadable`, `document_truncated`, ...) |
@@ -70,8 +70,8 @@ does not match its listing.
 
 **Human validation plan.** The pilot showed the discount to be the least reliable field (about 89 %
 correct on the pilot sample). The review queue in the app orders the work: the 12 terms with a
-discount above the 70 % legal cap (impossible values) come first, then the 432 terms whose discount
-confidence is below 0.7. The certification sample is 60 terms drawn deterministically (hash of the
+discount above the 70 % legal cap (impossible values) come first, then the 214 terms with at least
+one uncertain key field — 122 of them because the discount itself is uncertain. The certification sample is 60 terms drawn deterministically (hash of the
 id) times 3 key fields = 180 checks; with at most 4 errors, the lower bound of the exact binomial
 95 % interval stays above 95 %. Terms beyond that threshold mean a systematic problem, fixed by
 changing the prompt and re-extracting rather than by more manual review.

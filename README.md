@@ -57,7 +57,7 @@ The pipeline (Python) is four small commands with a JSON registry as state: craw
 
 ## Evaluation
 
-The extraction is the only model in the loop. The pilot validation found the discount to be the least reliable field (about 89 % on the pilot sample), so the review queue orders it first: 12 terms with a discount above the legal 70 % cap (impossible values) come before the 432 terms whose discount confidence is below 0.7. The certification plan is fixed-size, not proportional: 60 terms drawn deterministically by hash of the id, times 3 key fields, gives 180 checks; with at most 4 errors, the lower bound of the exact binomial 95 % interval stays above 95 %. Details and coverage figures are in [docs/DATA.md](docs/DATA.md).
+The extraction is the only model in the loop. The pilot validation found the discount to be the least reliable field (about 89 % on the pilot sample), so the review queue orders it first: 12 terms with a discount above the legal 70 % cap (impossible values) come before the 214 terms with at least one uncertain key field, 122 of them because the discount itself is uncertain. The certification plan is fixed-size, not proportional: 60 terms drawn deterministically by hash of the id, times 3 key fields, gives 180 checks; with at most 4 errors, the lower bound of the exact binomial 95 % interval stays above 95 %. Details and coverage figures are in [docs/DATA.md](docs/DATA.md).
 
 | Measure | Value | Set |
 |---|---|---|

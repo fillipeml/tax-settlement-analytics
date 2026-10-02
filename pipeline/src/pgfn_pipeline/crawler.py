@@ -89,7 +89,14 @@ def list_region(
 def download_pdf(item_url: str) -> tuple[bytes, str]:
     """Download a Plone item's PDF, trying the direct URL and the @@download variant."""
     for candidate in (item_url, f"{item_url}/@@download/file"):
-        response = get(candidate)
+        try:
+            response = get(candidate)
+        except RuntimeError:
+            # An HTTP error on one candidate is exactly when the other is worth trying. get()
+            # raises rather than returning, so the direct URL failing used to abort the loop
+            # and the documented @@download fallback was never reached.
+            time.sleep(REQUEST_INTERVAL_S)
+            continue
         content_type = response.headers.get("Content-Type", "")
         if "pdf" in content_type or response.content[:5] == b"%PDF-":
             return response.content, candidate

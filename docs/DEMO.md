@@ -39,8 +39,10 @@ Go to `/app/simulator`.
    field is disabled, the discount is unlocked regardless of CAPAG and the term changes.
 3. Click **Generate dashboard**. The hero shows the economic benefit (surcharges removed), the
    discount percentage and the amount payable, checked against the legal cap of the size class.
-4. Move the sliders (down payment, instalments). The phase table and the monthly flow update. Push
-   the discount above the cap and the alert turns red.
+4. Move the sliders (down payment, instalments). The phase table and the monthly flow update. The
+   discount is derived from the surcharges and the size class, never typed, so it cannot be pushed
+   past the legal cap — when the surcharges would give more, the badge says the cap is holding it
+   down rather than pretending the figure is illegal.
 5. Read **Comparables from the PGFN corpus**: the real terms closest to this case (same debt band
    and recovery status when there are enough of them), the median discount the PGFN accepted, and
    an *adherence* index that says how much the simulated scenario resembles already-accepted
